@@ -1,4 +1,5 @@
 collections:
   about-bls:
     output: true
-    order: []
+    order:
+      - Events.md
