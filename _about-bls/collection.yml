@@ -2,5 +2,6 @@ collections:
   about-bls:
     output: true
     order:
+      - Partnership.md
       - BLS SAC Scholarships and BLS Bursary.md
       - Events.md
