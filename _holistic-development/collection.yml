@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities/.keep
+      - Character and Citizenship Edu/Values In Action.md
       - Character and Citizenship Edu/.keep
       - Aspiration Focused Programme/Student Development Modules.md
       - Aspiration Focused Programme/Applied Learning Programme (ALP).md
