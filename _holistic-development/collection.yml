@@ -2,5 +2,6 @@ collections:
   holistic-development:
     output: true
     order:
+      - Character and Citizenship Edu/.keep
       - Aspiration Focused Programme/.keep
       - CCA Centric Learning Beyond Boundaries.md
