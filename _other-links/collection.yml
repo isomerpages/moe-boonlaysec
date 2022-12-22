@@ -2,6 +2,7 @@ collections:
   other-links:
     output: true
     order:
+      - BLS Timetable.md
       - Examination.md
       - Parents.md
       - Bookshop & School Uniform.md
