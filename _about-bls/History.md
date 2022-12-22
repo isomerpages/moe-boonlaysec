@@ -23,17 +23,17 @@ Taken together, the school icons are visible reminders to our current students t
 While looking forward to a new vision and mission that stretches us to explore innovative ways of developing our students and infusing in them the joy of learning, we are still anchored to our roots. As we combined the best of both schools to create a new beginning, we want to remember our roots and the heritage gallery showcases our separate journeys that have led us to be one.
 
 #### **Principals**
-*   1977 – 1981  Mr Ng Siok Yen
-*   1981 – 1982  Mr Tan Kiok Ngiap
-*   1982 – 1988  Mr Kiat Jun Ngin
-*   1988 – 1992  Mr Toh Chye Seng
-*   1992 – 1995  Mrs Yu Sing Tong
-*   1995 – 1997  Miss Ong Pheng Yen
-*   1997 – 2000  Miss Lui Yin Leng
-*   2000 – 2001  Miss Peck Soo Hiong
-*   2001 – 2008  Miss Doris Ho
-*   2008 – 2014  Mr Victor Giam Chong Guan
-*   2014 – 2019  Mr Tan Chor Pang
-*   2020 – present Mr Inderjit Singh
+\- 1977 – 1981  Mr Ng Siok Yen<br>
+\- 1981 – 1982  Mr Tan Kiok Ngiap<br>
+\- 1982 – 1988  Mr Kiat Jun Ngin<br>
+\- 1988 – 1992  Mr Toh Chye Seng<br>
+\- 1992 – 1995  Mrs Yu Sing Tong<br>
+\- 1995 – 1997  Miss Ong Pheng Yen<br>
+\- 1997 – 2000  Miss Lui Yin Leng<br>
+\- 2000 – 2001  Miss Peck Soo Hiong<br>
+\- 2001 – 2008  Miss Doris Ho<br>
+\- 2008 – 2014  Mr Victor Giam Chong Guan<br>
+\- 2014 – 2019  Mr Tan Chor Pang<br>
+\- 2020 – present Mr Inderjit Singh
 
 <img src="/images/history.jpg" style="width:65%" align=left>
