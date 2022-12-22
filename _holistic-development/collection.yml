@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities/.keep
+      - Character and Citizenship Edu/Character and Citizenship Education.md
       - Character and Citizenship Edu/Sexuality Education.md
       - Character and Citizenship Edu/Values In Action.md
       - Character and Citizenship Edu/.keep
