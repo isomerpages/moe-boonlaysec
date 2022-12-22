@@ -20,6 +20,14 @@ sections:
         - title: Secondary 1 Registration Information for 2023 Intake
           description: ""
           url: /sec1-registration-info/
+  - infobar:
+      title: CCA-Centric Learning Beyond Boundaries
+      subtitle: (CCLBB)
+      description: Boon Lay Secondary School’s global education programme. With its
+        focus on promoting responsible global citizenry, communication and
+        collaboration.
+      button: view more
+      url: /holistic-development/cclbb/
   - infopic:
       title: Choose Your Own Adventure
       subtitle: Boon Lay Secondary School
@@ -58,12 +66,4 @@ sections:
       alt: Image alt text
       url: /aspiration-focused/
       image: /images/aspiration.jpg
-  - infobar:
-      title: CCA-Centric Learning Beyond Boundaries
-      subtitle: (CCLBB)
-      description: Boon Lay Secondary School’s global education programme. With its
-        focus on promoting responsible global citizenry, communication and
-        collaboration.
-      button: view more
-      url: /holistic-development/cclbb/
 ---
