@@ -58,4 +58,12 @@ sections:
       alt: Image alt text
       url: /aspiration-focused/
       image: /images/aspiration.jpg
+  - infobar:
+      title: CCA-Centric Learning Beyond Boundaries
+      subtitle: (CCLBB)
+      description: Boon Lay Secondary School’s global education programme. With its
+        focus on promoting responsible global citizenry, communication and
+        collaboration.
+      button: view more
+      url: /holistic-development/cclbb/
 ---
