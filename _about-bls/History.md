@@ -36,5 +36,4 @@ While looking forward to a new vision and mission that stretches us to explore i
 *   2014 – 2019  Mr Tan Chor Pang
 *   2020 – present Mr Inderjit Singh
 
-
-
+<img src="/images/history.jpg" style="width:65%" align=left>
