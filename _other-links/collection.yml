@@ -2,4 +2,5 @@ collections:
   other-links:
     output: true
     order:
+      - Bookshop & School Uniform.md
       - Students Handbook.md
