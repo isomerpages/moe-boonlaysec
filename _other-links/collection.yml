@@ -2,6 +2,7 @@ collections:
   other-links:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - BLS Timetable.md
       - Examination.md
       - Parents.md
