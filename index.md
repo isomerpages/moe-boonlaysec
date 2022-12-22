@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Boon Lay Secondary School
-      background: /images/hero-banner.png
+      background: /images/hero.gif
       url: /contact-us/
       key_highlights:
         - title: National Digital Literacy Programme
@@ -58,16 +58,4 @@ sections:
       alt: Image alt text
       url: /aspiration-focused/
       image: /images/aspiration.jpg
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
