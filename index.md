@@ -30,11 +30,14 @@ sections:
       url: /prospective-students/
       image: /images/openhouse.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Academic Programme
+      subtitle: Boon Lay Secondary School
+      description: Our academic programme allow students to thrive in their next stage
+        of higher education.
+      button: View More
       alt: Image alt text
+      url: /academic-programme/
+      image: /images/academicprogramme.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
