@@ -39,17 +39,25 @@ sections:
       url: /academic-programme/
       image: /images/academicprogramme.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: CCA - Centric
+      subtitle: Boon Lay Secondary School
+      description: At BLS, in place of the typical form class structure, the CCA
+        family plays the central role in ensuring a holistic development for
+        every child.
+      button: View More
       alt: Image alt text
+      url: /cca-centric/
+      image: /images/ccacentric.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Aspiration - Focused
+      subtitle: Boon Lay Secondary School
+      description: These programmes and modules, which range from entry to advanced
+        levels, are designed to help our students explore and discover their
+        interests.
+      button: View More
       alt: Image alt text
+      url: /aspiration-focused/
+      image: /images/aspiration.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
