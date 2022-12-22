@@ -21,11 +21,14 @@ sections:
           description: ""
           url: /sec1-registration-info/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Choose Your Own Adventure
+      subtitle: Boon Lay Secondary School
+      description: Save the date! Meet us face to face at our school's Open House on
+        26 November 2022.
+      button: View More
       alt: Image alt text
+      url: /prospective-students/
+      image: /images/openhouse.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
