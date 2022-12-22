@@ -2,5 +2,6 @@ collections:
   other-links:
     output: true
     order:
+      - Parents.md
       - Bookshop & School Uniform.md
       - Students Handbook.md
