@@ -12,10 +12,11 @@ Call: [+65-67940161](tel:+65-67940161)
 
 11, Jurong West Street 65 Singapore 648354<br>
 Telephone : 67940161<br>
-Fax :&nbsp;67941324<br>
-Email :&nbsp;[blss@moe.edu.sg](mailto:blss@moe.edu.sg)
+Fax : 67941324<br>
+Email : [blss@moe.edu.sg](mailto:blss@moe.edu.sg)
+Operating hours: 6am to 6pm
 
-likes our&nbsp;[Facebook](https://www.facebook.com/boonlayss)&nbsp;[page](https://www.facebook.com/boonlayss)&nbsp;for more updates.
+likes our: Facebook](https://www.facebook.com/boonlayss)&nbsp;[page](https://www.facebook.com/boonlayss)&nbsp;for more updates.
 
 #### **Getting here**
 \* Nearest MRT station : Boon Lay EW 27
