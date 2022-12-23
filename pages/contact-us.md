@@ -8,7 +8,10 @@ locations:
       - "11, Jurong West Street 65 "
       - Singapore 648354
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Fri
+        time: 6am to 6pm
+        description: ""
     maps_link: ""
     title: Address
 contacts:
