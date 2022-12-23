@@ -20,3 +20,13 @@ Your child will be selecting a CCA which he/she wish to participate in his/her s
 For more information on the CCAs offered by BLS, please do refer to our school website – [/holistic-development/co-curricular-activities/.](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/cca/)
 
 #### **BLS CCA Selection Exercise (Wednesday  5 January – Monday 10 January 2022)**
+The Boon Lay Secondary School CCA Selection Exercise will be held from Wednesday, 5 January 2022 to Monday, 10 January 2022. Students are to log in to FORMS.MOE to access the CCA Selection form [https://forms.moe.edu.sg/](https://forms.moe.edu.sg/) (instructions on login can be found in the PDF document attached). All Sec 1 students are required to exercise their CCA selection, in accordance to the following instructions:
+
+*   Exercise all 8 choices of CCAs;
+*   Of these 8 choices, 2 must be from Clubs & Societies (C&S), 2 from Physical Sports (PS), 2 from Uniformed Groups (UG) and 2 from Performing Arts (VPA);
+*   The CCA choices cannot be repeated; and
+*   The 8 choices are to be ranked in order of preference.
+
+As your child/ward would be in the CCA for the whole duration of his/her secondary school journey, do have a conversation with your child/ward so that he/she would make his/her choices wisely.
+
+[2022 CCA Talk 20220101 (School Website)](/files/ccatalk.pdf)
