@@ -13,6 +13,6 @@ description: ""
 [OPAL](http://intranet.moe.gov.sg/Pages/Home.aspx)**broken link**<br>
 [Sc Mobile](https://scmobile.moe.edu.sg/login)<br>
 [SLS](https://vle.learning.moe.edu.sg/login "Emergency 101")<br>
-[School Cockpit](https://vle.learning.moe.edu.sg/login "Emergency 101")  **broken link**<br>
+[School Cockpit](https://vle.learning.moe.edu.sg/login "Emergency 101") <br>
 [School Cockpit Results Entry Portal](https://schoolcockpit.moe.edu.sg/login "Emergency 101") **broken link**<br>
 [TRAISI](http://parents-in-education.moe.gov.sg/ "Parents in education") **broken link**
