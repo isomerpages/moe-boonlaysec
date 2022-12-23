@@ -66,9 +66,9 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 #### **Information for Parents**
 10\.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.boonlaysec.moe.edu.sg/wp-content/uploads/2022/02/Annex-A.pdf) The completed form is to be submitted by 25/03/2022.
+11\.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sexeduform1.pdf) The completed form is to be submitted by 25/03/2022.
 
-12\.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.boonlaysec.moe.edu.sg/wp-content/uploads/2022/02/Annex-B.pdf) The completed form is to be submitted by 25/03/2022.
+12\.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/sexeduform2.pdf) The completed form is to be submitted by 25/03/2022.
 
 13\.  Parents can contact the school at 6794 0161 or [blss@moe.edu.sg](mailto:blss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
