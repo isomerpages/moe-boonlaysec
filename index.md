@@ -47,6 +47,15 @@ sections:
       url: /academic-programme/
       image: /images/academicprogramme.jpg
   - infopic:
+      title: Family Oriented
+      subtitle: Boon Lay Secondary School
+      description: As a school, we are the extended family for each child. We prepare
+        them to be future ready so that they can contribute to their family,
+        community and nation.
+      button: view more
+      url: /family-oriented/
+      alt: Image alt text
+  - infopic:
       title: CCA - Centric
       subtitle: Boon Lay Secondary School
       description: At BLS, in place of the typical form class structure, the CCA
