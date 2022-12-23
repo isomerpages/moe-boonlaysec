@@ -4,3 +4,4 @@ permalink: /holistic-development/co-curricular-activities/performing-arts/chines
 description: ""
 third_nav_title: Performing Arts
 ---
+### **Chinese Orchestra**
