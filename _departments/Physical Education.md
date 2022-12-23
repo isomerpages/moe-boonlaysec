@@ -10,12 +10,12 @@ description: ""
 #### **Mission**
 
 
-#### **Physical Education **
+#### **Physical Education**
 
 #### **Outdoor Education (OE)**
 
 
-#### **Physical Activities (PA) **
+#### **Physical Activities (PA)**
 
 
 #### **Physical Health and Fitness (PHF)**
