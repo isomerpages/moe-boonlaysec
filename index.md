@@ -55,6 +55,7 @@ sections:
       button: view more
       url: /family-oriented/
       alt: Image alt text
+      image: /images/familyoriented.png
   - infopic:
       title: CCA - Centric
       subtitle: Boon Lay Secondary School
