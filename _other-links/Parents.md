@@ -20,5 +20,3 @@ Your child will be selecting a CCA which he/she wish to participate in his/her s
 For more information on the CCAs offered by BLS, please do refer to our school website – [/holistic-development/co-curricular-activities/.](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/cca/)
 
 #### **BLS CCA Selection Exercise (Wednesday  5 January – Monday 10 January 2022)**
-
-
