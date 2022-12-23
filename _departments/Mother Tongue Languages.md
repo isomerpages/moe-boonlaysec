@@ -10,6 +10,10 @@ The Mother Tongue Languages Department aims to empower all Boonlayians to flouri
 #### **Mission**
 We see Mother Tongue language as a living language – one that is used on a day-to-day basis, hence students are provided with real-life experiences to develop their thinking and communication skills grounded in sound character. Leveraging the usage of innovative pedagogies and tools, we are committed to nurture our students to become active, confident learners and proficient users of their Mother Tongue languages.
 
+<img src="/images/mtl1.jpeg" style="width:65%" align=left>
+
+<br clear="left">
+
 #### **Active, Student-Centred Learning**
 We aim to provide our students with unique learning experiences and various ways to apply their learning. In  2021, the Mother Tongue Languages (MTL) department collaborated with the Social Studies (SS) Unit to come up with a multi-disciplinary, inquiry-based project as a form of Alternative Assessment. In this project, students are given the opportunity to explore the different heritage centers in Singapore through a learning journey, learn about Singapore’s diverse society, and the government’s effort to protect our harmony. The learning experience culminates in a digital artefact which the students showcased during their MTL lessons, on top of completing an Issues Investigation task for SS.
 
@@ -34,12 +38,44 @@ We aim to provide a balanced MT Fortnight programmes that develop students’ in
 
 Held over Week 6 and 7 in Term 4 this year, some of the programmes and activities lined up for our students include exposure to Chinese classical literature, Malay Language folklores, and Jawi painting as well as learning different forms of Indian traditional art.
 
+<img src="/images/mtl2.png" style="width:65%" align=left>
+
+<br clear="left">
+
+<img src="/images/mtl3.png" style="width:65%" align=left>
+
+<br clear="left">
+
 ##### **Mother Tongue Fiesta**
 In order to promote inter-school collaboration in the learning of MTL languages and make MTL an interesting language to learn for students, we organise MTL and Cultural Fiesta on a yearly basis, providing a platform for students and teachers of the W3 cluster schools to come together and participate in engaging and meaningful inter-school language and cultural competitions. This motivates students in the cluster to strive towards excellence in their MTL language proficiency and acquire depth in cultural learning. In recent years, we have extended our invitation to the W3 cluster primary schools for the essay writing competition to develop an interest in writing by our younger students.
 
 #### **Developing Real-World Skills through Authentic Learning Experiences**
 ##### **Student Journalism Modules**
 In the BLS MTL department, we have our students’ future and aspirations close to heart. We offer programs related to Journalism in all our language units for students with an interest in writing. This helps our students to explore possible career opportunities and hone their language skills in the process. On top of that, it also offers a platform for students with artistic talent to showcase their artwork and learn more about media and its relevant skills required in the Journalism field, e.g. typesetting skills.
+
+<img src="/images/mtl4.jpg" style="width:65%" align=left>
+
+<br clear="left">
+
+<img src="/images/mtl5.jpg" style="width:65%" align=left>
+
+<br clear="left">
+
+<img src="/images/mtl6.jpg" style="width:65%" align=left>
+
+<br clear="left">
+
+<img src="/images/mtl7.jpeg" style="width:65%" align=left>
+
+<br clear="left">
+
+<img src="/images/mtl8.png" style="width:65%" align=left>
+
+<br clear="left">
+
+<img src="/images/mtl9.png" style="width:65%" align=left>
+
+<br clear="left">
 
 ##### **Learning and Growing through Participating in Competitions**
 We believe that small opportunities are the beginning of great achievements. In the BLS MTL department, we actively seek out contests and competitions held to give our students a platform to widen their horizons, test their limits, and realise their potential.
