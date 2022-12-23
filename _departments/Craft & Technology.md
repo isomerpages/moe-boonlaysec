@@ -6,7 +6,7 @@ description: ""
 ### **Craft & Technology**
 #### **Vision**
 Every student – a creative and critical thinker who possesses empathetic qualities.
-
+![](/images/craftntech3.jpg)
 #### **Mission**
 We design learning experiences and adopt assessment practices that equip students with knowledge, skills and learning dispositions that provides the foundation for lifelong learning. With the provision of a variety of education technologies, students experience authentic learning through the investigation, reflection and creation of their end-products.
 
