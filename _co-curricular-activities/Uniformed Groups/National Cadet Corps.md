@@ -16,13 +16,28 @@ In addition, the Unit also organises activities and events such as the Annual C
 So please come and join the NCC (Land) family to enjoy all the wonderful and unique experiences that await you.
 
 #### **Teachers-in-charge**
-
+Mr Chow En Xian Alvin (OIC / CCAM Sec 2)<br>
+Ms Nur Syamira Rosidi (2IC / CCAM Sec 4 & 5)<br>
+Mr Ronald Wong (CCAM- Sec 1)<br>
+Mr Salizam Jaafar (CCAM- Sec 3)<br>
+Ms Mardiana Mansor (Cluster head)
 
 #### **Cadet Lieutenants**
-
+CLT (NCC) Deshawn Teo<br>
+CLT (NCC) Md Hafiz
 
 #### **Training Days**
-
+Tuesday (3.00 pm to 5.30 pm)<br>
+Fridays (2.30 pm to 5.30 pm)
 
 #### **Achievements**
+2019<br>
+Distinction for Unite Recognition Award<br>
+Outstanding Cadet Award – ASM Md Afif
 
+2018<br>
+Distinction for Unit Recognition Award<br>
+Top 3 in Guardians of the City Competition<br>
+Outstanding Cadet Award – ASM Hafiz Imraan
+
+**requires video to be uploaded to youtube**
