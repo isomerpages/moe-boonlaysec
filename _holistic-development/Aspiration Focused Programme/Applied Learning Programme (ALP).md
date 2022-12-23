@@ -44,7 +44,7 @@ Our ALP curriculum is guided by our 3’A’ Framework – **A**cquisition, **
 
 ##### **Programme Summary (Tier 1)**
 
-| Level  | Module  |
+| Level  | Module |
 |---|---|
 | Secondary One  | What is Sustainability<br>Reverse Engineering<br>Solar Car<br>Code for Fun |
 | Secondary Two   | Sustainability issues and introduction to final project<br>Innovation case studies<br>App Making<br>CAD<br>Final Project |
@@ -54,7 +54,7 @@ Students will engage in self-reflection to identify their strengths and areas of
 
 ##### **Programme Summary (Tier 2)**
 
-|  |  |
+| Level  | Module/Activity |
 |---|---|
 | Secondary Two | Tinkering Experiences, |
 | Secondary Three | STE(A)M-related Student Development Modules,<br>STE(A)M-related competitions,<br>Advanced Elective Module  |
