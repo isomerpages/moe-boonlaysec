@@ -60,18 +60,24 @@ Corps Achievement Award (2020) – Gold
 </figure>
 
 #### **Our Weekly Activities**
-<img src="/images/sjab5.jpg" style="width:65%">
-<img src="/images/sjab6.jpg" style="width:65%">
-<img src="/images/sjab7.jpg" style="width:65%">
+<img src="/images/sjab5.jpg" style="width:65%" align=left>
+<img src="/images/sjab6.jpg" style="width:65%"align=left>
+<img src="/images/sjab7.jpg" style="width:65%"align=left>
+
+<br clear="left">
 
 #### **School Events**
-<img src="/images/sjab8.jpg" style="width:65%">
+<img src="/images/sjab8.jpg" style="width:65%" align=left>
+
+<br clear="left">
 
 #### **Our Bonding Sessions**
-<img src="/images/sjab9.jpg" style="width:65%">
+<img src="/images/sjab9.jpg" style="width:65%" align=left>
 
-<img src="/images/sjab11.jpg" style="width:32%;margin-right:135px;" align = "right">
-<img src="/images/sjab10.jpg" style="width:32%;margin-left:135px;" align = "left">
+<br clear="left">
+
+<img src="/images/sjab11.jpg" style="width:32%;margin-right:275px;" align = "right">
+<img src="/images/sjab10.jpg" style="width:32%;margin-left:px;" align = "left">
 
 <br clear="left">
 
