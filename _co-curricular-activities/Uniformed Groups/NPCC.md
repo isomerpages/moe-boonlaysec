@@ -48,23 +48,16 @@ Tuesday (3.00 pm to 5.30 pm)<br>
 Friday (2.30 pm to 5.30 pm)
 
 #### **Activities**
-*   Inter Unit .22 Revolver Shooting Competition
-    
-*   Inter Unit Campcraft Competition
-    
-*   Inter Unit Crime Scene Investigation (CSI) Competition
-    
-*   Inter Unit Drills Competition
+Inter Unit .22 Revolver Shooting Competition<br>
+Inter Unit Campcraft Competition<br>
+Inter Unit Crime Scene Investigation (CSI) Competition<br>
+Inter Unit Drills Competition
 
 #### **Achievements**
-*   Attained Champion in Jurong Division Anti-Scam NPCC Challenge Shield 2021.
-    
-*   Sustained Gold Award for Inter-Unit Overall Proficiency Award Competition in 2016 to 2019.
-    
-*   Achieved Top 10 in NPCC .22 Inter-Unit Shooting Competition 2019 for Team Category (Female).
-    
-*   Achieved Top 8 in NPCC .22 Inter-Unit Shooting Competition 2018 for Team Category (Male).
-    
-*   Achieved Top 8 in Jurong Division’s Youth Video Competition 2017.
+Attained Champion in Jurong Division Anti-Scam NPCC Challenge Shield 2021.<br>
+Sustained Gold Award for Inter-Unit Overall Proficiency Award Competition in 2016 to 2019.<br>
+Achieved Top 10 in NPCC .22 Inter-Unit Shooting Competition 2019 for Team Category (Female).<br>
+Achieved Top 8 in NPCC .22 Inter-Unit Shooting Competition 2018 for Team Category (Male).<br>
+Achieved Top 8 in Jurong Division’s Youth Video Competition 2017.
 
 **requires video to be uploaded to youtube**
