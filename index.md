@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Boon Lay Secondary School
       background: /images/hero.gif
       url: /contact-us/
       key_highlights:
