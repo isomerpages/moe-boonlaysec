@@ -2,7 +2,6 @@ collections:
   other-links:
     output: true
     order:
-      - Other Links.md
       - Announcement.md
       - Library.md
       - Direct School Admission (DSA).md
