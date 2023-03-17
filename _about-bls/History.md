@@ -3,8 +3,6 @@ title: History
 permalink: /about-bls/history/
 description: ""
 ---
-### **History**
-
 BLS draws on the proud heritage of Boon Lay Secondary School and Pioneer Secondary School. Collectively it represents almost 70 years of heritage and tradition. Since the two schools merged in 2017, we have built on the strengths and heritage of our past and have begun to forge ahead with a new vision to empower our students to realise their dreams.
 
 #### **Heritage Garden & Gallery**
