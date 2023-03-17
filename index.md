@@ -16,9 +16,6 @@ sections:
         - title: Prospective Students
           description: ""
           url: /prospective-students/
-        - title: Secondary 1 Registration Information for 2023 Intake
-          description: ""
-          url: /sec1-registration-info/
   - infopic:
       title: Academic Programme
       subtitle: Boon Lay Secondary School
