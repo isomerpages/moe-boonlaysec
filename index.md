@@ -18,9 +18,8 @@ sections:
           url: /ndlp/
   - infopic:
       title: Academic Programme
-      subtitle: Boon Lay Secondary School
-      description: Our academic programme allow students to thrive in their next stage
-        of higher education.
+      description: Our academic programme allows students to thrive in their next
+        stage of higher education.
       button: View More
       alt: Image alt text
       url: /academic-programme/
