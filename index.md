@@ -11,10 +11,10 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Prospective Students
-          description: ""
+          description: Choose your own Adventure@BLS
           url: /prospective-students/
         - title: National Digital Literacy Programme
-          description: ""
+          description: Connect, Curate, Create
           url: /ndlp/
   - infopic:
       title: Academic Programme
