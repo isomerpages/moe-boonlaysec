@@ -3,7 +3,6 @@ title: School Crest
 permalink: /about-bls/sch-crest/
 description: ""
 ---
-### **School Crest**
 <img src="/images/crest.jpg" style="width:30%;margin-left:15px;" align = "right">
 
 The school logo shows the profiles of two people united as one moving on an upward path towards their aspirations. Launched in November 2016, it marks the merger of Pioneer Secondary and Boon Lay Secondary. The school logo symbolically represents the teacher and student walking hand in hand as part of an extended family working together.
