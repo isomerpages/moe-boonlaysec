@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-bls/principals-message/
 description: ""
 ---
-### **Principal’s Message**
 #### **Our Family of Learners and Leaders**
 
 <img src="/images/principalmessage.jpg" style="width:65%" align=left>
