@@ -10,12 +10,12 @@ sections:
       background: /images/hero.gif
       url: /contact-us/
       key_highlights:
-        - title: National Digital Literacy Programme
-          description: ""
-          url: /ndlp/
         - title: Prospective Students
           description: ""
           url: /prospective-students/
+        - title: National Digital Literacy Programme
+          description: ""
+          url: /ndlp/
   - infopic:
       title: Academic Programme
       subtitle: Boon Lay Secondary School
