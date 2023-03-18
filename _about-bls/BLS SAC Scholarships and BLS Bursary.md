@@ -5,7 +5,7 @@ description: ""
 ---
 ### **BLS SAC Scholarships and BLS Bursary**
 
-####  **SAC SCHOLARSHIPS**
+####  **SAC Scholarships**
 *   Mr Wong Yoke Lin PBM Scholarship (Academic)
 *   Mr Leow Kim Siang PBM Scholarship (Academic)
 *   Mr Low Chak Buan PBM Scholarship (Academic)
