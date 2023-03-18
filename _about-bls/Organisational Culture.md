@@ -3,7 +3,6 @@ title: Organisational Culture
 permalink: /about-bls/organisational-culture/
 description: ""
 ---
-### **Organisational Culture**
 #### **School Vision**
 To bring out the **greatness** in every child.
 
