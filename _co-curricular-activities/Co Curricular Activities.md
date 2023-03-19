@@ -3,34 +3,33 @@ title: Co Curricular Activities
 permalink: /holistic-development/cca/
 description: ""
 ---
-
 ### **Co-Curricular Activities**
 We aim to provide experiential learning experiences to help develop character and competencies in every student.
 
-In BLS, we offer Co-Curricular Activities (CCAs) which spreads across four domains. These domains are the Uniformed Groups, Performing Arts Groups, Sports Groups and Clubs Groups. While some of these CCAs are gender-specific, the rest are available for boys and girls to choose from.
+In BLS, we offer Co-Curricular Activities (CCAs) which spreads across four domains. These domains are the Uniformed Groups, Performing Arts Groups, Sports Groups and Clubs Groups. While some of these CCAs are gender-specific, most are available for boys and girls to choose from.
 
-We have 16 CCAs on offer, each is unique in its own way. Go ahead and click on each CCA name to go to their webpage. Take your time and discover what each of the CCAs offers. Who knows? You might just find the right CCA for you. Call it love at first click.
+We have 16 CCAs on offer, each is unique in its own way. 
 
 #### **Uniformed Groups**
-[Boys’ Brigade (Boys)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/uniformed-groups/boys-brigade/)<br>
-[National Cadet Corps (Land) (Boys)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/uniformed-groups/ncc/)<br>
-[National Civil Defence Cadet Corps (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/uniformed-groups/ncdcc/)<br>
-[National Police Cadet Corps (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/uniformed-groups/npcc/)<br>
-[St John Brigade (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/uniformed-groups/st-john-brigade/)
+* Boys’ Brigade (Boys)
+* National Cadet Corps (Land) (Boys)
+* National Civil Defence Cadet Corps (Boys & Girls)
+* National Police Cadet Corps (Boys & Girls)
+* St John Brigade (Boys & Girls)
 
 #### **Performing Arts**
-[Band – Concert (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/performing-arts/concert-band/)<br>
-[Chinese Orchestra (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/performing-arts/chinese-orchestra/)<br>
-[Choir (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/performing-arts/choir/)<br>
-[Contemporary Dance (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/performing-arts/contemporary-dance/)<br>
-[Malay Dance (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/performing-arts/malay-dance/)<br>
-[Musical Theatre (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/performing-arts/musical-theatre/)
+* Band – Concert (Boys & Girls) 
+* Chinese Orchestra (Boys & Girls) 
+* Choir (Boys & Girls)
+* Contemporary Dance (Boys & Girls)
+* Malay Dance (Boys & Girls)
+* Musical Theatre (Boys & Girls)
 
 #### **Sports**
-[Badminton (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/sports/badminton/) (Note: Badminton will be offered to girls from 2022 onwards)<br>
-[Basketball (Boys)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/sports/basketball/)<br>
-[Netball (Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/sports/netball/)
+* Badminton (Boys & Girls) 
+* Basketball (Boys)
+* Netball (Girls)
 
 #### **Clubs**
-[Audio Visual Aid (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/club-and-societies/ava/)<br>
-[Cyberace (Boys & Girls)](https://staging.d264sf5mc1ffsk.amplifyapp.com/holistic-development/co-curricular-activities/club-and-societies/cyberace/)
+* Audio Visual Aid (Boys & Girls)
+* Cyberace (Boys & Girls)
