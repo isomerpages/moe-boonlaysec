@@ -3,8 +3,6 @@ title: History
 permalink: /about-bls/history/
 description: ""
 ---
-<img src="/images/history.jpg" style="width:100%" align=left>
-
 BLS draws on the proud heritage of Boon Lay Secondary School and Pioneer Secondary School. Collectively it represents almost 70 years of heritage and tradition. Since the two schools merged in 2017, we have built on the strengths and heritage of our past and have begun to forge ahead with a new vision to empower our students to realise their dreams.
 
 #### **Heritage Garden & Gallery**
@@ -36,3 +34,4 @@ While looking forward to a new vision and mission that stretches us to explore i
 2014 – 2019  Mr Tan Chor Pang<br>
 2020 – present Mr Inderjit Singh
 
+<img src="/images/history.jpg" style="width:100%" align=left>
