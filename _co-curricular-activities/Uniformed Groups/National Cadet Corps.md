@@ -32,5 +32,3 @@ Outstanding Cadet Award – ASM Md Afif
 Distinction for Unit Recognition Award<br>
 Top 3 in Guardians of the City Competition<br>
 Outstanding Cadet Award – ASM Hafiz Imraan
-
-**requires video to be uploaded to youtube**
