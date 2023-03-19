@@ -3,5 +3,4 @@ title: Students Handbook
 permalink: /other-links/students-handbook/
 description: ""
 ---
-### **Students Handbook**
-[BLS Handbook 2023](/files/studenthandbook.pdf)
+Please refer to the following link for the Students Handbook: [BLS Handbook 2023](/files/studenthandbook.pdf)
