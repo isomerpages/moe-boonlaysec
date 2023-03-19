@@ -3,7 +3,6 @@ title: Craft & Technology
 permalink: /departments/craft-and-tech/
 description: ""
 ---
-### **Craft & Technology**
 #### **Vision**
 Every student – a creative and critical thinker who possesses empathetic qualities.
 
