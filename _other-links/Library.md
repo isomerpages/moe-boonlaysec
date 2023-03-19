@@ -3,8 +3,7 @@ title: Library
 permalink: /other-links/library/
 description: ""
 ---
-### **Library**
-Boon Lay Secondary Library is a 21st Century Library that enables students to connect, curate and create.
+Boon Lay Secondary's Library is a 21st Century Library that enables students to connect, curate and create.
 
 <img src="/images/lib3.jpg" style="width:100%">
 </figure>
