@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Announcement.md
-      - Library.md
-      - Direct School Admission (DSA).md
+      - Students Handbook.md
       - BLS Timetable.md
       - Examination.md
-      - Parents.md
+      - Library.md
+      - Direct School Admission (DSA).md
       - Bookshop & School Uniform.md
-      - Students Handbook.md
+      - Parents.md
