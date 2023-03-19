@@ -3,7 +3,6 @@ title: Co Curricular Activities
 permalink: /holistic-development/cca/
 description: ""
 ---
-### **Co-Curricular Activities**
 We aim to provide experiential learning experiences to help develop character and competencies in every student.
 
 In BLS, we offer Co-Curricular Activities (CCAs) which spreads across four domains. These domains are the Uniformed Groups, Performing Arts Groups, Sports Groups and Clubs Groups. While some of these CCAs are gender-specific, most are available for boys and girls to choose from.
