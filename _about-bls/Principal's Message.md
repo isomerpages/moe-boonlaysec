@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Our Family of Learners and Leaders**
 
-<img src="/images/principalmessage.jpg" style="width:65%" align=left>
+<img src="/images/principalmessage.jpg" style="width:100%" align=left>
 
 <br clear="left">
 
