@@ -3,7 +3,6 @@ title: Science
 permalink: /departments/science/
 description: ""
 ---
-### **Science**
 #### **Vision**
 Reflective and contributing individuals who are well-equipped with knowledge and skills for a world where change is the only constant
 
@@ -31,6 +30,7 @@ Metacognition processing by students- thinking about thinking, learning to learn
 *   Manage complexities and ambiguities well
 
 Development of CIT will be facilitated through project work, field trips, green and other enrichment activities with explicit thinking skills, problem solving skills and rubrics.
+
 
 #### **Mastery learning**
 Students master the prerequisite level in order to move on to the next level of learning
