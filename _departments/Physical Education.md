@@ -3,7 +3,6 @@ title: Physical Education
 permalink: /departments/pe/
 description: ""
 ---
-### **Physical Education**
 #### **Vision**
 A school of active and physically competent individuals who values, participates, and pursues physical activities and sports of their interest and ability in order to enrich their lives, be they for recreation and well-being, personal challenge and achievement, or for national honours.
 
@@ -26,14 +25,7 @@ The modules covered under OE are:
 *   Shelter-building 
 *   First Aid 
 *   Expedition Preparation
-
-<img src="/images/pe1.jpg" style="width:65%" align=left>
-
-<br clear="left">
-
-<img src="/images/pe2.jpg" style="width:65%" align=left>
-
-<br clear="left">
+![](/images/PE1.png)
 
 #### **Physical Activities (PA)**
 Under this learning area, students should be able to participate in physical activities competently so that they can enjoy participating and are motivated to continue with physical activities of their choice after they leave secondary school. 
@@ -44,6 +36,10 @@ The categories of PA are: 
 *   Striking-fielding
 *   Territorial-invasion 
 *   Running
+![](/images/PE2.png)
+![](/images/PE3.png)
+![](/images/PE4.png)
+![](/images/PE5.png)
 
 #### **Physical Health and Fitness (PHF)**
 Under this learning area, students should augment their mature performance by using the skills and knowledge in the content areas of health and fitness management, healthy eating and weight management, and personal safety in physical activities. 
@@ -54,13 +50,6 @@ The Foci of PHF are:
 *   Healthy Eating and Weight Management 
 *   Personal Safety in Physical Activities
 
-<img src="/images/pe3.jpg" style="width:65%" align=left>
-
-<br clear="left">
-
-<img src="/images/pe4.jpg" style="width:65%" align=left>
-
-<br clear="left">
 
 #### **O-Level Exercise and Sports Science (Syllabus 6081)**
 The school offers O-Level Exercise and Sports Science syllabus to the upper secondary students in Express and Normal Academic streams as an elective. The subject aims to enable candidates to:
