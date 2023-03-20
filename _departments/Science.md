@@ -11,7 +11,7 @@ Science is a body of knowledge that represents understanding of natural systems 
 
 The Science Department aims to provide students with a holistic understanding of the constantly changing world around them through an inquiry-based approach in teaching and learning of Science. Students will experience learning characterised by exploration and risk-taking, by curiosity and motivation, by engagement in reflective and creative thinking, and by connection with real-life situations.
 
-<img src="/images/sci1.jpg" style="width:65%" align=left>
+<img src="/images/sci1.jpg" style="width:100%" align=left>
 
 <br clear="left">
 
@@ -40,6 +40,6 @@ If a student does not achieve mastery on the level, they are given additional su
 #### **Home-Based Learning (HBL)**
 A platform that provides opportunities for students to engage in self-directed learning and develops students’ tenacity to solve problems they may face in the learning process. Science lesson packages are prepared by teachers and uploaded online at the [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) for the students to access from home. Students will be guided so that they can learn from the SLS portal, textbook, school-prepared resources, and learn through simple home experiments, collaborative projects using personal learning device. There will be opportunities for the students to video conference with their subject teachers to seek clarifications in learning.
 
-<img src="/images/sci2.jpg" style="width:65%" align=left>
+<img src="/images/sci2.jpg" style="width:100%" align=left>
 
 <br clear="left">
