@@ -4,7 +4,6 @@ permalink: /holistic-development/aspiration-focused-programme/student-developmen
 description: ""
 third_nav_title: Aspiration Focused Programme
 ---
-### **Student Development Modules**
 The Student Development (SD) module programme is designed to provide a platform for, and to aid students in discovering their dreams and aspirations using an i.D.E.A. (i Discover, Explore, Aspire) approach. Through a Whole-School Approach, modular learning experiences were designed and conducted to broaden and deepen students’ exposure and competencies required in various post-secondary courses/careers.
 
 In BLS, the various SD modules are categorized into different domains under the DREAMS domains. This draws alignment with our school’s focus in aspiration-building, and establishes links with the broad post-sec educational/career pathways. With active involvement of stakeholders, students are also able to learn work and life values and appreciate the diverse pathways available for them.
