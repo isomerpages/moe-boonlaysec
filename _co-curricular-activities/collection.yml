@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - NCDCC.md
       - CCA Families.md
       - LEAPS 2.md
       - Uniformed Groups/NPCC.md
