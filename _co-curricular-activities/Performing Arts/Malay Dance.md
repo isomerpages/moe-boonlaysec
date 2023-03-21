@@ -16,6 +16,8 @@ In developing our leaders, we also find opportunities to send them for leadershi
 
 Lastly, the CCA welcomes both inexperienced and experienced dancers of all races to join the club so as to promote the spirit of learning from one another, appreciating and embracing differences, while at the same time developing one’s competency.
 
+![](/images/MD2.jpg)
+
 #### **CCA Mentors**
 Nur Shafiah Md Azmi (Mdm) 2OIC – Sec 1
 Lin Ying (Miss) Sec 2
@@ -42,4 +44,3 @@ Singapore Youth Festival Arts Presentation 2021 – Certificate of Distinction<b
 Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction<br>
 Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment
 
-![](/images/Malay%20Dance%201.jpg)
