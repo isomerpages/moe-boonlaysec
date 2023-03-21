@@ -65,12 +65,9 @@ We are a concert band, which typically perform in a concert setting. We incorpor
 
 3\. What leadership opportunities are there?
 
-In the band there is a committee structure that consists of
-
-i. Executive Committee members who manage the band,
-
-ii. Committee members who perform duties to ensure the smooth conduct of the band,
-
-iii. Section Leaders who take charge of the training of their section mates (for students who excel in musicianship).
+In the band there is a committee structure that consists of: <br>
+i. Executive Committee members who manage the band,<br>
+ii. Committee members who perform duties to ensure the smooth conduct of the band,<br>
+iii. Section Leaders who take charge of the training of their section mates (for students who excel in musicianship).<br>
 
 Every student will be given the opportunity to shine. In BLS Concert Band, we adopt a progression system where students will be trained to manage smaller duties before taking on larger responsibilities.
