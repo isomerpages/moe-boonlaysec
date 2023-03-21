@@ -29,10 +29,7 @@ Tuesdays (3.00 pm to 5.30 pm)<br>
 Fridays (2.30 pm to 5.30 pm)
 
 #### **Student Leaders**
-**
-Kee En Xuan Caressa
-Pappu Surya Vardhan
-Kaylie Lim
-Dzayn Ang
-
-**
+* Kee En Xuan Caressa
+* Pappu Surya Vardhan
+* Kaylie Lim
+* Dzayn Ang
