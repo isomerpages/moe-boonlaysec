@@ -42,6 +42,7 @@ Fridays (Sectional Practice) 2.30 pm – 5.30 pm
 Singapore Youth Festival Arts Presentation 2021 Certificate of Distinction
 Singapore Youth Festival Arts Presentation 2019 Certificate of Distinction
 Boon Lay Secondary School SHINE Award 2019 Fourth Place
+
+![](/images/CO.jpeg)
+
 Boon Lay Secondary School SHINE Award 2018 Second Place
-
-
