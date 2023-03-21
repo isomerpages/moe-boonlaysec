@@ -60,5 +60,25 @@ Secondary Three
 ![](/images/3b.png)
 
 Secondary Four
+![](/images/4a.png)
+![](/images/4b.png)
 
 Secondary Five
+![](/images/Sec5.png)
+
+#### eTeens Programme: 
+8.	eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+10.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+![](/images/SEd.png)
+
+#### **Information for Parents**
+
+10.       Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A-%202023%20Parent%20Opt%20Out%20Form%20BLS.pdf)The completed form is to be submitted by 24/03/2023.
+
+12.       Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/ANNEX%20B%20-%202023.pdf)    The completed form is to be submitted by 24/03/2023.
+
+13.       Parents can contact the school at 67940161 or [blss@moe.edu.sg](mailto:blss@moe.edu.sg)  for discussion or to seek clarification about the school’s Sexuality Education programme.
