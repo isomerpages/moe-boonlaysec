@@ -2,6 +2,7 @@ collections:
   holistic-development:
     output: true
     order:
+      - Co Curricular Activities/St John Brigade.md
       - Co Curricular Activities/NPCC.md
       - Co Curricular Activities/NCDCC.md
       - Co Curricular Activities/National Cadet Corps.md
