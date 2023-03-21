@@ -11,6 +11,8 @@ The band constantly strives to hone and sharpen our musical skills through theor
 
 So if you are interested in music and would love to learn how to play a musical instrument, come join the Concert Band family!
 
+![](/images/band.jpeg)
+
 #### CCA Mentors
 Sim Siok Siok (Mdm) OIC - Sec 1 & 2
 Neo Eng Kwan (Mr) - Sec 4 & 5
