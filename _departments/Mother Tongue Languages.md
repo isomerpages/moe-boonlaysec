@@ -3,7 +3,6 @@ title: Mother Tongue Languages
 permalink: /departments/mtl/
 description: ""
 ---
-### **Mother Tongue Languages**
 #### **Vision**
 The Mother Tongue Languages Department aims to empower all Boonlayians to flourish in the future by placing the 21st-Century Competencies at the core of student learning.
 
