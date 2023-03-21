@@ -17,4 +17,4 @@ The SD module programme has been awarded MOE INNERGY Award  in 2018.
 |---|---|---|---|---|---|
 | D.<br>Digital and Infotech | R.<br>Relations and Business | E.<br>Engineering, Science and Maths | A.<br>Arts and Humanities | M.<br>Media and Design | S.<br>Sports and Leisure |
 
-**requires video to be uploaded to youtube**
+ 
