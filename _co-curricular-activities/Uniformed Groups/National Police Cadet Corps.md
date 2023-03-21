@@ -21,40 +21,40 @@ Our members care about the school and the community. They impact the school by o
 Engaging the head, heart and hands of our members, they gain wisdom and strive to bring honour to NPCC. They develop into visionary leaders which are forward thinking by beginning with the end in mind. With this mindset, our members are encouraged to be attuned with the needs of the community and seek proactive steps to ameliorate the issues identified.
 
 #### CCA Mentors
-INSP (NPCC) Nurfazlin Junidi (Mr) 2IC – Sec 1
-Zakiah Haron (Mdm) - Sec 2
-Lek Kyah Hwee (Miss) - Sec 3
-ASP (NPCC) Kok Yee Chin (Mr) OIC – Sec 4 & 5
-Ang Hui Bing (Miss) Cluster Head
+INSP (NPCC) Nurfazlin Junidi (Mr) 2IC – Sec 1 <br>
+Zakiah Haron (Mdm) - Sec 2 <br>
+Lek Kyah Hwee (Miss) - Sec 3 <br>
+ASP (NPCC) Kok Yee Chin (Mr) OIC – Sec 4 & 5 <br>
+Ang Hui Bing (Miss) Cluster Head <br>
 
 #### Honorary Officer
-H/Insp (NPCC) M. Murgaya Leslie
+H/Insp (NPCC) M. Murgaya Leslie<br>
 
 #### Cadet Inspectors
-CI (NPCC) Muhammad Nasri Bin Nooran\
-CI (NPCC) Tam Ting Ying Jade
-CI (NPCC) Deon Leok Zhen Hui
-P/CI (NPCC) Javan Law Jun Hao
+CI (NPCC) Muhammad Nasri Bin Nooran<br>
+CI (NPCC) Tam Ting Ying Jade<br>
+CI (NPCC) Deon Leok Zhen Hui <br>
+P/CI (NPCC) Javan Law Jun Hao <br>
 
 #### Overall In Charge
-SSGT Yu Jian Hui, Lucas
+SSGT Yu Jian Hui, Lucas <br>
 
 #### Assistance Overall In Charge
-SSGT Ujwal Raj Singh S/O Ralthee Singh
+SSGT Ujwal Raj Singh S/O Ralthee Singh <br>
 
 #### Training Days
-Tuesday (3.00 pm to 5.30 pm)
-Friday (2.30 pm to 5.30 pm)
+Tuesday (3.00 pm to 5.30 pm) <br>
+Friday (2.30 pm to 5.30 pm) <br>
 
 #### Activities
-*   Inter Unit .22 Revolver Shooting Competition
-*   Inter Unit Campcraft Competition
-*   Inter Unit Crime Scene Investigation (CSI) Competition
-*   Inter Unit Drills Competition
-    
+Inter Unit .22 Revolver Shooting Competition <br>
+Inter Unit Campcraft Competition <br>
+Inter Unit Crime Scene Investigation (CSI) Competition <br>
+Inter Unit Drills Competition <br>
+
 #### Achievements
-*   Attained Champion in Jurong Division Anti-Scam NPCC Challenge Shield 2021.
-*   Sustained Gold Award for Inter-Unit Overall Proficiency Award Competition in 2016 to 2021.
-*   Achieved Top 10 in NPCC .22 Inter-Unit Shooting Competition 2019 for Team Category (Female).
-*   Achieved Top 8 in NPCC .22 Inter-Unit Shooting Competition 2018 for Team Category (Male).
-*   Achieved Top 8 in Jurong Division’s Youth Video Competition 2017.
+Attained Champion in Jurong Division Anti-Scam NPCC Challenge Shield 2021 <br>
+Sustained Gold Award for Inter-Unit Overall Proficiency Award Competition in 2016 to 2021 <br>
+Achieved Top 10 in NPCC 22 Inter-Unit Shooting Competition 2019 for Team Category (Female) <br>
+Achieved Top 8 in NPCC 22 Inter-Unit Shooting Competition 2018 for Team Category (Male) <br>
+Achieved Top 8 in Jurong Division’s Youth Video Competition 2017 <br>
