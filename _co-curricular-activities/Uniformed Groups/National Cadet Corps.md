@@ -17,54 +17,36 @@ So please come and join the NCC (Land) family to enjoy all the wonderful and uni
 ![](/images/NCC4-1024x890.jpg)
 
 #### Teachers-in-charge
-
-Nur Syamira Rosidi (Miss) OIC – Sec 1
-
-Ronald Wong (Mr) 2IC – Sec 2
-
-Ong Zhi Jie (Mr) - Sec 3
-
-Salizam Jaafar (Mr) - Sec 4 & 5
-
-Mardiana Mansor (Ms) Cluster Head
+Nur Syamira Rosidi (Miss) OIC – Sec 1 <br>
+Ronald Wong (Mr) 2IC – Sec 2 <br>
+Ong Zhi Jie (Mr) - Sec 3 <br>
+Salizam Jaafar (Mr) - Sec 4 & 5 <br>
+Mardiana Mansor (Ms) Cluster Head <br>
 
 #### Cadet Lieutenant
-
-CLT (NCC) Indra Adzani
+CLT (NCC) Indra Adzani <br>
 
 #### Training Days
-
-Tuesday (3.30 pm to 5.30 pm)
-
-Fridays (2.30 pm to 5.30 pm)
+Tuesday (3.30 pm to 5.30 pm) <br>
+Fridays (2.30 pm to 5.30 pm) <br>
 
 #### Achievements
-
 ##### 2021
-
-Distinction for Unit Recognition Award
-
-Outstanding Cadet Award - USM Dani Syahmi  
+Distinction for Unit Recognition Award <br>
+Outstanding Cadet Award - USM Dani Syahmi <br>
 
 ##### 2020
-
-Distinction for Unit Recognition Award
-
-Outstanding Cadet Award - USM Amirul and ASM Indra
+Distinction for Unit Recognition Award <br>
+Outstanding Cadet Award - USM Amirul and ASM Indra <br>
 
 ##### 2019
-
-Distinction for Unit Recognition Award
-
-Outstanding Cadet Award – ASM Md Afif
+Distinction for Unit Recognition Award <br>
+Outstanding Cadet Award – ASM Md Afif <br>
 
 ##### 2018
-
-Distinction for Unit Recognition Award
-
-Top 3 in Guardians of the City Competition
-
-Outstanding Cadet Award – ASM Hafiz Imraan
+Distinction for Unit Recognition Award <br>
+Top 3 in Guardians of the City Competition <br>
+Outstanding Cadet Award – ASM Hafiz Imraan <br>
 
 ![](/images/NCC3-1024x768.jpg)
 ![](/images/NCC1-1024x768.jpg)
