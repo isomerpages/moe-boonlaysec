@@ -38,6 +38,9 @@ SYF Arts Presentation 2021- Certificate of Accomplishment<br>
 SYF Arts Presentation 2019 – Certificate of Accomplishment<br>
 SYF Arts Presentation 2017 – Certificate of Distinction
 
+![](/images/MT.jpg)
+
+
 <img src="/images/musicaltheatre1.jpg" style="width:100%" align=left>
 <img src="/images/musicaltheatre2.jpg" style="width:100%" align=left>
 <img src="/images/musicaltheatre3.jpg" style="width:100%" align=left>
