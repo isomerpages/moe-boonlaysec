@@ -1,32 +1,27 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Boon Lay Secondary
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/crest.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/hero.gif
+      url: /contact-us/
+      key_highlights:
+        - title: Prospective Students
+          description: Choose your own Adventure@BLS
+          url: /prospective-students/
+        - title: National Digital Literacy Programme
+          description: Connect, Curate, Create
+          url: /ndlp/
+  - infopic:
+      title: Choose Your Own Adventure
+      subtitle: " "
+      description: Embark on this adventure to find out more about our BLS Family!
+      button: View More
+      alt: Image alt text
+      url: /prospective-students/
+      image: /images/CYOA Adventure.jpg
 ---
-

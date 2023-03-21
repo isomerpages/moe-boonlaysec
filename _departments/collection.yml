@@ -1,0 +1,13 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Craft & Technology.md
+      - English.md
+      - Executive and Administrative.md
+      - Humanities and The Arts.md
+      - Learning Technologies.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md

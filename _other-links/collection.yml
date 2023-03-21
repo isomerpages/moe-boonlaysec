@@ -1,0 +1,11 @@
+collections:
+  other-links:
+    output: true
+    order:
+      - Announcement.md
+      - Students Handbook.md
+      - BLS Timetable.md
+      - Examination.md
+      - Library.md
+      - Direct School Admission (DSA).md
+      - Bookshop & School Uniform.md

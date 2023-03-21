@@ -2,31 +2,35 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Boon Lay Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "11, Jurong West Street 65 "
+      - Singapore 648354
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 6am to 6pm
+        description: ""
+    maps_link: ""
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6794 0161
+      - email: blss@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6794 1324
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Nearest MRT: Boon Lay <br><br> Bus Services: 181, 193, 243G , 258, 502
+          (fr Boon Lay Int. to nearest bus-stop to sch) 30, 79, 154, 157, 174,
+          174e, 179, 181, 182, 192, 193, 194, 198, 199, 240, 242, 243W/G, 246,
+          249, 251, 252, 254, 255, 257, 258, 405(to Boon Lay Int.)"
+    title: Getting Here
 ---

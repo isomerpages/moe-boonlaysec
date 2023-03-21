@@ -1,15 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/crest.jpg
 links:
+  - title: About BLS
+    collection: about-bls
+  - title: Departments
+    collection: departments
+  - title: Holistic Development
+    url: /holistic-development/co-curricular-activities/leaps/
+    sublinks:
+      - title: Co Curricular Activities
+        url: /holistic-development/co-curricular-activities/leaps/
+      - title: Character and Citizenship Edu
+        url: /holistic-development/cce/
+      - title: Aspiration Focused Programme
+        url: /holistic-development/aspiration-focused-programme/
+      - title: CCLBB
+        url: /holistic-development/cclbb/
+  - title: Useful Information and Links
+    collection: other-links
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact/
