@@ -4,8 +4,6 @@ permalink: /holistic-development/aspiration-focused-programme/
 description: ""
 third_nav_title: Aspiration Focused Programme
 ---
-### **Aspiration Focused Programme**
-#### **Programme Outcomes**
 In BLS, we strongly believe in supporting our students in the pursuit of their interests, and in working together with them towards their dreams and aspirations. Students will be exposed to a wide range of student development learning experiences and opportunities which will allow them to:
 
 *   Discover their strengths and talents;
@@ -13,8 +11,8 @@ In BLS, we strongly believe in supporting our students in the pursuit of their i
 *   Explore possible career pathways; and
 *   Build up a meaningful portfolio to support their aspirations.
 
-**Description of Programme & Key Activities:**
-
+#### **Description of Programme & Key Activities:**
+#### 
 <img src="/images/aspirationfocusedprog.jpg" style="width:35%;margin-right:25px;" align = "left">
 
 Student-centricity approach in the design of student development programmes in BLS.<br>
