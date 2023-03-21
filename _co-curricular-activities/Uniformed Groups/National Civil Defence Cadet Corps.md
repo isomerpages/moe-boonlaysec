@@ -10,6 +10,8 @@ NCDCC believes in developing and empowering our youths to be active & concerned 
 
 NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3 big ideas in Character and Citizenship Education: “Identity, Relationships and Choices”, well encapsulates the journey of NCDCC cadets into three phases.
 
+![](/images/NCDCC-1-1024x768.jpeg)
+
 #### **CCA Mentors**
 Mdm Chan Bee Bee (OIC / CCAM Sec 1)<br>
 Ms Lee Xiu Wen (2IC / CCAM Sec 4 & 5)<br>
@@ -42,4 +44,3 @@ National Day Parade
 2017 Unit Overall Proficiency Award (UOPA) SILVER
 2019-2021 SCDF-NCDCC Pinnacle Badge Award
 2019-2021 Best Unit Cadet
-
