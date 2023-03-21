@@ -19,10 +19,13 @@ So come and join us and explore the world of digital technology.
 <br clear="left">
 
 #### **CCA Mentors**
-Mdm Azlina Muslimin (OIC / CCAM Sec 2)<br>
-Mr Lek Yi Xian (2IC / CCAM Sec 3)<br>
-Mdm Suziela Yassin (CCAM Sec 4 & 5)<br>
-Ms Alexandria Tang (CCAM Sec 1)
+Mdm Azlina Muslimin (OIC / CCAM Sec 3)
+
+Mr Lek Yi Xian (2IC / CCAM Sec 4 & 5)
+
+Mdm Suziela Yassin (CCAM Sec 1 & 2)
+
+Ms Alexandria Tang (Cluster Head)
 
 #### **Training Days**
 Tuesdays (3.00 pm to 5.30 pm)<br>
