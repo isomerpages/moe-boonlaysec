@@ -4,7 +4,6 @@ permalink: /holistic-development/co-curricular-activities/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-### **Badminton**
 Aligned to the motto of the National School Games (NSG), Boon Lay Secondary School Badminton team believes in character in sporting excellence, in recognition of the important role sports participation and competitions play in the character development of our students, even as they pursue sporting excellence.
 
 The team’s motto is “Smashing Limits”, which means building on our previous successes over the years. With that in mind, we strive to continue to bring more glory to the school in the years to come. The achievements have been brought about by the dedication, commitment and tremendous support from the players, teachers-in-charge and the various stakeholders.
@@ -16,21 +15,26 @@ In 2022, we opened up a ‘C’ Division girls team. Even though we are still in
 So do join us and contribute to this family of smashing people!
 
 #### **CCA Mentors**
-Mdm Aida Md Khalid (OIC / CCAM Sec 2)<br>
-Pang Chee Peng (2IC / CCAM Sec 3, 4 &5)<br>
-Mrs Liew-Soh Mui Ling Athena (CCAM Sec 1)<br>
-Mr Ong Kheng Loon (Cluster head)
+
+Pang Chee Peng (Mr) OIC- Sec 1
+
+Liew-Soh Mui Ling Athena (Mrs) 2IC – Sec 2
+
+Nur Aida Md Khalid (Mdm) Sec 3, 4 & 5
+
+Ong Kheng Loon (Mr) Cluster Head
+
 
 #### **Student Leaders**
-Captain : Eason Jong Yu Hen (Upper Sec)<br>
-Soh Tze Hern (Lower Sec)<br>
-Vice Captain : Wong Jun Loong (Upper sec)<br>
-Ryan Chua (Lower Sec)
+Captain : Jarren Tan Wei Heng (Upper Sec)<br>
+Loh Jayden (Lower Sec)<br>
+Vice Captain : Nur Iman Aniq Bin Abdullah (Upper sec)<br>
+William Chan Weng Wah (Lower Sec)
 
 #### **Training Days**
 Tuesdays (3.00 pm to 5.30 pm)<br>
 Fridays (2.30 pm to 5.30 pm)
 
-<img src="/images/badminton.jpg" style="width:65%" align=left>
+<img src="/images/badminton.jpg" style="width:100%" align=left>
 
 <br clear="left">
