@@ -4,10 +4,6 @@ permalink: /holistic-development/co-curricular-activities/uniformed-groups/st-jo
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
-### **St John Brigade**
 St John Brigade (SJB) is the uniformed branch of St John Singapore, which provides first aid and ambulance services, as well as youth development through its Cadet programme.
 
 The objective of the Brigade is to combine individual efforts for the public good, by rendering first aid to the sick and wounded on public occasions, and to develop and promote every means of rendering aid to the sick and wounded.
@@ -16,7 +12,6 @@ In BLS, SJB seeks to equip all cadets with life-saving skills of first aid, 
 
 Aligned to the goals of SJB, our unit provides first aid services not only to the school, but also to the public by performing public duties at community events.
 
-Come join us and be trained to save lives.
 
 #### **CCA Mentors**
 Ms Gayathiri d/o Nandakuma (OIC / CCAM Sec 3)<br>
@@ -26,12 +21,13 @@ Mr Mohammad Khusni B Jumadi (CCAM Sec 4 & 5 )<br>
 Ms Bhavaniswari D/O Batumalia (Cluster head)
 
 #### **Chairperson**
-SGT Murugesan Rosemin MURUGESAN ROSEMIN
+SGT Asilah Hamizah Binte Afandi
 
 #### **Vice-Chairperson**
 LCP Nur Syazwani Nadhirah
 
 #### **Our Achievements**
+(Corps Achievement Award suspended for 2021 - 2022)
 Corps Achievement Award (2017) – Gold<br>
 Corps Achievement Award (2018) – Gold<br>
 Corps Achievement Award (2019) – Gold<br>
@@ -39,19 +35,19 @@ Corps Achievement Award (2020) – Gold
 
 #### **Chief Commissioner Badge Awardees**
 <figure>
-<img src="/images/sjab1.jpg" style="width:35%">
+<img src="/images/sjab1.jpg" style="width:50%">
 <figcaption>2019 Recipients
  </figcaption>
 </figure>
 
 <figure>
-<img src="/images/sjab2.jpg" style="width:35%">
+<img src="/images/sjab2.jpg" style="width:50%">
 <figcaption>2020 Recipients
  </figcaption>
 </figure>
 
 <figure>
-<img src="/images/sjab3.jpg" style="width:35%">
+<img src="/images/sjab3.jpg" style="width:50%">
 <figcaption>2021 Recipients
  </figcaption>
 </figure>
@@ -63,24 +59,20 @@ Corps Achievement Award (2020) – Gold
 </figure>
 
 #### **Our Weekly Activities**
-<img src="/images/sjab5.jpg" style="width:65%" align=left>
-<img src="/images/sjab6.jpg" style="width:65%"align=left>
-<img src="/images/sjab7.jpg" style="width:65%"align=left>
+<img src="/images/sjab5.jpg" style="width:100%" align=left>
+<img src="/images/sjab6.jpg" style="width:100%"align=left>
+<img src="/images/sjab7.jpg" style="width:100%"align=left>
 
 <br clear="left">
 
 #### **School Events**
-<img src="/images/sjab8.jpg" style="width:65%" align=left>
+<img src="/images/sjab8.jpg" style="width:100%" align=left>
 
 <br clear="left">
 
 #### **Our Bonding Sessions**
-<img src="/images/sjab9.jpg" style="width:65%" align=left>
-
-<br clear="left">
-
-<img src="/images/sjab11.jpg" style="width:32%;margin-right:275px;" align = "right">
-<img src="/images/sjab10.jpg" style="width:32%;margin-left:px;" align = "left">
+<img src="/images/sjab9.jpg" style="width:100%" align=left>
+<img src="/images/sjab10.jpg" style="width:100%;margin-left:px;" align = "left">
 
 <br clear="left">
 
