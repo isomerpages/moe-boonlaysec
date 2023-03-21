@@ -4,7 +4,6 @@ permalink: /holistic-development/aspiration-focused-programme/alp/
 description: ""
 third_nav_title: Aspiration Focused Programme
 ---
-### **Applied Learning Programme (ALP)**
 The Applied Learning Programme (ALP) develops student interest in STEAM (science, technology, engineering, arts and mathematics) and helps students connect and apply academic knowledge and skills in authentic settings based on the theme Sustainability.
 
 #### **Programme Outcomes**
