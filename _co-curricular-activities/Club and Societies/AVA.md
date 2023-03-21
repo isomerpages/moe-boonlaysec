@@ -4,7 +4,6 @@ permalink: /holistic-development/co-curricular-activities/club-and-societies/ava
 description: ""
 third_nav_title: Club and Societies
 ---
-### **AVA**
 The Audio Video Aid (AVA) club provides essential audio video aid services for all the school events. We are involved in major school events such as the festive celebrations, Awards Ceremony, Teacher’s Day, National Day, Graduation Ceremony, and Recess Concerts. The club is also responsible in ensuring that the equipment are functional during morning and school assemblies, and other ad-hoc events.
 
 Through the demands of the events, the students learn about the importance of being responsible, punctuality and teamwork. Leadership skills are also developed as the students learn to communicate effectively, manage events, and delegate roles to different members. As a result, AVA members have become a closely-knitted group, demonstrating strong teamwork in ensuring that each event flows seamlessly.
@@ -12,8 +11,6 @@ Through the demands of the events, the students learn about the importance of be
 The weekly technical equipment training allows the students to hone their technical skills in operating them. In addition to these trainings, the club also conducts learning journeys, embarks on projects and challenges for students to discover their true potential, to build self-confidence and tenacity within.
 
 Come join us if you are interested in handling AVA equipment and have a passion for audio equipment.
-
-**requires video to be uploaded to youtube**
 
 #### **Teachers-In-Charge**
 Mrs Ester Chang (OIC / CCAM Sec 3,4 & 5)<br>
@@ -51,6 +48,6 @@ Games Day<br>
 Achieve & Aspire Day<br>
 Open House
 
-<img src="/images/ava.jpg" style="width:65%" align=left>
+<img src="/images/ava.jpg" style="width:100%" align=left>
 
 <br clear="left">
