@@ -38,11 +38,9 @@ Affirmation Day<br>
 National Day Parade
 
 #### **Achievements**
-2021 Unit Overall Proficiency Award (UOPA) GOLD
-2019 Unit Overall Proficiency Award (UOPA) GOLD
-2018 Unit Overall Proficiency Award (UOPA) GOLD
-2017 Unit Overall Proficiency Award (UOPA) SILVER
-
-
-2019-2021 SCDF-NCDCC Pinnacle Badge Award
-2019-2021 Best Unit Cadet
+* 2021 Unit Overall Proficiency Award (UOPA) GOLD
+* 2019 Unit Overall Proficiency Award (UOPA) GOLD
+* 2018 Unit Overall Proficiency Award (UOPA) GOLD
+* 2017 Unit Overall Proficiency Award (UOPA) SILVER
+* 2019-2021 SCDF-NCDCC Pinnacle Badge Award
+* 2019-2021 Best Unit Cadet
