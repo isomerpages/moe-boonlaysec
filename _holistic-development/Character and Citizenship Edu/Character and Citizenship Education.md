@@ -4,7 +4,6 @@ permalink: /holistic-development/cce/
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
-### **Character and Citizenship Education**
 #### **Vision**
 Every student a **C**onfident youth, **C**oncerned citizen and an **E**mpathetic leader.
 
@@ -14,14 +13,14 @@ CCE in BLS seeks to provide an integrated approach to addressing our students’
 #### **Structure**
 BLS has redesigned CCE to be based on CCAs & CCA-cluster by level. The spiral CCE curriculum is conducted by CCAMs in a CCA-Centric Model. With this approach, students get to hear more perspectives during cross-stream (CCA Cluster by levels) or cross-stream, cross-level (by CCAs) discussions.
 
-<img src="/images/cce1.jpg" style="width:65%" align=left>
+<img src="/images/cce1.jpg" style="width:100%" align=left>
 
 <br clear="left">
 
 #### **Key Programmes**
 The components of CCE comprise of assembly programmes and CCE curriculum content areas (National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW) and family Education (FE)).
 
-<img src="/images/cce2.png" style="width:65%" align=left>
+<img src="/images/cce2.png" style="width:100%" align=left>
 
 <br clear="left">
 
@@ -34,7 +33,7 @@ In the CCE curriculum, students are developed through the formal and informal cu
 *   To develop emotional intelligence.
 *   To inculcate a sense of rootedness to Singapore
 
-<img src="/images/cce3.png" style="width:65%" align=left>
+<img src="/images/cce3.png" style="width:100%" align=left>
 
 <br clear="left">
 
