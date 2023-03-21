@@ -4,14 +4,11 @@ permalink: /holistic-development/co-curricular-activities/performing-arts/contem
 description: ""
 third_nav_title: Performing Arts
 ---
-### **Contemporary Dance**
 BLS Contemporary Dance Club prides itself on producing collective magic on stage from individual strengths. We aspire to inculcate values of discipline and respect as well as creativity and expressivity on stage and beyond.
 
 The club exposes our dancers to the various dance genres and a wide spectrum of dance styles. The club aims to provide many opportunities for its members to discover their potential, build self-confidence and resilience, as well as develop leadership and team-management skills. In addition, members learn to build and enjoy a strong camaraderie within and outside the club.
 
 The club provides students with opportunities to hone their dance techniques, through programmes such as dance camps, excursions to concerts and participation in dance competitions, such as Teenage Dance Challenge Competition, as well as school and public performances.
-
-If you are interested in the dance movements and learn modern and contemporary dance forms, come join us.
 
 #### **CCA Mentors**
 Ms Fong Siong Kuen (OIC / CCAM Sec 3)<br>
@@ -38,4 +35,3 @@ Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishmen
 Teenage Dance Challenge Competition 2019- Top 5 (Street Dance Category)<br>
 Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment
 
-**requires video to be uploaded to youtube**
