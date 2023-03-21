@@ -24,6 +24,6 @@ Nur Alisyah (Lower sec) <br>
 Vice Captains : Tey Shu Juan (Upper Sec)
 Adlin (Lower Sec)<br>
 
-#### **Training Days**
+#### Training Days
 Tuesdays (3.00 pm to 5.30 pm)<br>
 Fridays (1.30 pm to 4.30 pm)<br>
