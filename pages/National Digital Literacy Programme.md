@@ -14,7 +14,7 @@ The PLD will be used in tandem with the national e-learning platform – the Sin
 #### **Connect, Curate, Create**
 At Boon Lay Secondary School, our teachers design varied learning experiences for our students to learn new media literacies where they connect, curate and create. Through a variety of lessons from self paced modular academic curriculum modules to authentic multidisciplinary lessons, our students are equipped with the necessary skills to navigate the increasingly digital VUCA world.
 
-<img src="/images/ndlp2.jpg" style="width:65%" align=left>
+<img src="/images/ndlp2.jpg" style="width:100%" align=left>
 
 <br clear="left">
 
