@@ -56,6 +56,8 @@ Secondary Two
 ![](/images/2b.png)
 
 Secondary Three
+![](/images/3a.png)
+![](/images/3b.png)
 
 Secondary Four
 
