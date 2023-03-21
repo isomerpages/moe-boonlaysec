@@ -3,7 +3,6 @@ title: CCA Centric Learning Beyond Boundaries
 permalink: /holistic-development/cclbb/
 description: ""
 ---
-### **CCA Centric Learning Beyond Boundaries**
 CCA-centric Learning Beyond Boundaries (CCLBB) programme is Boon Lay Secondary School’s global education programme. With its focus on promoting **responsible global citizenry,** **communication and collaboration,** CCLBB aims to develop the student into a/an:
 
 1\.  **Self-Directed Learner** who interacts with others to construct knowledge, new understandings and ideas;<br>
