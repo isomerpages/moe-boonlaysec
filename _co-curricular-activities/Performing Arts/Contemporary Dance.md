@@ -34,4 +34,3 @@ Friday (1.15 pm – 4.30 pm)
 Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishment<br>
 Teenage Dance Challenge Competition 2019- Top 5 (Street Dance Category)<br>
 Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment
-
