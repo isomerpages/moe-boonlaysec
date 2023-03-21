@@ -8,6 +8,8 @@ In BLS Malay Dance club, we strive to ensure each and everyone of our members ar
 
 Inculcating discipline and resilience in our members, our programmes serve to mould our members to be confident and committed in working towards achieving their goals. Our dancers are given opportunities to perform and compete in various showcases such as the Esplanade MUARA festival and the Singapore Youth Festival Arts Presentation or SYF Celebrates. From these events, the dancers acquire important experiences that helped to develop greater self-confidence and mastery of their dance skills.
 
+![](/images/MD.jpg)
+
 The BLS Malay Dance Club has sustained the Certificate of Distinction in two consecutive SYF Arts Presentations (2019 and 2021).
 
 In developing our leaders, we also find opportunities to send them for leadership workshops such as Dance Amplified! organised by MOE CCA Branch or other possible attachment experience to dance companies.
