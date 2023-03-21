@@ -4,7 +4,6 @@ permalink: /holistic-development/co-curricular-activities/sports/netball/
 description: ""
 third_nav_title: Sports
 ---
-### **Netball**
 BLS Team Netball is a CCA which promotes great teamwork and dedication. Our training sessions take place on Tuesdays and Fridays. During these training sessions, the team explores various training methods, including strengthening techniques to ensure that we are equipped with the necessary Netball skills, stamina as well as endurance in preparation for our upcoming matches and competitions. Off court, the team ensures they remain physically active and set targets to meet the internal school sports events such as Games Day and the BLS SHINE Award.
 
 Both our B and C Division teams participate in the National Schools Games (NSG) West Zone Netball Inter-School Competition, M1 Schools Challenge League as well as Deloitte Pesta Sukan Tournament annually. In the M1 Schools Challenge League, our team has been winning medals in the group categories for the past three years. During these competitions, the Netball team players showed strong perseverance and resilience throughout.
@@ -20,13 +19,13 @@ Mdm Nor Faatihah (CCAM Sec 1 & 2)<br>
 Mrs Hong-Chuah Mei Thien (Cluster head)
 
 #### **Student Leaders**
-Captains : Fiona Gabrielle (Upper Sec)<br>
-Pon Abbenayaa (Lower Sec)<br>
-Vice Captains : Wendy Liew Wen Ying (Upper Sec)<br>
-Terapalli Harini (Lower Sec)
+**
+Captains : Pon Abbenayaa (Upper sec)
+Nur Alisyah (Lower sec)
+Vice Captains : Tey Shu Juan (Upper Sec)
+Adlin (Lower Sec)
+**
 
 #### **Training Days**
 Tuesdays (3.00 pm to 5.30 pm)<br>
 Fridays (1.30 pm to 4.30 pm)
-
-**requires video to be uploaded to youtube**
