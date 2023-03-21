@@ -4,8 +4,6 @@ permalink: /holistic-development/co-curricular-activities/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 The mission of the National Cadet Corps is to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. In Boon Lay Secondary School, the National Cadet Corps (NCC) Unit believes that our cadets need to embody the NCC core values of Loyalty to Country, Leadership, Uprightness, Commitment and Responsibility, Adventurous Spirit, Discipline, and Care. These core values drive the cadets in their endeavour in achieving excellence for the unit as well as for themselves.
 
 Our belief in the mission as well as through the constant hard work of all in the unit has led to it being awarded a Distinction in the Unit Recognition Award for many years.
@@ -15,6 +13,8 @@ The unit is also actively involved in the numerous activities organised by HQ NC
 In addition, the Unit also organises activities and events such as the Annual Camp, which serve to bring invaluable experiences to its cadets.
 
 So please come and join the NCC (Land) family to enjoy all the wonderful and unique experiences that await you.
+
+![](/images/NCC4-1024x890.jpg)
 
 #### Teachers-in-charge
 
@@ -65,3 +65,6 @@ Distinction for Unit Recognition Award
 Top 3 in Guardians of the City Competition
 
 Outstanding Cadet Award – ASM Hafiz Imraan
+
+![](/images/NCC3-1024x768.jpg)
+![](/images/NCC1-1024x768.jpg)
