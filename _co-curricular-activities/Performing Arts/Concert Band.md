@@ -20,46 +20,43 @@ Nur Lydia Johari  (Mdm) 2IC - Sec 3
 Yu Pei-Yi (Mr) Cluster Head
 
 #### Student Leaders (Concert Band)
-Band Major: Suresh Kumar Lakshan 
-Assistant Band Major: Kessy Choi Jia Yi
-Drum Major : Anson Ho An Sen
-Assistant Drum Major / Secretary: Tham Wei En 
-Librarian: Sri Shivani Sundary Sundram, Phoebe Tan Siew Yin 
-Quartermaster: Samantha Khoo Wen Qian, Siow Zuo Ming Kaden 
-Welfare Officer:  Chan Zi Shun Javis, Aliya, Qaliesya Binte Salim C
-Section Leader (Clarinet): Phoebe Tang Siew Yin 
-Section Leader (Saxophone): Tham Wei En
-Section Leader (Trumpet): Addy Putra Bin Roslan 
-Section Leader (French Horn) : Sri Shivani Sundary Sundram
-Section Leader (Lower Brass): Tan Yin Xi Alice and Chan Zi Shun Javis (Assistant) 
-Section Leader (Percussion): Suresh Kumar Lakshan 
+* Band Major: Suresh Kumar Lakshan 
+* Assistant Band Major: Kessy Choi Jia Yi
+* Drum Major : Anson Ho An Sen
+* Assistant Drum Major / Secretary: Tham Wei En 
+* Librarian: Sri Shivani Sundary Sundram, Phoebe Tan Siew Yin 
+* Quartermaster: Samantha Khoo Wen Qian, Siow Zuo Ming Kaden 
+* Welfare Officer:  Chan Zi Shun Javis, Aliya, Qaliesya Binte Salim C
+* Section Leader (Clarinet): Phoebe Tang Siew Yin 
+* Section Leader (Saxophone): Tham Wei En
+* Section Leader (Trumpet): Addy Putra Bin Roslan 
+* Section Leader (French Horn) : Sri Shivani Sundary Sundram
+* Section Leader (Lower Brass): Tan Yin Xi Alice and Chan Zi Shun Javis (Assistant) 
+* Section Leader (Percussion): Suresh Kumar Lakshan
 
 #### Student Leaders (Admin)
-#### 
-House Leader: Tan Yin Xi Alice 
-Secondary 1 Level Leaders: Thiyara
-Secondary 2 Level Leader: Aliya Qaliesya Binte Salim 
-Secondary 3 Level Leaders: Suresh Kumar Lakshan and Kessy Choi Jia Yi
-Secondary 4 and 5 Level Leader: Muhammad Naqib and Chai Vi Ann
+* House Leader: Tan Yin Xi Alice 
+* Secondary 1 Level Leaders: Thiyara
+* Secondary 2 Level Leader: Aliya Qaliesya Binte Salim 
+* Secondary 3 Level Leaders: Suresh Kumar Lakshan and Kessy Choi Jia Yi
+* Secondary 4 and 5 Level Leader: Muhammad Naqib and Chai Vi Ann
 
 #### Training Days
 Tuesdays (3.30 – 5.30pm)
 Fridays (2.30 – 5.30pm)
 
 #### Achievements
-Singapore Youth Festival Arts Presentation 2021 – Certificate of Accomplishment
-Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishment Performed at World Down Syndrome Day Concert (2019)
-Performed at Schools in Concert at Victoria Concert Hall (2018)
-Performed at World Down Syndrome Day Concert (2018)
-Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment
-Participation in Singapore Youth Festival Parade of Bands – 2016
-Singapore Youth Festival Arts Presentation 2015 – Certificate of Accomplishment
+* Singapore Youth Festival Arts Presentation 2021 – Certificate of Accomplishment
+* Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishment Performed at World Down Syndrome Day Concert (2019)
+* Performed at Schools in Concert at Victoria Concert Hall (2018)
+* Performed at World Down Syndrome Day Concert (2018)
+* Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment
+* Participation in Singapore Youth Festival Parade of Bands – 2016
+* Singapore Youth Festival Arts Presentation 2015 – Certificate of Accomplishment
 
 #### Frequently Asked Questions
 
-1.  What instruments does Band offer? 
-    
-
+1\.  What instruments does Band offer? 
 The instruments that our Band has are Flute, Clarinet, Bass Clarinet, Saxophone, Bassoon, Trumpet, French Horn, Trombone, Euphonium, Tuba and other various percussion instruments. 
 
 2\. What kind of band are we and what can my child expect in band?
