@@ -4,9 +4,6 @@ permalink: /holistic-development/co-curricular-activities/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-### **NPCC**
 With the mission of developing its members to be active citizens and community leaders, National Police Cadet Corps (NPCC) serves as a platform to harness and mould the leadership competencies of its members. This is achieved through a wide spectrum of activities that transpire values that are necessary for today’s society such as teamwork, creative thinking and conflict resolution.
 
 Whilst training may be rigorous at times, it is through these tough times that our members’ character and values are formed, specifically during the drills and camp craft sessions that continue to play an integral role in the NPCC identity.
@@ -61,5 +58,3 @@ Sustained Gold Award for Inter-Unit Overall Proficiency Award Competition in 201
 Achieved Top 10 in NPCC .22 Inter-Unit Shooting Competition 2019 for Team Category (Female).<br>
 Achieved Top 8 in NPCC .22 Inter-Unit Shooting Competition 2018 for Team Category (Male).<br>
 Achieved Top 8 in Jurong Division’s Youth Video Competition 2017.
-
-**requires video to be uploaded to youtube**
