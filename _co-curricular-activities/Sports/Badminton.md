@@ -14,26 +14,21 @@ In 2022, we opened up a ‘C’ Division girls team. Even though we are still in
 
 So do join us and contribute to this family of smashing people!
 
-#### **CCA Mentors**
+#### CCA Mentors
+Pang Chee Peng (Mr) OIC- Sec 1 <br>
+Liew-Soh Mui Ling Athena (Mrs) 2IC – Sec 2<br>
+Nur Aida Md Khalid (Mdm) Sec 3, 4 & 5 <br>
+Ong Kheng Loon (Mr) Cluster Head <br>
 
-Pang Chee Peng (Mr) OIC- Sec 1
-
-Liew-Soh Mui Ling Athena (Mrs) 2IC – Sec 2
-
-Nur Aida Md Khalid (Mdm) Sec 3, 4 & 5
-
-Ong Kheng Loon (Mr) Cluster Head
-
-
-#### **Student Leaders**
+#### Student Leaders
 Captain : Jarren Tan Wei Heng (Upper Sec)<br>
 Loh Jayden (Lower Sec)<br>
 Vice Captain : Nur Iman Aniq Bin Abdullah (Upper sec)<br>
 William Chan Weng Wah (Lower Sec)
 
-#### **Training Days**
+#### Training Days
 Tuesdays (3.00 pm to 5.30 pm)<br>
-Fridays (2.30 pm to 5.30 pm)
+Fridays (2.30 pm to 5.30 pm) <br>
 
 <img src="/images/badminton.jpg" style="width:100%" align=left>
 
