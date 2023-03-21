@@ -4,10 +4,7 @@ permalink: /holistic-development/co-curricular-activities/club-and-societies/cyb
 description: ""
 third_nav_title: Club and Societies
 ---
-### **Cyberace**
 CyberAce is an Infocomm and Technology (IT) club focusing on the areas of the robotics, media and photography. In these areas, the club helps its members to be good at the related skills and further develops them, at the same time sharpening their logical and creative thinking abilities.
-
-**requires video to be uploaded to youtube**
 
 Through the various contributions via the club activities and school events, members develop a great sense of responsibility and discipline in their respective teams. The Photography Team captures important moments during school events while the Design Team uses applications such as Inkscape to produce publicity materials for the school’s social media pages. Using the Lego Mindstorm EV3, the Robotics Team gets to stretch their ability in the area of coding. Also, the club actively seeks opportunities for its members to challenge themselves in external competitions such as the Lego Mindstorm, Digital Storytelling and many others. Concurrently, by participating in the competitions and representing the school at the same time, it helps them in their LEAPS 2.0 achievements.
 
@@ -17,7 +14,7 @@ Lastly, CyberAce Club builds in its members confidence, creativity and independe
 
 So come and join us and explore the world of digital technology.
 
-<img src="/images/cyberace.jpg" style="width:65%" align=left>
+<img src="/images/cyberace.jpg" style="width:100%" align=left>
 
 <br clear="left">
 
@@ -32,7 +29,10 @@ Tuesdays (3.00 pm to 5.30 pm)<br>
 Fridays (2.30 pm to 5.30 pm)
 
 #### **Student Leaders**
-Guruvaran S/O Suresh Gopalan<br>
-Ong Ye Xun<br>
-Lau Jun Jie<br>
-Maziah Hamdan
+**
+Kee En Xuan Caressa
+Pappu Surya Vardhan
+Kaylie Lim
+Dzayn Ang
+
+**
