@@ -19,12 +19,10 @@ Mdm Nor Faatihah (CCAM Sec 1 & 2)<br>
 Mrs Hong-Chuah Mei Thien (Cluster head)
 
 #### **Student Leaders**
-**
 Captains : Pon Abbenayaa (Upper sec)
 Nur Alisyah (Lower sec)
 Vice Captains : Tey Shu Juan (Upper Sec)
 Adlin (Lower Sec)
-**
 
 #### **Training Days**
 Tuesdays (3.00 pm to 5.30 pm)<br>
