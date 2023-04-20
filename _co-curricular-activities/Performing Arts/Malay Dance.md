@@ -18,31 +18,31 @@ Lastly, the CCA welcomes both inexperienced and experienced dancers of all race
 
 ![](/images/MD2.jpg)
 
-#### **CCA Mentors**
-Nur Shafiah Md Azmi (Mdm) 2OIC – Sec 1
-Lin Ying (Miss) Sec 2
-Siti Elfareeza Mohd Ehsan (Mdm) OIC – Sec 3, 4 & 5
-Nazerah (Mdm) Cluster Head
+#### CCA Mentors
+Nur Shafiah Md Azmi (Mdm) 2OIC – Sec 1 <br>
+Lin Ying (Miss) Sec 2 <br>
+Siti Elfareeza Mohd Ehsan (Mdm) OIC – Sec 3, 4 & 5 <br>
+Nazerah (Mdm) Cluster Head <br>
 
-#### **Student Leaders**
-Ika Nur Balqis (President)
-Sandy Batrisyia(Vice-President)
-Anwar Yusoff  (Physical Fitness IC/ Boys’ wardrobe IC)
-Nur Laila Qiara (Wardrobe IC)
-Nurul Wahyu Insya (Wardrobe 2IC)
-Nur Qistina Aliyah (Lower Sec IC)
-Siti Raudah (Lower Sec 2IC)
-Nur Firzanah (Assistant House Head)
-Ainur Jannah (House Leader)
+#### Student Leaders
+Ika Nur Balqis (President) <br>
+Sandy Batrisyia(Vice-President) <br>
+Anwar Yusoff  (Physical Fitness IC/ Boys’ wardrobe IC) <br>
+Nur Laila Qiara (Wardrobe IC) <br>
+Nurul Wahyu Insya (Wardrobe 2IC) <br>
+Nur Qistina Aliyah (Lower Sec IC) <br>
+Siti Raudah (Lower Sec 2IC) <br>
+Nur Firzanah (Assistant House Head) <br>
+Ainur Jannah (House Leader)<br>
 
-#### **Training Days**
+#### Training Days
 Tuesdays (3.00 pm to 5.30 pm)<br>
 Fridays (2.30 pm – 5.30 pm)
 
-#### **Achievements**
+#### Achievements
 Singapore Youth Festival Arts Presentation 2021 – Certificate of Distinction<br>
 Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction<br>
-Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment
+Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment <br>
 
 ![](/images/MD3.jpg)
 ![](/images/MD4.jpg)

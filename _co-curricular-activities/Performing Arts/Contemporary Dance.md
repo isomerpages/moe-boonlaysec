@@ -10,27 +10,27 @@ The club exposes our dancers to the various dance genres and a wide spectrum of 
 
 The club provides students with opportunities to hone their dance techniques, through programmes such as dance camps, excursions to concerts and participation in dance competitions, such as Teenage Dance Challenge Competition, as well as school and public performances.
 
-#### **CCA Mentors**
+#### CCA Mentors
 Ms Fong Siong Kuen (OIC / CCAM Sec 3)<br>
 Ms Lim Siew Ly (2IC / CCAM Sec 1 & 2)<br>
 Mdm Norfarhana Bte Sabtu (CCAM Sec 4 & 5)<br>
-Mrs Hong-Chuah Mei Thien (Cluster head)
+Mrs Hong-Chuah Mei Thien (Cluster head)<br>
 
-#### **Instructor**
+#### Instructor
 Ms Jean Lip Jiayi (Arts Culture)
 
-#### **Leaders**
+#### Leaders
 President : Ong Pei Qin<br>
 Vice President : Lim Lee Ting<br>
 Dance Mistress : Cecilia Tan, Sharveena<br>
 Project & Welfare I/C : Tracy Gan, Gladys Tan<br>
 Logistic cum Costume I/C : Aparna, Nayli
 
-#### **Training Days**
+#### Training Days
 Tuesday (3.00 pm – 5.30 pm)<br>
 Friday (1.15 pm – 4.30 pm)
 
-#### **Achievements**
+#### Achievements
 Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishment<br>
 Teenage Dance Challenge Competition 2019- Top 5 (Street Dance Category)<br>
 Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment

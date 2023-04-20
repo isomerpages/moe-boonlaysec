@@ -3,4 +3,4 @@ title: Direct School Admission (DSA)
 permalink: /other-links/dsa/
 description: ""
 ---
-Click [here](/files/dsa.pdf) for DSA information for 2022.
+[BLS DSA 2023.pdf](https://github.com/isomerpages/moe-boonlaysec/files/11269187/BLS.DSA.2023.pdf)

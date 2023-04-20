@@ -13,36 +13,30 @@ Building on each other’s strengths and working towards improving as a team, th
 The club believes in presenting various performance opportunities to ignite every member’s passion in performing through various school exchanges, boot camp, internal and public performances. The Boon Lay Secondary School Musical Theatre Club is certain to groom every passionate performer to stage their every own imagination and become a greater self.
 
 #### **CCA Mentors**
-Tan Zhi Ying Serlin (Miss) Sec 1 
-Haznita Jaafar (Mdm) 2IC – Sec 2
-Nur Faidah Hassan (Mdm) OIC – Sec 3, 4 & 5
-Rita Thia (Miss) Cluster Head
+Tan Zhi Ying Serlin (Miss) Sec 1 <br>
+Haznita Jaafar (Mdm) 2IC – Sec 2<br>
+Nur Faidah Hassan (Mdm) OIC – Sec 3, 4 & 5<br>
+Rita Thia (Miss) Cluster Head<br>
 
-#### **Instructor**
+#### Instructor
 Joeve<br>
 Phobe<br>
-Isabelle
+Isabelle<br>
+ 
+#### Student Leaders
+Tan Yong Xuan Jordan<br>
+Wang Yun Xuan Nicole<br>
+Manikandeswaran S/O Isepran<br>
+Kathiravan Priyanka<br>
 
-#### **Student Leaders**
-Tan Yong Xuan Jordan
-Wang Yun Xuan Nicole
-Manikandeswaran S/O Isepran
-Kathiravan Priyanka
-
-#### **Training Days**
+#### Training Days
 Tuesday (3.00 pm to 5.30 pm)<br>
 Friday (2.30 pm to 5.30 pm)
 
-#### **Achievements**
+#### Achievements
 SYF Arts Presentation 2021- Certificate of Accomplishment<br>
 SYF Arts Presentation 2019 – Certificate of Accomplishment<br>
 SYF Arts Presentation 2017 – Certificate of Distinction
 
-![](/images/MT.jpg)
-
-
 <img src="/images/musicaltheatre1.jpg" style="width:100%" align=left>
 <img src="/images/musicaltheatre2.jpg" style="width:100%" align=left>
-<img src="/images/musicaltheatre3.jpg" style="width:100%" align=left>
-
-<br clear="left">

@@ -13,27 +13,27 @@ In BLS, SJB seeks to equip all cadets with life-saving skills of first aid, 
 Aligned to the goals of SJB, our unit provides first aid services not only to the school, but also to the public by performing public duties at community events.
 
 
-#### **CCA Mentors**
+#### CCA Mentors
 Ms Gayathiri d/o Nandakuma (OIC / CCAM Sec 3)<br>
 Mrs Sabitha Nasser (2IC / CCAM Sec 2)<br>
 Ms Wang Xiaoxi (CCAM Sec 1)<br>
 Mr Mohammad Khusni B Jumadi (CCAM Sec 4 & 5 )<br>
 Ms Bhavaniswari D/O Batumalia (Cluster head)
 
-#### **Chairperson**
+#### Chairperson
 SGT Asilah Hamizah Binte Afandi
 
-#### **Vice-Chairperson**
+#### Vice-Chairperson
 LCP Nur Syazwani Nadhirah
 
-#### **Our Achievements**
-(Corps Achievement Award suspended for 2021 - 2022)
+#### Our Achievements
+(Corps Achievement Award suspended for 2021 - 2022) <br>
 Corps Achievement Award (2017) – Gold<br>
 Corps Achievement Award (2018) – Gold<br>
 Corps Achievement Award (2019) – Gold<br>
-Corps Achievement Award (2020) – Gold
+Corps Achievement Award (2020) – Gold <br>
 
-#### **Chief Commissioner Badge Awardees**
+#### Chief Commissioner Badge Awardees
 <figure>
 <img src="/images/sjab1.jpg" style="width:50%">
 <figcaption>2019 Recipients
@@ -58,14 +58,14 @@ Corps Achievement Award (2020) – Gold
  </figcaption>
 </figure>
 
-#### **Our Weekly Activities**
+#### Our Weekly Activities
 <img src="/images/sjab5.jpg" style="width:100%" align=left>
 <img src="/images/sjab6.jpg" style="width:100%"align=left>
 <img src="/images/sjab7.jpg" style="width:100%"align=left>
 
 <br clear="left">
 
-#### **School Events**
+#### School Events
 <img src="/images/sjab8.jpg" style="width:100%" align=left>
 
 <br clear="left">
@@ -76,7 +76,7 @@ Corps Achievement Award (2020) – Gold
 
 <br clear="left">
 
-#### **Frequently Asked Questions (FAQ)**
+#### Frequently Asked Questions (FAQ)
 **1.** **What is the aim of St John Brigade (SJB)?**<br>
 St John Brigade aims to equip members with skills to relieve pain and suffering, and save the lives of those in need.
 

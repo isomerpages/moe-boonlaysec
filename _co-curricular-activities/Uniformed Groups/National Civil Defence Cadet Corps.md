@@ -12,19 +12,19 @@ NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3 big 
 
 ![](/images/NCDCC-1-1024x768.jpeg)
 
-#### **CCA Mentors**
+#### CCA Mentors
 Mdm Chan Bee Bee (OIC / CCAM Sec 1)<br>
 Ms Lee Xiu Wen (2IC / CCAM Sec 4 & 5)<br>
 Ms Tan Ying Hwee (CCAM- Sec 3)<br>
 Mr Kwek Joon Hong (CCAM- Sec 2)<br>
-Mr Ooi Chong Min ( Cluster Head)
+Mr Ooi Chong Min ( Cluster Head)<br>
 
-#### **CCA Leaders**
-Unit Sergeant Major: John Joseph Andoy Sam Pillai
-Assistant Unit Sergeant Major: Mohamed Faris Haziq Bin Mohamed Effendi
-Regimental Sergeant Major: Kyra Qistina Putri Khairul Anwar
+#### CCA Leaders
+Unit Sergeant Major: John Joseph Andoy Sam Pillai <br>
+Assistant Unit Sergeant Major: Mohamed Faris Haziq Bin Mohamed Effendi <br>
+Regimental Sergeant Major: Kyra Qistina Putri Khairul Anwar <br>
 
-#### **Activities**
+#### Activities
 Fire Safety Training<br>
 First Aid Training<br>
 Foot Drill Bronze, Silver and Gold<br>
@@ -35,14 +35,12 @@ NCDCC Observance Ceremony<br>
 Total Defence Day<br>
 NCDCC Service Month<br>
 Affirmation Day<br>
-National Day Parade
+National Day Parade<br>
 
-#### **Achievements**
-2021 Unit Overall Proficiency Award (UOPA) GOLD
-2019 Unit Overall Proficiency Award (UOPA) GOLD
-2018 Unit Overall Proficiency Award (UOPA) GOLD
-2017 Unit Overall Proficiency Award (UOPA) SILVER
-
-
-2019-2021 SCDF-NCDCC Pinnacle Badge Award
-2019-2021 Best Unit Cadet
+#### Achievements
+2021 Unit Overall Proficiency Award (UOPA) GOLD <br>
+2019 Unit Overall Proficiency Award (UOPA) GOLD <br>
+2018 Unit Overall Proficiency Award (UOPA) GOLD <br>
+2017 Unit Overall Proficiency Award (UOPA) SILVER <br>
+2019-2021 SCDF-NCDCC Pinnacle Badge Award <br>
+2019-2021 Best Unit Cadet <br>

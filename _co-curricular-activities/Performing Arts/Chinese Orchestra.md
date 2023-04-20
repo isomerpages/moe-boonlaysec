@@ -15,34 +15,23 @@ As a family, Chinese Orchestra also inculcates a strong sense of responsibility,
 If you are interested in playing Chinese cultural instruments, come join us and be part of our family.
 
 #### CA Mentors
-
-Liang Soo Ling (Mdm) OIC – Sec 1 and 2
-
-Tan Teck Wan Johnny (Mr) – Sec 2
-
-Muhammad Yunus Sunanwi (Mr) (AYH )2IC  – Sec 3
-
-Lian Xiao Lin (Miss) – Sec 4&5
-
-Ooi Chong Min (Mr) Cluster Head
+Liang Soo Ling (Mdm) OIC – Sec 1 and 2 <br>
+Tan Teck Wan Johnny (Mr) – Sec 2 <br>
+Muhammad Yunus Sunanwi (Mr) (AYH )2IC  – Sec 3 <br>
+Lian Xiao Lin (Miss) – Sec 4&5 <br>
+Ooi Chong Min (Mr) Cluster Head <br>
 
 #### Student Leaders
-
-Chairperson/House Master : Fong Jing Yi / Rajukumar Ragavi
-
-Vice-Chairperson/ Event Direction : Hew Zhi Han, Rene / Jovial Yong Jie En
+Chairperson/House Master : Fong Jing Yi / Rajukumar Ragavi <br>
+Vice-Chairperson/ Event Direction : Hew Zhi Han, Rene / Jovial Yong Jie En <br>
 
 #### Training Days
-
-Tuesdays (Combined Practice) 3.30 pm – 5.30 pm
-
-Fridays (Sectional Practice) 2.30 pm – 5.30 pm
+Tuesdays (Combined Practice) 3.30 pm – 5.30 pm<br>
+Fridays (Sectional Practice) 2.30 pm – 5.30 pm<br>
 
 #### Achievements
-Singapore Youth Festival Arts Presentation 2021 Certificate of Distinction
-Singapore Youth Festival Arts Presentation 2019 Certificate of Distinction
-Boon Lay Secondary School SHINE Award 2019 Fourth Place
-
+Singapore Youth Festival Arts Presentation 2021 Certificate of Distinction <br>
+Singapore Youth Festival Arts Presentation 2019 Certificate of Distinction <br>
+Boon Lay Secondary School SHINE Award 2019 Fourth Place <br>
+Boon Lay Secondary School SHINE Award 2018 Second Place <br>
 ![](/images/CO.jpeg)
-
-Boon Lay Secondary School SHINE Award 2018 Second Place
