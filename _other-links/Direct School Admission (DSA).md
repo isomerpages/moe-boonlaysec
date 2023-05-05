@@ -3,4 +3,4 @@ title: Direct School Admission (DSA)
 permalink: /other-links/dsa/
 description: ""
 ---
-[BLS DSA 2023](/files/bls%20dsa%202023.pdf)
+[Boon Lay Secondary School DSA 2023](/files/boon%20lay%20sec%20sch%20dsa%202023.pdf)
