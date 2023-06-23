@@ -4,4 +4,4 @@ permalink: /other-links/bls-timetable/
 description: ""
 ---
 ### **BLS Timetable**
-[2023 June Consultation](/files/2023%20june%20consults_classes.pdf)
+[2023 Sem 2 Timetable](/files/2023%20sem%202%20timetable.pdf)
