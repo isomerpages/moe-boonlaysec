@@ -4,23 +4,231 @@ permalink: /departments/executive-and-administrative/
 description: ""
 ---
 ### **Executive and Administrative**
-| **No** | **Designation** | **Name** |
-| --- | --- | --- |
-| 1 | Administrative  Manager | Mdm Sulaiha Bibi Bte Ali |
-| 2 | Administrative  Manager | Wu He-ow Meng |
-| 3 | Operations Manager | Mr Mohamad Jalil Ali Ahmad |
-| 4 | ICT Manager | Ms Fazalisma Mohamed |
-| 5 | Admin Executive | Mdm Suziana Mohd Dom |
-| 6 | Management Support Officer | Mdm Thamilarasi d/o Kurusamy |
-| 7 | Technical Support Officer | Mr Chua Peng Kuey |
-| 8 | Technical Support Officer | Mr Sulaiman Sarman |
-| 9 | Operations Support Officer | Mdm Jayamani d/o S Marimuthu |
-| 10 | Operations Support Officer | Mdm Goh Chew Hoon |
-| 11 | Operations Support Officer | Mdm Letchimi D/O Ayasamy |
-| 12 | Operations Support Officer | Miss Low Sew Tee |
-| 13 | Operations Support Officer | Mr Mohammad bin Bawa |
-| 14 | Operations Support Officer | Mdm Silverani d/o Nalliah |
-| 15 | Desktop Engineer 1 | Mr Simon Koh |
-| 16 | Desktop Engineer 2 | Ms Nurin Jazlina Sulaiman |
-| 17 | School Librarian | Mdm Susan Lim Lay Hoon |
-| 18 | Kitchen Aide | Mdm Zaitoon Bee d/o Sayed Mohd |
+
+  
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="95%" style="width:95.0%;background:white;border-collapse:collapse;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Administrative &nbsp;Manager</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border:solid #D6D6D6 1.0pt;
+  border-left:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Sulaiha Bibi Bte Ali</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Administrative &nbsp;Manager</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Wu He-ow Meng</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Operations Manager</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mr Mohamad Jalil Ali Ahmad</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">ICT Manager</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Ms Fazalisma Mohamed</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:4"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Admin Executive</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Suziana Mohd Dom</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:5"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Management Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Thamilarasi d/o Kurusamy</span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:
+  AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:6"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Technical Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mr Chua Peng Kuey</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:7"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Technical Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mr Sulaiman Sarman</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:8"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Operations Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Jayamani d/o S Marimuthu</span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:
+  AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:9"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Operations Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Goh Chew Hoon</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:10"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Operations Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Letchimi D/O Ayasamy</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:11"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Operations Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Miss Low Sew Tee</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:12"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Operations Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mr Mohammad bin Bawa</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:13"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Operations Support Officer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Silverani d/o Nalliah</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:14"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Desktop Engineer</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mr Simon Koh</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:15"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">School Librarian</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Susan Lim Lay Hoon</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes"><td width="64%" valign="top" style="width:64.64%;border:solid #D6D6D6 1.0pt;
+  border-top:none;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Kitchen Aide</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA"></span></p></td><td width="35%" valign="top" style="width:35.36%;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#3C4764;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:AR-SA">Mdm Zaitoon Bee d/o Sayed Mohd</span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none;mso-bidi-language:
+  AR-SA"></span></p></td></tr></tbody></table>

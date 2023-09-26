@@ -3,6 +3,10 @@ title: Announcement
 permalink: /other-links/announcement/
 description: ""
 ---
+#### **Briefing slides on subject combination exercise 2023**
+
+Click the following link:- [Briefing slides](/files/briefing%20slides%20on%20subject%20combination%20exercise%202023.pdf)
+
 #### **Growth Mindset**
 
 Click the following link to be familiar with the 3P approach – Prepare, Practise and Participate.
