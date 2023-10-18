@@ -56,7 +56,7 @@ Contact: Ms Sulaiha 67940161
 Device Management Application
 
 #### **ICT Helpdesk at the School Library**  
-Contact 1: Ms Rita Thia 6794 0161
+Contact 1: Ms Rita Thia 6794 0161   
 Contact 2: Ms Fazalisma 6794 0161  
 Email:&nbsp;[blss@moe.edu.sg](mailto:blss@moe.edu.sg)&nbsp;(Do include subject as DMA in your email)
 
