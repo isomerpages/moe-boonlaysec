@@ -31,3 +31,5 @@ Chua Rui Sheng, Aiden<br>
 Aaron Bin Hussein<br>
 Elfa Aqishya Binte Hairi<br>
 Jayden Lee Kai Heng (Li Kaiheng)
+
+![](/images/CA1.JPG)
