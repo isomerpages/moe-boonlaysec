@@ -3,6 +3,7 @@ title: Choir
 permalink: /holistic-development/co-curricular-activities/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 The Boon Lay Secondary School Choir is a mixed youth choir. The Choir presents the talented voices of Boon Lay Secondary School at major school events and public showcases. It performs an extensive repertoire, ranging from Choral Classics to light jazz pieces, and contemporary pop music. In recent years, the choir has risen to greater heights, upholding the standard of choral excellence as the choir continues to achieve the Certificate of Distinction in Singapore Youth Festival Arts Presentation since 2013.
 
@@ -49,4 +50,8 @@ Singapore Youth Festival Arts Presentation 2017 – Certificate of Distinction <
 Singapore Youth Festival Arts Presentation 2015 – Certificate of Distinction <br>
 Singapore Youth Festival Arts Presentation 2013 – Certificate of Distinction <br>
 
-<img src="/images/choir3.jpg" style="width:100%" align=left>
+![](/images/CH1.jpeg)
+![](/images/CH2.jpg)
+![](/images/CH3.jpeg)
+![](/images/CH4.jpeg)
+![](/images/CH5.jpg)
