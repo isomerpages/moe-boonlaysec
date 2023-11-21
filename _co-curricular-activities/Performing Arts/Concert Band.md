@@ -84,3 +84,10 @@ ii. Committee members who perform duties to ensure the smooth conduct of the ban
 iii. Section Leaders who take charge of the training of their section mates (for students who excel in musicianship).
 
 Every student will be given the opportunity to shine. In BLS Concert Band, we adopt a progression system where students will be trained to manage smaller duties before taking on larger responsibilities.
+
+![](/images/B1.jpeg)
+![](/images/B2.jpeg)
+![](/images/B3.jpeg)
+![](/images/B4.jpeg)
+![](/images/B5.jpeg)
+![](/images/B6.jpeg)
