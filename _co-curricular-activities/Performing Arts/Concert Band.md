@@ -67,7 +67,7 @@ Singapore Youth Festival Arts Presentation 2015 – Certificate of Accomplishmen
 
 1.  What instruments does Band offer?&nbsp;
 
-Currently, the instruments that our Band has are Flute, Clarinet, Bass Clarinet, Saxophone, Trumpet, French Horn, Trombone, Euphonium, Tuba and other various percussion instruments. More can be allocated dependant on cohort size.
+Currently, the instruments that our Band has are Flute, Clarinet, Bass Clarinet, Saxophone, Trumpet, French Horn, Trombone, Euphonium, Tuba and other various percussion instruments. More can be allocated depending on cohort size.
 
 2. What kind of band are we and what can my child expect in band?
 
