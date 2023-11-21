@@ -3,40 +3,31 @@ title: Cyberace
 permalink: /holistic-development/co-curricular-activities/club-and-societies/cyberace/
 description: ""
 third_nav_title: Club and Societies
+variant: markdown
 ---
-CyberAce is an Infocomm and Technology (IT) club focusing on the areas of the robotics, media and photography. In these areas, the club helps its members to be good at the related skills and further develops them, at the same time sharpening their logical and creative thinking abilities.
+CyberAce's principal aim is to enhance students' proficiency in design, programming, and photography by integrating these disciplines into projects that capitalise on their intersections. The club seeks to cultivate logical and creative thinking skills among its members, providing them with hands-on experience in various activities and events. This includes capturing important moments at school events, crafting publicity materials, and participating in robotics competitions, all contributing to the development of valuable skills.
 
-Through the various contributions via the club activities and school events, members develop a great sense of responsibility and discipline in their respective teams. The Photography Team captures important moments during school events while the Design Team uses applications such as Inkscape to produce publicity materials for the school’s social media pages. Using the Lego Mindstorm EV3, the Robotics Team gets to stretch their ability in the area of coding. Also, the club actively seeks opportunities for its members to challenge themselves in external competitions such as the Lego Mindstorm, Digital Storytelling and many others. Concurrently, by participating in the competitions and representing the school at the same time, it helps them in their LEAPS 2.0 achievements.
+Furthermore, the club actively pursues opportunities for members to push their boundaries in external competitions such as First Lego League, IgNite Challenge and Digital Storytelling, thereby contributing to their LEAPS 2.0 achievements. Emphasising leadership development, executive members take charge of organising events like Bonding Day and Values In Action activities and now play integral roles in planning and executing CCAs.
 
-Leadership is another area where we place an importance to. The executive members of the Cyberace Club are given platforms to hone their planning and leadership skills by running the club under the guidance of the teachers-in-charge. Events that the executive members have organised include Bonding Day and the Values In Action activities. Now, they assist in the planning and running of e-CCAs.
+In essence, CyberAce Club adopts a comprehensive approach to nurture confidence, creativity and independence in its members, fostering a dynamic environment for building relationships. Join us on an exploration of the captivating realm of digital technology!
 
-Lastly, CyberAce Club builds in its members confidence, creativity and independence, while having fun and building relationships at the same time.
 
-So come and join us and explore the world of digital technology.
-
-<img src="/images/cyberace.jpg" style="width:100%" align=left>
-
-<br clear="left">
 
 #### **CCA Mentors**
-Mdm Azlina Muslimin (OIC / CCAM Sec 3)
-
-Mr Lek Yi Xian (2IC / CCAM Sec 4 & 5)
-
-Mdm Suziela Yassin (CCAM Sec 1 & 2)
-
+Mr Lek Yi Xian (2IC/CCAM Sec 1 and 2)<br>
+Mr Salizam Jaafar (CCAM Sec 3)<br>
+Ms Azlina Muslimin (OIC/CCAM Sec 4 and 5)<br>
 Ms Alexandria Tang (Cluster Head)
 
-#### **Training Days**
-Tuesdays (3.00 pm to 5.30 pm)<br>
-Fridays (2.30 pm to 5.30 pm)
 
 #### **Student Leaders**
+Chairperson : Gnan Zhong Wei<br>
+Vice-Chairperson: Luthfi Hakim Bin A Zaini<br>
+House Leader: Le Nguyen Chi Han
 
-Kee En Xuan Caressa
-
-Pappu Surya Vardhan
-
-Kaylie Lim
-
-Dzayn Ang
+#### **Exco Members**
+Chockanathan Rohith Kumar<br>
+Chua Rui Sheng, Aiden<br>
+Aaron Bin Hussein<br>
+Elfa Aqishya Binte Hairi<br>
+Jayden Lee Kai Heng (Li Kaiheng)
