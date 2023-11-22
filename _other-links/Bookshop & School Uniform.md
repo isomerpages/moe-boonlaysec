@@ -25,7 +25,7 @@ variant: markdown
 [BLS Booklist and Stationery List 2024_Sec 4 NT](/files/Sec_4NT_2024.pdf)<br>
 [BLS Booklist and Stationery List 2024_Sec 5 NA](/files/Sec_5NA_2024.pdf)
 
-#### **2023 School Uniform**
+#### **2024 School Uniform**
 [BLS Uniform Sale Schedule](/files/BLSS___2023_Year_End_Sale_CF_Shanghai.pdf)
 
 #### **Schedule For Year End Sales and FAS Collection**
