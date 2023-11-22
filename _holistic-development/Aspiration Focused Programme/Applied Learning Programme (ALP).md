@@ -57,11 +57,3 @@ Students will engage in self-reflection to identify their strengths and areas of
 | Secondary Three | STE(A)M-related Student Development Modules,<br>STE(A)M-related competitions,<br>Advanced Elective Module  |
 |
 
-##### **Competitions**
-
-| Competition | Achievements |
-|---|---|
-| Ignite Skills Challenge ITE 2021<br>  | Finalist Digital Media Storytelling <br>Finalist Ninja ball challenge <br>Gold Social Media marketing  |
-| HP Youth Innovator Challenge by Southwest CDC | Team 2 Rocket Science<br>1st runner up <br>Most innovative idea  |
-| Science and Tech Challenge by Nanyang Polytechnic | Overall Second Runner Up <br>Third place in energy harvester<br>Second place in build your dream aircraft  |
-|
