@@ -32,7 +32,7 @@ variant: markdown
 [BLS Uniform Sale Schedule](/files/BLSS___2023_Year_End_Sale_CF_Shanghai.pdf)
 
 #### **Schedule For Year End Sales and FAS Collection**
-[BLS Year End Schedule Sales and FAS Collection](/files/BLS_Year_End_Schedule_for_Sales_and_FAS_collection_of_Textbooks_and_Uniform__2023_.pdf)
+[Operating Hours of Bookshop](/files/BLS_Year_End_Schedule_for_Sales_and_FAS_collection_of_Textbooks_and_Uniform__2023_.pdf)
 
 **Address**<br>
 D Y Education Service Trading<br>
