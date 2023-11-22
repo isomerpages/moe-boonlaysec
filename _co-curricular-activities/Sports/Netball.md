@@ -3,6 +3,7 @@ title: Netball
 permalink: /holistic-development/co-curricular-activities/sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 BLS Team Netball is a CCA which promotes great teamwork and dedication. Our training sessions take place on Tuesdays and Fridays. During these training sessions, the team explores various training methods, including strengthening techniques to ensure that we are equipped with the necessary Netball skills, stamina as well as endurance in preparation for our upcoming matches and competitions. Off court, the team ensures they remain physically active and set targets to meet the internal school sports events such as Games Day and the BLS SHINE Award.
 
@@ -13,9 +14,9 @@ Besides the competitions, the team organises friendly matches with other schools
 BLS Team Netball will continue to adapt, evolve, persevere and strive for greater heights to ensure that each player achieves her best version.
 
 #### CCA Mentors
-Mdm Siti Nurhani (OIC / CCAM Sec 4 & 5)<br>
+Mdm Siti Nurhani (OIC / CCAM Sec 4 &amp; 5)<br>
 Ms Lee Chinn Yi (2IC / Sec 3)<br>
-Mdm Nor Faatihah (CCAM Sec 1 & 2)<br>
+Mdm Nor Faatihah (CCAM Sec 1 &amp; 2)<br>
 Mrs Hong-Chuah Mei Thien (Cluster head) <br>
 
 #### Student Leaders
@@ -27,3 +28,8 @@ Adlin (Lower Sec)<br>
 #### Training Days
 Tuesdays (3.00 pm to 5.30 pm)<br>
 Fridays (1.30 pm to 4.30 pm)<br>
+
+![](/images/NE1.jpg)
+![](/images/NE2.jpg)
+![](/images/NE3.jpg)
+![](/images/NE4.png)
