@@ -17,7 +17,7 @@ sections:
           description: Connect, Curate, Create
           url: /ndlp/
   - infopic:
-      title: "Open House 2023 "
+      title: Open House 2023
       id: infopic
       description: Come join the BLS family at our Open House on 25 November 2023 from
         9 to 1130 ! See you there!
