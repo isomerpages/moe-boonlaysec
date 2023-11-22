@@ -5,10 +5,11 @@ description: ""
 variant: markdown
 ---
 #### Our Home is Open for you to visit!
+![](/images/BLS_OPEN_HOUSE_2023.png)
 
 Come join the BLS family at our Open House on 25 November! This is your chance to learn more about our exciting programmes and experience what life as a BLS student is like. You'll also get to hear from our school leaders and explore the different CCAs we have to offer!
 
-Date: 25 November (2023)&nbsp;
+Date: 25 November 2023
 Time: 9am - 11.30am
 
 Dialogue with School Leaders&nbsp;
