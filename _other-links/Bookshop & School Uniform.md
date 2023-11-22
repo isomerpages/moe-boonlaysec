@@ -2,6 +2,7 @@
 title: Bookshop & School Uniform
 permalink: /other-links/bookshop-and-sch-uniform/
 description: ""
+variant: markdown
 ---
 #### **Booklist and Stationery list (All Levels)**
 [Boon Lay Secondary School Booklist and Stationery List 2023 (all levels)](/files/booksnschuniform.pdf)
@@ -28,10 +29,10 @@ description: ""
 [BLS Booklist and Stationery List 2023_Sec 5 NA](/files/sec4na.pdf)
 
 #### **2023 School Uniform**
-[BLS – 2022_2023 Year End Sale (Shanghai School Uniform)](/files/schuniform.pdf)
+[](/files/BLSS___2023_Year_End_Sale_CF_Shanghai.pdf)
 
 #### **Schedule For Year End Sales and FAS Collection**
-[BLS Year End Schedule for Sales and FAS collection of Textbooks and Uniform (2022)](/files/fascollection.pdf)
+[](/files/BLS_Year_End_Schedule_for_Sales_and_FAS_collection_of_Textbooks_and_Uniform__2023_.pdf)
 
 **Address**<br>
 D Y Education Service Trading<br>
