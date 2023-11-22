@@ -15,7 +15,7 @@ Time: 9am - 11.30am
 Dialogue with School Leaders&nbsp;
 Time: 9.30 and 10.30am
 
-Sign up using the QR code or sign up for the dialogue via&nbsp;[go.gov.sg/blsopenhouse2](http://go.gov.sg/blsopenhouse23)
+Sign up using the QR code or sign up for the dialogue via&nbsp;[go.gov.sg/blsopenhouse23](http://go.gov.sg/blsopenhouse23)
 
 Priority will be given to those who have registered in advance. Registration will close once the seats are fully taken up.&nbsp; We look forward to meeting you!&nbsp;
 
