@@ -29,10 +29,10 @@ variant: markdown
 [BLS Booklist and Stationery List 2023_Sec 5 NA](/files/sec4na.pdf)
 
 #### **2023 School Uniform**
-[](/files/BLSS___2023_Year_End_Sale_CF_Shanghai.pdf)
+[BLS Uniform Sale Schedule](/files/BLSS___2023_Year_End_Sale_CF_Shanghai.pdf)
 
 #### **Schedule For Year End Sales and FAS Collection**
-[](/files/BLS_Year_End_Schedule_for_Sales_and_FAS_collection_of_Textbooks_and_Uniform__2023_.pdf)
+[BLS Year End Schedule Sales and FAS Collection](/files/BLS_Year_End_Schedule_for_Sales_and_FAS_collection_of_Textbooks_and_Uniform__2023_.pdf)
 
 **Address**<br>
 D Y Education Service Trading<br>
