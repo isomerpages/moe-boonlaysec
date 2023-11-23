@@ -19,7 +19,57 @@ In BLS, SJB seeks to equip all cadets with life-saving skills of first aid, nurs
 Our training also include foot drills which helps to instill discipline in the students. Aligned to the goals of SJB, our unit provides first aid services not only to the school, but also to the public by performing public duties at community events.
 
 **SJB Key Personnel and Achievements**
+![](/images/SJB12.png)
+![](/images/SJB3.png)
+**2023 Corps Achievement Award (Gold) with Chief Commissioner’s Badge Awardees and First Aid Instructor Course Certificate Awardees**
 
+**2023 Chief Commissioner’s Badge Awardees**
+
+1.  SSGT Chuachang Peeranut
+2.  SGT Asilah Hamizah Binte Afandi
+3.  SGT Zafirah Sherin D/O John 
+4.  CPL Chloe Lee Zi Xuan  
+5.  CPL Soh Li Xuan, Chloe
+6.  CPL Wee Jun Kai
+
+![](/images/SJB4.png)
+From left: SGT Zafirah Sherin D/O John, CPL Chloe Lee Zi Xuan, SSGT Chuachang Peeranut, CPL Soh Li Xuan, Chloe, SGT Asilah Hamizah Binte Afandi
+
+#### SJB Weekly Activities and Bonding
+![](/images/SJB5.png)
+Promotion Parade
+![](/images/SJB6.png)
+First Aid and CPR lessons Led by our Corps First Aid Instructor
+![](/images/SJB7.png)
+Secondary 1 Members Orientation
+
+#### School Events
+![](/images/SJB8.png)
+CCA Experience Day
+![](/images/SJB9.png)
+Math and Science Carnival
+
+#### Public Service
+The Boon Lay CC – Safe Hearts Values In Action (VIA) collaboration initiative started from the year 2022. Together with NCDCC, we have been serving the community, doing awareness programmes as well as educating the public in the areas of CPR and the use of AED.&nbsp;
+
+Some of the notable events which we had gone through are:
+
+1.  CPR AED Awareness during “Hawker and Community Day” at Boon Lay Place Food Village&nbsp;
+    
+2.  National Day Observance Ceremony&nbsp;
+    
+3.  CPR AED awareness to Boon Lay residents&nbsp;
+    
+4.  Boon Lay Edusave award presentation – Sharing CPR AED with the community&nbsp;
+    
+5.  Football Tournament @ Jurong West Stadium
+    
+These experiences have reinforced within the students the importance of learning these life-saving skills as well as the need for good communication when they engage the public by educating them about CPR and AED.
+
+![](/images/SJB10.png)
+Football Tournament @ Jurong West Stadium
+![](/images/SJB11.png)
+“Hawker and Community Day” @ Boon Lay Place Food Village
 
 
 #### CCA Mentors
@@ -41,49 +91,6 @@ Corps Achievement Award (2017) – Gold<br>
 Corps Achievement Award (2018) – Gold<br>
 Corps Achievement Award (2019) – Gold<br>
 Corps Achievement Award (2020) – Gold <br>
-
-#### Chief Commissioner Badge Awardees
-<figure>
-<img src="/images/sjab1.jpg" style="width:50%">
-<figcaption>2019 Recipients
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/sjab2.jpg" style="width:50%">
-<figcaption>2020 Recipients
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/sjab3.jpg" style="width:50%">
-<figcaption>2021 Recipients
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/sjab4.jpg" style="width:65%">
-<figcaption>BLS SJB Recipients at Corp Achievement Annual Award Ceremony, St John HQ
- </figcaption>
-</figure>
-
-#### Our Weekly Activities
-<img src="/images/sjab5.jpg" style="width:100%" align="left">
-<img src="/images/sjab6.jpg" style="width:100%" align="left">
-<img src="/images/sjab7.jpg" style="width:100%" align="left">
-
-<br clear="left">
-
-#### School Events
-<img src="/images/sjab8.jpg" style="width:100%" align="left">
-
-<br clear="left">
-
-#### **Our Bonding Sessions**
-<img src="/images/sjab9.jpg" style="width:100%" align="left">
-<img src="/images/sjab10.jpg" style="width:100%;margin-left:px;" align="left">
-
-<br clear="left">
 
 #### Frequently Asked Questions (FAQ)
 **1.**&nbsp;**What is the aim of St John Brigade (SJB)?**<br>

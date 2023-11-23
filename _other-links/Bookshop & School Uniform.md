@@ -2,36 +2,34 @@
 title: Bookshop & School Uniform
 permalink: /other-links/bookshop-and-sch-uniform/
 description: ""
+variant: markdown
 ---
-#### **Booklist and Stationery list (All Levels)**
-[Boon Lay Secondary School Booklist and Stationery List 2023 (all levels)](/files/booksnschuniform.pdf)
-
 #### **Booklist and Stationery list (Sec 1)**
-[BLS Booklist and Stationery List 2023_Sec 1 Exp](/files/sec1e.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 1 NA](/files/sec1na.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 1 NT](/files/sec1nt.pdf)
+[BLS Booklist and Stationery List 2024_Sec 1 Exp](/files/Sec_1Exp_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 1 NA](/files/Sec_1NA_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 1 NT](/files/Sec_1NT_2024.pdf)
 
 #### **Booklist and Stationery list (Sec 2)**
-[BLS Booklist and Stationery List 2023_Sec 2 Exp](/files/sec2e.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 2 NA](/files/sec2na.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 2 NT](/files/sec2nt.pdf)
+[BLS Booklist and Stationery List 2024_Sec 2 Exp](/files/Sec_2Exp_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 2 NA](/files/Sec_2NA_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 2 NT](/files/Sec_2NT_2024.pdf)
 
 #### **Booklist and Stationery list (Sec 3)**
-[BLS Booklist and Stationery List 2023_Sec 3 Exp](/files/sec3e.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 3 NA](/files/sec3na.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 3 NT](/files/sec3nt.pdf)
+[BLS Booklist and Stationery List 2024_Sec 3 Exp](/files/Sec_3Exp_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 3 NA](/files/Sec_3NA_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 3 NT](/files/Sec_3NT_2024.pdf)
 
 #### **Booklist and Stationery list (Sec 4/5)**
-[BLS Booklist and Stationery List 2023_Sec 4 Exp](/files/sec4e.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 4 NA](/files/sec4na.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 4 NT](/files/sec4nt.pdf)<br>
-[BLS Booklist and Stationery List 2023_Sec 5 NA](/files/sec4na.pdf)
+[BLS Booklist and Stationery List 2024_Sec 4 Exp](/files/Sec_4Exp_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 4 NA](/files/Sec_4NA_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 4 NT](/files/Sec_4NT_2024.pdf)<br>
+[BLS Booklist and Stationery List 2024_Sec 5 NA](/files/Sec_5NA_2024.pdf)
 
-#### **2023 School Uniform**
-[BLS – 2022_2023 Year End Sale (Shanghai School Uniform)](/files/schuniform.pdf)
+#### **2024 School Uniform**
+[BLS Uniform Sale Schedule](/files/BLSS___2023_Year_End_Sale_CF_Shanghai.pdf)
 
 #### **Schedule For Year End Sales and FAS Collection**
-[BLS Year End Schedule for Sales and FAS collection of Textbooks and Uniform (2022)](/files/fascollection.pdf)
+[Operating Hours of Bookshop and Uniform Vendors](/files/BLS_Year_End_Schedule_for_Sales_and_FAS_collection_of_Textbooks_and_Uniform__2023_.pdf)
 
 **Address**<br>
 D Y Education Service Trading<br>
