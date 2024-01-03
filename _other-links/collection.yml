@@ -2,7 +2,6 @@ collections:
   other-links:
     output: true
     order:
-      - School Canteen.md
       - Announcement.md
       - Students Handbook.md
       - BLS Timetable.md
@@ -10,3 +9,4 @@ collections:
       - Library.md
       - Direct School Admission (DSA).md
       - Bookshop & School Uniform.md
+      - School Canteen.md
