@@ -2,6 +2,7 @@
 title: School Organisational Chart
 permalink: /about-bls/school-organisation-chart/
 description: ""
+variant: markdown
 ---
 #### **BLS Council**
 
@@ -19,17 +20,12 @@ description: ""
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:koh_chon_kiat@schools.gov.sg">Mr Koh Chon Kiat, Vincent</a></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="64%" valign="top" style="width:64.1%;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Vice-Principal – Academic</span></p></td><td width="35%" valign="top" style="width:35.9%;border-top:none;border-left:
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Vice-Principal – Admin</span></p></td><td width="35%" valign="top" style="width:35.9%;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:sharon_shen@schools.gov.sg">Ms Sharon Shen</a></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="64%" valign="top" style="width:64.1%;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:tan_hwee_siang@schools.gov.sg">Mr Tan Hwee Siang</a></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="64%" valign="top" style="width:64.1%;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">MTT – Schools</span></p></td><td width="35%" valign="top" style="width:35.9%;border-top:none;border-left:
-  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
-  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
-  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:yuen_kah_mun@schools.gov.sg">Mr Yuen Kah Mun</a></span></p></td></tr><tr style="mso-yfti-irow:4"><td width="64%" valign="top" style="width:64.1%;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">School Staff Developer</span></p></td><td width="35%" valign="top" style="width:35.9%;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
