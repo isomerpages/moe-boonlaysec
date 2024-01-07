@@ -2,4 +2,4 @@ collections:
   sec-one-registration:
     output: true
     order:
-      - Secondary One Registration.md
+      - CCA Selection.md
