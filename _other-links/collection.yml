@@ -2,12 +2,12 @@ collections:
   other-links:
     output: true
     order:
-      - National Digital Literacy Programme.md
       - Announcement.md
-      - Students Handbook.md
+      - Bookshop & School Uniform.md
       - BLS Timetable.md
       - Examination.md
-      - Library.md
       - Direct School Admission (DSA).md
-      - Bookshop & School Uniform.md
       - School Canteen.md
+      - Students Handbook.md
+      - Library.md
+      - National Digital Literacy Programme.md
