@@ -2,6 +2,7 @@ collections:
   other-links:
     output: true
     order:
+      - For Students.md
       - Announcement.md
       - Bookshop & School Uniform.md
       - BLS Timetable.md
