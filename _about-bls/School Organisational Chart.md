@@ -84,13 +84,13 @@ variant: markdown
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="35%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:Syed_Faizal_Js_Tamizzuddin@schools.gov.sg">Mr Syed Faizal</a></span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:64.1%;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="35%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:Syed_Faizal_Js_Tamizzuddin@moe.edu.sg">Mr Syed Faizal</a></span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:64.1%;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="64%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">School Staff Developer &amp; Well Being</span></p></td><td style="width:35.9%;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="35%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:nazerah_mohamed_latif@moe.edu.sg">Ms Nazerah</a></span><span class="MsoHyperlink"> M Latif</span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:64.1%;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="35%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:nazerah_mohamed_latif@moe.edu.sg">Ms Nazerah M Latif</a></span><span class="MsoHyperlink"> </span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:64.1%;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="64%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Year Head (Upper Sec)</span></p></td><td style="width:35.9%;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
@@ -102,7 +102,7 @@ variant: markdown
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="35%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:wong_hui_yi_alvina@schools.gov.sg">Ms <span style="mso-spacerun:yes">&nbsp;</span>Alvina Wong</a></span></p></td></tr><tr style="mso-yfti-irow:16"><td style="width:64.1%;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="35%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="mailto:wong_hui_yi_alvina@moe.edu.sg">Ms <span style="mso-spacerun:yes">&nbsp;</span>Alvina Wong</a></span></p></td></tr><tr style="mso-yfti-irow:16"><td style="width:64.1%;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="64%"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Subject Head Lower Secondary&nbsp;Science</span></p></td><td style="width:35.9%;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
