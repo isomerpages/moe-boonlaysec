@@ -2,7 +2,7 @@
 title: Values In Action
 permalink: /holistic-development/cce/via/
 description: ""
-third_nav_title: Character and Citizenship Edu
+third_nav_title: CCE
 ---
 Values in Action (VIA) programme in BLS provides a values-driven education to our students in which each child is given the opportunity to contribute back to the society progressively (covering four main domains: School, Community, Nation and World). 
 

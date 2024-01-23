@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /holistic-development/cce/sex-edu/
 description: ""
-third_nav_title: Character and Citizenship Edu
+third_nav_title: CCE
 ---
 ####  **Moe Sexuality Education in Schools**
 
