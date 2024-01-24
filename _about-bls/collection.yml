@@ -1,0 +1,13 @@
+collections:
+  about-bls:
+    output: true
+    order:
+      - Principal's Message.md
+      - History.md
+      - School Crest.md
+      - School Song.md
+      - Organisational Culture.md
+      - School Organisational Chart.md
+      - BLS Staff.md
+      - Partnership.md
+      - BLS SAC Scholarships and BLS Bursary.md

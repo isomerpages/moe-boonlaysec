@@ -1,0 +1,5 @@
+collections:
+  sec-one-registration:
+    output: true
+    order:
+      - CCA Selection.md

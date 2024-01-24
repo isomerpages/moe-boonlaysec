@@ -1,0 +1,14 @@
+collections:
+  holistic-development:
+    output: true
+    order:
+      - Aspiration Focused Programme/.keep
+      - Aspiration Focused Programme/Aspiration Focused Programme.md
+      - Aspiration Focused Programme/Student Development Modules.md
+      - Aspiration Focused Programme/Applied Learning Programme (ALP).md
+      - Aspiration Focused Programme/Learning for Life Programme (LLP).md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Sexuality Education.md
+      - CCE/Values In Action.md
+      - CCA Centric Learning Beyond Boundaries.md
