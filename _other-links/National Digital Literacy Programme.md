@@ -92,7 +92,7 @@ on 20 Jan 2024 on Zoom.</p>
 <img style="width: 100%" height="auto" width="100%" alt="PLD Initiative" src="/images/PDLP.JPG">
 </div>
 <p></p>
-<h4><strong>Parent Engagement 2024</strong>&nbsp;</h4>
+<h4><strong>AI Literacy - Parent's Guide</strong>&nbsp;</h4>
 <p>As AI becomes more prolific, parents are our important partners as they
 inculcate good habits in their child to safely navigate this AI-enabled
 world. Please refer to the attached infographic for <a href="/files/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE's parent's guide</a> to
