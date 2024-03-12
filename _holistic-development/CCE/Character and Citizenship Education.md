@@ -3,6 +3,7 @@ title: Character and Citizenship Education
 permalink: /holistic-development/cce/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 #### **Vision**
 Every student a&nbsp;**C**onfident youth,&nbsp;**C**oncerned citizen and an&nbsp;**E**mpathetic leader.
@@ -42,7 +43,7 @@ Below are the programmes that BLS offers to inculcate values and develop student
 | Components | Objectives | Key Programmes |
 |---|---|---|
 | CCE Lessons | To inculcate values and build competencies in our students to develop them to be good individuals and useful citizens.<br><br>  | Experiential lessons on values and social and emotional competencies, including content areas namely, ECG, SEd, CW, MH, FE. |
-| Education and Career Guidance (ECG) | To allow students to explore education and career options, life skills and an appreciation for the value of all occupations through classroom learning, guidance and counselling and community experiences. | Briefings on Subject Combinations, DPA, PFP, DPP<br><br>Career Fairs<br>Experience ITE Programme<br>Applied Studies Experience and Industry Exposure Programme<br>Learning Journeys to Institute of Higher Learning (IHL)<br>Myskillsfuture student portal |
+| Education and Career Guidance (ECG) | To allow students to explore education and career options, life skills and an appreciation for the value of all occupations through classroom learning, guidance and counselling and community experiences. | Briefings on Subject Combinations, DSA, PFP, DPP<br><br>Career Fairs<br>Experience ITE Programme<br>Applied Studies Experience and Industry Exposure Programme<br>Learning Journeys to Institute of Higher Learning (IHL)<br>Myskillsfuture student portal |
 | Sexuality Education (SEd) | To help students make well-informed decisions through the provision of age-appropriate knowledge, acquire social and emotional skills and positive mainstream values and attitudes about sexuality. | CCE Lessons<br><br>Empowered Teens (eTeens) |
 | Digital Citizenship / Cyber Wellness (CW)<br><br>  | To equip students with life-long socio-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information and Communication Technology (ICT). | Thematic lessons based on Cyber Use, Cyber Identity, , Cyber Relationships and Cyber Citizenship |
 | National Education<br><br>  | To develop a national identity and cultivate a sense of belonging and rootedness to Singapore.<br><br>  | Celebration of NE Commemorative Days<br><br>Learning Journeys (on Singapore’s culture &amp; history, social and economic aspects) |
