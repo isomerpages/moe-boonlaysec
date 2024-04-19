@@ -2,5 +2,23 @@
 title: Direct School Admission (DSA)
 permalink: /other-links/dsa/
 description: ""
+variant: markdown
 ---
-[Boon Lay Secondary School DSA 2023](/files/boon%20lay%20sec%20sch%20dsa%202023.pdf)
+# Direct School Admission for secondary schools (DSA-Sec)
+
+**DSA Talent Areas (for 2025)**
+* Badminton
+* Basketball (Boys)
+* Chinese Orchestra
+* Choir
+* Concert Band
+* Digital Media 
+* English Drama/ Theatre
+* Football Girls^ 
+* Malay Dance
+* Modern Dance
+* Netball (Girls)
+
+*^ Succesful applicants will need to have school-based CCA as Girls Football is run as Centre-Based Partnership Academy with Football Association of Singapore*
+
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
