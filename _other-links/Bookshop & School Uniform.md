@@ -25,9 +25,7 @@ variant: tiptap
 <br><a href="/files/Sec_4NT_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 4 NT</a> 
 <br><a href="/files/Sec_5NA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 5 NA</a>
 </p>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/bookshop_update22April24.png">
 </div>
-<p>
-<br>Mon – Fri : 7.00am – 3.00pm</p>
+<p></p>
