@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop_update22April24.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/bookshop_update22April24.png">
 </div>
 <p>
 <br>Mon – Fri : 7.00am – 3.00pm</p>
