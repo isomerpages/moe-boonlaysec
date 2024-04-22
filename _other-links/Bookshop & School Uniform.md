@@ -25,7 +25,8 @@ variant: tiptap
 <br><a href="/files/Sec_4NT_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 4 NT</a> 
 <br><a href="/files/Sec_5NA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 5 NA</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/bookshop_update22April24.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop_update22April24_a.png">
 </div>
 <p></p>
