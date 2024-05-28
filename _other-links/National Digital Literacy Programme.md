@@ -14,12 +14,12 @@ Device (PLD) by end-2021.</p>
 <p>The PLD will be used in tandem with the national e-learning platform –
 the Singapore Student Learning Space (SLS) – as well as other educational
 technology to personalise and enhance students’ learning.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/ndlp1.jpg">
-</div>
 <p>
 <br>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3JcU-YKkCXs?si=XPmxcsgVUOvEmL2I"></iframe>
+</div>
 <h4><strong>Create, Connect and Contribute</strong></h4>
 <p>At Boon Lay Secondary School, our teachers design varied learning experiences
 for our students to be creators, connectors and contributors. Through a
@@ -98,7 +98,11 @@ inculcate good habits in their child to safely navigate this AI-enabled
 world. Please refer to the attached infographic for <a href="/files/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE's parent's guide</a> to
 using generative AI tools for learning.</p>
 <h4><strong>Useful Contacts</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
