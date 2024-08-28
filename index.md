@@ -13,7 +13,7 @@ sections:
         - title: Prospective Students
           description: Choose your own Adventure@BLS
           url: /prospective-students/
-        - title: Technology-Enabled Learning
+        - title: Technology Enabled Learning
           description: Connect, Curate, Create
           url: /tel
   - infopic:
