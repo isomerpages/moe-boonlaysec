@@ -4,7 +4,9 @@ permalink: /tel/
 description: ""
 variant: tiptap
 ---
-<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
+<h2><strong>National Digital Literacy Programme </strong></h2>
+<p>
+<br>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
 Learning to help students strengthen their digital literacy. One of the
 components of the NDLP is the introduction of the Personalised Digital
