@@ -4,7 +4,7 @@ permalink: /tel/
 description: ""
 variant: tiptap
 ---
-<h2><strong>National Digital Literacy Programme </strong></h2>
+<h2><strong>National Digital Literacy Programme</strong></h2>
 <p>
 <br>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
