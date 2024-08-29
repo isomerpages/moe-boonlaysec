@@ -1,5 +1,5 @@
 title: Boon Lay Secondary
-url: https://boonlaysecondary.edu.sg
+url: https://www.boonlaysec.moe.edu.sg
 favicon: /images/crest.jpg
 colors:
   primary-color: "#01186d"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

@@ -1,10 +1,12 @@
 ---
-title: National Digital Literacy Programme
-permalink: /ndlp/
+title: Technology Enabled Learning
+permalink: /tel/
 description: ""
 variant: tiptap
 ---
-<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
+<h2><strong>Technology Enabled Learning</strong></h2>
+<p>
+<br>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
 Learning to help students strengthen their digital literacy. One of the
 components of the NDLP is the introduction of the Personalised Digital
@@ -18,7 +20,7 @@ technology to personalise and enhance students’ learning.</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3JcU-YKkCXs?si=XPmxcsgVUOvEmL2I"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E278E6mfw-U?si=ryy4HdAKOPEzLnQN"></iframe>
 </div>
 <h4><strong>Create, Connect and Contribute</strong></h4>
 <p>At Boon Lay Secondary School, our teachers design varied learning experiences
