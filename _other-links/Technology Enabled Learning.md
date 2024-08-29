@@ -16,9 +16,7 @@ Device (PLD) by end-2021.</p>
 <p>The PLD will be used in tandem with the national e-learning platform –
 the Singapore Student Learning Space (SLS) – as well as other educational
 technology to personalise and enhance students’ learning.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E278E6mfw-U?si=ryy4HdAKOPEzLnQN"></iframe>
 </div>
