@@ -63,3 +63,15 @@ Singapore Food Agency (SFA).</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
 <p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The completed application form with the
+required documents must be submitted to the General Office at 11 Jurong
+West Street 65, Singapore 648354 or email to <a rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> by
+<a rel="noopener noreferrer nofollow" target="_blank">1 Oct 2024</a>, 3pm.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We regret that only shortlisted applicants
+will be contacted for an interview and food tasting session.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our canteen operates from Mondays to Fridays,
+7.00am to 4.00pm during the school term. The stall will be required to
+operate during School Holidays, upon request by the school.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The contract is renewable on a yearly
+basis, subject to good performance.</p>
+<p></p>
