@@ -15,7 +15,7 @@ Sum/Wrap/Kebabs &amp; etc)</p>
 <p></p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="/files/Application_Form_for_canteen.pdf" rel="noopener noreferrer nofollow" target="_blank"> [Application Form]&nbsp;</a>
+<p><a href="/files/Application_Form_for_canteen_2.pdf" rel="noopener noreferrer nofollow" target="_blank">[Application Form]&nbsp;</a>
 </p>
 <p></p>
 <p>2. Attached the following documents together with the application form:</p>
