@@ -2,7 +2,6 @@ collections:
   other-links:
     output: true
     order:
-      - School Canteen.md
       - For Students.md
       - Announcement.md
       - Bookshop & School Uniform.md
@@ -10,3 +9,4 @@ collections:
       - Direct School Admission (DSA).md
       - Library.md
       - Technology Enabled Learning.md
+      - School Canteen.md
