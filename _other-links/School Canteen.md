@@ -6,10 +6,25 @@ description: ""
 ---
 <p>School Canteen Advertisement</p>
 <p></p>
-<p>| Type of Stall| Closing Date | Requirements |</p>
-<p>| Hot drinks &amp; Snack stall | 1 Oct 2024 | Hot Drinks, Snacks (Sandwich/Burger/Pau/Dim
-Sum/Wrap/Kebabs &amp; etc)</p>
-<p></p>
+<p>Type of Stall: Hot drinks &amp; Snack stall
+<br>Closing Date: 1 Oct 2024
+<br>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Hot Drinks</strong>
+</p>
+</li>
+<li>
+<p><strong>Snacks (Sandwich/Burger/Pau/Dim Sum/Wrap/Kebabs &amp; etc)</strong>
+</p>
+</li>
+<li>
+<p><strong>Soup Noodles / Porridge</strong>
+</p>
+</li>
+</ul>
+<p><strong>Stall commencement: 02 Jan 2025</strong>
+</p>
 <p><strong>Application Procedure</strong>
 </p>
 <p></p>
@@ -36,7 +51,7 @@ via email OR to the School's General Office.</p>
 <p><strong>How to get there?</strong>
 </p>
 <p>* Nearest MRT: Boon Lay MRT) – 10 minutes walking distance</p>
-<p>* Bus number: 243G - 3 minutes walking distance</p>
+<p>* Bus number: 243G, 181, 193 - 3 minutes walking distance</p>
 <p></p>
 <p><strong>Interest applicants must meet the following criteria:</strong>
 </p>
