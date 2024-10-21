@@ -2,6 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - Overview of our partners.md
+      - Our Approach to Partnerships.md
       - Green Economy and Sustainability.md
       - Digital Economy and Innovation.md
