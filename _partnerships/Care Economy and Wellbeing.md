@@ -35,6 +35,10 @@ description: ""
 <p><strong><u>School Football Academy (SFA) for girls with Unleash the Roar (UTR)</u></strong>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
 <p>
 <br>
 </p>
