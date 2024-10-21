@@ -21,3 +21,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Hyundai Motor Group Innovation Center" src="/images/WhatsApp_Image_2024_10_14_at_11_26_01__2_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Exploring new concepts of sustainability" src="/images/WhatsApp_Image_2024_10_14_at_11_26_19.jpg">
+</div>
+<p></p>
