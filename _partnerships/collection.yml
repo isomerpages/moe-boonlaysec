@@ -2,8 +2,8 @@ collections:
   partnerships:
     output: true
     order:
+      - Our Approach to Partnerships.md
       - Mentoring by Pan Pacific Hotels Group.md
       - Care Economy and Wellbeing.md
-      - Our Approach to Partnerships.md
       - Green Economy and Sustainability.md
       - Digital Economy and Innovation.md
