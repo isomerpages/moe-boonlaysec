@@ -1,5 +1,4 @@
 collections:
   partnerships:
     output: true
-    order:
-      - CCA Selection.md
+    order: []
