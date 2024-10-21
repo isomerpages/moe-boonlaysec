@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Care Economy and Wellbeing.md
       - Our Approach to Partnerships.md
       - Green Economy and Sustainability.md
       - Digital Economy and Innovation.md
