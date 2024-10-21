@@ -31,7 +31,32 @@ description: ""
 </ul>
 <p></p>
 <p></p>
+<p><strong><u>Safe Hearts Programme</u></strong>
+</p>
+<p>
+<br>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_14_at_11_43_16.jpg">
+</div>
+<p>Contributing to the community gives our students a greater sense of purpose,
+strengthens their confidence, and helps them to see themselves as active
+contributors and champions of change. One example is Project Joy, an annual
+hamper making and distribution activity to families in need during the
+Chinese New Year period, in collaboration with our school’s long-time partners,
+Boon Lay and Nanyang Constituencies. Another would be the Uniformed Groups’
+hands-on sharing sessions on basic CPR/AED with the same constituencies
+(Safe Hearts Programme).</p>
+<p>
+<br>
+</p>
 <p><strong><u>School Football Academy (SFA) for girls with Unleash the Roar (UTR)</u></strong>
 </p>
 <p></p>
