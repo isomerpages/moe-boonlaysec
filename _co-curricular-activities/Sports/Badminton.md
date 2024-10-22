@@ -16,10 +16,11 @@ In 2023, we also have the ‘C’ Division girls team taking&nbsp; part in the N
 So do join us and contribute to this family of smashing people!
 
 #### CCA Mentors
-Pang Chee Peng (Mr) OIC- Sec 1 <br>
-Liew-Soh Mui Ling Athena (Mrs) 2IC – Sec 2<br>
-Nur Aida Md Khalid (Mdm) Sec 3, 4 &amp; 5 <br>
-Ong Kheng Loon (Mr) Cluster Head <br>
+Mrs Tan-Young Tsui Hwa CCAM Sec 1<br>
+Mr Pang Chee Peng OIC/CCAM Sec 2<br>
+Mrs Liew-Soh Mui Ling Athena 2IC/CCAM Sec 3<br>
+Nur Aida Md Khalid (Mdm) CCAM Sec 4 &amp; 5 <br>
+Thia Mei Yin Rita, Cluster Head <br>
 
 #### Student Leaders
 SLC: Damien Chng Jia Xing/ Neo Qi Xiang<br>
