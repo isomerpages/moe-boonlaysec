@@ -14,10 +14,10 @@ Besides the competitions, the team organises friendly matches with other schools
 BLS Team Netball will continue to adapt, evolve, persevere and strive for greater heights to ensure that each player achieves her best version.
 
 #### CCA Mentors
-Mdm Siti Nurhani (OIC / CCAM Sec 4 &amp; 5)<br>
-Ms Lee Chinn Yi (2IC / Sec 3)<br>
-Mdm Nor Faatihah (CCAM Sec 1 &amp; 2)<br>
-Mrs Hong-Chuah Mei Thien (Cluster head) <br>
+Mdm Nor Faatihah Haron (OIC, Sec 4 &amp; 5)<br>
+Ms Lee Chinn Yi (2IC, Sec 1)<br>
+Mdm Siti Nurhani Kamsani (Sec 2 &amp; 3)<br>
+Mrs Hong-Chuah Mei Thien (Cluster Head) <br>
 
 #### Student Leaders
 Captains : Pon Abbenayaa (Upper sec)
