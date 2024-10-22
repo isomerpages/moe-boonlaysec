@@ -9,9 +9,6 @@ description: ""
 <p>
 <br>
 </p>
-<div class="iframe-wrapper">
-<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1txu8hFnF5U"></iframe>
-</div>
 <p>Since 2022, our school has worked closely with UOL-Pan Pacific Hotels
 Group (PPHG) to offer the Fulfilling Life through Experiences (FLEX) Mentoring
 Programme. This initiative empowers students by providing them with mentorship
