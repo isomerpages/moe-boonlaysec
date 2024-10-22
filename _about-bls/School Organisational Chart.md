@@ -197,7 +197,7 @@ variant: tiptap
 <p>Subject Head (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20gayathiri_nandakuma@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathiri</a>
+<p><a href="mailto:%20gayathiri_nandakuma@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathiri Nandakuma</a>
 </p>
 </td>
 </tr>
@@ -224,7 +224,7 @@ variant: tiptap
 <p>Subject Head (Lower Secondary&nbsp;Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dineshkumar_m_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dineshkumar</a>
+<p><a href="mailto:dineshkumar_m_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dineshkumar M Subramaniam</a>
 </p>
 </td>
 </tr>
@@ -233,7 +233,7 @@ variant: tiptap
 <p>Subject Head (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20siti_nurhani_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nurhani</a>
+<p><a href="mailto:%20siti_nurhani_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nurhani Binte Kamsani</a>
 </p>
 </td>
 </tr>
@@ -242,7 +242,7 @@ variant: tiptap
 <p>Subject Head&nbsp;(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20nur_aida_md_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Aida</a>
+<p><a href="mailto:%20nur_aida_md_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Aida Bte Md Khalid</a>
 </p>
 </td>
 </tr>
