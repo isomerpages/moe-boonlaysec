@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Technology Enabled Learning</strong></h2>
-<p></p>
 <p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
 Learning to help students strengthen their digital literacy. One of the
