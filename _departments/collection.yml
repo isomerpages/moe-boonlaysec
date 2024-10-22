@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
+      - Executive and Administrative.md
       - Craft & Technology.md
       - English.md
-      - Executive and Administrative.md
       - Humanities and The Arts.md
       - Learning Technologies.md
       - Mathematics.md
