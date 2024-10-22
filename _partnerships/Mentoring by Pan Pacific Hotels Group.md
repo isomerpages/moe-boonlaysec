@@ -25,6 +25,9 @@ corporate mentors, students benefit from their expertise.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_13_12_23.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_13_12_20.jpg">
+</div>
 <p>This collaboration not only equips our students with the knowledge and
 skills to make informed decisions, but also exposes them to how industries
 are leading in the digital age.</p>
