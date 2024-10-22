@@ -14,19 +14,17 @@ NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3 big 
 
 
 #### CCA Mentors
-Lee Xiu Wen (Mdm) 2IC – Sec 1<br>
-Chan Bee Bee (Mdm) OIC – Sec 2<br>
-Claire Chung Su-Lin (Miss) - Sec 3<br>
-Tan Ying Hwee (Miss) - Sec 4/5<br>
-Ooi Chong Min (Mr) Cluster Head
-
-
+Mdm Chan Bee Bee (OIC, Sec 3)<br>
+Ms Lee Xiu Wen (2IC, Sec 2)<br>
+Ms Tan Ying Hwee (Sec 1)<br>
+Ms Claire Chung Su-Lin (Sec 4 &amp; 5)<br>
+Mr Ooi Chong Min (Cluster Head)
 
 #### CCA Leaders
-Unit Sergeant Major: Kee Jovin<br>
-Assistant Unit Sergeant Major: Muhammad Firdaus Bin Selamat&nbsp;<br>
-Regimental Sergeant Major: Arash Al Ataz Bin Mohammad Alnoor<br>
-
+Unit Sergeant Major: Adriana Balqis Bte Lukman<br>
+Assistant Unit Sergeant Major: Muhammad Syahmi Aqil Bin Mohammed Sahril<br>
+Garnet House Head: Muhammad Umar Bin Abdul Ghaffor <br>
+Garnet House Leader: Abdullah Mustafa Dhafir Makkiyah
 
 #### Activities
 Fire Safety Training<br>
@@ -55,4 +53,3 @@ National Day Parade
 ![](/images/ND3.jpeg)
 ![](/images/ND4.jpeg)
 ![](/images/ND5.jpeg)
-
