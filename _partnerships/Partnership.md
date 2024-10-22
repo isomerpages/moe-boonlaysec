@@ -2,6 +2,7 @@
 title: Partnership
 permalink: /about-bls/partnership/
 description: ""
+variant: markdown
 ---
 We aim to support the holistic development of every Boonlayian through purposeful partnerships. Partners are part of our school’s extended family, who help students to discover their potential and develop their skills, so that they can contribute fully as responsible members of their families and community.
 
