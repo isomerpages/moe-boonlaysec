@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - School Organisational Chart.md
       - Principal's Message.md
