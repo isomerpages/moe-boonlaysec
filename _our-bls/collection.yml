@@ -2,7 +2,6 @@ collections:
   our-bls:
     output: true
     order:
-      - Principal's Message.md
       - History.md
       - School Crest.md
       - School Song.md
