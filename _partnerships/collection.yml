@@ -2,7 +2,7 @@ collections:
   partnerships:
     output: true
     order:
-      - Partnership.md
+      - Home School Partnerships.md
       - Our Approach to Partnerships.md
       - Mentoring by Pan Pacific Hotels Group.md
       - Care Economy and Wellbeing.md
