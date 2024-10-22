@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Technology Enabled Learning</strong></h2>
-<p>
-<br>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
+<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
 Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
 Learning to help students strengthen their digital literacy. One of the
 components of the NDLP is the introduction of the Personalised Digital
@@ -16,6 +15,18 @@ Device (PLD) by end-2021.</p>
 <p>The PLD will be used in tandem with the national e-learning platform –
 the Singapore Student Learning Space (SLS) – as well as other educational
 technology to personalise and enhance students’ learning.</p>
+<h4><strong>Apple Distinguished School</strong></h4>
+<p>We’re pleased to be recognized as an Apple Distinguished School for 2024–2027
+for inspiring, imagining, and impacting teaching and learning schoolwide
+through continuous innovation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Apple_Distinguished_School_1ln_blk_022324.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00913.jpg">
+</div>
+<p></p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E278E6mfw-U?si=ryy4HdAKOPEzLnQN"></iframe>
@@ -23,13 +34,13 @@ technology to personalise and enhance students’ learning.</p>
 <h4><strong>Create, Connect and Contribute</strong></h4>
 <p>At Boon Lay Secondary School, our teachers design varied learning experiences
 for our students to be creators, connectors and contributors. Through a
-variety of lessons from self paced modular academic curriculum modules
+variety of lessons from self-paced modular academic curriculum modules
 to authentic multidisciplinary lessons, our students are equipped with
 the necessary skills to navigate the increasingly digital VUCA world.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/ndlp2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_14_56_30.jpg">
 </div>
-<h4><br><strong>Personal Learning Device</strong></h4>
+<h4><strong>Personal Learning Device</strong></h4>
 <p>The school will be using the&nbsp;<strong>10th Gen iPad</strong>&nbsp;<strong>10.9”</strong>&nbsp;for
 teaching and learning from 2024. The device bundle consists of:</p>
 <ul data-tight="true" class="tight">

@@ -20,7 +20,7 @@ We have 16 CCAs on offer, each is unique in its own way.
 
 #### **Performing Arts**
 
-*   Band – Concert (Boys & Girls)
+*   Concert Band (Boys & Girls)
 *   Chinese Orchestra (Boys & Girls)
 *   Choir (Boys & Girls)
 *   Contemporary Dance (Boys & Girls)
