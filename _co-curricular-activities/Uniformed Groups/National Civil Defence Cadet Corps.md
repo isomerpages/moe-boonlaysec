@@ -14,19 +14,17 @@ NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3 big 
 
 
 #### CCA Mentors
-Lee Xiu Wen (Mdm) 2IC – Sec 1<br>
-Chan Bee Bee (Mdm) OIC – Sec 2<br>
-Claire Chung Su-Lin (Miss) - Sec 3<br>
-Tan Ying Hwee (Miss) - Sec 4/5<br>
-Ooi Chong Min (Mr) Cluster Head
-
-
+Mdm Chan Bee Bee (OIC, Sec 3)<br>
+Ms Lee Xiu Wen (2IC, Sec 2)<br>
+Ms Tan Ying Hwee (Sec 1)<br>
+Ms Claire Chung Su-Lin (Sec 4 &amp; 5)<br>
+Mr Ooi Chong Min (Cluster Head)
 
 #### CCA Leaders
-Unit Sergeant Major: Kee Jovin<br>
-Assistant Unit Sergeant Major: Muhammad Firdaus Bin Selamat&nbsp;<br>
-Regimental Sergeant Major: Arash Al Ataz Bin Mohammad Alnoor<br>
-
+Unit Sergeant Major: Adriana Balqis Bte Lukman<br>
+Assistant Unit Sergeant Major: Muhammad Syahmi Aqil Bin Mohammed Sahril<br>
+Garnet House Head: Muhammad Umar Bin Abdul Ghaffor <br>
+Garnet House Leader: Abdullah Mustafa Dhafir Makkiyah
 
 #### Activities
 Fire Safety Training<br>
@@ -43,16 +41,15 @@ National Day Parade
 
 
 #### Achievements
-2022 Unit Overall Proficiency Award (UOPA) - Distinction
-2018, 2019 &amp; 2021 Unit Overall Performance Award (UOPA) - Gold
-2019-2022 SCDF-NCDCC Pinnacle Badge Award
-2019-2022 Best Unit Cadet
-2022 NCDCC Urban Adventure Civil Defence Challenge - Commendation
-2023 NCDCC Urban Adventure Civil Defence Challenge - 6th Place
+2022 &amp; 2023 Unit Overall Proficiency Award (UOPA) - Distinction<br>
+2018, 2019 &amp; 2021 Unit Overall Performance Award (UOPA) - Gold<br>
+2019-2024 SCDF-NCDCC Pinnacle Badge Award<br>
+2019-2024 Best Unit Cadet<br>
+2022 NCDCC Urban Adventure Civil Defence Challenge - Commendation<br>
+2023 NCDCC Urban Adventure Civil Defence Challenge - 6th Place<br>
 
-![](/images/ND1.jpeg)
-![](/images/ND2.jpeg)
-![](/images/ND3.jpeg)
-![](/images/ND4.jpeg)
+![](/images/ND1.jpeg)<br>
+![](/images/ND2.jpeg)<br>
+![](/images/ND3.jpeg)<br>
+![](/images/ND4.jpeg)<br>
 ![](/images/ND5.jpeg)
-

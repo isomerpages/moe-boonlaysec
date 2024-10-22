@@ -15,12 +15,10 @@ If you are interested in the dance movements and learn modern and contemporary d
 
 
 #### CCA Mentors
-Mdm Norfarhana Bte Sabtu (OIC / CCAM Sec 2)<br>
-Ms Tan Khai Ling (CCAM Sec 1)<br>
-Ms Lim Siew Ly (2IC / CCAM Sec 3)<br>
-Ms Fong Siong Kuen (CCAM Sec 4 &amp; 5)<br>
+Mdm Norfarhana Bte Sabtu (OIC, Sec 3)<br>
+Mdm Suziela Yassin (2IC, Sec 4 &amp; 5)<br>
+Ms Fong Siong Kuen (Sec 1 &amp; 2)<br>
 Mrs Hong-Chuah Mei Thien (Cluster head)
-
 
 #### Leaders
 President : Freda Ng Qi Jia<br>
@@ -28,11 +26,9 @@ Vice President : Nurkhalisah Binte Suratman<br>
 Sec 1 IC: Lee En Lok Rain<br>
 Sec 2 IC: Kliff Loh Zi Tao
 
-
 #### Training Days
 Tuesday (3.30 pm – 5.30 pm)<br>
 Friday (2.30 pm – 5.30 pm)
-
 
 #### Achievements
 Singapore Youth Festival Arts Presentation 2023 – Certificate of Accomplishment<br>
@@ -48,5 +44,3 @@ Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishmen
 ![](/images/CD3.jpeg)
 ![](/images/CD4.jpeg)
 ![](/images/CD5.jpg)
-
-
