@@ -26,10 +26,10 @@ Lastly, the CCA welcomes both inexperienced and experienced dancers of all races
 ![](/images/MD2.jpg)
 
 #### CCA Mentors
-Nur Shafiah Md Azmi (Mdm) 2OIC – Sec 1 <br>
-Lin Ying (Miss) Sec 2 <br>
-Siti Elfareeza Mohd Ehsan (Mdm) OIC – Sec 3, 4 &amp; 5 <br>
-Nazerah (Mdm) Cluster Head <br>
+Mdm Siti Elfareeza Mohd Ehsan (OIC, Sec 4 &amp; 5)<br>
+Ms Lin Ying (2IC, Sec 1 &amp; 2)<br>
+Ms Lim Siew Ly (Sec 3)<br>
+Mdm Nazerah Md Latif (Cluster Head)<br>
 
 #### Student Leaders
 Siti Raudah (President)<br>
