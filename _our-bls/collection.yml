@@ -1,5 +1,5 @@
 collections:
-  about-bls:
+  our-bls:
     output: true
     order:
       - Principal's Message.md
