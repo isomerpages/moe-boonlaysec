@@ -19,7 +19,7 @@ So please come and join the NCC (Land) family to enjoy all the wonderful and uni
 
 #### Teachers-in-charge
 Mr Ronald Wong Zhenrong (OIC, Sec 3)<br>
-Mr Ong Zhi Jie, (2IC, Sec 4 &amp; 4)<br>
+Mr Ong Zhi Jie, (2IC, Sec 4 &amp; 5)<br>
 Mr Ng Chee Kin (Sec 1)<br>
 Ms Divyalakshmi D/O Muthu Saminathan (Sec 2)<br>
 Ms Mardiana Mansor (Cluster Head)<br>
