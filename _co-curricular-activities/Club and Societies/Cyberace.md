@@ -14,7 +14,8 @@ In essence, CyberAce Club adopts a comprehensive approach to nurture confidence,
 
 
 #### **CCA Mentors**
-Mr Lek Yi Xian (2IC/CCAM Sec 1 and 2)<br>
+Mr Lek Yi Xian (2IC/CCAM Sec 1)<br>
+Ms Audrey Woo Jia Ying (CCAM Sec 2)<br>
 Mr Salizam Jaafar (CCAM Sec 3)<br>
 Ms Azlina Muslimin (OIC/CCAM Sec 4 and 5)<br>
 Ms Alexandria Tang (Cluster Head)
