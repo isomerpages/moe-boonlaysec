@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - Executive and Administrative.md
-      - BLS Staff.md
-      - School Organisational Chart.md
       - Principal's Message.md
+      - School Organisational Chart.md
+      - BLS Staff.md
+      - Executive and Administrative.md
