@@ -11,11 +11,11 @@ Guided by the Choir’s motto, “the voices of our hearts, the songs of our liv
 
 
 #### CCA Mentors
-Mdm Tay Seok Jun, Felicia (CCAM Sec 3) <br>
-Ms Lim Siew Ching, Annetta (2IC / CCAM Sec 2) <br>
-Ms Tan Pei Shi, Josephine (OIC / CCAM Sec 1)<br>
-Mdm Nadia Abdul Malik (CCAM Sec 3)<br>
-Mr Zong Zixin (Cluster Head)
+Mdm Tay Seok Jun, Felicia (OIC, Sec 4 &amp; 5)<br>
+Ms Lim Siew Ching, Annetta (2IC, Sec 3)<br>
+Ms Yu Ying (Sec 1)<br>
+Ms Tan Pei Shi, Josephine (Sec 2)<br>
+Mr Zong Zixin Kelvin (Cluster Head)
 
 #### Conductor
 Ms Michelle Poh<br>
