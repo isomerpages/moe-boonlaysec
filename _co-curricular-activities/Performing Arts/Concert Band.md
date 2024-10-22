@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-
-
 BLS Concert Band nurtures disciplined leaders with excellent musicianship. Our programmes empower students to become independent and forward-looking leaders by providing various opportunities such as sectional leadership, committee roles and participation in our senior-led sectional system.
 
 The band constantly strives to hone and sharpen our musical skills through theoretical and practical assessments. Seeking intra-school and collaborative performance opportunities with our counterparts in other schools throughout the academic year, the band builds members’ confidence and grants them stage exposure. With an enriching and exciting programme, we instill the love of music in all members and empower them to discover the best version of themselves through the art of music.
@@ -16,11 +14,12 @@ So if you are interested in music and would love to learn how to play a musical 
 
 ![](/images/band.jpeg)
 
-#### CCA Mentors
-Sim Siok Siok (Mdm) OIC - Sec 1 &amp; 2 <br>
-Neo Eng Kwan (Mr) - Sec 4 &amp; 5<br>
-Nur Lydia Johari&nbsp; (Mdm) 2IC - Sec 3<br>
-Yu Pei-Yi (Mr) Cluster Head<br>
+#### Teachers-in-charge
+Mdm Nur Lydia Johari (OIC, Sec 4 &amp; 5)<br>
+Mr Ken Neo Eng Kwan (2IC, Sec 2)<br>
+Ms Tan Khai Ling (Sec 1)<br>
+Mdm Nadia Abdul Malik (Sec 3)<br>
+Mr Yu Pei-Yi (Cluster Head)<br>
 
 #### Student Leaders (Concert Band)
 Band Major: EVE MARIA BINTE ZUNAIDI<br>
