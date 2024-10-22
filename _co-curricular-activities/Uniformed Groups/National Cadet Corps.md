@@ -3,6 +3,7 @@ title: National Cadet Corps
 permalink: /holistic-development/co-curricular-activities/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 The mission of the National Cadet Corps is to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. In Boon Lay Secondary School, the National Cadet Corps (NCC) Unit believes that our cadets need to embody the NCC core values of Loyalty to Country, Leadership, Uprightness, Commitment and Responsibility, Adventurous Spirit, Discipline, and Care. These core values drive the cadets in their endeavour in achieving excellence for the unit as well as for themselves.
 
@@ -17,11 +18,11 @@ So please come and join the NCC (Land) family to enjoy all the wonderful and uni
 ![](/images/NCC4-1024x890.jpg)
 
 #### Teachers-in-charge
-Nur Syamira Rosidi (Miss) OIC – Sec 1 <br>
-Ronald Wong (Mr) 2IC – Sec 2 <br>
-Ong Zhi Jie (Mr) - Sec 3 <br>
-Salizam Jaafar (Mr) - Sec 4 & 5 <br>
-Mardiana Mansor (Ms) Cluster Head <br>
+Mr Ronald Wong Zhenrong (OIC, Sec 3)<br>
+Mr Ong Zhi Jie, (2IC, Sec 4 &amp; 4)<br>
+Mr Ng Chee Kin (Sec 1)<br>
+Ms Divyalakshmi D/O Muthu Saminathan (Sec 2)<br>
+Ms Mardiana Mansor (Cluster Head)<br>
 
 #### Cadet Lieutenant
 CLT (NCC) Indra Adzani <br>
@@ -33,7 +34,7 @@ Fridays (2.30 pm to 5.30 pm) <br>
 #### Achievements
 ##### 2021
 Distinction for Unit Recognition Award <br>
-Outstanding Cadet Award - USM Dani Syahmi <br>
+Outstanding Cadet Award - USM Dani Syahmi&nbsp;<br>
 
 ##### 2020
 Distinction for Unit Recognition Award <br>
