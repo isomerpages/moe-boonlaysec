@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /holistic-development/co-curricular-activities/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 The Boon Lay Secondary School Chinese Orchestra is a vibrant orchestra that comprises of five different sectional categories. They are pluck string, string, cello bass, wood wind and percussion.
 
@@ -15,10 +16,10 @@ As a family, Chinese Orchestra also inculcates a strong sense of responsibility,
 If you are interested in playing Chinese cultural instruments, come join us and be part of our family.
 
 #### CA Mentors
-Liang Soo Ling (Mdm) OIC – Sec 1 and 2 <br>
-Tan Teck Wan Johnny (Mr) – Sec 2 <br>
-Muhammad Yunus Sunanwi (Mr) (AYH )2IC  – Sec 3 <br>
-Lian Xiao Lin (Miss) – Sec 4&5 <br>
+Mdm Liang Soo Ling (OIC, Sec 2<br>
+Mdm Nur Shafiah Md Azmi (2IC, Sec 1)<br>
+Ms Izzhaziqah Wong Bte Md Iskandar (Sec 3)<br>
+Mr Tan Teck Wan Johnny (Sec 4 &amp; 5)<br>
 Ooi Chong Min (Mr) Cluster Head <br>
 
 #### Student Leaders
