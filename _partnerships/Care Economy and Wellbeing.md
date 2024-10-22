@@ -30,22 +30,16 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p></p>
 <p><strong><u>Safe Hearts Programme</u></strong>
 </p>
 <p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lifesavers.png">
+</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_14_at_11_43_16.jpg">
-</div>
+<p></p>
 <p>Contributing to the community gives our students a greater sense of purpose,
 strengthens their confidence, and helps them to see themselves as active
 contributors and champions of change. One example is Project Joy, an annual
@@ -61,8 +55,9 @@ hands-on sharing sessions on basic CPR/AED with the same constituencies
 </p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Firls_FB2.jpg">
 </div>
 <p>
 <br>
