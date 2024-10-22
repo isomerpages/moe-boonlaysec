@@ -2,6 +2,7 @@
 title: Executive and Administrative
 permalink: /departments/executive-and-administrative/
 description: ""
+variant: markdown
 ---
 ### **Executive and Administrative**
 
