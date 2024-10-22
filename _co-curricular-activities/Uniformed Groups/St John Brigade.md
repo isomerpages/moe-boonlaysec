@@ -73,11 +73,11 @@ Football Tournament @ Jurong West Stadium
 
 
 #### CCA Mentors
-Ms Gayathiri d/o Nandakuma (OIC / CCAM Sec 3)<br>
-Mrs Sabitha Nasser (2IC / CCAM Sec 2)<br>
-Ms Wang Xiaoxi (CCAM Sec 1)<br>
-Mr Mohammad Khusni B Jumadi (CCAM Sec 4 &amp; 5 )<br>
-Ms Bhavaniswari D/O Batumalia (Cluster head)
+Mrs Sabitha Nasser (OIC, Sec 4 &amp; 5)<br>
+Mr Mohammad Khusni B Jumadi (2IC, Sec 2)<br>
+Ms Gayathiri d/o Nandakuma (Sec 1)<br>
+Ms Wang Xiaoxi (Sec 3)<br>
+Ms Bhavaniswari D/O Batumalia (Cluster Head)
 
 #### Chairperson
 SGT Asilah Hamizah Binte Afandi
