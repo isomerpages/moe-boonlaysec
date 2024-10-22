@@ -2,7 +2,8 @@ collections:
   partnerships:
     output: true
     order:
-      - Our Approach to Partnerships.md
+      - Home School Partnerships.md
+      - Community School Partnerships.md
       - Mentoring by Pan Pacific Hotels Group.md
       - Care Economy and Wellbeing.md
       - Green Economy and Sustainability.md

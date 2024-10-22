@@ -1,7 +1,8 @@
 ---
-title: Partnership
+title: Home School Partnerships
 permalink: /about-bls/partnership/
 description: ""
+variant: markdown
 ---
 We aim to support the holistic development of every Boonlayian through purposeful partnerships. Partners are part of our school’s extended family, who help students to discover their potential and develop their skills, so that they can contribute fully as responsible members of their families and community.
 
@@ -14,7 +15,7 @@ Taking reference from MOE’s Parents in Education framework, the acronym TRUST 
 *   **S**eek common ground
 *   **T**ogether, we work towards common goals
 
-<img src="/images/partnership.png" style="width:45%" align=left>
+<img src="/images/partnership.png" style="width:45%" align="left">
 
 <br clear="left">
 

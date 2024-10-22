@@ -1,5 +1,5 @@
 ---
-title: Our Approach to Partnerships
+title: Community School Partnerships
 permalink: /overview-of-our-partners/
 variant: tiptap
 description: ""
