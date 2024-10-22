@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /holistic-development/co-curricular-activities/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 The vision of the Boys’ Brigade (BB) is to be the youth organisation of choice, with the aim to nurture youth, based on Christian values to serve and lead.
 
@@ -13,8 +14,8 @@ The company instills discipline and teamwork through activities such as the annu
 The 82nd Boys’ Brigade Company seeks to grow from strength to strength, and nurture new and current members into better boys by instilling the values of obedience, discipline and self-respect into them, so as to better prepare them for challenges that may come their way in the future.
 
 #### CCA Mentors
-Mr David Lim (Mr) OIC - Sec 3, 4 and 5 <br>
-Mr Lin Minghao (Mr) 2IC  - Sec 1 and 2 <br>
+Mr David Lim Boon Wee (OIC, Sec 1, 4 &amp; 5 <br>
+Mr Lin Minghao (2IC, Sec 2 &amp; 3) <br>
 Mr Hoon Yeng Wei (Cluster Head) <br>
 
 #### Officers
