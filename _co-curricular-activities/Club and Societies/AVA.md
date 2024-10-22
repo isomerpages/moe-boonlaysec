@@ -14,9 +14,9 @@ The weekly technical equipment training allows the students to hone their techni
 Come join us if you are interested in handling AVA equipment and have a passion for audio equipment.
 
 #### **Teachers-In-Charge**
-Mrs Ester Chang (OIC / CCAM Sec 1 &amp; 2)<br>
-Mr Ramesh (2IC / CCAM Sec 4 &amp; 5)<br>
-Ms Tanalatshmie Sandrasagran (CCAM Sec 3)<br>
+Mrs Ester Chang (OIC, Sec 1 &amp; 2)<br>
+Mr Ramesh (2IC, Sec 4 &amp; 5)<br>
+Ms Tanalatshmie Sandrasagran (Sec 3)<br>
 Mr Zong Zixin Kelvin (Cluster Head)
 
 #### **Student Leaders**
