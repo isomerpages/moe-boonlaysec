@@ -1,5 +1,5 @@
 collections:
-  our-curriculum:
+  our-academic-curriculum:
     output: true
     order:
       - Craft & Technology.md
