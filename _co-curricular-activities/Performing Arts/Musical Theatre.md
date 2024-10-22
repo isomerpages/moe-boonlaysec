@@ -15,18 +15,17 @@ The club believes in presenting various performance opportunities to ignite ever
 
 
 #### **CCA Mentors**
-Tan Zhi Ying Serlin (Miss) Sec 1&nbsp;<br>
-Haznita Jaafar (Mdm) 2IC – Sec 2<br>
-Nur Faidah Hassan (Mdm) OIC – Sec 3, 4 &amp; 5<br>
-Rita Thia (Miss) Cluster Head<br>
+Mdm Nur Faidah Hassan (OIC, Sec 3)<br>
+Mdm Haznita Jaafar (2IC, Sec 4 &amp; 5)<br>
+Ms Tan Zhi Ying Serlin (Sec 1)<br>
+Mdm Sabirah Husnah Bte Shahul Hamed (Sec 2)<br>
+Ms Thia Mei Yin Rita (Cluster Head)<br>
 
- 
 #### Student Leaders
 Rizqi Aniq Bin Addernan<br>
 Tan Yong Xuan Jordan<br>
 Manikandeswaran S/O Isepran<br>
 Jagajeevan Seethalakshmi Rishika
-
 
 #### Training Days
 Tuesday (3.00 pm to 5.30 pm)<br>
