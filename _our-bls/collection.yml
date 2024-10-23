@@ -1,0 +1,8 @@
+collections:
+  our-bls:
+    output: true
+    order:
+      - History.md
+      - School Crest.md
+      - School Song.md
+      - Organisational Culture.md

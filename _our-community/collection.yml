@@ -1,5 +1,5 @@
 collections:
-  partnerships:
+  our-community:
     output: true
     order:
       - Home School Partnerships.md

@@ -1,5 +1,5 @@
 ---
-title: BLS Staff
+title: School Staff
 permalink: /about-bls/staff/
 description: ""
 variant: tiptap

@@ -1,10 +1,10 @@
 logo: /images/crest.jpg
 links:
-  - title: About BLS
-    collection: about-bls
-  - title: Departments
-    collection: departments
-  - title: Holistic Development
+  - title: Our Bls
+    collection: our-bls
+  - title: Our Academic Curriculum
+    collection: our-academic-curriculum
+  - title: Our Holistic Development
     url: /holistic-development/co-curricular-activities/leaps/
     sublinks:
       - title: Co Curricular Activities
@@ -15,9 +15,9 @@ links:
         url: /holistic-development/aspiration-focused-programme/
       - title: CCLBB
         url: /holistic-development/cclbb/
+  - title: Our Community
+    collection: our-community
   - title: Useful Information and Links
     collection: other-links
-  - title: Partnerships
-    collection: partnerships
   - title: Contact Us
     url: /contact/

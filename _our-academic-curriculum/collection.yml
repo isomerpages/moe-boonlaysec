@@ -1,8 +1,8 @@
 collections:
-  departments:
+  our-academic-curriculum:
     output: true
     order:
-      - Executive and Administrative.md
+      - Academic Programme.md
       - Craft & Technology.md
       - English.md
       - Humanities and The Arts.md

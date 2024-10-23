@@ -8,6 +8,6 @@ Our academic programme seeks to equip students with the essential skill sets, kn
 
 To pave the way ahead for students to innovate, the school has created special learning studios for some subjects to set up a stimulating and engaging environment for learning. Technology is also a main tool which our teachers use to provide students ways to initiate and own their learning through easy access to knowledge and resources. Beyond learning within the classrooms, students are brought on learning journeys and trails, and outdoor investigations where they are encouraged to inquire and learn in real-world contexts.
 
-<img src="/images/academic.png" style="width:65%" align=left>
+<img src="/images/academic.png" style="width:65%" align="left">
 
 <br clear="left">

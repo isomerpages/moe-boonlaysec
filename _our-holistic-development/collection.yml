@@ -1,5 +1,5 @@
 collections:
-  holistic-development:
+  our-holistic-development:
     output: true
     order:
       - Aspiration Focused Programme/.keep
