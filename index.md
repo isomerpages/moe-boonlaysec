@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/DSC00913.jpg
+      background: /images/BLS.gif
       url: /contact-us/
       key_highlights:
         - title: Prospective Students
