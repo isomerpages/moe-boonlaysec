@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BLS_Website_Banner__1200_x_400_px___2_.gif
+      background: /images/BLS_Website_Banner__1200_x_400_px___3_.gif
       url: /contact-us/
       key_highlights:
         - title: Prospective Students
@@ -16,6 +16,7 @@ sections:
         - title: Technology Enabled Learning
           description: Connect, Curate, Create
           url: /tel
+      variant: center
   - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
