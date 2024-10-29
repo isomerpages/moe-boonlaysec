@@ -2,8 +2,8 @@ collections:
   our-bls:
     output: true
     order:
-      - Concept of Schooling.md
       - History.md
       - School Crest.md
       - School Song.md
       - Organisational Culture.md
+      - Concept of Schooling.md
