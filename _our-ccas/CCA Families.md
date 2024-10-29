@@ -2,38 +2,77 @@
 title: CCA Families
 permalink: /co-curricular-activities/ccafamilies/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-We aim to provide experiential learning experiences to help develop character and competencies in every student.
-
-In BLS, we offer Co-Curricular Activities (CCAs) which spread across four domains. These domains are the Uniformed Groups, Performing Arts, Sports and Clubs. While some of these CCAs are gender-specific, most are available for boys and girls to choose from.
-
-We have 16 CCAs on offer, each is unique in its own way.
-
-#### **Uniformed Groups**
-
-*   Boys’ Brigade (Boys)
-*   National Cadet Corps (Land) (Boys)
-*   National Civil Defence Cadet Corps (Boys & Girls)
-*   National Police Cadet Corps (Boys & Girls)
-*   St John Brigade (Boys & Girls)
-
-#### **Performing Arts**
-
-*   Concert Band (Boys & Girls)
-*   Chinese Orchestra (Boys & Girls)
-*   Choir (Boys & Girls)
-*   Contemporary Dance (Boys & Girls)
-*   Malay Dance (Boys & Girls)
-*   Musical Theatre (Boys & Girls)
-
-#### **Sports**
-
-*   Badminton (Boys & Girls)
-*   Basketball (Boys)
-*   Netball (Girls)
-
-#### **Clubs**
-
-*   Audio Visual Aid (Boys & Girls)
-*   Cyberace (Boys & Girls)
+<p>We aim to provide experiential learning experiences to help develop character
+and competencies in every student.</p>
+<p>In BLS, we offer Co-Curricular Activities (CCAs) which spread across four
+domains. These domains are the Uniformed Groups, Performing Arts, Sports
+and Clubs. While some of these CCAs are gender-specific, most are available
+for boys and girls to choose from.</p>
+<p>We have 16 CCAs on offer, each is unique in its own way.</p>
+<h4><strong>Uniformed Groups</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Boys’ Brigade (Boys)</p>
+</li>
+<li>
+<p>National Cadet Corps (Land) (Boys)</p>
+</li>
+<li>
+<p>National Civil Defence Cadet Corps (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>National Police Cadet Corps (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>St John Brigade (Boys &amp; Girls)</p>
+</li>
+</ul>
+<h4><strong>Performing Arts</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Concert Band (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Chinese Orchestra (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Choir (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Contemporary Dance (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Malay Dance (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Musical Theatre (Boys &amp; Girls)</p>
+</li>
+</ul>
+<h4><strong>Sports</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Basketball (Boys)</p>
+</li>
+<li>
+<p>Netball (Girls)</p>
+</li>
+</ul>
+<h4><strong>Clubs</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Audio Visual Aid (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Cyberace (Boys &amp; Girls)</p>
+</li>
+</ul>
+<p></p>
+<p>Do refer to the MOE link for more information on <strong>LEAPS 2.0</strong>:
+[<a href="https://bit.ly/3CwJ7mN](/files/leaps.pdf)" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3CwJ7mN](/files/leaps.pdf)</a>
+</p>
+<p></p>
