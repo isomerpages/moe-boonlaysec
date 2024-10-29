@@ -3,6 +3,7 @@ title: Library
 permalink: /other-links/library/
 description: ""
 third_nav_title: Learning Spaces
+variant: markdown
 ---
 Boon Lay Secondary's Library is a 21st Century Library that enables students to connect, curate and create.
 
