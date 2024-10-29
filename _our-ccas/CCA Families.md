@@ -73,6 +73,6 @@ for boys and girls to choose from.</p>
 </ul>
 <p></p>
 <p>Do refer to the MOE link for more information on <strong>LEAPS 2.0</strong>:
-<a href="https://bit.ly/3CwJ7mN](/files/leaps.pdf)" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3CwJ7mN</a>
+<a href="https://bit.ly/3CwJ7mN" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3CwJ7mN</a>
 </p>
 <p></p>
