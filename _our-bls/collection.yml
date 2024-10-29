@@ -2,12 +2,12 @@ collections:
   our-bls:
     output: true
     order:
-      - Concept of Schooling/Family Oriented.md
-      - Concept of Schooling/CCA Centric.md
-      - Concept of Schooling/Aspiration Focused.md
-      - Concept of Schooling/.keep
       - History.md
       - School Crest.md
       - School Song.md
       - Organisational Culture.md
+      - Concept of Schooling/.keep
+      - Concept of Schooling/Family Oriented.md
+      - Concept of Schooling/CCA Centric.md
+      - Concept of Schooling/Aspiration Focused.md
       - Concept of Schooling.md
