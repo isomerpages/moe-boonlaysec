@@ -7,12 +7,12 @@ links:
   - title: Our Academic Curriculum
     collection: our-academic-curriculum
   - title: Our Holistic Development
-    url: /holistic-development/cce
+    url: /holistic-development/aspiration-focused-programme/
     sublinks:
-      - title: Character and Citizenship Edu
-        url: /holistic-development/cce/
       - title: Aspiration Focused Programme
         url: /holistic-development/aspiration-focused-programme/
+      - title: Character and Citizenship Edu
+        url: /holistic-development/cce/
       - title: CCLBB
         url: /holistic-development/cclbb/
   - title: Our CCAs
