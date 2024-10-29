@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCAs/.keep
-      - CCA Families.md
       - Aspiration Focused Programme/.keep
       - Aspiration Focused Programme/Aspiration Focused Programme.md
       - Aspiration Focused Programme/Student Development Modules.md
