@@ -2,7 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
-      - CCA Centric.md
       - CCA Families.md
       - LEAPS 2.md
       - Uniformed Groups/.keep
