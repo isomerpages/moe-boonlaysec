@@ -6,17 +6,8 @@ links:
     collection: our-people
   - title: Our Academic Curriculum
     collection: our-academic-curriculum
-  - title: Our Holistic Devp
-    url: /holistic-development/aspiration-focused-programme/
-    sublinks:
-      - title: Aspiration Focused Programme
-        url: /holistic-development/aspiration-focused-programme/
-      - title: Character and Citizenship Edu
-        url: /holistic-development/cce/
-      - title: CCLBB
-        url: /holistic-development/cclbb/
-      - title: Learning Spaces
-        url: /holistic-development/learningspaces/
+  - title: Our Holistic Development
+    collection: our-holistic-development
   - title: Our CCAs
     collection: our-ccas
   - title: Our Community
@@ -25,5 +16,3 @@ links:
     collection: other-links
   - title: Contact Us
     url: /contact/
-  - title: Our Holistic Development
-    collection: our-holistic-development
