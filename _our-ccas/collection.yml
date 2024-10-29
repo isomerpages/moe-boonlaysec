@@ -2,7 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
-      - CCA Families.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/National Cadet Corps.md
