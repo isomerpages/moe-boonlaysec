@@ -16,7 +16,7 @@ sections:
         - title: Technology Enabled Learning
           description: Connect, Curate, Create
           url: /tel
-      variant: image
+      variant: center
   - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
