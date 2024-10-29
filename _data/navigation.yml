@@ -6,7 +6,7 @@ links:
     collection: our-people
   - title: Our Academic Curriculum
     collection: our-academic-curriculum
-  - title: Our Holistic Development
+  - title: Our Holistic Devp
     url: /holistic-development/aspiration-focused-programme/
     sublinks:
       - title: Aspiration Focused Programme
@@ -25,3 +25,5 @@ links:
     collection: other-links
   - title: Contact Us
     url: /contact/
+  - title: Our Holistic Development
+    collection: our-holistic-development
