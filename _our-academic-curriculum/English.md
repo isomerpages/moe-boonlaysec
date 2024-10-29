@@ -4,7 +4,6 @@ permalink: /departments/english/
 description: ""
 variant: tiptap
 ---
-<h3><strong>English Language and Literature</strong></h3>
 <h4><strong>Vision</strong></h4>
 <p>Every student a&nbsp;learner who uses language with&nbsp;<strong>I</strong>mpact,&nbsp;<strong>E</strong>ffect
 and&nbsp;<strong>A</strong>ffect.</p>
