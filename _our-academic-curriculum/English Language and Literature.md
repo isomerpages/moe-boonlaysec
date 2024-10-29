@@ -44,7 +44,6 @@ apply their individual skillsets to the roles and tasks assigned to them.</p>
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_14_at_09_46_38.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Live_Interviews2.jpg">
 </div>
