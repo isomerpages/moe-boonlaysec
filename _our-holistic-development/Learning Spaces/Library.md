@@ -6,9 +6,12 @@ third_nav_title: Learning Spaces
 variant: tiptap
 ---
 <h3>A 21st Century Library</h3>
-<p>The learning spaces in the library are thoughtfully designed to support
-students' learning and contribute to their development of 21st century
-skills and dispositions.</p>
+<p>The library was thoughtfully redesigned and reopened in 2021 to provide
+Reading, Research, Collaboration, Study and Doing opportunities for students,
+supporting and facilitating knowledge acquisition and 21CC development.
+As design shapes experiences and actions, the library was zoned into flexible
+learning spaces that enable multiple modes of learning, catering to users’
+needs and encouraging positive learned behaviour.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/P202_Image_14.jpg">
 </div>
