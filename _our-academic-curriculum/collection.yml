@@ -2,8 +2,8 @@ collections:
   our-academic-curriculum:
     output: true
     order:
-      - Technology Enabled Learning.md
       - Academic Programme.md
+      - Technology Enabled Learning.md
       - Craft & Technology.md
       - English.md
       - Humanities and The Arts.md
