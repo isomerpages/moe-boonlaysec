@@ -97,7 +97,7 @@ educational equipment.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/P202_Image_15.jpg">
 </div>
-<p><em>                              Students engaging in a debate presentation with classmates</em>
+<p><em>Students engaging in a debate presentation with classmates</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P202_Image_20.jpg">
