@@ -72,5 +72,5 @@ for boys and girls to choose from.</p>
 </li>
 </ul>
 <p></p>
-<p>Do refer to the MOE link for more information on <a href="/files/leaps.pdf" rel="noopener nofollow" target="_blank">LEAPS 2.0</a>
+<p>Do refer to the MOE link for more information on <a href="/files/leaps2_0.pdf" rel="noopener nofollow" target="_blank">LEAPS 2.0</a>
 </p>
