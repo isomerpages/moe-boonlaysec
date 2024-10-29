@@ -2,7 +2,6 @@ collections:
   our-holistic-development:
     output: true
     order:
-      - CCAs/.keep
       - Aspiration Focused Programme/.keep
       - Aspiration Focused Programme/Aspiration Focused Programme.md
       - Aspiration Focused Programme/Student Development Modules.md
