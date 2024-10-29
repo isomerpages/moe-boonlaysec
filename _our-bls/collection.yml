@@ -2,6 +2,7 @@ collections:
   our-bls:
     output: true
     order:
+      - CCA Centric.md
       - Aspiration Focused.md
       - Family Oriented.md
       - History.md
