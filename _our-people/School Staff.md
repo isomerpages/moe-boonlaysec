@@ -4,6 +4,10 @@ permalink: /about-bls/staff/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff photo 2024" src="/images/Screenshot_2024_10_31_220802.png">
+</div>
 <h4><strong>AVA</strong></h4>
 <p>Lai Sizhen Ester (Mdm) - Sec 1 &amp; 2, OIC</p>
 <p>Tanalatshmie Sanrasagran (Ms) - Sec 3</p>
