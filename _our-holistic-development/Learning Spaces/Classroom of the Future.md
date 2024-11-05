@@ -18,6 +18,9 @@ their ideal way of learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureGallery.jpg">
 </div>
+<p>Our classrooms are equipped with Apple TVs that help facilitate collaborative
+learning by allowing students to share their work, such as presentations
+or videos they created with the class.</p>
 <p></p>
 <p></p>
 <p></p>
