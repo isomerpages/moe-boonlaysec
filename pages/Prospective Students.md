@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4>Our Home is Open for you to visit!</h4>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLS_OPEN_HOUSE_2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLS_Open_House_.png">
 </div>
 <p>We warmly invite you to join the BLS family at our Open House on 23 November!
 Come explore our exciting programmes and get a true taste of life as a
@@ -17,7 +19,7 @@ and check out the variety of CCAs we offer. We can’t wait to meet you!</p>
 <p></p>
 <h4><strong>Dialogue with School Leaders&nbsp;</strong></h4>
 <p>Time: 10.00 and 11.30am</p>
-<p>Sign up for the dialogue using the QR code or via this link: <strong><a href="https://go.gov.sg/blsopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/blsopenhouse2024 </a></strong>
+<p>Sign up for the dialogue using the QR code or via this link: <strong><a href="https://go.gov.sg/blsopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/blsopenhouse2024</a></strong>
 </p>
 <p>We look forward to meeting you!&nbsp;</p>
 <p></p>
