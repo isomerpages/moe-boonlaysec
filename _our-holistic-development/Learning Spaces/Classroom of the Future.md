@@ -27,8 +27,8 @@ such as presentations or videos they created with the class.</p>
 </div>
 <p></p>
 <p>Our classrooms are thoughtfully designed to have lush artificial plants
-and high-quality, comfortable flooring. These design elements have created
-a calming environment that promotes focus and mental wellness.</p>
+and high-quality, comfortable flooring. These design elements have certainly
+created a calming environment that promotes focus and mental wellness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_05_at_17_25_13.jpg">
 </div>
