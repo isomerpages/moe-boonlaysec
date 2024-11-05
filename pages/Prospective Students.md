@@ -7,8 +7,9 @@ variant: tiptap
 <h4>Our Home is Open for you to visit!</h4>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLS_Open_House_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLS_Open_House___1_.png">
 </div>
 <p>We warmly invite you to join the BLS family at our Open House on 23 November!
 Come explore our exciting programmes and get a true taste of life as a
