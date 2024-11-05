@@ -15,11 +15,10 @@ and check out the variety of CCAs we offer. We can’t wait to meet you!</p>
 <p>Date: 23 November 2024 (Saturday)</p>
 <p>Time: 9am - 12.30am</p>
 <p></p>
-<p><strong>Dialogue with School Leaders&nbsp;</strong>
-</p>
+<h4><strong>Dialogue with School Leaders&nbsp;</strong></h4>
 <p>Time: 10.00 and 11.30am</p>
-<p>Sign up for the dialogue using the QR code</p>
-<p></p>
+<p>Sign up for the dialogue using the QR code or via this link: <strong><a href="https://go.gov.sg/blsopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/blsopenhouse2024 </a></strong>
+</p>
 <p>We look forward to meeting you!&nbsp;</p>
 <p></p>
 <p>#ChooseGreatness #ChooseBoonLaySec</p>
