@@ -8,7 +8,7 @@ description: ""
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1txu8hFnF5U"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1txu8hFnF5U"></iframe>
 </div>
 <p></p>
 <p></p>
