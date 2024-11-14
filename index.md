@@ -20,10 +20,10 @@ sections:
   - infopic:
       title: Open House 2024
       id: infopic
-      description: We are open from 9 to 12.30pm on 23 November. Join us!
+      description: We are open from 9am to 12.30pm on 23 Nov! Join us!
       button: view more
       url: https://www.boonlaysec.moe.edu.sg/prospective-students/
-      image: /images/BLS_Open_House___1_.png
+      image: /images/BLS_Open_House_2024.jpg
       alt: Image alt text
   - infopic:
       title: Choose Your Own Adventure
