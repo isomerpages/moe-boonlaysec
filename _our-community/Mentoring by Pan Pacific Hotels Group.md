@@ -4,8 +4,7 @@ permalink: /mentoring-by-pan-pacific-hotels-group/
 variant: tiptap
 description: ""
 ---
-<p><strong>Fulfilling Life through Experiences (FLEX) Mentoring Programme with UOL-Pan Pacific Hotels Group (PPHG)</strong>
-</p>
+<h4><strong>Fulfilling Life through Experiences (FLEX) Mentoring Programme with UOL-Pan Pacific Hotels Group (PPHG)</strong></h4>
 <p>Since 2022, our school has worked closely with UOL-Pan Pacific Hotels
 Group (PPHG) to offer the Fulfilling Life through Experiences (FLEX) Mentoring
 Programme. This initiative empowers students by providing them with mentorship
