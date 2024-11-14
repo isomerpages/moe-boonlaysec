@@ -4,7 +4,6 @@ permalink: /green-economy-and-sustainability/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Surbana Jurong</strong></h4>
 <p><strong>With the Green Economy as an emerging economy, our school has proudly partnered Surbana Jurong and Lego Singapore to allow our students to explore the adoption of sustainable practices across various industries and sectors.</strong>
 </p>
 <p></p>
