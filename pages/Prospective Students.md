@@ -4,20 +4,16 @@ permalink: /prospective-students/
 description: ""
 variant: tiptap
 ---
-<h4>Our Home is Open for you to visit!</h4>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLS_Open_House___1_.png">
-</div>
+<h4><strong>Our Home is Open for you to visit!</strong></h4>
 <p>We warmly invite you to join the BLS family at our Open House on 23 November!
 Come explore our exciting programmes and get a true taste of life as a
 BLS student. You’ll have the chance to hear from our inspiring school leaders
 and check out the variety of CCAs we offer. We can’t wait to meet you!</p>
 <p>Date: 23 November 2024 (Saturday)</p>
-<p>Time: 9am - 12.30am</p>
-<p></p>
+<p>Time: 9am - 12.30pm</p>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/34e244de62.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BLS_Pub_Brochure_p1half.jpg"></a>
+<p>Click here for the <a href="https://heyzine.com/flip-book/34e244de62.html" rel="noopener nofollow" target="_blank">e-Brochure</a>!</p>
+<hr>
 <h4><strong>Dialogue with School Leaders&nbsp;</strong></h4>
 <p>Time: 10.00 and 11.30am</p>
 <p>Sign up for the dialogue using the QR code or via this link: <strong><a href="https://go.gov.sg/blsopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/blsopenhouse2024</a></strong>

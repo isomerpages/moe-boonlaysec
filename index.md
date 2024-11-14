@@ -18,6 +18,22 @@ sections:
           url: /tel
       variant: center
   - infopic:
+      title: Open House 2024
+      id: infopic
+      description: We are open from 9am to 12.30pm on 23 Nov! Join us!
+      button: View More
+      url: https://www.boonlaysec.moe.edu.sg/prospective-students/
+      image: /images/BLS_Open_House_2024v2.jpg
+      alt: Image alt text
+  - infopic:
+      title: e-Brochure
+      id: infopic
+      description: Find out more on what we offer!
+      button: View More
+      url: https://heyzine.com/flip-book/34e244de62.html
+      image: /images/BLS_Pub_Brochure.jpg
+      alt: Image alt text
+  - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
       button: View More
