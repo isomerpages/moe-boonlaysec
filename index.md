@@ -26,18 +26,18 @@ sections:
       image: /images/BLS_Open_House_2024v2.jpg
       alt: Image alt text
   - infopic:
+      title: e-Brochure
+      id: infopic
+      description: Find out more on what we offer!
+      button: View More
+      url: https://heyzine.com/flip-book/34e244de62.html
+      image: /images/BLS_Pub_Brochure.jpg
+      alt: Image alt text
+  - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
       button: View More
       alt: Image alt text
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
-  - infopic:
-      title: e-Brochure
-      id: infopic
-      description: Find out more about the BLS journey!
-      button: View More
-      url: https://heyzine.com/flip-book/34e244de62.html
-      image: /images/BLS_Pub_Brochure.jpg
-      alt: Image alt text
 ---
