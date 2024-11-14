@@ -29,16 +29,10 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>Safe Hearts Programme</u></strong>
-</p>
-<p>
-<br>
-</p>
+<h4><strong>Safe Hearts Programme</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lifesavers.png">
 </div>
-<p></p>
 <p></p>
 <p>Contributing to the community gives our students a greater sense of purpose,
 strengthens their confidence, and helps them to see themselves as active
@@ -48,20 +42,10 @@ Chinese New Year period, in collaboration with our school’s long-time partners
 Boon Lay and Nanyang Constituencies. Another would be the Uniformed Groups’
 hands-on sharing sessions on basic CPR/AED with the same constituencies
 (Safe Hearts Programme).</p>
-<p>
-<br>
-</p>
-<p><strong><u>School Football Academy (SFA) for girls with Unleash the Roar (UTR)</u></strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
+<h4><strong>School Football Academy (SFA) for girls with Unleash the Roar (UTR)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Firls_FB2.jpg">
 </div>
-<p>
-<br>
-</p>
 <p>Together with Westwood Secondary and Methodist Girls’ School, our school
 has worked closely with ActiveSg Unleash the Roar (UTR) to form a cluster-based
 football academy for girls. Girls across the three schools train regularly
