@@ -32,4 +32,12 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
+  - infopic:
+      title: e-Brochure
+      id: infopic
+      description: Find out more about the BLS journey!
+      button: View More
+      url: https://heyzine.com/flip-book/34e244de62.html
+      image: /images/BLS_Pub_Brochure.jpg
+      alt: Image alt text
 ---
