@@ -17,9 +17,9 @@ variant: tiptap
 <br><a href="/files/Sec_2_G3.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2025_Sec 2 G3</a>
 </p>
 <h4><strong>Booklist and Stationery list (Sec 3)</strong></h4>
-<p><a href="/files/Sec_3Exp_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 3 Exp</a> 
-<br><a href="/files/Sec_3NA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 3 NA</a> 
-<br><a href="/files/Sec_3NT_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 3 NT</a>
+<p><a href="/files/Sec_3Exp.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 3 Exp </a>
+<br><a href="/files/Sec_3NA.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 3 NA</a>
+<br><a href="/files/Sec_3NT.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 3 NT</a>
 </p>
 <h4><strong>Booklist and Stationery list (Sec 4/5)</strong></h4>
 <p><a href="/files/Sec_4Exp_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 4 Exp</a> 
