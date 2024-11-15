@@ -7,8 +7,10 @@ variant: tiptap
 <h4><strong>Booklist and Stationery list (Sec 1)</strong></h4>
 <p><a href="/files/Sec_1_G3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 1 G3</a> 
 <br><a href="/files/Sec_1_G2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 1 G2</a> 
-<br><a href="/files/Sec_1_G1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 1 G1</a>
+<br><a href="/files/Sec_1_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024</a>
+<br><a href="/files/Sec_1_G1.pdf" rel="noopener nofollow" target="_blank">BLS Booklist</a>
 </p>
+<p></p>
 <h4><strong>Booklist and Stationery list (Sec 2)</strong></h4>
 <p><a href="/files/Sec_2Exp_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 2 Exp</a> 
 <br><a href="/files/Sec_2NA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">BLS Booklist and Stationery List 2024_Sec 2 NA</a> 
