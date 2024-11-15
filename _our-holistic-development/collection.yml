@@ -2,7 +2,6 @@ collections:
   our-holistic-development:
     output: true
     order:
-      - Student Leadership.md
       - Aspiration Focused Programme/.keep
       - Aspiration Focused Programme/Aspiration Focused Programme.md
       - Aspiration Focused Programme/Student Development Modules.md
@@ -13,8 +12,9 @@ collections:
       - CCE/Sexuality Education.md
       - CCE/Values In Action.md
       - CCA Centric Learning Beyond Boundaries.md
+      - Learning Spaces/.keep
       - Learning Spaces/Classroom of the Future.md
       - Learning Spaces/Chill Zone.md
-      - Learning Spaces/.keep
       - Learning Spaces/Library.md
       - Learning Spaces/Media Broadcast Studio.md
+      - Student Leadership.md
