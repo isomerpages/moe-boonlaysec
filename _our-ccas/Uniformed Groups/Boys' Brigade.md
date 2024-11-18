@@ -43,32 +43,31 @@ prepare them for challenges that may come their way in the future.</p>
 <br>OCT David Poh
 <br>OCT Tan Chong Yan
 <br>OCT Christine Tey</p>
-<h4>Company Sergeant Major</h4>
-<p>SGT Niroshaan Kumar
-<br>
-</p>
-<h4>Assistant Company Sergeant Major</h4>
-<p>SGT Aaqil S/O Shiraj
-<br>
-</p>
-<h4>Admin NCO</h4>
-<p>SGT Jack Chan
-<br>
-</p>
-<h4>Quartermaster NCO</h4>
-<p>SGT Aaqil S/O Shiraj
+<h4>Student Leaders</h4>
+<p><strong>Company Sergeant Major</strong>: SGT Niroshaan Kumar
+<br><strong>Assistant Company Sergeant Major</strong>: SGT Aaqil S/O Shiraj
+<br><strong>Admin NCO</strong>:<strong> </strong>SGT Jack Chan
+<br><strong>Quartermaster NCO</strong>: SGT Aaqil S/O Shiraj
 <br>
 </p>
 <h4>Training Days</h4>
-<p>Tuesdays (3.30 to 5.30pm)
-<br>Fridays (2.30 to 5.30pm)
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)
 <br><em>(2pm Fall in for Roll Call and Attire Check) </em>
 <br>
 </p>
 <h4>Achievements</h4>
-<p>J M Fraser Award for Company Excellence 2023-2024 (Distinction)
-<br>J M Fraser Award for Company Excellence 2019-2022 (Silver)
-<br>J M Fraser Award for Company Excellence 2017-2018 (Bronze)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>J M Fraser Award for Company Excellence 2023-2024 (Distinction)</p>
+</li>
+<li>
+<p>J M Fraser Award for Company Excellence 2019-2022 (Silver)</p>
+</li>
+<li>
+<p>J M Fraser Award for Company Excellence 2017-2018 (Bronze)</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB2.jpg">
