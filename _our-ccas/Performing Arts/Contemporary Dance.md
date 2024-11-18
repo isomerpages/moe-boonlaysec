@@ -34,15 +34,15 @@ dance forms, come join us.</p>
 <br>Mdm Suziela Yassin (2IC, Sec 4 &amp; 5)
 <br>Ms Fong Siong Kuen (Sec 1 &amp; 2)
 <br>Mrs Hong-Chuah Mei Thien (Cluster Head)</p>
-<h4>Student Leaders</h4>
+<h4>CCA Leaders</h4>
 <p><strong>President</strong>: Angelina Khoo Ern Kee
 <br><strong>Vice President</strong>: Kliff Loh Zi Tao
 <br><strong>Upper Sec Dance Mistress</strong>: Dayana Fitrisha Binte Mohammad
 Farid Faisal
 <br><strong>Lower Sec Dance Mistress</strong>: Lee En Lok Rain</p>
 <h4>Training Days</h4>
-<p>Tuesday (3.30 pm – 5.30 pm)
-<br>Friday (2.30 pm – 5.30 pm)</p>
+<p>Tuesday (3.45pm – 5.30pm)
+<br>Friday (2.30pm – 5.30pm)</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
