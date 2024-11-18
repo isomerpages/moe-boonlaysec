@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>St John Brigade (SJB) is the uniformed branch of St John Singapore, which
 provides first aid and ambulance services, as well as youth development
-through its Cadet programme.</p>
+through its cadet programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SJB Day" src="/images/SJ1.jpg">
 </div>
@@ -21,9 +21,9 @@ through its Cadet programme.</p>
 public good, by rendering first aid to the sick and wounded on public occasions,
 and to develop and promote every means of rendering aid to the sick and
 wounded.</p>
-<p>In BLS, SJB seeks to equip all cadets with life-saving skills of first
-aid, nursing, occupational safety, health care and emergency assistance,
-and at the same time, provide opportunities to help them develop holistically
+<p>BLS SJB seeks to equip all cadets with life-saving skills of first aid,
+nursing, occupational safety, health care and emergency assistance, and
+at the same time, provides opportunities to help them develop holistically
 as a person. Life-saving courses such as CPR-AED and Basic Cardiac Life
 Support (BCLS) are organized for the cadets including certification in
 Basic First Aid and Basic Home Nursing. Through the Cadet Proficiency Badge
@@ -43,11 +43,11 @@ services not only to the school, but also to the public by performing public
 duties at community events.</p>
 <p><strong>Public Service</strong>
 </p>
-<p>The Boon Lay CC – Safe Hearts Values In Action (VIA) collaboration initiative
-started from the year 2022. Together with NCDCC, we have been serving the
-community, doing awareness programmes as well as educating the public in
-the areas of CPR and the use of AED.&nbsp; Some of the notable events which
-we had gone through are:</p>
+<p>The Boon Lay CC – Safe Hearts Values in Action (VIA) collaboration initiative
+started from 2022. Together with NCDCC, we have been serving the community,
+doing awareness programmes as well as educating the public in the areas
+of CPR and the use of AED. Some of the notable events we have supported
+are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CPR AED Awareness during “Hawker and Community Day” at Boon Lay Place
@@ -70,11 +70,11 @@ Food Village&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ9.png">
 </div>
-<p><em>Boon Lay CC – Safe Hearts Values In Action (VIA) Collaboration</em>
+<p><em>Boon Lay CC – Safe Hearts Values in Action (VIA) Collaboration</em>
 </p>
-<p>These experiences have reinforced within the students the importance of
-learning these life-saving skills as well as the need for good communication
-when they engage the public by educating them about CPR and AED.</p>
+<p>These experiences reinforce the importance of learning these life-saving
+skills as well as the need for good communication when they engage the
+public by educating them about CPR and AED.</p>
 <p><strong>SJB Key Personnel and Achievements</strong>
 </p>
 <table style="minWidth: 50px">
@@ -227,7 +227,6 @@ when they engage the public by educating them about CPR and AED.</p>
 </div>
 <p><em>CCA Experience Day</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SJ8.jpg">
 </div>
