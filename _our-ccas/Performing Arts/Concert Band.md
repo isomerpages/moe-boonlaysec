@@ -83,7 +83,7 @@ Accomplishment</p>
 <p>Performed at Schools in Concert at Victoria Concert Hall (2018)</p>
 </li>
 <li>
-<p>Participation in Singapore Youth Festival Parade of Bands – 2016</p>
+<p>Participation in Singapore Youth Festival Parade of Bands 2016</p>
 </li>
 </ul>
 <h4>Frequently Asked Questions</h4>
