@@ -28,7 +28,7 @@ units.</p>
 Annual Camp, which serve to bring invaluable experiences to its cadets.</p>
 <p>So please come and join the NCC (Land) family to enjoy all the wonderful
 and unique experiences that await you.</p>
-<h4>Teachers-in-charge</h4>
+<h4>CCA Mentors</h4>
 <p>Mr Ronald Wong Zhenrong (OIC, Sec 3)
 <br>Mr Ong Zhi Jie, (2IC, Sec 4 &amp; 5)
 <br>Mr Ng Chee Kin (Sec 1)
@@ -37,9 +37,8 @@ and unique experiences that await you.</p>
 <br>
 </p>
 <h4>Cadet Lieutenant</h4>
-<p>CLT (NCC) Indra Adzani
-<br>
-</p>
+<p>CLT (NCC) Indra Adzani</p>
+<h4>CCA Leaders<br></h4>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30pm)
