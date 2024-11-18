@@ -45,8 +45,17 @@ dance forms, come join us.</p>
 <br>Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishment
 <br>Teenage Dance Challenge Competition 2019 - Top 5 (Street Dance Category)
 <br>Singapore Youth Festival Arts Presentation 2017 – Certificate of Accomplishment</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -55,10 +64,6 @@ dance forms, come join us.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD3.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD4.jpeg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
