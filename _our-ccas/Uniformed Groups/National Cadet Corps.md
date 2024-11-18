@@ -41,8 +41,8 @@ and unique experiences that await you.</p>
 <br>
 </p>
 <h4>Training Days</h4>
-<p>Tuesday (3.30 pm to 5.30 pm)
-<br>Fridays (2.30 pm to 5.30 pm)
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)
 <br>
 </p>
 <h4>Achievements</h4>
