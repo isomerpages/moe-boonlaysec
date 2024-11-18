@@ -24,8 +24,13 @@ through easy access to knowledge and resources. Beyond learning within
 the classrooms, students are brought on learning journeys and trails, and
 outdoor investigations where they are encouraged to inquire and learn in
 real-world contexts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/academic.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Acad1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Acad2.jpg">
 </div>
 <p>
 <br>
