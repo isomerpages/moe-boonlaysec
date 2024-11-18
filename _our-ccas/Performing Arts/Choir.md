@@ -34,7 +34,7 @@ social attitudes in all our choristers.</p>
 <h4>Conductors</h4>
 <p>Ms Michelle Poh
 <br>Ms Jessy Oskar</p>
-<h4>Student Leaders (Chorale Branch)</h4>
+<h4>CCA Leaders (Chorale Branch)</h4>
 <p><strong>President</strong>: Ng Jing Xuan, Alicia
 <br><strong>Vice-President</strong>: Ng Xin Yi
 <br><strong>Vice-President</strong>: Teryn Mah Yi Jie
@@ -48,7 +48,7 @@ Anusri
 <br><strong>Altos Sectional Leader</strong>: Tihani Irdina Binte Muhammed
 Riduan
 <br><strong>Altos Assistant Sectional Leader</strong>: Tan Xiu Min Valerie</p>
-<h4>Student Leaders (Administrative Branch)</h4>
+<h4>CCA Leaders (Administrative Branch)</h4>
 <p><strong>Vice House Head</strong>: Feby Lim Tian Xue&nbsp;
 <br><strong>House Leader</strong>: Ananya Musuwathi Saravanan
 <br><strong>Secondary 1 Level Leader</strong>: Nurin Ayra Binte Muhammad Raimi
@@ -62,8 +62,8 @@ Riduan
 <br><strong>Peer Support Leaders</strong>: Teryn Mah Yi Jie &amp; Muhammad
 Anas S/O Mohamed Albasa IR</p>
 <h4>Training Sessions</h4>
-<p>Tuesdays (3.30 pm to 5.30 pm)
-<br>Fridays (2.30 pm to 5.30 pm)</p>
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)</p>
 <h4>Achievements</h4>
 <ul>
 <li>
@@ -86,8 +86,8 @@ with Merit</p>
 <p>Singapore International Choral Festival 2018 – Bronze Diploma</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation 2013 - 2017 – Certificate of
-Distinction</p>
+<p>Singapore Youth Festival Arts Presentation (2013 - 2017) – Certificate
+of Distinction</p>
 </li>
 </ul>
 <p></p>
