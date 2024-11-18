@@ -41,15 +41,18 @@ potential in their individual talents.</p>
 <br>
 </p>
 <h4>CCA Leaders</h4>
-<p><strong>SLC</strong>: Vallavaraj Haretha and Rengaiah Sharana Harish
-<br><strong>Captains</strong>: Loh Jayden (Upper Sec Boys)
-<br>Nathan Raj Ryan Raj (Lower Sec Boys)
-<br>Natalie Lim Xin Jie (Upper Sec Girls)
-<br>Guo Lexuan (Lower Sec Girls)
-<br><strong>Vice Captains</strong>: Javion Tan Zhi Wei (Upper Sec Boys)
-<br>Tan Yi Yang (Lower Sec Boys)
-<br>Kerlin Ng Ke'xin (Upper Sec Girls)
-<br>Chandrasekaran Sathana (Lower Sec Girls)</p>
+<p>
+<br><strong>Captain (Upper Sec Boys)</strong>: Loh Jayden
+<br><strong>Captain (Lower Sec Boys)</strong>: Nathan Raj Ryan Raj
+<br><strong>Captain (Upper Sec Girls)</strong>: Natalie Lim Xin Jie
+<br><strong>Captain (Lower Sec Girls)</strong>: Guo Lexuan
+<br><strong>Vice Captain (Upper Sec Boys)</strong>: Javion Tan Zhi Wei
+<br><strong>Vice Captain (Lower Sec Boys)</strong>:Tan Yi Yang
+<br><strong>Vice Captain (Upper Sec Girls)</strong>:<strong> </strong>Kerlin
+Ng Ke'xin
+<br><strong>Vice Captain (Lower Sec Girls)</strong>:<strong> </strong>Chandrasekaran
+Sathana (Lower Sec Girls)
+<br><strong>SLC</strong>: Vallavaraj Haretha and Rengaiah Sharana Harish</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30pm)
