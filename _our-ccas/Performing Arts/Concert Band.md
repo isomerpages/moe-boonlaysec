@@ -30,7 +30,7 @@ a musical instrument, come join the Concert Band family!</p>
 <br>Mr Yu Pei-Yi (Cluster Head)
 <br>
 </p>
-<h4>Student Leaders (Concert Band)</h4>
+<h4>CCA Leaders (Concert Band)</h4>
 <p><strong>Band Major</strong>: Zhang Luxi
 <br><strong>Drum Major</strong>: Chong Jun Hao
 <br><strong>Assistant Band Major</strong>: Eunice Nithya Gopal
@@ -51,7 +51,7 @@ Binte Abd Razip
 <br><strong>Section Leader (Lower Brass)</strong>: Eunice Nithya Gopal
 <br><strong>Section Leader (Percussion)</strong>: Nikita Raisha Binte Abd
 Razip</p>
-<h4>Student Leaders (Admin)</h4>
+<h4>CCA Leaders (Admin)</h4>
 <p><strong>House Leaders</strong>: Lim Xin Yan Christing and Thiyara Lakshmi
 Kandan
 <br><strong>Secondary 1 Level Leaders</strong>: Loh Jia Xin and Chong Hong
@@ -62,8 +62,8 @@ Nithya Gopal
 <br><strong>Secondary 4 and 5 Level Leaders</strong>: Eve Maria Binte Zunaidi
 and Siow Zuo Ming Kaden</p>
 <h4>Training Days</h4>
-<p>Tuesdays (3.30 – 5.30pm)
-<br>Fridays (2.30 – 5.30pm)
+<p>Tuesday (3.45pm – 5.30pm)
+<br>Friday (2.30pm – 5.30pm)
 <br>
 </p>
 <h4>Achievements</h4>
