@@ -218,7 +218,7 @@ when they engage the public by educating them about CPR and AED.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB6.png">
 </div>
-<p><em>First Aid, CPR and Home Nursing lessons Led by our Corps Instructors</em>
+<p><em>First Aid, CPR and Home Nursing lessons led by our Corps Instructors</em>
 </p>
 <p><strong>School Events</strong>
 </p>
@@ -229,7 +229,7 @@ when they engage the public by educating them about CPR and AED.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ8.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SJ8.jpg">
 </div>
 <p><em>Math and Science Carnival</em>
 </p>
