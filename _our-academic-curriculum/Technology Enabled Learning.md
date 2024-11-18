@@ -19,11 +19,11 @@ technology to personalise and enhance students’ learning.</p>
 for inspiring, imagining, and impacting teaching and learning schoolwide
 through continuous innovation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Apple_Distinguished_School_1ln_blk_022324.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Apple_Distinguished_School_1ln_blk_022324.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00913.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSC00913.jpg">
 </div>
 <p></p>
 <p></p>
@@ -128,7 +128,7 @@ using generative AI tools for learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ICT Manager/DMA Administrator: </strong>Ms Faza</p>
-<p><strong>Desktop Engineers: </strong>Mr Simon Koh &amp; Ms Sarrah</p>
+<p><strong>Desktop Engineers: </strong>Mr Simon Koh</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ using generative AI tools for learning.</p>
 <p>Finance Matters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Admin Manager:</strong> Ms Sulaiha</p>
+<p><strong>Admin Manager:</strong> Mdm Sulaiha</p>
 </td>
 </tr>
 <tr>
