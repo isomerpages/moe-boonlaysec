@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Learning Spaces
 ---
 <p>Imagine a classroom that adapts to every learning need. Our classrooms
-are designed to provide spaces for solo study, pair discussions, group
-projects, or interactive discussions. Such a dynamic environment fosters
-collaboration and the freedom for every student to discover their best
-way of learning.</p>
+are designed to flexibly provide spaces for solo study, pair discussions,
+group projects, or interactive discussions. Such a dynamic environment
+fosters collaboration and the freedom for every student to discover their
+best way of learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/IMG_2937.jpg">
 </div>
