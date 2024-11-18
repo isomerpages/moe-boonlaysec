@@ -29,41 +29,87 @@ and Choices”, well encapsulates the journey of NCDCC cadets.</p>
 <br>Ms Claire Chung Su-Lin (Sec 4 &amp; 5)
 <br>Mr Ooi Chong Min (Cluster Head)</p>
 <h4>CCA Leaders</h4>
-<p>Unit Sergeant Major: Adriana Balqis Bte Lukman
-<br>Assistant Unit Sergeant Major: Muhammad Syahmi Aqil Bin Mohammed Sahril
-<br>Garnet House Head: Muhammad Umar Bin Abdul Ghaffor
-<br>Garnet House Leader: Abdullah Mustafa Dhafir Makkiyah</p>
+<p><strong>Unit Sergeant Major</strong>: Adriana Balqis Bte Lukman
+<br><strong>Assistant Unit Sergeant Major</strong>: Muhammad Syahmi Aqil Bin
+Mohammed Sahril
+<br><strong>Garnet House Head</strong>: Muhammad Umar Bin Abdul Ghaffor
+<br><strong>Garnet House Leader</strong>: Abdullah Mustafa Dhafir Makkiyah</p>
 <h4>Activities</h4>
-<p>Fire Safety Training
-<br>First Aid Training
-<br>Foot Drill Bronze, Silver and Gold
-<br>Singapore Anti-Narcotics Association (SANA) Course
-<br>Specialisation courses (Fire Safety, Medical Response and Urban Search
-and Rescue)
-<br>Homefront Security Course
-<br>NCDCC Observance Ceremony
-<br>Total Defence Day
-<br>NCDCC Service Month
-<br>Affirmation Day
-<br>National Day Parade</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fire Safety Training</p>
+</li>
+<li>
+<p>First Aid Training</p>
+</li>
+<li>
+<p>Rescue Techniques</p>
+</li>
+<li>
+<p>Foot Drill Bronze, Silver and Gold</p>
+</li>
+<li>
+<p>Specialisation courses (Fire Safety, Medical Response and Urban Search
+and Rescue)</p>
+</li>
+<li>
+<p>Singapore Anti-Narcotics Association (SANA) Course</p>
+</li>
+<li>
+<p>HAZMAT (Hazardous Materials)</p>
+</li>
+<li>
+<p>Homefront Security Course</p>
+</li>
+<li>
+<p>NCDCC Observance Ceremony</p>
+</li>
+<li>
+<p>Total Defence Day</p>
+</li>
+<li>
+<p>NCDCC Service Month</p>
+</li>
+<li>
+<p>Affirmation Day</p>
+</li>
+<li>
+<p>National Day Parade</p>
+</li>
+<li>
+<p>SCDF Day Parade</p>
+</li>
+</ul>
 <h4>Achievements</h4>
-<p>2022 &amp; 2023 Unit Overall Proficiency Award (UOPA) - Distinction
-<br>2018, 2019 &amp; 2021 Unit Overall Performance Award (UOPA) - Gold
-<br>2019-2024 SCDF-NCDCC Pinnacle Badge Award
-<br>2019-2024 Best Unit Cadet
-<br>2022 NCDCC Urban Adventure Civil Defence Challenge - Commendation
-<br>2023 NCDCC Urban Adventure Civil Defence Challenge - 6th Place
+<ul data-tight="true" class="tight">
+<li>
+<p>2022 &amp; 2023 Unit Overall Proficiency Award (UOPA) - Distinction</p>
+</li>
+<li>
+<p>2018, 2019 &amp; 2021 Unit Overall Performance Award (UOPA) - Gold</p>
+</li>
+<li>
+<p>2019-2024 SCDF-NCDCC Pinnacle Badge Award</p>
+</li>
+<li>
+<p>2019-2024 Unit Best Cadet</p>
+</li>
+<li>
+<p>2023 NCDCC Urban Adventure Civil Defence Challenge - 6th Place</p>
+</li>
+<li>
+<p>2022 NCDCC Urban Adventure Civil Defence Challenge - Commendation
+<br>
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND1.jpeg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND2.jpeg">
-</div>
 <p>
 <br>
 </p>
