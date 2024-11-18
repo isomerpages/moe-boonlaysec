@@ -9,11 +9,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/ST_John__1_.jpg">
 </div>
-<p></p>
 <p>St John Brigade (SJB) is the uniformed branch of St John Singapore, which
 provides first aid and ambulance services, as well as youth development
 through its Cadet programme.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SJB Day" src="/images/SJ1.jpg">
+</div>
+<p><em>SJB Day</em>
+</p>
 <p>The objective of the Brigade is to combine individual efforts for the
 public good, by rendering first aid to the sick and wounded on public occasions,
 and to develop and promote every means of rendering aid to the sick and
@@ -30,81 +33,22 @@ which is the highest award that a cadet can achieve under CPBS, is presented
 to cadets who have attained the required number of badges and successfully
 completed various assessments.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ2.png">
 </div>
-<p><strong>2023 Southwest District Presentation</strong>
+<p><em>Boon Lay Secondary School SJB Corps</em>
 </p>
-<p>Our training also include foot drills which helps to instill discipline
+<p>Our training also includes foot drills which helps to instill discipline
 in the students. Aligned to the goals of SJB, our unit provides first aid
 services not only to the school, but also to the public by performing public
 duties at community events.</p>
-<p><strong>SJB Key Personnel and Achievements</strong>
+<p><strong>Public Service</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB12.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB3.png">
-</div>
-<p><strong>2023 Corps Achievement Award (Gold) with Chief Commissioner’s Badge Awardees and First Aid Instructor Course Certificate Awardees</strong>
-</p>
-<p><strong>2023 Chief Commissioner’s Badge Awardees</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>SSGT Chuachang Peeranut</p>
-</li>
-<li>
-<p>SGT Asilah Hamizah Binte Afandi</p>
-</li>
-<li>
-<p>SGT Zafirah Sherin D/O John</p>
-</li>
-<li>
-<p>CPL Chloe Lee Zi Xuan</p>
-</li>
-<li>
-<p>CPL Soh Li Xuan, Chloe</p>
-</li>
-<li>
-<p>CPL Wee Jun Kai</p>
-</li>
-</ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB4.png">
-</div>
-<p>From left: SGT Zafirah Sherin D/O John, CPL Chloe Lee Zi Xuan, SSGT Chuachang
-Peeranut, CPL Soh Li Xuan, Chloe, SGT Asilah Hamizah Binte Afandi</p>
-<h4>SJB Weekly Activities and Bonding</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB5.png">
-</div>
-<p>Promotion Parade</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB6.png">
-</div>
-<p>First Aid and CPR lessons Led by our Corps First Aid Instructor</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB7.png">
-</div>
-<p>Secondary 1 Members Orientation</p>
-<h4>School Events</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB8.png">
-</div>
-<p>CCA Experience Day</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB9.png">
-</div>
-<p>Math and Science Carnival</p>
-<h4>Public Service</h4>
 <p>The Boon Lay CC – Safe Hearts Values In Action (VIA) collaboration initiative
 started from the year 2022. Together with NCDCC, we have been serving the
 community, doing awareness programmes as well as educating the public in
-the areas of CPR and the use of AED.&nbsp;</p>
-<p>Some of the notable events which we had gone through are:</p>
-<ol>
+the areas of CPR and the use of AED.&nbsp; Some of the notable events which
+we had gone through are:</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>CPR AED Awareness during “Hawker and Community Day” at Boon Lay Place
 Food Village&nbsp;</p>
@@ -121,37 +65,176 @@ Food Village&nbsp;</p>
 <li>
 <p>Football Tournament @ Jurong West Stadium</p>
 </li>
-</ol>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ9.png">
+</div>
+<p><em>Boon Lay CC – Safe Hearts Values In Action (VIA) Collaboration</em>
+</p>
 <p>These experiences have reinforced within the students the importance of
 learning these life-saving skills as well as the need for good communication
 when they engage the public by educating them about CPR and AED.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB10.png">
-</div>
-<p>Football Tournament @ Jurong West Stadium</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB11.png">
-</div>
-<p>“Hawker and Community Day” @ Boon Lay Place Food Village</p>
-<h4>CCA Mentors</h4>
-<p>Mrs Sabitha Nasser (OIC, Sec 4 &amp; 5)
-<br>Mr Mohammad Khusni B Jumadi (2IC, Sec 2)
-<br>Ms Gayathiri d/o Nandakuma (Sec 1)
-<br>Ms Wang Xiaoxi (Sec 3)
-<br>Ms Bhavaniswari D/O Batumalia (Cluster Head)</p>
-<h4>Chairperson</h4>
-<p>SGT Asilah Hamizah Binte Afandi</p>
-<h4>Vice-Chairperson</h4>
-<p>LCP Nur Syazwani Nadhirah</p>
-<h4>Our Achievements</h4>
-<p>(Corps Achievement Award suspended for 2021 - 2022)
-<br>Corps Achievement Award (2017) – Gold
-<br>Corps Achievement Award (2018) – Gold
-<br>Corps Achievement Award (2019) – Gold
-<br>Corps Achievement Award (2020) – Gold
-<br>
+<p><strong>SJB Key Personnel and Achievements</strong>
 </p>
-<h4>Frequently Asked Questions (FAQ)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall Teacher-In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sabitha Nasser (CCAM Sec 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Teacher-In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Khusni B Jumadi (CCAM Sec 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Mentors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gayathiri d/o Nandakuma (CCAM Sec 2)
+<br>Ms Wang Xiaoxi (CCAM Sec 4 &amp; 5)
+<br>Ms Bhavaniswari D/O Batumalia (Cluster Head)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson (2024/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT Keerthana Jagan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson (2024/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT Edreena Binte Eaizad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basic Drills Instructors (BDI) (2024/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT Felicia Chen Xiao Yan D/O Segumy Deen
+<br>SGT Edreena Binte Eaizad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corps First Aid Instructors (CFIC) (2024/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT Keerthana Jagan
+<br>CPL Nurul Qurratu Ain Bintw Hamzah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corps Home Nursing Instructor (CHIC) (2024/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPL Loh Jia Wai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award (2017-2024) – Gold<em><br>(Award suspended for 2021 - 2022)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2024 Chief Commissioner’s Badge Awardees</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SSG Heng Ying Xuan</p>
+</li>
+<li>
+<p>SSG Matthew Diong Jia Yao</p>
+</li>
+<li>
+<p>SSG Yong Zheng</p>
+</li>
+<li>
+<p>SSG Tresa Wee (Huang Enting)</p>
+</li>
+<li>
+<p>SSG Madinah Maisarah Binte Mohamad Sha</p>
+</li>
+<li>
+<p>SGT Lee Yong Lok Wayne (Li Yongle)</p>
+</li>
+<li>
+<p>SGT Neoh Jun Ming</p>
+</li>
+<li>
+<p>SGT Teo Joe Wei</p>
+</li>
+<li>
+<p>SGT Bharanidharan Rajha Latchumi</p>
+</li>
+<li>
+<p>SGT Tan Shi Xuan</p>
+</li>
+<li>
+<p>SGT Tieng Sing Jing</p>
+</li>
+<li>
+<p>CPL Richard Loo Zhe Qi</p>
+</li>
+<li>
+<p>CPL Nur Akila Eliyana Binte Ridzuan</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ3.jpg">
+</div>
+<p><strong>SJB Weekly Activities and Bonding</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB5.png">
+</div>
+<p><em>Promotion Parade</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB6.png">
+</div>
+<p><em>First Aid, CPR and Home Nursing lessons Led by our Corps Instructors</em>
+</p>
+<p><strong>School Events</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB8.png">
+</div>
+<p><em>CCA Experience Day</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ8.jpg">
+</div>
+<p><em>Math and Science Carnival</em>
+</p>
+<p><strong>Frequently Asked Questions (FAQ)</strong>
+</p>
 <p><strong>1.</strong>&nbsp;<strong>What is the aim of St John Brigade (SJB)?</strong>
 <br>St John Brigade aims to equip members with skills to relieve pain and
 suffering, and save the lives of those in need.</p>
@@ -159,12 +242,12 @@ suffering, and save the lives of those in need.</p>
 <br>No, your child can be trained in various skills such as First Aid and
 CPR-AED after joining SJB.</p>
 <p><strong>3.</strong>&nbsp;<strong>What are the training days for SJB?</strong>
-<br>SJB conducts training every Tuesday (3 pm to 5.30 pm) and Friday (2.30
+<br>SJB conducts training every Tuesday (3.00 pm to 5.30 pm) and Friday (2.30
 pm to 5.30 pm). There may be ad-hoc Saturday events or external training.</p>
 <p><strong>4.</strong>&nbsp;<strong>What is the attire for SJB?</strong>
-<br>There are different attire for different activities of SJB. Examples are:
-PT kits, half uniform and their full uniform. The SJB Executive Committee
-members will inform the rest of the appropriate attire prior to their training
+<br>There are different attires for different activities of SJB. Examples
+are PT kit, half uniform and full uniform. The SJB Executive Committee
+will inform the members of the appropriate attire prior to their training
 sessions.</p>
 <p><strong>5.</strong>&nbsp;<strong>What will my child do in SJB?</strong>
 <br>Members of SJB will be trained in essential skills such as First Aid,
@@ -184,5 +267,4 @@ years of active participation in SJB, members can develop into independent,
 disciplined, resilient and responsible individuals ready for the future
 challenges in life.</p>
 <p><strong>8. Do I need to pay for the uniform for my child?</strong>
-<br>The whole set of uniform and accessories including, beret, belt, boots,
-nametag, socks etc will be paid by school for the first set.</p>
+<br>The first full set of uniform and accessories will be paid by the school.</p>
