@@ -124,5 +124,5 @@ their peers, fostering a vibrant learning community.</p>
 learners ready to thrive in the future.</p>
 <p><em>Remember, SIL is about pursuing your passions in a safe, simple, and enjoyable way!</em>
 </p>
-<p><a href="https://drive.google.com/file/d/1e-xwH31TPJCHFxOAANnfRevOYUDuzJY2/view?usp=drive_link" rel="noopener nofollow" target="_blank">Digital Showcase</a>
+<p>Click here to watch: <a href="https://drive.google.com/file/d/1e-xwH31TPJCHFxOAANnfRevOYUDuzJY2/view?usp=drive_link" rel="noopener nofollow" target="_blank">Digital Showcase</a>
 </p>
