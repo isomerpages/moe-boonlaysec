@@ -10,7 +10,6 @@ variant: tiptap
 <br><a href="/files/Sec_1_G3.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2025_Sec 1 G3</a>
 <br>
 </p>
-<p></p>
 <h4><strong>Booklist and Stationery list (Sec 2)</strong></h4>
 <p><a href="/files/Sec_2_G1.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2025_Sec 2 G1</a>
 <br><a href="/files/Sec_2_G2.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2025_Sec 2 G2</a>
@@ -28,6 +27,7 @@ variant: tiptap
 <br><a href="/files/Sec_5NA.pdf" rel="noopener nofollow" target="_blank">BLS Booklist and Stationery List 2025_Sec 5 NA</a>
 </p>
 <p></p>
+<h4><strong>School Uniform</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop_update22April24_a.png">
 </div>
