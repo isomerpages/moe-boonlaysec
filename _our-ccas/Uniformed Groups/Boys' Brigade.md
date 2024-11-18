@@ -43,7 +43,7 @@ prepare them for challenges that may come their way in the future.</p>
 <br>OCT David Poh
 <br>OCT Tan Chong Yan
 <br>OCT Christine Tey</p>
-<h4>Student Leaders</h4>
+<h4>CCA Leaders</h4>
 <p><strong>Company Sergeant Major</strong>: SGT Niroshaan Kumar
 <br><strong>Assistant Company Sergeant Major</strong>: SGT Aaqil S/O Shiraj
 <br><strong>Admin NCO</strong>:<strong> </strong>SGT Jack Chan
