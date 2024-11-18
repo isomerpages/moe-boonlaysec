@@ -1,5 +1,5 @@
 ---
-title: Craft & Technology
+title: Craft and Technology
 permalink: /departments/craft-and-tech/
 description: ""
 variant: tiptap

@@ -6,26 +6,23 @@ description: ""
 third_nav_title: Learning Spaces
 ---
 <p>Imagine a classroom that adapts to every learning need. Our classrooms
-are designed to provide spaces for solo study, pair discussions, group
-projects, or interactive discussions. Such a dynamic environment fosters
-collaboration and the freedom for every student to discover their best
-way of learning.</p>
-<p></p>
+are designed to flexibly provide spaces for solo study, pair discussions,
+group projects, or interactive discussions. Such a dynamic environment
+fosters collaboration and the freedom for every student to discover their
+best way of learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2937.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/IMG_2937.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureGallery.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/PictureGallery.jpg">
 </div>
-<p></p>
 <p>Not only so, our classrooms are also equipped with Apple TVs that help
 facilitate collaborative learning by allowing students to share their work,
 such as presentations or videos they created with the class.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_05_172939.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CotF_tech_enabled_classroom.jpg">
 </div>
-<p></p>
 <p>Our classrooms are thoughtfully designed to have lush artificial plants
 and high-quality, comfortable flooring. These design elements have certainly
 created a calming environment that promotes focus and mental wellness.</p>

@@ -2,10 +2,10 @@ collections:
   other-links:
     output: true
     order:
-      - BLS SAC Scholarships and BLS Bursary.md
       - Secondary One Registration 2024.md
-      - For Students.md
-      - Announcement.md
-      - Bookshop & School Uniform.md
-      - BLS Timetable.md
       - Direct School Admission (DSA).md
+      - Scholarships and Bursary.md
+      - Financial Assistance.md
+      - Purchase of Books & School Uniform.md
+      - BLS Timetable.md
+      - Student Learning Space (SLS).md

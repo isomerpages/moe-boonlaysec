@@ -2,7 +2,7 @@
 title: Cyberace
 permalink: /holistic-development/co-curricular-activities/club-and-societies/cyberace/
 description: ""
-third_nav_title: Club and Societies
+third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <p></p>
