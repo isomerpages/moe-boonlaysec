@@ -13,15 +13,13 @@ variant: tiptap
 under the purview of the Ministry of Education and the Ministry of Home
 Affairs, Singapore Civil Defence Force (SCDF).</p>
 <p>NCDCC believes in developing and empowering youths to be active and concerned
-citizens with life-saving skills. NCDCC began its journey in 2005, with
-the focus to develop greater awareness of civil defence in our cadets and
-prepare them with the skills to respond effectively to emergencies. The
-attitude of readiness against adversity and practical skills which are
-critical in the face of danger and emergencies are life-long capabilities
-that our young civil defence ambassadors can have.</p>
-<p>NCDCC’s motto of “We Learn, We Lead, We Serve”, in alignment to the 3
-big ideas in Character and Citizenship Education: “Identity, Relationships
-and Choices”, well encapsulates the journey of NCDCC cadets.</p>
+citizens with life-saving and emergency-preparedness skills such as first
+aid, rescue and fire safety.</p>
+<p>As young Civil Defence ambassadors, the cadets have opportunities to advocate
+for and share emergency preparedness knowledge and skills with the community
+through outreach programmes.</p>
+<p>NCDCC’s motto of 'We Learn, We Lead, We Serve' encapsulates the fulfilling
+journey of the NCDCC cadets.</p>
 <h4>CCA Mentors</h4>
 <p>Mdm Chan Bee Bee (OIC, Sec 3)
 <br>Ms Lee Xiu Wen (2IC, Sec 2)
@@ -100,32 +98,30 @@ and Rescue)</p>
 <li>
 <p>2022 NCDCC Urban Adventure Civil Defence Challenge - Commendation
 <br>
-<br>
 </p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND1.jpeg">
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND3.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND1.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND4.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND5.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND2.jpg">
 </div>
 <p></p>
