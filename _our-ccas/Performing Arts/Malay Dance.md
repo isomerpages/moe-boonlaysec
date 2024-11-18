@@ -61,17 +61,17 @@ unique differences and developing individual competencies.</p>
 <br>
 </p>
 <h4>Student Leaders</h4>
-<p>Nabilah (President)
-<br>Chen Ke Qin (Vice-President)
-<br>Nur Alyaa’ Adriana (Costume IC)
-<br>Marissa Aisya (Make-up IC)
-<br>Elfarina Syahara (Physical Fitness IC)
-<br>Siti Elysha (Sec 3 Level IC/Training Discipline IC)
-<br>Nur Qistina Aliyah (Sec 4 Level IC)
-<br>Naurah Anis (Sec 2 Level IC)
-<br>Dianza Arianna Ancun &amp; Muhammad Aqiff (Sec 1 Level IC)
-<br>Gan Qi Ern (House Head)
-<br>Nur Khaleasyah Erdina (House Leader)</p>
+<p><strong>President</strong>: Nabilah
+<br><strong>Vice President</strong>: Chen Ke Qin
+<br><strong>Costume IC</strong>: Nur Alyaa’ Adriana
+<br><strong>Make-up IC</strong>: Marissa Aisya
+<br><strong>Physical Fitness IC</strong>: Elfarina Syahara
+<br><strong>Training Discipline IC/Sec 3 Level IC</strong>: Siti Elysha
+<br><strong>Sec 4 Level IC</strong>: Nur Qistina Aliyah
+<br><strong>Sec 2 Level IC</strong>: Naurah Anis
+<br><strong>Sec 1 Level IC</strong>: Dianza Arianna Ancun &amp; Muhammad Aqiff
+<br><strong>House Head</strong>: Gan Qi Ern
+<br><strong>House Leader</strong>: Nur Khaleasyah Erdina</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45 pm to 5.30 pm)
 <br>Friday (2.30 pm – 5.30 pm)</p>
