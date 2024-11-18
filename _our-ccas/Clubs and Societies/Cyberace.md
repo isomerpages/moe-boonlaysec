@@ -40,13 +40,34 @@ at the same time. Do join us and explore the world of digital technology!</p>
 <br>Mr Salizam Jaafar (Sec 3)
 <br>Ms Alexandria Tang (Cluster Head)</p>
 <h4>CCA Leaders</h4>
-<p>Chairperson: Gnan Zhong Wei
-<br>Vice-Chairperson: Luthfi Hakim Bin A Zaini
-<br>House Leader: Le Nguyen Chi Han</p>
+<p><strong>Chairperson</strong>: Gnan Zhong Wei
+<br><strong>Vice Chairperson</strong>: Luthfi Hakim Bin A Zaini
+<br><strong>House Leader</strong>: Le Nguyen Chi Han</p>
 <h4>Exco Members</h4>
 <p>Chockanathan Rohith Kumar
 <br>Chua Rui Sheng, Aiden
 <br>Aaron Bin Hussein
 <br>Elfa Aqishya Binte Hairi
 <br>Jayden Lee Kai Heng (Li Kaiheng)</p>
+<h4>Training Days</h4>
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)</p>
+<h4>Competitions and Achievements</h4>
+<ul>
+<li>
+<p>First Lego League Robotics Competition (Annual)</p>
+</li>
+<li>
+<p>ignITE Challenge (Annual)</p>
+</li>
+<li>
+<p>Live On Festival Design Challenge (Annual)</p>
+</li>
+<li>
+<p>Objectifs Visual Storytelling Awards 2024</p>
+</li>
+<li>
+<p>Our Schools, Our Stories (Annual)</p>
+</li>
+</ul>
 <p></p>
