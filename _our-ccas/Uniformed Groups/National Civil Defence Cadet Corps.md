@@ -32,6 +32,9 @@ journey of the NCDCC cadets.</p>
 Mohammed Sahril
 <br><strong>Garnet House Head</strong>: Muhammad Umar Bin Abdul Ghaffor
 <br><strong>Garnet House Leader</strong>: Abdullah Mustafa Dhafir Makkiyah</p>
+<h4>Training Days</h4>
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)</p>
 <h4>Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
