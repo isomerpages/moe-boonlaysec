@@ -28,9 +28,6 @@ units.</p>
 Annual Camp, which serve to bring invaluable experiences to its cadets.</p>
 <p>So please come and join the NCC (Land) family to enjoy all the wonderful
 and unique experiences that await you.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC4-1024x890.jpg">
-</div>
 <h4>Teachers-in-charge</h4>
 <p>Mr Ronald Wong Zhenrong (OIC, Sec 3)
 <br>Mr Ong Zhi Jie, (2IC, Sec 4 &amp; 5)
@@ -71,10 +68,22 @@ and unique experiences that await you.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC3-1024x768.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC1-1024x768.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC2.jpg">
 </div>
 <p></p>
