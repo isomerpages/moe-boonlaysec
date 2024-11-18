@@ -35,7 +35,7 @@ us and be part of our family.</p>
 <br>Mr Ooi Chong Min (Cluster Head)
 <br>
 </p>
-<h4>Student Leaders</h4>
+<h4>CCA Leaders</h4>
 <p><strong>Chairperson</strong>: Tong Zixin
 <br><strong>Vice Chairperson</strong>: Kan Yan Hong
 <br><strong>Vice House Head</strong>: Tan Le Xuan
@@ -43,8 +43,8 @@ us and be part of our family.</p>
 <br>
 </p>
 <h4>Training Days</h4>
-<p>Tuesdays (Combined Practice): 3.30 pm – 5.30 pm
-<br>Fridays (Sectional Practice): 2.30 pm – 5.30 pm
+<p>Tuesday (Combined Practice): 3.45pm – 5.30pm
+<br>Friday (Sectional Practice): 2.30pm – 5.30pm
 <br>
 </p>
 <h4>Achievements</h4>
@@ -53,10 +53,8 @@ us and be part of our family.</p>
 <p>Singapore Youth Festival Arts Presentation 2023 - Certificate of Accomplishment</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation 2021 - Certificate of Distinction</p>
-</li>
-<li>
-<p>Singapore Youth Festival Arts Presentation 2019 - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation (2019-2021) - Certificate of
+Distinction</p>
 </li>
 <li>
 <p>Boon Lay Secondary School SHINE Award 2019 - Fourth Place</p>
