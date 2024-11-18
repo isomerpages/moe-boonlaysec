@@ -13,7 +13,7 @@ As design shapes experiences and actions, the library was zoned into flexible
 learning spaces that enable multiple modes of learning, catering to users’
 needs and encouraging positive learned behaviour.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/P202_Image_14.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P202_Image_14.jpg">
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -83,27 +83,26 @@ educational equipment.</div>
 <p></p>
 <h4>READ</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/lib3.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/lib3.jpg">
 </div>
 <h4>STUDY</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P202_Image_21.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P202_Image_21.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="students to engage in social learning and share their knowledge" src="/images/lib1.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="students to engage in social learning and share their knowledge" src="/images/lib1.jpeg">
 </div>
 <p><em>Students engage in social learning and co-construction of knowledge</em>
 </p>
 <h4>CREATE</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/P202_Image_15.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P202_Image_15.jpg">
 </div>
 <p><em>Students engaging in a debate presentation with classmates</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P202_Image_20.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P202_Image_20.jpg">
 </div>
 <p><em>Students participating in a Calligraphy Workshop</em>
 </p>
@@ -115,8 +114,9 @@ like the stage area and the round tables, also made the learning experience
 more enjoyable. I enjoyed most the part where we got really creative and
 made the paper origami cranes which were then used to decorate the library.
 Our library is not just a quiet place for reading, it is also a fun place
-to enjoy such activities with schoolmates.</p>
-<p>Manju Mehnaj (Choir)</p>
+to enjoy such activities with schoolmates.
+<br><em>Manju Mehnaj (Choir)</em>
+</p>
 <h4>EXPLORE</h4>
 <p>Click the following link to gain access to the school’s wide range of
 materials that you can borrow: <a href="https://schoolibrary.moe.edu.sg/boonlaysec" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/boonlaysec</a>
