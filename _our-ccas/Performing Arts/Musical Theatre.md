@@ -30,14 +30,14 @@ self.&nbsp;</p>
 <br>Ms Thia Mei Yin Rita (Cluster Head)
 <br>
 </p>
-<h4>Student Leaders</h4>
+<h4>CCA Leaders</h4>
 <p>Noorul Haneesa D/O Abdul Malik
 <br>Lai Han Yong
 <br>Ang Yu Xuan, Joslyn
 <br>Wong Jun Hong</p>
 <h4><br>Training Days</h4>
-<p>Tuesday (3.30 pm to 5.30 pm)
-<br>Friday (2.30 pm to 5.30 pm)</p>
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
