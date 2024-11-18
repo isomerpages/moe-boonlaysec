@@ -123,5 +123,7 @@ their peers, fostering a vibrant learning community.</p>
 <p>Through SIL, Boon Lay Secondary School nurtures well-rounded, self-directed
 learners ready to thrive in the future.</p>
 <p><em>Remember, SIL is about pursuing your passions in a safe, simple, and enjoyable way!</em>
+</p>
+<p>
 <br>
 </p>
