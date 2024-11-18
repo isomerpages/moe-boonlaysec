@@ -20,9 +20,10 @@ that our members’ character and values are formed, specifically during
 the drills and camp craft sessions that continue to play an integral role
 in the NPCC identity.</p>
 <h4>Self-directed Lifelong Learner</h4>
-<p>The journey to seek Wisdom starts with inculcating the correct values
-in our members. Our members take ownership of their learning, picking up
-technical skills and acquiring knowledge critical for their growth in NPCC.</p>
+<p>The journey <strong>to seek Wisdom</strong> starts with inculcating the
+correct values in our members. Our members take ownership of their learning,
+picking up technical skills and acquiring knowledge critical for their
+growth in NPCC.</p>
 <h4>Resilient Person</h4>
 <p>Our members develop social skills via their exposure to various student
 enrichment programmes such as air pistol course, basic sport climbing and
@@ -40,7 +41,7 @@ work in partnership with the Singapore Police Force to keep Singapore safe.</p>
 visionary leaders who are forward thinking by beginning with the end in
 mind. With this mind-set, our members are encouraged to be attuned with
 the needs of the community and seek proactive steps to ameliorate the issues
-identified to Honour their words and deeds.</p>
+identified <strong>to Honour their words and deeds</strong>.</p>
 <p></p>
 <h4>CCA Mentors</h4>
 <p>Mr Kok Yee Chin (OIC, Sec 1)
