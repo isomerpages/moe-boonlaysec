@@ -31,59 +31,84 @@ social attitudes in all our choristers.</p>
 <br>Ms Yu Ying (Sec 1)
 <br>Ms Tan Pei Shi, Josephine (Sec 2)
 <br>Mr Zong Zixin Kelvin (Cluster Head)</p>
-<h4>Conductor</h4>
+<h4>Conductors</h4>
 <p>Ms Michelle Poh
 <br>Ms Jessy Oskar</p>
 <h4>Student Leaders (Chorale Branch)</h4>
-<p>President : Nur Iman Binte Sulaiman
-<br>Vice-President: Cara Low Yu Ting
-<br>Vice_President: Feby Lim Tian Xue
-<br>Student Conductor: Feby Lim Tian Xue &amp; Ng Jing Xuan, Alicia
-<br>Soprano 1 Sectional Leader: Akshay Rajesh Menon Jia Qi
-<br>Soprano 1 Assistant Sectional Leader: Ng Jing Xuan, Alicia
-<br>Soprano 2 Sectional Leader: Jovis Sew Zhi Ying
-<br>Soprano 2 Assistant Sectional Leader: Sharleez Shanaz Binte Jumat
-<br>Altos Assistant Sectional Leader: Tihani Irdina Binte Muhammed Riduan
-<br>Event Director: Ng Xin Yi
-<br>Assistant Event Director: Ananya Musuwathi Saravanan
-<br>Creative Director: Lee Pei En</p>
+<p><strong>President</strong>: Ng Jing Xuan, Alicia
+<br><strong>Vice-President</strong>: Ng Xin Yi
+<br><strong>Vice-President</strong>: Teryn Mah Yi Jie
+<br><strong>Student Conductor</strong>: Feby Lim Tian Xue &amp; Ng Jing Xuan,
+Alicia
+<br><strong>Soprano 1 Sectional Leader</strong>: Lee Pei En
+<br><strong>Soprano 1 Assistant Sectional Leader</strong>: Eliana Oh Hui Ting
+<br><strong>Soprano 2 Sectional Leader</strong>: Sharleez Shanaz Binte Jumat
+<br><strong>Soprano 2 Assistant Sectional Leader</strong>: Surendirakumar
+Anusri
+<br><strong>Altos Sectional Leader</strong>: Tihani Irdina Binte Muhammed
+Riduan
+<br><strong>Altos Assistant Sectional Leader</strong>: Tan Xiu Min Valerie</p>
 <h4>Student Leaders (Administrative Branch)</h4>
-<p>House Head : Dhanraj Varshini
-<br>House Leader : Yee Yuan Qing
-<br>Secondary 1 Level Leaders: Surendirakumar Anusri
-<br>Secondary 2 Level Leader: Teryn Mah Yi Jie
-<br>Secondary 3 Level Leaders: Sasikumar Monica
-<br>Secondary 4 and 5 Level Leader: Shun Lai</p>
+<p><strong>Vice House Head</strong>: Feby Lim Tian Xue&nbsp;
+<br><strong>House Leader</strong>: Ananya Musuwathi Saravanan
+<br><strong>Secondary 1 Level Leader</strong>: Nurin Ayra Binte Muhammad Raimi
+<br><strong>Secondary 2 Level Leader</strong>: Chen Yun
+<br><strong>Secondary 3 Level Leader</strong>: Sasikumar Monica
+<br><strong>Secondary 4 and 5 Level Leader</strong>: Shun Lai
+<br><strong>Event Director</strong>: Cho Rui Qin
+<br><strong>Assistant Event Director</strong>: Tyo Hui Yun
+<br><strong>Creative Director</strong>: Arunmozhi Vaishnavi
+<br><strong>Assistant Creative Director</strong>: Min Moe Htut
+<br><strong>Peer Support Leaders</strong>: Teryn Mah Yi Jie &amp; Muhammad
+Anas S/O Mohamed Albasa IR</p>
 <h4>Training Sessions</h4>
-<p>Tuesdays (3.00 pm to 5.30 pm)
+<p>Tuesdays (3.30 pm to 5.30 pm)
 <br>Fridays (2.30 pm to 5.30 pm)</p>
 <h4>Achievements</h4>
-<p>Singapore Youth Festival Arts Presentation 2023 – Certificate of Merit
-<br>Singapore Youth Festival Arts Presentation 2021 – Non-Judging Category
-<br>Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction
-<br>The Associated Board of the Royal Schools of Music (ABRSM) 2019 – Passed
-with Merit
-<br>Singapore International Choral Festival 2018 – Bronze Diploma
-<br>Singapore Youth Festival Arts Presentation 2017 – Certificate of Distinction
-<br>Singapore Youth Festival Arts Presentation 2015 – Certificate of Distinction
-<br>Singapore Youth Festival Arts Presentation 2013 – Certificate of Distinction</p>
+<ul>
+<li>
+<p>Singapore International Choral Festival 2024 – Silver Award</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2023 – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2021 – Non-Judging Category</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2019 – Certificate of Distinction</p>
+</li>
+<li>
+<p>The Associated Board of the Royal Schools of Music (ABRSM) 2019 – Passed
+with Merit</p>
+</li>
+<li>
+<p>Singapore International Choral Festival 2018 – Bronze Diploma</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2013 - 2017 – Certificate of
+Distinction</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH55.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH22.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CH1.jpg">
 </div>
+<p></p>
 <p></p>
