@@ -18,7 +18,7 @@ society.</p>
 <p>Whilst training may be rigorous at times, it is through these tough times
 that our members’ character and values are formed, specifically during
 the drills and camp craft sessions that continue to play an integral role
-in the NPCC identity.</p>
+in building the NPCC identity.</p>
 <h4>Self-directed Lifelong Learner</h4>
 <p>The journey <strong>to seek Wisdom</strong> starts with inculcating the
 correct values in our members. Our members take ownership of their learning,
@@ -27,17 +27,17 @@ growth in NPCC.</p>
 <h4>Resilient Person</h4>
 <p>Our members develop social skills via their exposure to various student
 enrichment programmes such as air pistol course, basic sport climbing and
-kayaking exposure. These varied experiences promote team spirit and communication.
-These skills develop our members to be valiant and resilient individuals
-in their aspirations to <strong>strive for Excellence</strong>.</p>
+kayaking. These varied experiences promote team spirit and communication,
+equipping our members to be valiant and resilient individuals in their
+aspirations to <strong>strive for Excellence</strong>.</p>
 <h4>Empathetic Communicator</h4>
 <p>Our members care about the school and the community. They impact the school
-by organising the annual Community Safety &amp; Security Programme as well
-as the community by raising awareness on crime prevention in public spaces
-in the Police Youth Ambassador Programme. Our members learn to <strong>Respect others</strong> and
+by organising the annual Community Safety &amp; Security Programme, as
+well as the community by raising awareness on crime prevention in public
+spaces in the Police Youth Ambassador Programme. Our members learn to <strong>Respect others</strong> and
 work in partnership with the Singapore Police Force to keep Singapore safe.</p>
 <h4>Responsible Global Citizen</h4>
-<p>Engaging the head, heart, and hands of our members, they develop into
+<p>By engaging the head, heart, and hands of our members, they develop into
 visionary leaders who are forward thinking by beginning with the end in
 mind. With this mind-set, our members are encouraged to be attuned with
 the needs of the community and seek proactive steps to ameliorate the issues
@@ -56,16 +56,14 @@ identified <strong>to Honour their words and deeds</strong>.</p>
 <br>
 </p>
 <h4>Cadet Inspectors</h4>
-<p>CI (NPCC) Deon Leok Zhen Hui
-<br>
-</p>
-<h4>Overall In Charge</h4>
-<p>SGT Lim Le Xuan Jeremy</p>
-<h4>Assistance Overall In Charge</h4>
-<p>SGT Myzara Elvira Binti Mohamed Sah</p>
+<p>CI (NPCC) Deon Leok Zhen Hui</p>
+<h4><br>Student Leaders</h4>
+<p><strong>Overall-in-Charge</strong>: SGT Lim Le Xuan Jeremy
+<br><strong>Assistant Overall-in-Charge</strong>: SGT Myzara Elvira Binti
+Mohamed Sah</p>
 <h4>Training Days</h4>
-<p>Tuesday (3.00 pm to 5.30 pm)</p>
-<p>Friday (2.30 pm to 5.30 pm)</p>
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30 pm)</p>
 <h4>Activities</h4>
 <ul data-tight="true" class="tight">
 <li>
