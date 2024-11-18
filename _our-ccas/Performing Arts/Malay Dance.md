@@ -60,7 +60,7 @@ unique differences and developing individual competencies.</p>
 <br>Mdm Nazerah Md Latif (Cluster Head)
 <br>
 </p>
-<h4>Student Leaders</h4>
+<h4>CCA Leaders</h4>
 <p><strong>President</strong>: Nabilah
 <br><strong>Vice President</strong>: Chen Ke Qin
 <br><strong>Costume IC</strong>: Nur Alyaa’ Adriana
@@ -73,8 +73,8 @@ unique differences and developing individual competencies.</p>
 <br><strong>House Head</strong>: Gan Qi Ern
 <br><strong>House Leader</strong>: Nur Khaleasyah Erdina</p>
 <h4>Training Days</h4>
-<p>Tuesday (3.45 pm to 5.30 pm)
-<br>Friday (2.30 pm – 5.30 pm)</p>
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm – 5.30pm)</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
