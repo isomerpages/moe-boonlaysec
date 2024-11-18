@@ -58,8 +58,9 @@ identified <strong>to Honour their words and deeds</strong>.</p>
 <h4>Cadet Inspectors</h4>
 <p>CI (NPCC) Deon Leok Zhen Hui</p>
 <h4><br>CCA Leaders</h4>
-<p>Overall-in-Charge: SGT Lim Le Xuan Jeremy
-<br>Assistant Overall-in-Charge: SGT Myzara Elvira Binti Mohamed Sah</p>
+<p><strong>Overall-in-Charge</strong>: SGT Lim Le Xuan Jeremy
+<br><strong>Assistant Overall-in-Charge</strong>: SGT Myzara Elvira Binti
+Mohamed Sah</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30 pm)</p>
