@@ -15,7 +15,7 @@ and check out the variety of CCAs we offer. We can’t wait to meet you!</p>
 <p>Click on the image or the link for the <a href="https://heyzine.com/flip-book/34e244de62.html" rel="noopener nofollow" target="_blank">e-Brochure</a>!</p>
 <hr>
 <h4><strong>Dialogue with School Leaders&nbsp;</strong></h4>
-<p><strong>Dialogue Sessions</strong>: 10.00 and 11.30am
+<p><strong>Dialogue Sessions</strong>: 10.00am and 11.30am
 <br>Sign up for the dialogue using the QR code or via this link: <a href="https://go.gov.sg/blsopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/blsopenhouse2024</a>
 </p>
 <div class="isomer-image-wrapper">
