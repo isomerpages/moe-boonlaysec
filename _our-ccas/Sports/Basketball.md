@@ -14,47 +14,38 @@ players to be leaders and team players on and off the court. In its student
 development programme, beyond developing the students in basketball skills
 and game strategies, the team also places importance on leadership development,
 building team work, perseverance and dedication.</p>
-<p>The team believes in the joy of sports pursuit,&nbsp;basketball. The basketball
-training sessions and competitions may be demanding, but these sessions,
-and together with the other team activities and events, create positive
-and lasting sporting experiences for the boys.</p>
+<p>The team believes in the joy of sports pursuit. The basketball training
+sessions and competitions may be demanding, but these sessions, along with
+other team activities and events, create positive and lasting sporting
+experiences for the boys.</p>
 <p>Annually, the team participates in the National School Games (NSG) West
 Zone Basketball championships.</p>
 <p>The team is also active in the Values in Action (VIA) education. One of
-its recent VIA project was to learn more about energy efficiency in Singapore,
+its recent VIA project was to learn more about energy efficiency in Singapore
 and raise awareness&nbsp;about&nbsp;energy conservation and climate change.
 The message was shared with the school&nbsp;during one of the&nbsp;morning
-assemblies. We also interacted with&nbsp;the residents in the community,
-through door-to-door sharings, and the distribution of posters and souvenirs
-with energy conservation messages attached to them.</p>
-<p>Due to Covid-19, 2021&nbsp;was a difficult year for many. However, it
-was also&nbsp;during&nbsp;this period that the team further demonstrated
-its perseverance, dedication and determination to excel in the sport. During
-the e-CCA training sessions, the boys practiced their basketball drills
-and footwork, built up their stamina through&nbsp;physical&nbsp;trainings,
-all from the comfort and safety of their homes.</p>
-<p>As we move forward to 2022, Team BLS basketball&nbsp;is looking&nbsp;forward
-to another memorable and exciting year.</p>
-<h4><strong>Teachers-In-Charge</strong></h4>
+assemblies. We also interacted with&nbsp;the residents in the community
+through door-to-door sharings and distributed posters and souvenirs which
+promoted energy conservation.</p>
+<p>Team BLS basketball&nbsp;is looking&nbsp;forward to another memorable
+and exciting year ahead.</p>
+<h4>CCA Mentors</h4>
 <p>Mr Loh Kah Liang, Alan (OIC, Sec 1)
 <br>Mr Dineshkumar M Subramaniam (2IC, Sec 4 &amp; 5)
 <br>Ms Alvina Wong Hui Yi (Sec 2)
 <br>Mr Kris Aidil Abdullah (Sec 3)
 <br>Mr Syed Faizal S/O J S Tamizzuddin (Cluster Head)</p>
-<h4><strong>Student Leaders</strong></h4>
-<p>Kang Zhi Xian Javier
-<br>Akmal Hakim Bin Kamal
-<br>Lucas Tan
-<br>Jack Juan Capablanca</p>
-<h4><strong>Training Days</strong></h4>
-<p>Tuesdays (3.00 pm to 5.30 pm)
-<br>Fridays (2.00 pm to 5.00 pm)</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/bball1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/bball2.jpeg">
-</div>
+<h4>CCA Leaders</h4>
+<p>Li Jiaxiang
+<br>Jason Teh Yee Heng
+<br>Mohamed Haikal Rais Bin Mohamed Raffie
+<br>Neil Emerson Cuevas Cacayan</p>
+<p></p>
+<h4>Training Days</h4>
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.00pm to 5.30pm)</p>
+<h4>Achievement</h4>
+<p>‘C’ Division NSG League 3 Basketball Championships 2024 - 2nd Runner-up</p>
 <p>
 <br>
 </p>
