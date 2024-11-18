@@ -66,6 +66,21 @@ prepare them for challenges that may come their way in the future.</p>
 <h4>Achievements</h4>
 <p>J M Fraser Award for Company Excellence 2023-2024 (Distinction)
 <br>J M Fraser Award for Company Excellence 2019-2022 (Silver)
-<br>J M Fraser Award for Company Excellence 2017-2018 (Bronze)
-<br>
-</p>
+<br>J M Fraser Award for Company Excellence 2017-2018 (Bronze)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB5.jpg">
+</div>
+<p></p>
