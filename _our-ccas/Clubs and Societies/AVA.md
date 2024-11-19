@@ -33,6 +33,10 @@ the AV equipment!</p>
 <br>Ms Tanalatshmie Sandrasagran (Sec 3)
 <br>Mr Zong Zixin Kelvin (Cluster Head)</p>
 <h4>CCA Leaders</h4>
+<p>Nur Ian Asyraf Bin Sufian
+<br>Rajvirdev Singh S/O Hardev Singh
+<br>Keith Moh Kai Zhe
+<br>Lim Guo Huan</p>
 <p></p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
@@ -46,11 +50,11 @@ the AV equipment!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Competitions</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
+<p><strong>Achievement</strong>
 </p>
 </td>
 </tr>
@@ -80,18 +84,12 @@ the AV equipment!</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Involvement in School Events</strong></h4>
+<h4>Involvement in School Events</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Audio and Visual Aids (involvement in all school events)</strong>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Chinese New Year Celebrations</p>
@@ -124,7 +122,7 @@ the AV equipment!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Passing out Parade of Uniform Groups&nbsp;</p>
+<p>Passing out Parade of Uniformed Groups&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -139,6 +137,22 @@ the AV equipment!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV4.jpg">
+</div>
 <p>
 <br>
 </p>
