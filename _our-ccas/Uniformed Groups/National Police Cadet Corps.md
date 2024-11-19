@@ -79,11 +79,11 @@ Mohamed Sah</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Attained Champion in Jurong Division Anti-Scam NPCC Challenge Shield 2021</p>
+<p>Sustained Distinction Award for Inter-Unit Overall Proficiency Award Competition
+in 2016 to 2023</p>
 </li>
 <li>
-<p>Sustained Distinction Award for Inter-Unit Overall Proficiency Award Competition
-in 2016 to 2022</p>
+<p>Attained Champion in Jurong Division Anti-Scam NPCC Challenge Shield 2021</p>
 </li>
 <li>
 <p>Achieved Top 10 in NPCC .22 Inter-Unit Shooting Competition 2019 for Team
