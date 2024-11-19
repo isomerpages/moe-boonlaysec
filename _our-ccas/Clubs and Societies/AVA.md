@@ -60,15 +60,15 @@ the AV equipment!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Ignite Skills Challenge</p>
+<p>2024 Ignite Skills Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p>Finalist</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Our School Our Story&nbsp;</p>
+<p>2024 Our School Our Story&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -132,7 +132,17 @@ the AV equipment!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Cross Country Run</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Special school assemblies (with performance, prize giving)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lunch Tunes and LLP Performances</p>
 </td>
 </tr>
 </tbody>
