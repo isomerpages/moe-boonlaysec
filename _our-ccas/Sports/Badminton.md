@@ -19,7 +19,7 @@ successes over the years. With that in mind, we strive to continue to bring
 more glory to the school in the years to come. The achievements have been
 brought about by the dedication, commitment and tremendous support from
 the players, teachers-in-charge and the various stakeholders.</p>
-<p>In 2023., the ‘B’ Division and ‘C’ Division boys took part in the West
+<p>In 2023, the ‘B’ Division and ‘C’ Division boys took part in the West
 Zone National Schools Games (NSG) and fought hard in the competition for
 the school. The team has shown resilience and confidence at all times,
 especially&nbsp; during difficult games. The team also engaged in meaningful
@@ -31,7 +31,7 @@ well in the competition.. They displayed their discipline and enthusiasm
 through their punctuality and eagerness to acquire new skills and knowledge.
 The girls had shown vast improvements from when they first joined, displaying
 potential in their individual talents.</p>
-<p>So do join us and contribute to this family of smashing people!</p>
+<p>So do join us and contribute to this family of 'smashing' people!</p>
 <h4>CCA Mentors</h4>
 <p>Mr Pang Chee Peng (OIC, Sec 2)
 <br>Mrs Liew-Soh Mui Ling Athena (2IC, Sec 3)
@@ -40,28 +40,38 @@ potential in their individual talents.</p>
 <br>Ms Thia Mei Yin Rita (Cluster Head)
 <br>
 </p>
-<h4>Student Leaders</h4>
-<p>SLC: Damien Chng Jia Xing/ Neo Qi Xiang
-<br>Captain : Ryan Gransen (Upper Sec)
-<br>Rengaia Sharana Harish (Lower Sec Boys)
-<br>Natalie Lim Xin Jie (Lower Sec Girls)
-<br>Vice Captain : Lucius Lee Zhi Yang (Upper sec)
-<br>Loh Jayden (Lower Sec Boys)
-<br>Vallavaraj Haretha (Lower Sec Girls)</p>
+<h4>CCA Leaders</h4>
+<p>
+<br><strong>Captain (Upper Sec Boys)</strong>: Loh Jayden
+<br><strong>Captain (Lower Sec Boys)</strong>: Nathan Raj Ryan Raj
+<br><strong>Captain (Upper Sec Girls)</strong>: Natalie Lim Xin Jie
+<br><strong>Captain (Lower Sec Girls)</strong>: Guo Lexuan
+<br><strong>Vice Captain (Upper Sec Boys)</strong>: Javion Tan Zhi Wei
+<br><strong>Vice Captain (Lower Sec Boys)</strong>:Tan Yi Yang
+<br><strong>Vice Captain (Upper Sec Girls)</strong>:<strong> </strong>Kerlin
+Ng Ke'xin
+<br><strong>Vice Captain (Lower Sec Girls)</strong>:<strong> </strong>Chandrasekaran
+Sathana (Lower Sec Girls)
+<br><strong>SLC</strong>: Vallavaraj Haretha and Rengaiah Sharana Harish</p>
 <h4>Training Days</h4>
-<p>Tuesdays (3.00 pm to 5.30 pm)
-<br>Fridays (2.30 pm to 5.30 pm)
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BN1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BN2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BN3.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BN4.jpg">
+</div>
+<p></p>
 <p></p>

@@ -28,10 +28,7 @@ units.</p>
 Annual Camp, which serve to bring invaluable experiences to its cadets.</p>
 <p>So please come and join the NCC (Land) family to enjoy all the wonderful
 and unique experiences that await you.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC4-1024x890.jpg">
-</div>
-<h4>Teachers-in-charge</h4>
+<h4>CCA Mentors</h4>
 <p>Mr Ronald Wong Zhenrong (OIC, Sec 3)
 <br>Mr Ong Zhi Jie, (2IC, Sec 4 &amp; 5)
 <br>Mr Ng Chee Kin (Sec 1)
@@ -40,12 +37,11 @@ and unique experiences that await you.</p>
 <br>
 </p>
 <h4>Cadet Lieutenant</h4>
-<p>CLT (NCC) Indra Adzani
-<br>
-</p>
+<p>CLT (NCC) Indra Adzani</p>
+<h4>CCA Leaders<br></h4>
 <h4>Training Days</h4>
-<p>Tuesday (3.30 pm to 5.30 pm)
-<br>Fridays (2.30 pm to 5.30 pm)
+<p>Tuesday (3.45pm to 5.30pm)
+<br>Friday (2.30pm to 5.30pm)
 <br>
 </p>
 <h4>Achievements</h4>
@@ -71,10 +67,22 @@ and unique experiences that await you.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC3-1024x768.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC1-1024x768.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC2.jpg">
 </div>
 <p></p>
