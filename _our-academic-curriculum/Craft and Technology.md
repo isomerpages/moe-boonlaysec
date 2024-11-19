@@ -16,6 +16,7 @@ products.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="464" width="621" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCdrqV2QaVlLSMf9QlqGy57pCpEagat_h7D0HO7g6As-qwVG8tZ-xQPRgj-iwEBF4Fzew-w0LMIa1W7LH5EAq3B5foU41-TzUFf4izeVjNCXS7xIYClOhRuWEf8mm5KgSBv0OHT_Sw6UqXMNSwLZM?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
+<hr>
 <h4>Design Thinking in Design and Technology (D&amp;T)</h4>
 <p>At Boon Lay Secondary School, our lower secondary students engage in a
 dynamic, learner-centred approach to Design and Technology (D&amp;T). They
@@ -28,9 +29,10 @@ and problem-solving abilities, preparing them for future challenges in
 a rapidly evolving world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="175" width="297" alt="A drawing of a cartoon character
-
-Description automatically generated" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1tSTT-xZBWAFOVS-HR0AkRZc0M2Ck4BXr-IlT2zFbkY5HQmcZDGlrH0j3JE_NovmQJK8C7mT63AFAXoDxrRlQJlWUAj50JLA47SulLdOEs4BolRvR9z7M8piPQD1eIQuu5hFfwiUcwfPRSsdxgK8zinhjann7Jax8gcrgbFgC2txWo8vrBw?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="width: 100%" height="auto" width="100%" alt="A drawing of a cartoon character
+<p>Description automatically generated&quot; width=&quot;297&quot; height=&quot;175&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;></p></div>
+<p></p>
+<div class=" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1tSTT-xZBWAFOVS-HR0AkRZc0M2Ck4BXr-IlT2zFbkY5HQmcZDGlrH0j3JE_NovmQJK8C7mT63AFAXoDxrRlQJlWUAj50JLA47SulLdOEs4BolRvR9z7M8piPQD1eIQuu5hFfwiUcwfPRSsdxgK8zinhjann7Jax8gcrgbFgC2txWo8vrBw?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
