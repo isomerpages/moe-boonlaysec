@@ -40,15 +40,14 @@ at the same time. Do join us and explore the world of digital technology!</p>
 <br>Mr Salizam Jaafar (Sec 3)
 <br>Ms Alexandria Tang (Cluster Head)</p>
 <h4>CCA Leaders</h4>
-<p><strong>Chairperson</strong>: Gnan Zhong Wei
-<br><strong>Vice Chairperson</strong>: Luthfi Hakim Bin A Zaini
-<br><strong>House Leader</strong>: Le Nguyen Chi Han</p>
+<p><strong>Chairperson</strong>: Elfa Aqisya Binte Hairi
+<br><strong>Vice Chairperson</strong>: Klyven Chan Kai Xuan
+<br><strong>House Leaders</strong>: Marcus Khoo Ji Jun, Jayden Lee Kai Heng</p>
 <h4>Exco Members</h4>
-<p>Chockanathan Rohith Kumar
-<br>Chua Rui Sheng, Aiden
-<br>Aaron Bin Hussein
-<br>Elfa Aqishya Binte Hairi
-<br>Jayden Lee Kai Heng (Li Kaiheng)</p>
+<p>Lee Jin Woo
+<br>Dannya Sufiah Binte Faizal
+<br>Muhammad Akid Bin Muhammad Zuhrie</p>
+<p></p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30pm)</p>
@@ -68,6 +67,26 @@ at the same time. Do join us and explore the world of digital technology!</p>
 </li>
 <li>
 <p>Our Schools, Our Stories (Annual)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA4.jpg">
+</div>
 </li>
 </ul>
 <p></p>
