@@ -67,8 +67,6 @@ at the same time. Do join us and explore the world of digital technology!</p>
 </li>
 <li>
 <p>Our Schools, Our Stories (Annual)</p>
-</li>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA2.jpg">
