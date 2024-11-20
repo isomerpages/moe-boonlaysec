@@ -58,7 +58,6 @@ apply their individual skillsets to the roles and tasks assigned to them.</p>
 </div>
 <p><em>Studio hosts present an episode at the Media Broadcast Studio</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/el13.png">
 </div>
@@ -95,27 +94,11 @@ students will be introduced to debating and public speaking to develop
 as persuasive speakers where they also hone their delivery skills such
 as pronunciation, fluency and rhythm in their speeches.</p>
 <p></p>
-<h5><strong>Aspiration: Exploring their futures in English</strong></h5>
-<p>As part of the Student Development programme, we run various workshops
-for students ranging from journalism, emceeing to film-making. Through
-these workshops, students explore their dreams of becoming journalists,
-emcees and filmmakers. School events like Total Defence Day, Aspire and
-Achieve Day are platforms for these students to do professional emceeing
-before a live audience. Aspiring journalists also get a chance to conduct
-interviews and contribute to the school’s newsletter, Arise. Beyond what
-they are exposed to in the classrooms, students are encouraged to join
-these workshops to explore how English holds the power of communicating
-ideas and shaping minds.</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/eng2.jpg">
-</div>
+<h5></h5>
 <p></p>
 <p>In Literature lessons, students will develop a deeper love and appreciation
 of the written words through drama, journal writing and creative tasks
 to enhance their interaction with rich literary works.</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/eng3.jpg">
-</div>
 <p></p>
 <p>2021 remains exciting for the students as local writers and poets connected
 with the Upper Secondary students at Words Go Round 2021. A group of Lower
