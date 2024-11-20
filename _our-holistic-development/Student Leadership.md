@@ -87,9 +87,9 @@ sessions. This peer-to-peer mentorship model enhances the learning experience
 and strengthens the bonds within each CCA group.</p>
 <p><strong>Student Leadership Signature Programmes:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; House Heads Elections</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;House Heads Elections</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Camp</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leaders’ Annual Retreat</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Leaders’ Annual Retreat</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Symposiums</p>
 <p>Through these diverse leadership opportunities, we strive to equip our
 students with the skills, experiences, and confidence they need to become
