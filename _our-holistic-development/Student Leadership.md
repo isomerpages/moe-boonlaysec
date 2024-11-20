@@ -73,3 +73,24 @@ in their assigned wings. The four wings of house leadership are:</p>
 <p>These wings not only foster teamwork among student leaders but also empower
 them to initiate school programmes that celebrate student voice and drive
 positive change within our school community.</p>
+<p><strong>CCA Leadership</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student6.jpg">
+</div>
+<p>CCA Leaders are instrumental in cultivating and maintaining the CCA Family
+Culture that is unique to BLS. Their responsibilities extend beyond managing
+CCA administrative matters; they also serve as mentors to their juniors
+and peers, guiding them in developing specific CCA-domain skills during
+sessions. This peer-to-peer mentorship model enhances the learning experience
+and strengthens the bonds within each CCA group.</p>
+<p><strong>Student Leadership Signature Programmes:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; House Heads Elections</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Camp</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leaders’ Annual Retreat</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Symposiums</p>
+<p>Through these diverse leadership opportunities, we strive to equip our
+students with the skills, experiences, and confidence they need to become
+effective leaders in school and beyond.</p>
