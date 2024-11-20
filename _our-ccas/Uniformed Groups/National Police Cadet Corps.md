@@ -56,11 +56,12 @@ identified <strong>to Honour their words and deeds</strong>.</p>
 <br>
 </p>
 <h4>Cadet Inspectors</h4>
-<p>CI (NPCC) Deon Leok Zhen Hui</p>
-<h4><br>CCA Leaders</h4>
-<p><strong>Overall-in-Charge</strong>: SGT Lim Le Xuan Jeremy
-<br><strong>Assistant Overall-in-Charge</strong>: SGT Myzara Elvira Binti
-Mohamed Sah</p>
+<p>CI (NPCC) Deon Leok Zhen Hui
+<br>CI (NPCC) Yu Jian Hui, Lucas
+<br>CI (NPCC) Ujwal Raj Singh S/O Ralthee Singh</p>
+<h4>CCA Leaders</h4>
+<p><strong>Overall-in-Charge</strong>: SSGT Yap Jun You
+<br><strong>Assistant Overall-in-Charge</strong>: SSGT Tan Xuan En, Ashley</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30 pm)</p>
