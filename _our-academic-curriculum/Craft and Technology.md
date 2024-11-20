@@ -16,6 +16,7 @@ products.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="464" width="621" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCdrqV2QaVlLSMf9QlqGy57pCpEagat_h7D0HO7g6As-qwVG8tZ-xQPRgj-iwEBF4Fzew-w0LMIa1W7LH5EAq3B5foU41-TzUFf4izeVjNCXS7xIYClOhRuWEf8mm5KgSBv0OHT_Sw6UqXMNSwLZM?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
+<hr>
 <h4>Design Thinking in Design and Technology (D&amp;T)</h4>
 <p>At Boon Lay Secondary School, our lower secondary students engage in a
 dynamic, learner-centred approach to Design and Technology (D&amp;T). They
@@ -28,9 +29,10 @@ and problem-solving abilities, preparing them for future challenges in
 a rapidly evolving world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="175" width="297" alt="A drawing of a cartoon character
-
-Description automatically generated" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1tSTT-xZBWAFOVS-HR0AkRZc0M2Ck4BXr-IlT2zFbkY5HQmcZDGlrH0j3JE_NovmQJK8C7mT63AFAXoDxrRlQJlWUAj50JLA47SulLdOEs4BolRvR9z7M8piPQD1eIQuu5hFfwiUcwfPRSsdxgK8zinhjann7Jax8gcrgbFgC2txWo8vrBw?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="width: 100%" height="auto" width="100%" alt="A drawing of a cartoon character
+<p>Description automatically generated&quot; width=&quot;297&quot; height=&quot;175&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;></p></div>
+<p></p>
+<div class=" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1tSTT-xZBWAFOVS-HR0AkRZc0M2Ck4BXr-IlT2zFbkY5HQmcZDGlrH0j3JE_NovmQJK8C7mT63AFAXoDxrRlQJlWUAj50JLA47SulLdOEs4BolRvR9z7M8piPQD1eIQuu5hFfwiUcwfPRSsdxgK8zinhjann7Jax8gcrgbFgC2txWo8vrBw?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -52,25 +54,8 @@ Description automatically generated" src="https://lh7-rt.googleusercontent.com/d
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:6.35002619928712e-14px;" height="505.23399623882415" width="698.2054054054055" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4stw0EpyGhet9eePrBNZZ5GnZ5Q6TEfXKrdevIIpVFr4-59igVhjgiTAtWHPN8FOkuQcIOKO0OFhstZcM_dCvK70Lll-H8FkMO_K4JBY_rlzt1KNv8bSva00NROoz7tNB73_hQlNLYfy-zjF2u5U?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
 <p><strong>Young Innovators’ Fair 2024</strong>
-</p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p>The D&amp;T curriculum is designed to cultivate students' critical, adaptive,
+<br>The D&amp;T curriculum is designed to cultivate students' critical, adaptive,
 and inventive thinking, along with enhancing their communication skills.
 A prime example of this was when Sec 3 D&amp;T students participated in
 the MOE Innovation Program and were selected to present their prototype
@@ -82,14 +67,15 @@ to refine their work. By engaging in this program, they not only showcased
 their technical and problem-solving abilities but also honed their presentation
 and interpersonal skills, preparing them for future challenges in an increasingly
 complex world.</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p><strong>Food and Consumer Education (FCE)</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="304" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeE_cRwQIYX_w0yAQX4I9urj5TVC3skwb3pkETiG0wIbwlpcpRxdPQOOEqVXqqBonQC5NG-gwIHXUO3sJb5pZZ03a3uCp5Kl3jTcxETKgXLtbfSXn_WJfCdZetkx50Jkst3BiBxHESQ4tn5zs1avg?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="308" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLMfDbBnDzb65RbkYnBnGzhSt29ZWyUP15gslT7BtrxmUQzje9Ol82xI9ndvyhnAPEjJQUuAo5Q72kS8b6dNkEpA4RL9WQZk2ck8bE_PgZxE9MaHJKZ8Ma5qp8nZCTYuJmyUtkxaeXD0iw-XaN9zE?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
+<hr>
+<h4>Food and Consumer Education (FCE)</h4>
 <p>Food and Consumer Education (FCE) equips students with essential life
 skills to navigate the complexities of modern living. At the lower secondary
 level, students develop practical skills in meal planning, food preparation,
@@ -101,8 +87,11 @@ the importance of maintaining a balanced diet, managing personal finances,
 and contributing to a sustainable environment. This holistic approach prepares
 them to be responsible and informed individuals who can thrive in a dynamic
 world.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="467.9883" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJjV3s1taZe0M4xHEDHcwclo6P1wu4wwg0jWeiVuXntuNg6F54HXNMlJe5t0be2Rx3iuhNnGCy8CokILVIWD5ZN8VDAca5IwcHy82eURRziw0_yusUYQDEzSp8eMl1P9W4BmSmNjWOmGqxoRc9OQ?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
 <p></p>
-<h3><strong>Nutrition and Food Science (NFS)</strong></h3>
+<h3>Nutrition and Food Science (NFS)</h3>
 <p>Nutrition and Food Science (NFS) equips upper secondary students with
 a deeper understanding of the science behind food and its impact on health.
 Through hands-on practice and theory, students explore topics such as food
@@ -112,30 +101,36 @@ coursework fosters creativity and problem-solving as they design recipes
 for specific dietary needs. NFS not only develops essential life skills
 but also inspires a passion for health and nutrition, preparing students
 for future opportunities in related fields.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXexzulCPFBesCnE1JXccllXywgls2n_xVQmXEpemuv8SmrcuZ_5U_3llndxzF1zMgRwWr8uzO9DaAWxyBL1MWpwhUbhO25YolB4P1brk9xKC1CUKDdFQ5vo6xKUOUJ9ONkXZi99W9u6-mUhkTZ4JA?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
 <p></p>
-<h3><strong>Culinary Masterclass with Professional Chefs for Upper Secondary</strong></h3>
-<p>Upper secondary students learn from professional chefs through hands-on
+<p><strong>Culinary Masterclass with Professional Chefs for Upper Secondary</strong>
+<br>Upper secondary students learn from professional chefs through hands-on
 workshops and live demonstrations, enhancing their culinary skills and
 gaining industry insights to prepare for future opportunities in food and
 hospitality.</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVpo2ItqVQuZuO8XssVqlRvLAVsddLYMuYWI8YSmzEO-zsN6TdWyYF-eyqmr5tJoRLKLdKXx77nTanWNQQsYCQYe-AN5GUiXo8Ybzae5iLRAqdDDSziDmULx6oJuo0n55xgM1caVcrpMd2TbYqdA?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
 <p></p>
-<p></p>
-<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>
-</p>
-<h3><strong>Sustainable Consumption: Harvesting Local Greens with Vertical Hydroponics</strong></h3>
-<p>Upper secondary students embrace sustainable consumption by harvesting
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="373" width="280" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_g6EBo4wF943lSvLN5vDZ41ENCvDQY9SqhnKwrJh39bF_62M7Kd1hWoDafn1nEBuCcQzWuoD3nuB1zK1LtoZdzVFW4WIdt18ndSDKuvq6sMXCDLv_t6EIXLD_1gAsR8tg83kQOL6hZwYs72DcVw?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
+<p><strong>Sustainable Consumption: Harvesting Local Greens with Vertical Hydroponics</strong>
+<br>Upper secondary students embrace sustainable consumption by harvesting
 fresh, locally grown greens from our vertical hydroponics system. This
 hands-on experience teaches them about sustainable farming methods, reduces
 food miles, and promotes environmental responsibility, while reinforcing
 the importance of incorporating nutritious, home-grown produce into their
 diets.</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="540.7388724035609" width="304" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMbZU6t3HQ2YMVytP9d-swlqRn1fdpqN3wzWWDe2hX2nv71DXSHV_KSuxTtMFgq0NJVJFIfCkVMJd7xNoztW--jmyDhAthu3qr07gi2_CRcDk3x3_RANudFEzvqPpfoVr5IhvKotMrdZKqqFz0bM0?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="414" width="312" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfffUDj-VqRKpmX7KeoclB2tJIQ0DhdQXkxbFWnmexJ6cVfqfPqzJcjXw6El5O9VWXjDTffEMtPY85B692Ek6HSX-a4XZk2GnYQWLw3pymp-cf-eOlGwJgCQSHxfbHfuyyRVSuWNbZZqofbCUVttzY?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
 <p><strong>Innovative Culinary and Nutrition Programme for Secondary 3</strong>
 </p>
 <p>The Secondary 3 Nutrition and Food Science programme empowers students
@@ -146,30 +141,36 @@ learn to evaluate the nutritional value of meals, focus on sustainable
 practices, and develop creative solutions to meet diverse dietary needs,
 preparing them for real-world applications and further studies in food
 and nutrition.</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="193" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXddb2mTwWWk-mH-qBlMD-0YxmM78yBsEsWdLxQIvqsr8hC6dHCTBA5c-l4J449JZqscwCSd1jSNRN5l0RmEeaBwLmjcTcvWEOvCi9f-rrquUKpmW-EueW-Lu4DP-jDLUUh8L9ePPh2U1aq1N_2l7Ww?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="193" width="322" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOZFjZhJ5Fp-PRvBA4sOD-lM0Qj_tdQ-Sqz1lqilQGlTlEkyQIKWY1VQqE9gYTJZzuJzen7UJIhA4O6qmp4DBcUfhUZMULo5n5dlUAaPJoJ5rSoWyF2dQY5lzY49L8huKXZh6_-CRrWdr7EmKZSA?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="188" width="328" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjlw2hdxEL7nVe_ts9-ZtOJ1ZtMR56JMfr2Eh7uksXNslHOxf2DgTtKUTw_Dh46aOQsIurO2zyJGYQs76dXjY9RJpxoy5IaT1rr8kSrb4m675VggWJmMY0vPzutCa5brN4eDWi6XUC0GWV-CJV3_k?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="220" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9EP9VChJpJHccrrwz1uAKmnxgjwsFIZEC4K4Zj2RnSxoF0XMnQmwM1rnzq4iXmm3n7L1BEEyNA518HmCGWNx4pAh25g3CLEA9HllC4iypN-CsO3WOauQjnC9qA4s57QuPfrE9r-fL9Vu2KlKuoMQ?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<h3><strong>Math, Science, and Nutrition &amp; Food Science Carnival: Overcooked Challenge</strong></h3>
-<h3>At the carnival, upper secondary students put their strategic thinking and teamwork skills to the test by playing <em>Overcooked</em>, a fast-paced culinary simulation game. This engaging activity integrates elements of math, science, and nutrition, promoting problem-solving and time management in a fun, interactive setting<strong>.</strong></h3>
-<p></p>
-<h3><strong>Applied Module Programme: Exploring Food Science at Nanyang Polytechnic</strong></h3>
-<p>Upper secondary students deepen their understanding of food science through
+<p><strong>Math, Science, and Nutrition &amp; Food Science Carnival: Overcooked Challenge</strong>
+<br>At the carnival, upper secondary students put their strategic thinking
+and teamwork skills to the test by playing Overcooked, a fast-paced culinary
+simulation game. This engaging activity integrates elements of math, science,
+and nutrition, promoting problem-solving and time management in a fun,
+interactive setting.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4bHeZbVBgYwmCTSlQeLdCLLuN5g65p6xAMIp9siKPuyT4aOSFUoXxLKwUAaG5AMJ4a3g_ZvsUE6o_Vpdp315FDMYR1Ojyw6sPD2OQZlcl6Ny5MINkbgFYplHuvhcRQRH61OJQJMaLgJCiaR06Qg?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
+<p><strong>Applied Module Programme: Exploring Food Science at Nanyang Polytechnic</strong>
+<br>Upper secondary students deepen their understanding of food science through
 an applied module programme at Nanyang Polytechnic. They engage in hands-on
 experiments, explore food innovations, and gain insights into the science
 behind food production and safety. This enriching experience equips students
 with industry-relevant knowledge and skills, inspiring potential future
 pursuits in food science and technology.</p>
-<p></p>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="373" width="644" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzrpIIkz1jrsILFA5d6eEG86_r3iRLftZRov8eKWZLsc952vbqZUQuTBeBEig6kiM542H1_swbxkG3kCt9pB1rlTX0gcQOC5sRiaHDlYGxukzxEgcfX5-DQDedqUyoKebvFqIFMVDA76-SrBZ_JdY?key=llnICU2OItVSjBUj-RInJaWx">
+</div>
 <p></p>
