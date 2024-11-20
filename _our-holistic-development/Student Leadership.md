@@ -15,7 +15,7 @@ comprehensive leadership training, and meaningful developmental assignments,
 we aim to nurture confident, compassionate, and capable young leaders ready
 to make a positive impact in our school and community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Student1.png">
 </div>
 <h4><strong>Leadership Framework</strong></h4>
 <p>The BLS Student Leadership Programme is anchored by The Leadership Challenge
@@ -47,11 +47,11 @@ Each group oversees different aspects of school operations and holds distinct
 responsibilities. Together, they lead and serve the school population through
 their innovative initiatives and dedicated service.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/student4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/student4.jpg">
 </div>
 <h4>&nbsp;<strong>House Leadership</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/student5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/student5.jpg">
 </div>
 <p>House Leaders play a dual role in our school community. Beyond leading
 their respective houses, they contribute significantly to school operations
@@ -75,9 +75,8 @@ them to initiate school programmes that celebrate student voice and drive
 positive change within our school community.</p>
 <p><strong>CCA Leadership</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/student6.jpg">
 </div>
 <p>CCA Leaders are instrumental in cultivating and maintaining the CCA Family
 Culture that is unique to BLS. Their responsibilities extend beyond managing
@@ -85,12 +84,22 @@ CCA administrative matters; they also serve as mentors to their juniors
 and peers, guiding them in developing specific CCA-domain skills during
 sessions. This peer-to-peer mentorship model enhances the learning experience
 and strengthens the bonds within each CCA group.</p>
-<p><strong>Student Leadership Signature Programmes:</strong>
+<p><strong>Student Leadership Signature Programmes</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;House Heads Elections</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Camp</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Leaders’ Annual Retreat</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Symposiums</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>House Heads Elections</p>
+</li>
+<li>
+<p>Student Leadership Camp</p>
+</li>
+<li>
+<p>Student Leaders’ Annual Retreat</p>
+</li>
+<li>
+<p>Student Leadership Symposiums</p>
+</li>
+</ul>
 <p>Through these diverse leadership opportunities, we strive to equip our
 students with the skills, experiences, and confidence they need to become
 effective leaders in school and beyond.</p>
