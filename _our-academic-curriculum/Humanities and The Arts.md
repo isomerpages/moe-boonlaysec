@@ -74,7 +74,7 @@ to create art in the community.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:-193px;" height="808.9999999999999" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZbQKDMsOkBpNPXHNoxgj3GAST4P0yDiD8_gizQM3Vva2pTBz1riSog2eZ8v_T3jkqsttIABQn314CZf-TRg776szFk6DU4hzGh85jyz0EVBgvS9j92rb1wIJZSEZfSsyIDCbf?key=P89tboPiabih9geHr5FkeQ">
+<img style="width: 75%;" height="808.9999999999999" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZbQKDMsOkBpNPXHNoxgj3GAST4P0yDiD8_gizQM3Vva2pTBz1riSog2eZ8v_T3jkqsttIABQn314CZf-TRg776szFk6DU4hzGh85jyz0EVBgvS9j92rb1wIJZSEZfSsyIDCbf?key=P89tboPiabih9geHr5FkeQ">
 </div>
 <p>
 <br>
