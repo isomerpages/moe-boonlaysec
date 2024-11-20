@@ -89,7 +89,7 @@ school.&nbsp;</p>
 by using the skills and knowledge in the content areas of health and fitness
 management, healthy eating and weight management, and personal safety in
 physical activities.&nbsp;</p>
-<p>The Foci of PHF are:</p>
+<p>The foci of PHF are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Health and Fitness Management&nbsp;</p>
@@ -101,16 +101,4 @@ physical activities.&nbsp;</p>
 <p>Personal Safety in Physical Activities</p>
 </li>
 </ul>
-<h4><strong>O-Level Exercise and Sports Science (Syllabus 6081)</strong></h4>
-<p>The school offers O-Level Exercise and Sports Science syllabus to the
-upper secondary students in Express and Normal Academic streams as an elective.
-The subject aims to enable candidates to:</p>
-<p>1. Acquire and apply the knowledge in exercise physiology, biomechanics,
-and sports psychology to analyse, evaluate and improve practical performances
-in physical exercises and sports;&nbsp;
-<br>2. Develop the movement concepts and motor skills to be proficient in
-the performance of a team and an individual / dual sport;&nbsp;
-<br>3. Understand the benefits and risks associated with physical exercise
-and sports to manage personal participation in physical activities; and&nbsp;
-<br>4. Examine issues related to sports and participation in physical activities
-from socio-cultural and global perspectives.</p>
+<p></p>
