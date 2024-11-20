@@ -49,7 +49,6 @@ schools are also invited to join in the carnival.</p>
 </div>
 <p><em>Game Designers explaining how their games work @ Mathematics Carnival</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/math33.png">
 </div>
@@ -88,6 +87,7 @@ of mathematics in engineering and design.</p>
 </div>
 <p><em>Students use handmade clinometers to measure the height of structures around the school campus, applying trigonometry in a practical and engaging way.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:-105.27397260273973px;" height="449.8972602739726" width="600" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd91j5yBB785J5c-ep0NOWmOEBE3S-wMqzfkPTf3LkJzE84RCSCzX7avR7PDpu3v4xjYV57lMQmjm-FvWEVU3PRhGM949xvn2gdr0L8cG5QECjDJ-nVtu8Syznz-ohBKQWbTngV1w?key=mkYcVfqQlOmunYkZSvMhFQ">
 </div>
