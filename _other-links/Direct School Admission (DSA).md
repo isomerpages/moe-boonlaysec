@@ -4,7 +4,7 @@ permalink: /other-links/dsa/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Direct School Admission for secondary schools (DSA-Sec)</strong></h4>
+<h4><strong>Direct School Admission for Secondary Schools (DSA-Sec)</strong></h4>
 <p>Click on link for the slide deck on <a href="/files/Boon_Lay_Sec_Sch_DSA_Sec_Information_20240503.pdf" rel="noopener noreferrer nofollow" target="_blank">Boon Lay Secondary DSA Information</a>
 </p>
 <p><strong>DSA Talent Areas (for 2025)</strong>
