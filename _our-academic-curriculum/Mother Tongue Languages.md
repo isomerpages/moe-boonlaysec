@@ -91,6 +91,9 @@ authentic learning experience fostered empathy among students, enabling
 them to develop a deeper understanding and appreciation for the individuals
 in their immediate surroundings and the things we often take for granted.</p>
 <h5><strong>Tamil Language Department: Banana Leaf Meal Activity</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8crNsvNGOSuqIGnloh-qKCwUcHFlTWpwW7xzL5RbvDfxym8L1jZuvvgmTuaIuFPlgj8E35hryECMrWml7rLVnh-tSNudiy_ElIaIGiBQjvz6n9asmp1L8cywtaA-5Jk0v4w4QIZ4KI1oUv2z6OIwp6H9i?key=3TfqlF271Co3Lr6ZOSmaWw">
+</div>
 <p>We believe that small opportunities are the beginning of great achievements.
 In the BLS MTL department, we actively seek out contests and competitions
 held to give our students a platform to widen their horizons, test their
@@ -105,6 +108,9 @@ The activity was informative and also hands-on, offering students an experientia
 journey through these tastes as they indulge in the authentic flavours
 served during the banana leaf meal.</p>
 <h5><strong>Malay Language Department: Ketupat Weaving Event</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfT83hdgsHnK1cOQtpK24b3L1tfji6cyrzPURbbDa70a8oBcJELmJ9iMs6m-4nN-fvNcbeUehcgKE-0Bz4X3VX5wNqvrO-9ca3JAL8_kbr4e63bYkDS8Mfzz-W60WJKbpD5QPlkROuPpVgS6PrjzjMUALI?key=3TfqlF271Co3Lr6ZOSmaWw">
+</div>
 <p>In the spirit of Hari Raya Aidilfitri, our school collaborated with the
 Malay Focus Group (MFG) from community partner, Jurong Spring Community
 Centre. The objective of this activity is to pass down the art of weaving
