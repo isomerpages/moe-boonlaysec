@@ -28,6 +28,22 @@ variant: tiptap
 </p>
 <p></p>
 <h4><strong>School Uniform</strong></h4>
+<p><strong>Note:</strong>&nbsp;All uniforms are available for purchase at
+the School Bookshop on the selected days and timing during the year-end
+school holidays. Do refer to the specific booklists above to take note
+of the days allocated to the level for your child/ward.</p>
+<p>There are no sales for all levels on the following dates:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4 December</p>
+</li>
+<li>
+<p>16-20 December</p>
+</li>
+<li>
+<p>24-25 December</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop_update22April24_a.png">
 </div>
