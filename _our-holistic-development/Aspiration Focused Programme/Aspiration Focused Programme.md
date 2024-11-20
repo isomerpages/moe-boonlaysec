@@ -7,14 +7,14 @@ variant: tiptap
 ---
 <p>In BLS, we strongly believe in supporting our students in the pursuit
 of their interests, and in working together with them towards their dreams
-and aspirations. Students will be exposed to a wide range of student development
+and aspirations. Students will be exposed to a wide range of aspiration-focused
 learning experiences and opportunities which will allow them to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Discover their strengths and talents;</p>
 </li>
 <li>
-<p>Pursuit their interests and aspirations;</p>
+<p>Pursue their interests and aspirations;</p>
 </li>
 <li>
 <p>Explore possible career pathways; and</p>
@@ -28,19 +28,19 @@ learning experiences and opportunities which will allow them to:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/afp1.png">
 </div>
-<p><em>Student-centricity approach in the design of student development programmes in BLS</em>
+<p><em>Student-centricity approach in the design of aspiration-focused programmes in BLS</em>
 <br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>D</strong>iscover self, interests, strength and aspirations</p>
+<p><strong>D</strong>iscover self, interests, strengths and aspirations</p>
 </li>
 <li>
-<p><strong>E</strong>xplore a range of student development programmes to
-support career exploration &amp; pursuit of interests</p>
+<p><strong>E</strong>xplore a range of aspiration-focused programmes to support
+career exploration and pursuit of interests</p>
 </li>
 <li>
-<p>Chart their own learning and build a meaningful portfolio to support their <strong>A</strong>spirations</p>
+<p>Chart own learning and build a meaningful portfolio to support <strong>A</strong>spirations</p>
 </li>
 </ul>
 <p>Students will have the opportunity to experience a series of aspiration-focused
