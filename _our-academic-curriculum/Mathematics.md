@@ -83,9 +83,8 @@ strongest structures capable of holding the heaviest weights. This challenge
 not only stretches their problem-solving and critical-thinking skills but
 also fosters creativity and teamwork as they explore the practical applications
 of mathematics in engineering and design.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math55.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/math55.png">
 </div>
 <p><em>Students use handmade clinometers to measure the height of structures around the school campus, applying trigonometry in a practical and engaging way.</em>
 </p>
