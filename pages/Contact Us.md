@@ -4,7 +4,7 @@ permalink: /contact/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Contact Us</strong></h3>
+<h4><strong>Contact Information</strong></h4>
 <p>Operating hours: Weekdays, 6am to 6pm</p>
 <p>Email: <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a>
 <br>Call: <a href="tel:+6567940161" rel="noopener noreferrer nofollow" target="_blank">+65-67940161</a>
