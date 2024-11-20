@@ -151,8 +151,7 @@ Abstinence and upholding family values are the key messages.</p>
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Annex_A__2024_Parent_Opt_Out_Form_BLS__Hardcopy_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+at the start of the year and is also downloadable <a href="/files/Annex_A__2024_Parent_Opt_Out_Form_BLS__Hardcopy_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>The completed form is to be submitted by 28 March 2024.</p>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
