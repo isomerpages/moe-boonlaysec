@@ -43,10 +43,4 @@ understand how businesses operate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_20_at_19_08_46.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
