@@ -27,15 +27,10 @@ encouraged continued learning outside the classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/math1.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/math2.png">
 </div>
-<p>
-<br>
-</p>
 <h4><strong>Mathematics comes alive @Mathematics Carnival!</strong></h4>
 <p>To visualise how Mathematics is present in everyday life, students apply
 what they have learnt in classrooms to design carnival games as part of
@@ -49,15 +44,3 @@ possible, the school set aside one afternoon for all the S1-S3 NT students
 to showcase their games at the Mathematics Carnival and invited the rest
 of the school cohort as well as all staff members to participate and join
 in the fun.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math3.jpeg">
-</div>
-<p>Students participating enthusiastically&nbsp; @ Mathematics Carnival</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math5.jpeg">
-</div>
-<p>Authentic Setup of the Mathematics Carnival</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math6.jpeg">
-</div>
-<p>Game Designers explaining how their games work @ Mathematics Carnival</p>
