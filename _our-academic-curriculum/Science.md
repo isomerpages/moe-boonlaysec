@@ -70,9 +70,18 @@ This approach not only enhances their metacognitive abilities but also
 aligns with real-world scenarios, preparing them for the challenges of
 a dynamic future.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="455" width="607" alt="A group of people in a room
-
-Description automatically generated" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3zxVC85msw2euaBVdF18NF9LD4fW4FMZCGxe71FkiCEy2oa4DlOoTrABNxKkKCDCnDtzeGevQbDIgUJIu8ksjQaGq1LdWGzyiMhwAuArOqGKjVx2f2-0GNP4TV99v7eALx5OWkBHHLfbDoAXHNc9Ox-mSCshXmCn4LGS47hWnU3Z6BKp-jjo?key=WDWNdhTLMlxVXMwoQmQYUmW8">
+<img style="width: 100%" height="auto" width="100%" alt="A group of people in a room
+<p>Description automatically generated&quot; width=&quot;607&quot; height=&quot;455&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;></p></div>
+<h4><strong>Mastery learning</strong></h4>
+<p>A pedagogical approach where students must attain proficiency at the prerequisite
+level before progressing to the next stage of learning. Should a student
+fall short of mastery, targeted support and scaffolding are provided, creating
+a continuous cycle until the learner successfully achieves mastery and
+advances to the subsequent stage of education.</p>
+<h4><strong>Home-Based Learning (HBL)</strong></h4>
+<p>A platform designed to foster self-directed learning and cultivate students'
+problem-solving skills. Science lesson packages are made accessible online
+through the <a target=" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3zxVC85msw2euaBVdF18NF9LD4fW4FMZCGxe71FkiCEy2oa4DlOoTrABNxKkKCDCnDtzeGevQbDIgUJIu8ksjQaGq1LdWGzyiMhwAuArOqGKjVx2f2-0GNP4TV99v7eALx5OWkBHHLfbDoAXHNc9Ox-mSCshXmCn4LGS47hWnU3Z6BKp-jjo?key=WDWNdhTLMlxVXMwoQmQYUmW8">
 </div>
 <h4><strong>Mastery learning</strong></h4>
 <p>A pedagogical approach where students must attain proficiency at the prerequisite
@@ -84,7 +93,7 @@ advances to the subsequent stage of education.</p>
 <p>A platform designed to foster self-directed learning and cultivate students'
 problem-solving skills. Science lesson packages are made accessible online
 through the <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space (SLS)</u></a> for
-the students to access from home.&nbsp;</p>
+the students to access from home.</p>
 <p>Students will be guided so that they can learn from the SLS portal, textbook,
 school-prepared resources, and learn through simple home experiments, collaborative
 projects using personal learning device. There will be opportunities for
