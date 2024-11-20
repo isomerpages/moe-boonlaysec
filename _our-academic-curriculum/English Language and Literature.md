@@ -44,10 +44,10 @@ ie. confidence, creativity, collaboration and communication skills.</p>
 types of content, including live news broadcasts and interviews. Leveraging
 the affordances of IT, school news, events, and achievements are presented
 in a fun and attention-grabbing format that revolutionises the way students
-perceive morning assemblies and engage with its content.</p>
-<p>Students also hone digital competencies which are crucial in the digital
-age. Each production stage provides a real-life context for students to
-apply their individual skillsets to the roles and tasks assigned to them.</p>
+perceive morning assemblies and engage with its content. Students also
+hone digital competencies which are crucial in the digital age. Each production
+stage provides a real-life context for students to apply their individual
+skillsets to the roles and tasks assigned to them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/el3.png">
 </div>
@@ -94,28 +94,19 @@ students will be introduced to debating and public speaking to develop
 as persuasive speakers where they also hone their delivery skills such
 as pronunciation, fluency and rhythm in their speeches.</p>
 <p></p>
-<h5></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/el10.jpg">
+</div>
+<p><em>Choral Reading</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/el11.jpg">
+</div>
+<p><em>Debating</em>
+</p>
+<h4><strong>Literature</strong></h4>
 <p>In Literature lessons, students will develop a deeper love and appreciation
 of the written words through drama, journal writing and creative tasks
 to enhance their interaction with rich literary works.</p>
 <p></p>
-<p>2021 remains exciting for the students as local writers and poets connected
-with the Upper Secondary students at Words Go Round 2021. A group of Lower
-and Upper Secondary students also took up the challenge of participating
-in the following events organised by the National Schools Literature Festival
-(NSLF) 2021:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Lower Sec Choral Reading Speaking competition&nbsp;</p>
-</li>
-<li>
-<p>Upper Secondary Unseen Debate&nbsp;</p>
-</li>
-<li>
-<p>Flash Fiction</p>
-</li>
-</ul>
-<p>4 of our Sec 3 students participated in the Unseen Debate Competition
-in the National Schools Literature Festival 2021. They have done BLS proud
-by putting forth strong, well-supported arguments and emerging as the winners!</p>
