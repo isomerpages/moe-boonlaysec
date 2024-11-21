@@ -106,7 +106,27 @@ as pronunciation, fluency and rhythm in their speeches.</p>
 <p><em>Debating</em>
 </p>
 <h4><strong>Literature</strong></h4>
-<p>In Literature lessons, students will develop a deeper love and appreciation
+<p>In Literature lessons, students get to develop a deeper love and appreciation
 of the written words through drama, journal writing and creative tasks
-to enhance their interaction with rich literary works.</p>
+to enhance their interaction with rich literary works.
+<br>
+<br>At lower secondary, students are seen as makers of meanings. To achieve
+this, students are guided to write their own poems inspired by themes like
+self or food. Through role-playing, dramatisation and making of posters,
+students not only enhance their understanding of literature but also nurture
+their ability to communicate ideas in unique ways.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Who_I_am.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_21_170529.png">
+</div>
+<p></p>
+<p>At upper secondary, students focus on dialogic thinking where they have
+thoughtful discussions and debates about literature. A regular participant
+of the National Schools Literature Festival, Boon Lay Secondary participated
+actively in the Upper Secondary Unseen Poetry Debate, Upper Secondary Round
+Table and Poetry PitchIn' events in 2023. The team of debaters spoke analytically
+and confidently to clinch a win in the Unseen Debate.</p>
