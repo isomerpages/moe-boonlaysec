@@ -63,7 +63,8 @@ at the same time. Do join us and explore the world of digital technology!</p>
 <p>Live On Festival Design Challenge (Annual)</p>
 </li>
 <li>
-<p>Objectifs Visual Storytelling Awards 2024</p>
+<p>Objectifs Student Visual Storytelling Awards 2024 - Photography Club of
+the Year</p>
 </li>
 <li>
 <p>Our Schools, Our Stories (Annual)</p>
