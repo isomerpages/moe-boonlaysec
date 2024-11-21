@@ -54,6 +54,10 @@ at the same time. Do join us and explore the world of digital technology!</p>
 <h4>Competitions and Achievements</h4>
 <ul>
 <li>
+<p>Objectifs Student Visual Storytelling Awards 2024 - Photography Club of
+the Year</p>
+</li>
+<li>
 <p>First Lego League Robotics Competition (Annual)</p>
 </li>
 <li>
@@ -61,10 +65,6 @@ at the same time. Do join us and explore the world of digital technology!</p>
 </li>
 <li>
 <p>Live On Festival Design Challenge (Annual)</p>
-</li>
-<li>
-<p>Objectifs Student Visual Storytelling Awards 2024 - Photography Club of
-the Year</p>
 </li>
 <li>
 <p>Our Schools, Our Stories (Annual)</p>
