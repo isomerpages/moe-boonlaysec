@@ -11,12 +11,9 @@ variant: tiptap
 experiences that equip students with skills that enable them to navigate
 a volatile, uncertain, complex and ambiguous world.</p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/humanities1.jpg">
+<img style="margin-left:0px;margin-top:-17.734849405758194px;" height="459.233698664615" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5JIDBD297_cTM0G9h0Novoin5aJRqzvvcuqH2SGtX2qWYNGeHS06z4ymyuvuMTbdcqWEDlBBH2CWfTljLawqRds4xz4nfBCw4tzAt1GGFfHOjVo2AzfXZgOgLIRwjbddAanQE5w?key=P89tboPiabih9geHr5FkeQ">
 </div>
-<p>
-<br>
-</p>
-<h4><strong>Humanities Investigation Programme</strong></h4>
+<h4><strong>Making Learning Humanities an Authentic Experience&nbsp;</strong></h4>
 <p>In our classroom, our students are explorers and investigators. Through
 the various inquiry based and experiential learning activities, our students
 discover first-hand the world around them and learn the relevance of Humanities
@@ -28,9 +25,11 @@ issues with a keen eye.</p>
 as a quest, our students navigate the field, collect data and conduct interviews
 to test their hypothesis. Through the Geographical Investigation programme,
 students get the chance to visit fieldwork sites such as Botanic Gardens,
-Sentosa and Chinatown.</p>
+Sentosa and Chinatown. Students also have the opportunity to present their
+findings to experts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/humanities2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum1.png">
 </div>
 <h4><strong>Historical Investigation</strong></h4>
 <p>History comes alive in our classrooms with visits to the National Museum
@@ -38,7 +37,7 @@ of Singapore and re-enactments of key historical events. Students are exposed
 to various interesting artefacts to enhance their knowledge about the history
 of Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/humanities5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum2.png">
 </div>
 <h4><strong>Art &amp; Music Programme</strong></h4>
 <p>The passionate pursuit of Art &amp; Music takes place in our Art and Music
@@ -48,29 +47,8 @@ teachers to explore traditional and digital mediums. In Music, students
 will have the opportunity to learn and create melodic tunes with instruments
 and digital devices.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/humanities7.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum3.png">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/humanities8.jpeg">
-</div>
-<p>
-<br>
-</p>
-<h4><strong>Humanities Aspiration Programme</strong></h4>
-<p>Through our Humanities Aspiration Programme, Boonlayians are exposed to
-courses and careers related to the Humanities through our partnerships
-with the Institutes of Higher Learning. Our students also have the opportunity
-to represent the school in programmes organised by the National Library
-Board and National University of Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/humanities9.jpeg">
-</div>
-<p>
-<br>
-</p>
 <h4><strong>Humanities &amp; the Arts Hearts Programme</strong></h4>
 <h5><strong>BLS Human Library</strong></h5>
 <p>BLS Human Library is a platform where Boonlayians have the opportunity
@@ -79,6 +57,24 @@ guests’ personal stories, our students have deep conversations, challenge
 stereotypes and learn more about civil society.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/humanities10.jpg">
+</div>
+<h4><strong>CURATE!</strong></h4>
+<p>The Art Unit organises the Artist-In-School Scheme (AISS), programme which
+aims at deepening students’ understanding and appreciation of art forms
+annually. Every year, Upper Secondary Art students had the privilege to
+learn from a diverse range of artists to build their foundation, techniques
+and explore different mediums. Students also work with community partners
+to create art in the community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="454" width="606" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeH-w_T0uqTZDaolbpGJLVCKfbovUN4wikHBBCS0FiXNXtdkUxYadcnAxbldHZ5RZsswXbpzdqdQjtnfZ5FL0jcFR9tDkPq77k4c53vM5ybMhcyKKYHYfuh4M32yISzITLmASVx?key=P89tboPiabih9geHr5FkeQ">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="808.9999999999999" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZbQKDMsOkBpNPXHNoxgj3GAST4P0yDiD8_gizQM3Vva2pTBz1riSog2eZ8v_T3jkqsttIABQn314CZf-TRg776szFk6DU4hzGh85jyz0EVBgvS9j92rb1wIJZSEZfSsyIDCbf?key=P89tboPiabih9geHr5FkeQ">
 </div>
 <p>
 <br>

@@ -2,59 +2,103 @@
 title: Physical Education
 permalink: /departments/pe/
 description: ""
+variant: tiptap
 ---
-#### **Vision**
-A school of active and physically competent individuals who values, participates, and pursues physical activities and sports of their interest and ability in order to enrich their lives, be they for recreation and well-being, personal challenge and achievement, or for national honours.
-
-#### **Mission**
-Students will be able to demonstrate individually and with others the physical skills, practices and values and to enjoy a lifetime of active healthy living.
-
-#### **Physical Education**
-The three learning areas covered in the PE Scheme of Work are:
-*   Outdoor Education 
-*   Physical Activities 
-*   Physical Health and Fitness
-
-#### **Outdoor Education (OE)**
-Under this learning area, students should develop appropriate outdoor skills through physical activities while cultivating an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others. 
-
-The modules covered under OE are:
-
-*   Navigation 
-*   Outdoor Cooking 
-*   Shelter-building 
-*   First Aid 
-*   Expedition Preparation
-![](/images/PE1.png)
-
-#### **Physical Activities (PA)**
-Under this learning area, students should be able to participate in physical activities competently so that they can enjoy participating and are motivated to continue with physical activities of their choice after they leave secondary school. 
-
-The categories of PA are: 
-
-*   Net-barrier 
-*   Striking-fielding
-*   Territorial-invasion 
-*   Running
-![](/images/PE2.png)
-![](/images/PE3.png)
-![](/images/PE4.png)
-![](/images/PE5.png)
-
-#### **Physical Health and Fitness (PHF)**
-Under this learning area, students should augment their mature performance by using the skills and knowledge in the content areas of health and fitness management, healthy eating and weight management, and personal safety in physical activities. 
-
-The Foci of PHF are:
-
-*   Health and Fitness Management 
-*   Healthy Eating and Weight Management 
-*   Personal Safety in Physical Activities
-
-
-#### **O-Level Exercise and Sports Science (Syllabus 6081)**
-The school offers O-Level Exercise and Sports Science syllabus to the upper secondary students in Express and Normal Academic streams as an elective. The subject aims to enable candidates to:
-
-1\.  Acquire and apply the knowledge in exercise physiology, biomechanics, and sports psychology to analyse, evaluate and improve practical performances in physical exercises and sports; <br>
-2\.  Develop the movement concepts and motor skills to be proficient in the performance of a team and an individual / dual sport; <br>
-3\.  Understand the benefits and risks associated with physical exercise and sports to manage personal participation in physical activities; and <br>
-4\.  Examine issues related to sports and participation in physical activities from socio-cultural and global perspectives.
+<h4><strong>Vision</strong></h4>
+<p>A school of active and physically competent individuals who values, participates,
+and pursues physical activities and sports of their interest and ability
+in order to enrich their lives - for recreation and well-being, for personal
+challenge and achievement, or for national honours.</p>
+<h4><strong>Mission</strong></h4>
+<p>Students will be able to demonstrate individually and with others the
+physical skills, practices and values and to enjoy a lifetime of active
+healthy living.</p>
+<h4><strong>Physical Education</strong></h4>
+<p>The three learning areas covered in the PE Scheme of Work are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Outdoor Education&nbsp;</p>
+</li>
+<li>
+<p>Physical Activities&nbsp;</p>
+</li>
+<li>
+<p>Physical Health and Fitness</p>
+</li>
+</ul>
+<h4><strong>Outdoor Education (OE)</strong></h4>
+<p>Under this learning area, students should develop appropriate outdoor
+skills through physical activities while cultivating an attitude of care
+and appreciation for the environment, and thoughtful consideration of the
+risks and safety of self and others.&nbsp;</p>
+<p>The modules covered under OE are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Navigation&nbsp;</p>
+</li>
+<li>
+<p>Outdoor Cooking&nbsp;</p>
+</li>
+<li>
+<p>Shelter-building&nbsp;</p>
+</li>
+<li>
+<p>First Aid&nbsp;</p>
+</li>
+<li>
+<p>Expedition Preparation</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1.png">
+</div>
+</li>
+</ul>
+<h4><strong>Physical Activities (PA)</strong></h4>
+<p>Under this learning area, students should be able to participate in physical
+activities competently so that they can enjoy participating and are motivated
+to continue with physical activities of their choice after they leave secondary
+school.&nbsp;</p>
+<p>The categories of PA are:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Net-barrier&nbsp;</p>
+</li>
+<li>
+<p>Striking-fielding</p>
+</li>
+<li>
+<p>Territorial-invasion&nbsp;</p>
+</li>
+<li>
+<p>Running</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE5.png">
+</div>
+</li>
+</ul>
+<h4><strong>Physical Health and Fitness (PHF)</strong></h4>
+<p>Under this learning area, students should augment their mature performance
+by using the skills and knowledge in the content areas of health and fitness
+management, healthy eating and weight management, and personal safety in
+physical activities.&nbsp;</p>
+<p>The foci of PHF are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health and Fitness Management&nbsp;</p>
+</li>
+<li>
+<p>Healthy Eating and Weight Management&nbsp;</p>
+</li>
+<li>
+<p>Personal Safety in Physical Activities</p>
+</li>
+</ul>
+<p></p>
