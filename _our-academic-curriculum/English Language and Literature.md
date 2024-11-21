@@ -123,7 +123,6 @@ their ability to communicate ideas in unique ways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_21_170529.png">
 </div>
-<p></p>
 <p>At upper secondary, students focus on dialogic thinking where they have
 thoughtful discussions and debates about literature. A regular participant
 of the National Schools Literature Festival, Boon Lay Secondary participated
