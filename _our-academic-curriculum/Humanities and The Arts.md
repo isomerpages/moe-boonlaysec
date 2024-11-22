@@ -76,27 +76,4 @@ to create art in the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="808.9999999999999" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZbQKDMsOkBpNPXHNoxgj3GAST4P0yDiD8_gizQM3Vva2pTBz1riSog2eZ8v_T3jkqsttIABQn314CZf-TRg776szFk6DU4hzGh85jyz0EVBgvS9j92rb1wIJZSEZfSsyIDCbf?key=P89tboPiabih9geHr5FkeQ">
 </div>
-<p>
-<br>
-</p>
-<h5><strong>National Education Trail</strong></h5>
-<p>Every student participates in our annual national education trail!&nbsp;
-Students visit famous neighbourhoods in Singapore that hold significant
-meaning in our history. They develop confidence and a sense of wonder through
-fun and games organised by our team of passionate teachers.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/humanities11.jpg">
-</div>
-<p>
-<br>
-</p>
-<h5><strong>Artist-In-School Scheme</strong></h5>
-<p>The Art Unit organises the Artist-In-School Scheme (AISS), programme which
-aims at deepening students’ understanding and appreciation of art forms
-annually.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities12.jpeg">
-</div>
-<p>
-<br>
-</p>
+<p></p>
