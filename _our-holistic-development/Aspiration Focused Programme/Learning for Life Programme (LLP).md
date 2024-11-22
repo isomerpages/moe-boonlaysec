@@ -46,11 +46,16 @@ Arts will be encouraged to further pursue their interests through the Tier
 2 programme.&nbsp;They will have opportunities to develop greater mastery
 of skills in their chosen art form, and interact with professionals in
 the field.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp4.jpg">
 </div>
 <p></p>
