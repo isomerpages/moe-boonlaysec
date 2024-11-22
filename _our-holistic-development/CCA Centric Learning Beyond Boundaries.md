@@ -4,65 +4,45 @@ permalink: /holistic-development/cclbb/
 description: ""
 variant: tiptap
 ---
-<p>CCA-centric Learning Beyond Boundaries (CCLBB) programme is Boon Lay Secondary
-School’s global education programme. With its focus on promoting&nbsp;<strong>responsible global citizenry,</strong>&nbsp;<strong>communication and collaboration,</strong>&nbsp;CCLBB
+<p>Learning Beyond Boundaries (LBB) programme is Boon Lay Secondary School’s
+global education programme. With its focus on promoting&nbsp;<strong>responsible global citizenry,</strong>&nbsp;<strong>communication and collaboration,</strong>&nbsp;LBB
 aims to develop the student into a/an:</p>
-<p>1. <strong>Self-Directed Learner</strong>&nbsp;who interacts with others
-to construct knowledge, new understandings and ideas;
-<br>2. <strong>Active Contributor</strong>&nbsp;who is able to determine and
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Self-Directed Learner</strong>&nbsp;who interacts with others
+to construct knowledge, new understandings and ideas;</p>
+</li>
+<li>
+<p><strong>Active Contributor</strong>&nbsp;who is able to determine and
 effectively assume the role he/she will play in a group, and work in a
-respectful manner with others in a group setting to meet the group’s goals;
-<br>3. <strong>Confident Person</strong>&nbsp;who is able to demonstrate appropriate
+respectful manner with others in a group setting to meet the group’s goals;</p>
+</li>
+<li>
+<p><strong>Confident Person</strong>&nbsp;who is able to demonstrate appropriate
 skills and behavior to work together with people from a diverse range of
-backgrounds within and beyond Singapore;
-<br>4. <strong>Concerned Citizen</strong>&nbsp;who demonstrates awareness of
+backgrounds within and beyond Singapore;</p>
+</li>
+<li>
+<p><strong>Concerned Citizen</strong>&nbsp;who demonstrates awareness of
 Singapore’s role in addressing issues in the global community.</p>
-<p>Due to Covid-19 restrictions, the CCLBB programme has taken on a virtual
-approach, connecting BoonLayians with their peers in overseas partner schools
-through meaningful online projects and interaction sessions.</p>
-<p><em>Sharing on common topics with our partner school BSS Gurukulam in Kerala, India</em>
-</p>
+</li>
+</ul>
+<p>Boon Lay Secondary celebrates long-term partnerships with schools in Japan,
+India, Thailand, China and Brunei. Through both in-person and online exchanges,
+students are given opportunities to interact with peers from all over the
+world. Beyond cultural immersion, the Learning Beyond Boundaries programme
+seeks to develop 21CCs in students through exposure to the growth and future
+industries in the Asia-Pacific region.</p>
+<h4><strong>Exchange Programme 2024 with Uki City Board of Education Kumamoto, Japan)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cclbb1.jpg">
+<img style="margin-left:0px;margin-top:0px;" height="455" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXflJF5DUiiCRCdMkHvyAm_EBecJ5DcKWdtoRN_FNcaOqzzg6nSNZgmtq0PPq3UPLW3ubWqGxllbkXea0XmfXjdQ92vXPHPP5glAglEMjUmdW8vQpydc4L8IWAbw9cqNTot4_F4yqw?key=XQY0JY7RN_bkpGaS3n46NQ">
 </div>
-<p>
-<br>
-</p>
-<p><em>Participating in a Shakespeare Quiz organised by our partner school St. Mark’s Senior Secondary School in New Delhi, India</em>
-</p>
+<h4><strong>Exchange Programme 2024 with St Mark’s Senior Secondary Public School (New Delhi, India)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cclbb2.jpeg">
+<img style="margin-left:0px;margin-top:0px;" height="455" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtOzyPvPXnSzQQ-JHM7aR78thI9WiixnUgpYb5pGmEu_TowkcJHLEj0NfrUGkhPjMuhxN0DgiLlzlF10D7rhw-WMujx0THsCJAC_Ui4dpoTOpEdVZnXe3S8cKuyvQ_4H8jDrv8?key=XQY0JY7RN_bkpGaS3n46NQ">
 </div>
+<h4><strong>Exchange Programme 2024 with Nawamintrachinuthit Satriwittaya 2 School (Bangkok, Thailand)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cclbb3.jpeg">
+<img style="margin-left:0px;margin-top:0px;" height="455" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcFUyfoWdMlajDXX48UKijEn4cVm9vflZvws7sC1PKmctoicz1o-meps-O-_8-Sr-QH8V9Ib7BSMa5PUuct-bQ4HJxtIYiM5CE2yR_s9gJRwTJpUfOny7m872VPh47A4rgMCVm1A?key=XQY0JY7RN_bkpGaS3n46NQ">
 </div>
-<p>
-<br>
-</p>
-<p><em>Virtual Exchange with our partner school in Bangkok, Thailand:</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cclbb4.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><em>Presentations during the Virtual Exchange with our partner school in Loei, Thailand</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cclbb5.jpg">
-</div>
-<p>
-<br>
-</p>
-<p><em>Series of cultural exchange activities with partner schools from Uki City, Japan</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cclbb6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cclbb7.jpg">
-</div>
-<p>
-<br>
-</p>
+<p></p>
