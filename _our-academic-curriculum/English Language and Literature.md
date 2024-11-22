@@ -125,7 +125,7 @@ their ability to communicate ideas in unique ways.</p>
 </div>
 <p>At upper secondary, students focus on dialogic thinking where they have
 thoughtful discussions and debates about literature. A regular participant
-of the National Schools Literature Festival, Boon Lay Secondary participated
-actively in the Upper Secondary Unseen Poetry Debate, Upper Secondary Round
-Table and Poetry PitchIn' events in 2023. The team of debaters spoke analytically
+of the National Schools Literature Festival, Boon Lay Secondary took part
+in the Upper Secondary Unseen Poetry Debate, Upper Secondary Round Table
+and Poetry PitchIn' events in 2023. The team of debaters spoke analytically
 and confidently to clinch a win in the Unseen Debate.</p>
