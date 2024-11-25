@@ -18,13 +18,13 @@ levels or group of students. We seek your understanding that you may experience
 longer waiting time if you choose to purchase your textbooks and uniform
 in school on these dates and are not in these specific levels or group
 of students.</p>
-<p><strong><u>Operating Hours of Bookshop and Uniform vendors in Nov and Dec 2024 </u></strong>
+<p><strong><u>Operating Hours of Bookshop and Uniform vendors in Nov and Dec 2024</u></strong>
 </p>
-<p><strong>Bookshop (DY Education) </strong>
+<p><strong>Bookshop (DY Education)</strong>
 </p>
 <p>Mon – Fri: 9 a.m. – 3 p.m. (Closed on Sat, Sun, PH eve and PH)
 <br>Venue: School Bookshop, beside Canteen @ Level 1</p>
-<p><strong>Finest Fashion Centre</strong> 
+<p><strong>Finest Fashion Centre</strong>
 </p>
 <p>Mon – Fri: 9 a.m. – 3 p.m. (Closed on Sat, Sun, PH eve and PH)
 <br>Venue: Classroom at Block C, C1-01 @ Level 1</p>
