@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Boon Lay Secondary School </strong>has 1 immediate vacancy for
-a <strong><a href="https://www.fmsp.moe.edu.sg/about-us/school-canteen-advertisement/" rel="noopener noreferrer nofollow" target="_blank">Mixed Rice Stall (non-Halal)</a> </strong>&nbsp;</p>
+a Mixed Rice Stall (non-Halal). &nbsp;</p>
 <p>We are located at 11 Jurong West Street 65, Singapore 648354.&nbsp;</p>
 <p><strong><u>Interested applicants must meet the following criteria:</u></strong>
 </p>
