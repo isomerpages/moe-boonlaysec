@@ -39,8 +39,8 @@ with be communicated through Parents Gateway (PG) after the Sec 1 Registration
 information in December 2024.</p>
 <p>For parents who do not use PG and would like to find out about the class
 allocation, you may reach out to us via:</p>
-<p>a) Email: <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or</p>
-<p>b) Call us: 67940161 for further information.</p>
+<p>a) Email: <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or
+<br>b) Call us: 67940161 for further information.</p>
 <p><strong>4. Sale of Uniform, Textbooks and Stationery</strong>
 </p>
 <p>Uniforms, textbooks and stationery will be sold online and in our school.
