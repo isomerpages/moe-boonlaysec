@@ -62,10 +62,9 @@ our school staff will reach out to the relevant students after the S1 Registrati
 in December 2024 to provide further guidance.</p>
 <p><strong>6. Information on School Reporting and First Week of School</strong>
 </p>
-<p>Reporting Date &amp; Time Thursday 2 January 2025 @ 7.50 a.m.</p>
-<p>Reporting Venue School Hall</p>
-<p>Attire School Uniform – Polo T-Shirt &amp; school shorts for boys / school
-skirt for girls</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_sec_1c.png">
+</div>
 <p><strong>7. Key School Rules and Regulations</strong>
 </p>
 <p>Students’ discipline is paramount in creating a safe and conducive environment
