@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4>Secondary One Registration for 2025 Intake</h4>
-<p>1. eRegistration Briefing</p>
+<p><strong>1. eRegistration Briefing</strong>
+</p>
 <p>Please join us for our eRegistration Briefing for 2025 Secondary 1 Boonlayians
 and parents on Zoom.</p>
 <p>Date: 19 December 2024 (Thursday)</p>
@@ -26,11 +27,13 @@ financial matters. Parents will also be able to use this app to stay updated
 on school’s programmes and activities.</p>
 <p>We strongly encourage all parents to download and use PG as the school
 will be using it as the primary channel to disseminate information.</p>
-<p>2. Forms for submission</p>
+<p><strong>2. Forms for submission</strong>
+</p>
 <p>All students who are posted to Boon Lay Secondary School must complete
 the Secondary 1 Registration Form by 23 December 2024, 12pm: BLS S1 Registration
 Form for 2025 Intake</p>
-<p>3. Allocation of Classes</p>
+<p><strong>3. Allocation of Classes</strong>
+</p>
 <p>Information with regards to the Secondary 1 students’ class allocation
 with be communicated through Parents Gateway (PG) after the Sec 1 Registration
 information in December 2024.</p>
@@ -38,7 +41,8 @@ information in December 2024.</p>
 allocation, you may reach out to us via:</p>
 <p>a) Email: <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or</p>
 <p>b) Call us: 67940161 for further information.</p>
-<p>4. Sale of Uniform, Textbooks and Stationery</p>
+<p><strong>4. Sale of Uniform, Textbooks and Stationery</strong>
+</p>
 <p>Uniforms, textbooks and stationery will be sold online and in our school.
 Detail can be found on this page.</p>
 <p>The operating dates and times are:</p>
@@ -46,20 +50,24 @@ Detail can be found on this page.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_sec_1b.png">
 </div>
 <p>Mode of payment: Cash or PayNow</p>
-<p>Venue</p>
+<p><u>Venue</u>
+</p>
 <p>• Bookshop beside Canteen @ Level 1 – Books</p>
 <p>• Classroom at Blk C C1-01 @ Level 1 – Uniform</p>
 <p>• The booklist can be retrieved from BLS Booklist.</p>
-<p>5. Subject-Based Banding (SBB)</p>
+<p><strong>5. Subject-Based Banding (SBB)</strong>
+</p>
 <p>For students who are eligible to read subject(s) at a more demanding level,
 our school staff will reach out to the relevant students after the S1 Registration
 in December 2024 to provide further guidance.</p>
-<p>6. Information on School Reporting and First Week of School</p>
+<p><strong>6. Information on School Reporting and First Week of School</strong>
+</p>
 <p>Reporting Date &amp; Time Thursday 2 January 2025 @ 7.50 a.m.</p>
 <p>Reporting Venue School Hall</p>
 <p>Attire School Uniform – Polo T-Shirt &amp; school shorts for boys / school
 skirt for girls</p>
-<p>7. Key School Rules and Regulations</p>
+<p><strong>7. Key School Rules and Regulations</strong>
+</p>
 <p>Students’ discipline is paramount in creating a safe and conducive environment
 for effective teaching and learning to take place. The school rules and
 regulations are put in place to achieve this purpose. The school rules
@@ -78,14 +86,16 @@ with the school’s expectations.</p>
 <p>• Mobile phones: Students are NOT ALLOWED to use their mobile phones and/or
 smartwatches in school at all times. Lockers will be assigned for Sec 1
 students to keep their devices in due course.</p>
-<p>8. School Smart Card</p>
+<p><strong>8. School Smart Card</strong>
+</p>
 <p>• All students entering Secondary School for the first time in January
 2025 will be issued with a new Secondary level School Smart Card (SSC).</p>
 <p>• Students can use their Primary level SSC for concessionary travel until
 they receive their new card (till end April 2025).</p>
 <p>• Students would need to purchase the Bus Concession Pass for Secondary
 students while using their old card.</p>
-<p>9. Transfers &amp; Appeals</p>
+<p><strong>9. Transfers &amp; Appeals</strong>
+</p>
 <p>Do take note of the information regarding transfer to another school,
 or for appeals to Boon Lay Secondary School.</p>
 <p>Transfer to another school</p>
