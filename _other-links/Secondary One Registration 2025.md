@@ -30,8 +30,8 @@ will be using it as the primary channel to disseminate information.</p>
 <p><strong>2. Forms for submission</strong>
 </p>
 <p>All students who are posted to Boon Lay Secondary School must complete
-the Secondary 1 Registration Form by 23 December 2024, 12pm: BLS S1 Registration
-Form for 2025 Intake</p>
+the Secondary 1 Registration Form by 23 December 2024, 12pm: <a href="https://form.gov.sg/6743e1dedfe66c46688e40e9" rel="noopener nofollow" target="_blank">BLS S1 Registration Form for 2025 Intake</a>
+</p>
 <p><strong>3. Allocation of Classes</strong>
 </p>
 <p>Information with regards to the Secondary 1 students’ class allocation
@@ -107,7 +107,7 @@ for advice on the next steps.</p>
 <p>• Ensure that you have secured a place at the school your child has been
 posted to.</p>
 <p>• Ensure that you meet the cut-off points for Boon Lay Secondary School.</p>
-<p>• Submit an appeal form to Boon Lay Secondary School at <a href="" rel="noopener nofollow" target="_blank">https://go.gov.sg/bls25appeal</a>.</p>
+<p>• Submit an appeal form to Boon Lay Secondary School at <a href="https://form.gov.sg/67404963772439f5c7d96414" rel="noopener nofollow" target="_blank">BLS S1 2025 Appeals (Non-Medical)</a>.</p>
 <p>• Wait for the results of your appeal.</p>
 <p>• The application is deemed to be unsuccessful if you do not hear from
 the school by 3 January 2025.</p>
