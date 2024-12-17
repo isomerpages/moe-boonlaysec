@@ -60,10 +60,9 @@ Singapore Food Agency (SFA).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
+<p></p>
 </li>
 </ul>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
 <p>Submit the completed application form and documents by <strong><u>30 December 2024</u></strong> to
