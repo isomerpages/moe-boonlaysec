@@ -30,7 +30,7 @@ will be using it as the primary channel to disseminate information.</p>
 <p><strong>2. Forms for submission</strong>
 </p>
 <p>All students who are posted to Boon Lay Secondary School must complete
-the Secondary 1 Registration Form by 23 December 2024, 12pm: <a href="https://form.gov.sg/6743e1dedfe66c46688e40e9" rel="noopener nofollow" target="_blank">BLS S1 Registration Form for 2025 Intake</a>
+the Secondary 1 Registration Form by 23 December 2024, 12pm: <a href="https://go.gov.sg/bls25s1reg" rel="noopener nofollow" target="_blank">BLS S1 Registration Form for 2025 Intake</a>
 </p>
 <p><strong>3. Allocation of Classes</strong>
 </p>
