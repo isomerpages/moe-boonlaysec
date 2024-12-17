@@ -82,9 +82,9 @@ the uniform is not allowed.</p>
 <p>• Students are reminded not to bring prohibited items to school.</p>
 <p>• General grooming: All students must present themselves neatly in accordance
 with the school’s expectations.</p>
-<p>• Mobile phones: Students are NOT ALLOWED to use their mobile phones and/or
-smartwatches in school at all times. Lockers will be assigned for Sec 1
-students to keep their devices in due course.</p>
+<p>• Mobile phones: Students are <u>NOT ALLOWED</u> to use their mobile phones
+and/or smartwatches in school <u>at all times</u>. Lockers will be assigned
+for Sec 1 students to keep their devices in due course.</p>
 <p><strong>8. School Smart Card</strong>
 </p>
 <p>• All students entering Secondary School for the first time in January
