@@ -1,6 +1,6 @@
 ---
 title: Secondary One Registration 2025
-permalink: /secondary-one-registration-2024/
+permalink: /secondary-one-registration-2025/
 variant: tiptap
 description: ""
 ---
@@ -30,8 +30,8 @@ will be using it as the primary channel to disseminate information.</p>
 <p><strong>2. Forms for submission</strong>
 </p>
 <p>All students who are posted to Boon Lay Secondary School must complete
-the Secondary 1 Registration Form by 23 December 2024, 12pm: BLS S1 Registration
-Form for 2025 Intake</p>
+the Secondary 1 Registration Form by 23 December 2024, 12pm: <a href="https://go.gov.sg/bls25s1reg" rel="noopener nofollow" target="_blank">BLS S1 Registration Form for 2025 Intake</a>
+</p>
 <p><strong>3. Allocation of Classes</strong>
 </p>
 <p>Information with regards to the Secondary 1 students’ class allocation
@@ -39,8 +39,8 @@ with be communicated through Parents Gateway (PG) after the Sec 1 Registration
 information in December 2024.</p>
 <p>For parents who do not use PG and would like to find out about the class
 allocation, you may reach out to us via:</p>
-<p>a) Email: <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or</p>
-<p>b) Call us: 67940161 for further information.</p>
+<p>a) Email: <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or
+<br>b) Call us: 67940161 for further information.</p>
 <p><strong>4. Sale of Uniform, Textbooks and Stationery</strong>
 </p>
 <p>Uniforms, textbooks and stationery will be sold online and in our school.
@@ -52,9 +52,9 @@ Detail can be found on this page.</p>
 <p>Mode of payment: Cash or PayNow</p>
 <p><u>Venue</u>
 </p>
-<p>• Bookshop beside Canteen @ Level 1 – Books</p>
-<p>• Classroom at Blk C C1-01 @ Level 1 – Uniform</p>
-<p>• The booklist can be retrieved from BLS Booklist.</p>
+<p>• Bookshop beside Canteen @ Level 1 – Books
+<br>• Classroom at Blk C C1-01 @ Level 1 – Uniform
+<br>• The booklist can be retrieved from <a href="https://www.boonlaysec.moe.edu.sg/other-links/book-and-sch-uniform/" rel="noopener nofollow" target="_blank">BLS Booklist</a>.</p>
 <p><strong>5. Subject-Based Banding (SBB)</strong>
 </p>
 <p>For students who are eligible to read subject(s) at a more demanding level,
@@ -62,10 +62,9 @@ our school staff will reach out to the relevant students after the S1 Registrati
 in December 2024 to provide further guidance.</p>
 <p><strong>6. Information on School Reporting and First Week of School</strong>
 </p>
-<p>Reporting Date &amp; Time Thursday 2 January 2025 @ 7.50 a.m.</p>
-<p>Reporting Venue School Hall</p>
-<p>Attire School Uniform – Polo T-Shirt &amp; school shorts for boys / school
-skirt for girls</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_sec_1c.png">
+</div>
 <p><strong>7. Key School Rules and Regulations</strong>
 </p>
 <p>Students’ discipline is paramount in creating a safe and conducive environment
@@ -83,9 +82,9 @@ the uniform is not allowed.</p>
 <p>• Students are reminded not to bring prohibited items to school.</p>
 <p>• General grooming: All students must present themselves neatly in accordance
 with the school’s expectations.</p>
-<p>• Mobile phones: Students are NOT ALLOWED to use their mobile phones and/or
-smartwatches in school at all times. Lockers will be assigned for Sec 1
-students to keep their devices in due course.</p>
+<p>• Mobile phones: Students are <u>NOT ALLOWED</u> to use their mobile phones
+and/or smartwatches in school <u>at all times</u>. Lockers will be assigned
+for Sec 1 students to keep their devices in due course.</p>
 <p><strong>8. School Smart Card</strong>
 </p>
 <p>• All students entering Secondary School for the first time in January
@@ -107,7 +106,7 @@ for advice on the next steps.</p>
 <p>• Ensure that you have secured a place at the school your child has been
 posted to.</p>
 <p>• Ensure that you meet the cut-off points for Boon Lay Secondary School.</p>
-<p>• Submit an appeal form to Boon Lay Secondary School at <a href="" rel="noopener nofollow" target="_blank">https://go.gov.sg/bls25appeal</a>.</p>
+<p>• Submit an appeal form to Boon Lay Secondary School at <a href="https://form.gov.sg/67404963772439f5c7d96414" rel="noopener nofollow" target="_blank">BLS S1 2025 Appeals (Non-Medical)</a>.</p>
 <p>• Wait for the results of your appeal.</p>
 <p>• The application is deemed to be unsuccessful if you do not hear from
 the school by 3 January 2025.</p>
