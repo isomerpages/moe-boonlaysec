@@ -4,15 +4,32 @@ permalink: /school-canteen-advertisement-mixed-rice-stall/
 variant: tiptap
 description: ""
 ---
-<p><strong>Boon Lay Secondary School </strong>has 1 immediate vacancy for
-a Mixed Rice Stall (non-Halal). &nbsp;</p>
+<p><strong>Boon Lay Secondary School has 2 immediate vacancies for</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Chinese Mixed Rice Stall &nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Malay Mixed Rice Stall &nbsp;</strong>
+</p>
+</li>
+</ol>
+<p><strong>&nbsp;</strong>
+</p>
 <p>We are located at 11 Jurong West Street 65, Singapore 648354.&nbsp;</p>
 <p><strong><u>Interested applicants must meet the following criteria:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
+<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder.</p>
+</li>
+<li>
+<p>Stallholder may employ not more than two stall assistants [who is either
+a Singapore Citizen, Singapore Permanent Resident or Long-Term Visitor
+Pass (LTVP)/ LTVP-Plus holders with Letter of Consent (LOC) or Pre-approved
+LOC (PLOC)] at the Stall.&nbsp;</p>
 </li>
 <li>
 <p>Able to provide good service and quality food with prices determined in
@@ -21,7 +38,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programme (HMSP)” guidelines <a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
+Programme (HMSP)” guidelines <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
@@ -50,16 +67,20 @@ Singapore Food Agency (SFA).</p>
 </p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
-<p>Submit the completed application form and documents by <strong><u>13 December 2024</u></strong> to
-the School’s General Office OR via email to <a rel="noopener noreferrer nofollow" target="_blank"><u>blss@moe.edu.sg</u></a>.</p>
-<p>&nbsp;</p>
+<p>Submit the completed application form and documents by <strong><u>30 December 2024</u></strong> to
+the School’s General Office OR via email to <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>blss@moe.edu.sg</u></a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.gongshangpri.moe.edu.sg/files/school%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>A copy of Stall assistant’s LTVP or LTVP-Plus holders with Letters of
+Consent (LOC) if applicable.</p>
 </li>
 <li>
 <p>List of proposed menu and pricing for all items</p>
@@ -67,10 +88,10 @@ the School’s General Office OR via email to <a rel="noopener noreferrer nofoll
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>For enquiries, please contact the General Office at <a href="https://www.google.com/search?q=boon+lay+secondary+school&amp;rlz=1C1GCEA_enSG1046SG1046&amp;oq=boo&amp;gs_lcrp=EgZjaHJvbWUqDwgAECMYJxjjAhiABBiKBTIPCAAQIxgnGOMCGIAEGIoFMhIIARAuGCcYrwEYxwEYgAQYigUyBggCEEUYQDIGCAMQRRg5MgwIBBAAGEMYgAQYigUyDwgFEAAYQxjJAxiABBiKBTIMCAYQABhDGIAEGIoFMgoIBxAAGJIDGIAE0gEJMjQ1OWowajE1qAIIsAIB&amp;sourceid=chrome&amp;ie=UTF-8&amp;safe=active&amp;ssui=on" rel="noopener noreferrer nofollow" target="_blank">6794 0161</a>.</p>
+<p>For enquiries, please contact the General Office at 6794 0161</p>
 <p>Note: Only shortlisted applicants will be notified for an interview and
 will be required to provide food sampling for the School Canteen Selection
-Committee at the applicant’s own expense</p>
+Committee at the applicant’s own expense.</p>
