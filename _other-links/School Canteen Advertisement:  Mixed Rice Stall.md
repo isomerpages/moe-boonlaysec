@@ -52,9 +52,9 @@ Food Hygiene Certificate.</p>
 <li>
 <p>Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA).</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><u>Applicants should preferably fulfil the following criteria:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
