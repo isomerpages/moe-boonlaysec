@@ -14,10 +14,9 @@ description: ""
 <li>
 <p><strong>Malay Mixed Rice Stall &nbsp;</strong>
 </p>
+<p></p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p>We are located at 11 Jurong West Street 65, Singapore 648354.&nbsp;</p>
 <p><strong><u>Interested applicants must meet the following criteria:</u></strong>
 </p>
