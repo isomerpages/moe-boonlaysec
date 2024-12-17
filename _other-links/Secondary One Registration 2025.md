@@ -52,9 +52,9 @@ Detail can be found on this page.</p>
 <p>Mode of payment: Cash or PayNow</p>
 <p><u>Venue</u>
 </p>
-<p>• Bookshop beside Canteen @ Level 1 – Books</p>
-<p>• Classroom at Blk C C1-01 @ Level 1 – Uniform</p>
-<p>• The booklist can be retrieved from <a href="https://www.boonlaysec.moe.edu.sg/other-links/book-and-sch-uniform/" rel="noopener nofollow" target="_blank">BLS Booklist</a>.</p>
+<p>• Bookshop beside Canteen @ Level 1 – Books
+<br>• Classroom at Blk C C1-01 @ Level 1 – Uniform
+<br>• The booklist can be retrieved from <a href="https://www.boonlaysec.moe.edu.sg/other-links/book-and-sch-uniform/" rel="noopener nofollow" target="_blank">BLS Booklist</a>.</p>
 <p><strong>5. Subject-Based Banding (SBB)</strong>
 </p>
 <p>For students who are eligible to read subject(s) at a more demanding level,
