@@ -18,20 +18,12 @@ sections:
           url: /tel
       variant: center
   - infopic:
-      title: Open House 2024
+      title: Secondary One Registration 2025
       id: infopic
-      description: We are open from 9am to 12.30pm on 23 Nov! Join us!
-      button: View More
-      url: https://www.boonlaysec.moe.edu.sg/prospective-students/
-      image: /images/BLS_Open_House_2024v2.jpg
-      alt: Image alt text
-  - infopic:
-      title: e-Brochure
-      id: infopic
-      description: Find out more on what we offer!
-      button: View More
-      url: https://heyzine.com/flip-book/34e244de62.html
-      image: /images/BLS_Pub_Brochure.jpg
+      description: Welcome to the BLS Family!  Please visit this page for more information.
+      button: Click Here
+      url: https://www.boonlaysec.moe.edu.sg/secondary-one-registration-2025/
+      image: /images/BLS_2025.png
       alt: Image alt text
   - infopic:
       title: Choose Your Own Adventure
