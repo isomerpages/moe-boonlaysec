@@ -18,7 +18,7 @@ sections:
           url: /tel
       variant: center
   - infopic:
-      title: Secondary One Registration 2025
+      title: Secondary One CCA Selection Exercise  2025
       id: infopic
       description: Welcome to the BLS Family!  Please visit this page for more information.
       button: Click Here
