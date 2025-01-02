@@ -4,7 +4,7 @@ permalink: /secondary-one-cca-2025/
 variant: tiptap
 description: ""
 ---
-<h4>Secondary One CCA Selection Exercise  for 2025 Intake</h4>
+<h4>Secondary One CCA Selection Exercise for 2025 Intake</h4>
 <p><strong>CCA Selection form</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JA7LWj</a>
 </p>
 <p><strong>Details for CCA Selection Exercise</strong>
