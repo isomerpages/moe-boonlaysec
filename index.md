@@ -18,11 +18,11 @@ sections:
           url: /tel
       variant: center
   - infopic:
-      title: Secondary One Registration 2025
+      title: Secondary One CCA Selection Exercise  2025
       id: infopic
       description: Welcome to the BLS Family!  Please visit this page for more information.
       button: Click Here
-      url: https://www.boonlaysec.moe.edu.sg/secondary-one-registration-2025/
+      url: https://www.boonlaysec.moe.edu.sg/secondary-one-cca-2025/
       image: /images/BLS_2025.png
       alt: Image alt text
   - infopic:
