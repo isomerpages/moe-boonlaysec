@@ -149,7 +149,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Yu_Pei_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yu Pei-Yi</a>
@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 1)</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_zhi_ying_serlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Serlin Tan</a>
@@ -167,19 +167,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
+<p>Assistant Year Head (Sec 2) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hui_yi_alvina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alvina Wong</a>
+<p><a href="mailto:kok_yee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kok Yee Chin</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 3) - Internal</p>
+<p>Assistant Year Head (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_faidah_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Faidah Binte Hassan</a>
+<p><a href="mailto:wong_hui_yi_alvina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alvina Wong</a>
 </p>
 </td>
 </tr>
