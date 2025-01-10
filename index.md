@@ -18,18 +18,18 @@ sections:
           url: /tel
       variant: center
   - infopic:
-      title: Secondary One CCA Selection Exercise  2025
-      id: infopic
-      description: Welcome to the BLS Family!  Please visit this page for more information.
-      button: Click Here
-      url: https://www.boonlaysec.moe.edu.sg/secondary-one-cca-2025/
-      image: /images/BLS_2025.png
-      alt: Image alt text
-  - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
       button: View More
       alt: Image alt text
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
+  - infopic:
+      title: Technology Enabled Learning @ BLS
+      id: infopic
+      description: Find out more about our journey as an Apple Distinguished School.
+      button: CLICK HERE
+      url: https://www.boonlaysec.moe.edu.sg/tel/
+      image: /images/DSC00913.jpg
+      alt: Image alt text
 ---
