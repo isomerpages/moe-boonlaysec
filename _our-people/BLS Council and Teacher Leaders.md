@@ -221,6 +221,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Learning Technologies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: kwek_joon_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kwek Joon Hong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head (Lower Secondary&nbsp;Science)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,7 +276,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Chinese Language)</p>
+<p>Lead Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_siew_ly_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Siew Ly</a>
