@@ -5,5 +5,5 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>BLS Timetable</strong></h3>
-<p><a href="/files/2024_SEM_2_TIMETABLE_CLASS_ALL_V1_1_2024621.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Timetable</a>
+<p><a href="/files/CLASS_TIMETABLE_2025_SEMESTER_1_UPDATED_20250110__Post_S1_CCA_Selection_.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 Timetable</a>
 </p>
