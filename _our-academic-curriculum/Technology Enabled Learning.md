@@ -93,11 +93,6 @@ DMA in your email subject)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DMA Options" src="/images/DMA.JPG">
 </div>
-<h4><strong>Parent Engagement 2024</strong>&nbsp;</h4>
-<p>Please refer to the following deck of slides that was presented during
-the <a href="/files/Parent_Engagement_Deck_2024__for_sharing_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement 2024</a> held
-on 20 Jan 2024 on Zoom.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PLD Initiative" src="/images/PDLP.JPG">
 </div>
