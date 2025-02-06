@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BLS_Website_Banner__3_A4_Landscape_.gif
+      background: /images/BLS_Website_Banner__3_A4_Landscape___1_.gif
       url: /contact-us/
       key_highlights:
         - title: Prospective Students
