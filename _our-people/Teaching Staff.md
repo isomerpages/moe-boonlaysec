@@ -94,4 +94,3 @@ variant: tiptap
 <p>Mohammad Khusni Jumadi (Mr) - Sec 3, 2IC</p>
 <p>Wang Xiaoxi (Ms) - Sec 4 &amp; 5</p>
 <p>Bhavaniswari D/O Batumalia (Miss) - Cluster Head</p>
-<p>Bhavaniwari D/O Batumalia (Miss) - Cluster Head</p>
