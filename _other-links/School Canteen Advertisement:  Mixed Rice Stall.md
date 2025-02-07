@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement-mixed-rice-stall/
 variant: tiptap
 description: ""
 ---
-<p><strong>Boon Lay Secondary School has 1 immediate vacancies for</strong>
+<p><strong>Boon Lay Secondary School has 1 immediate vacancy for</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
