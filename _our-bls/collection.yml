@@ -2,7 +2,6 @@ collections:
   our-bls:
     output: true
     order:
-      - Features.md
       - History.md
       - School Crest.md
       - School Song.md
@@ -11,3 +10,4 @@ collections:
       - Concept of Schooling/Family Oriented.md
       - Concept of Schooling/CCA Centric.md
       - Concept of Schooling/Aspiration Focused.md
+      - Features.md
