@@ -10,7 +10,7 @@ variant: tiptap
 <p>Mon – Fri: 9 a.m. – 3 p.m. (Closed on Sat, Sun, PH eve and PH)
 <br>Venue: School Bookshop, beside Canteen @ Level 1</p>
 <p></p>
-<p><strong>School Uniform (Finest Fashion Centre) </strong>
+<p><strong>School Uniform (Finest Fashion Centre)</strong>
 </p>
 <p><strong>Every <u>1st</u> and <u>3rd Fridays</u> of the month during school terms: 12pm – 3pm</strong>
 </p>
