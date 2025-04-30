@@ -5,11 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Direct School Admission for Secondary Schools (DSA-Sec)</strong></h4>
-<p>Click on link for the slide deck on <a href="/files/Boon_Lay_Sec_Sch_DSA_Sec_Information_20240503.pdf" rel="noopener noreferrer nofollow" target="_blank">Boon Lay Secondary DSA Information</a>
+<p>Click on link for the slide deck on <a href="/files/Boon_Lay_Sec_Sch_DSA_Sec_Information_2025___updated_30_April__.pdf" rel="noopener noreferrer nofollow" target="_blank">Boon Lay Secondary DSA 2025 information</a>
 </p>
 <p><strong>DSA Talent Areas (for 2025)</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Leadership</p>
+</li>
 <li>
 <p>Badminton</p>
 </li>
@@ -32,7 +35,7 @@ variant: tiptap
 <p>English Drama/ Theatre</p>
 </li>
 <li>
-<p>Football Girls^</p>
+<p>Football (Girls)</p>
 </li>
 <li>
 <p>Malay Dance</p>
