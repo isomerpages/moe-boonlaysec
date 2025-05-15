@@ -66,7 +66,7 @@ the School’s General Office OR via email to <a href="mailto:blss@moe.edu.sg" r
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 <li>
