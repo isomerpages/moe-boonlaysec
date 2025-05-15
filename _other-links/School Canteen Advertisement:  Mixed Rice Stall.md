@@ -61,7 +61,7 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><strong><u>Application Procedure</u></strong>
 </p>
-<p>Submit the completed application form and documents by <strong><u>15 April 2025</u></strong> to
+<p>Submit the completed application form and documents by <strong><u>15 July 2025</u></strong> to
 the School’s General Office OR via email to <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>blss@moe.edu.sg</u></a>
 </p>
 <ul data-tight="true" class="tight">
