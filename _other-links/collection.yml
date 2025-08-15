@@ -2,7 +2,6 @@ collections:
   other-links:
     output: true
     order:
-      - Application for Letter of Absence (LOA).md
       - Student Handbook  2025.md
       - Secondary One CCA Selection Exercise  2025.md
       - "School Canteen Advertisement:  Mixed Rice Stall.md"
@@ -12,3 +11,4 @@ collections:
       - Purchase of Books & School Uniform.md
       - BLS Timetable.md
       - Student Learning Space (SLS).md
+      - Application for Letter of Absence (LOA).md
