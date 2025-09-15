@@ -4,7 +4,7 @@ permalink: /contact/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h4><strong>MOE Engagement Charter</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Charter.png">
 </div>
