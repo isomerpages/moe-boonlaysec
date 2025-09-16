@@ -4,6 +4,10 @@ permalink: /contact/
 description: ""
 variant: tiptap
 ---
+<h4><strong>MOE Engagement Charter</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Charter.png">
+</div>
 <h4><strong>Contact Information</strong></h4>
 <p>Operating hours: Weekdays, 6am to 6pm</p>
 <p>Email: <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a>
