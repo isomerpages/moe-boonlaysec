@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Bringing Out the Greatness in Every Child</strong></h4>
-<p></p>
 <p>Welcome to Boon Lay Secondary School (BLS)!</p>
 <p>At BLS, we strive to bring out the greatness in every child. This means
 developing our students as learners and leaders – who are empathetic and
@@ -13,7 +12,6 @@ confident communicators, resilient persons, self-directed lifelong learners
 and responsible global citizens. To help us in this mission, we have adopted
 a tri-fold approach, namely a <em>family-oriented</em> concept of schooling,
 a <em>values-centred</em> education, and an <em>aspiration-focused</em> programme.</p>
-<p></p>
 <p><strong><em>Family-oriented</em></strong>
 </p>
 <p>At BLS, our students experience our CCA-centric structure, a unique feature
@@ -31,8 +29,7 @@ teachers and seniors, as they develop their leadership skills.</p>
 <p>We believe and have seen how our CCA-centric structure has fostered a <em>family-oriented</em> culture,
 which provides a safe, nurturing and enabling environment for every child
 to develop as learners and leaders.</p>
-<p>&nbsp;</p>
-<p><strong><em>Values-centred</em></strong>
+<p>&nbsp;<strong><em>Values-centred</em></strong>
 </p>
 <p>At BLS, our students experience a values-centred education, where they
 would be guided by their teachers and have opportunities to live out the
@@ -47,9 +44,7 @@ in helping them achieve their goals.</p>
 personal values, equipped with social-emotional competencies and 21<sup>st</sup> century
 competencies, and guided by a growth mindset, together with their knowledge
 and skills from subjects, would be able to thrive now and in the future.</p>
-<p><em>&nbsp;</em>
-</p>
-<p><strong><em>Aspiration-focused</em></strong>
+<p><em>&nbsp;</em><strong><em>Aspiration-focused</em></strong>
 </p>
 <p>At BLS, we design our programmes to be aspiration-focused – this means
 that we do our best to provide as many and as diverse learning opportunities
@@ -67,12 +62,11 @@ students will aspire to serve the community around them.</p>
 all our students to discover their interests and strengths, articulate
 their purpose, and make an informed decision about their life after graduating
 from BLS.</p>
-<p>&nbsp;</p>
 <p>Together with my staff, we look forward to working with you – parents,
 alumni, community &amp; industry partners – as close partners, to grow
 BLS as a family of learners and leaders, where we bring out the greatness
 in every child.</p>
-<p>&nbsp;</p>
-<p>Mr Chan Zheng Ming
-<br>Principal
-<br>Boon Lay Secondary School</p>
+<p><strong>Mr Chan Zheng Ming </strong>
+<br><strong>Principal </strong>
+<br><strong>Boon Lay Secondary School</strong>
+</p>
