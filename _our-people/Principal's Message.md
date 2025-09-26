@@ -5,10 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Bringing Out the Greatness in Every Child</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/principalmessage.jpg">
-</div>
-<p></p>
 <p></p>
 <p>Welcome to Boon Lay Secondary School (BLS)!</p>
 <p>At BLS, we strive to bring out the greatness in every child. This means
