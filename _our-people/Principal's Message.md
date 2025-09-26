@@ -2,22 +2,81 @@
 title: Principal's Message
 permalink: /about-bls/principals-message/
 description: ""
+variant: tiptap
 ---
-#### **Our Family of Learners and Leaders**
-
-<img src="/images/principalmessage.jpg" style="width:100%" align="left">
-
-<br clear="left">
-
-At BLS, we instil in our students the joy of learning (JOL) for life and imbue them with competencies for the 21st&nbsp;century. Our unique tri-fold approach, namely a&nbsp;**family-oriented**&nbsp;concept of schooling; a&nbsp;**CCA-centric**&nbsp;structure and an&nbsp;**aspiration-focused**&nbsp;programme continues to inspire our family of learners and leaders.
-
-At BLS, our teachers take on the nurturing role of a caring Mentor. The teacher inculcates skills, dispositions and values that will put our students in good stead to work toward their aspirations. Students thrive in the school and are provided social, emotional support and aspirational guidance to reach their goals. As a&nbsp;**family**&nbsp;of learners, the BLS staff, work within a collegial environment to grow their craft, explore new ideas and further equip themselves to prepare students to be future-ready.
-
-With our CCA-centric structure, students in BLS build strong bonds, learn and grow together with their fellow CCA mates and teacher mentors throughout their journey in the school. The CCA-centric structure builds strong junior-senior bonds, teacher-student relationships in a family that provides a firm foundation for individual growth. Senior students take on leadership to plan and execute school and community events besides carrying out CCA activities with the support of their CCA teachers as mentors.
-
-The school’s Student Development (SD) Programme inspires JOL as students explore their aspirations. Designed to complement the academic programme, the SD modules extend learning as students discover, experiment and aspire.
-
-Along with my staff, we will continue to inspire our students by providing more opportunities for authentic and inter–disciplinary learning, as they continue to apply their learning from the classroom to the community. We look forward to your partnership as parents, alumni and community partners, as we seek to bring out the greatness in every child to be a responsible and passionate learner and leader.
-
-**Mr Inderjit Singh**<br>
-**Principal**
+<h4><strong>Bringing Out the Greatness in Every Child</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/principalmessage.jpg">
+</div>
+<p></p>
+<p></p>
+<p>Welcome to Boon Lay Secondary School (BLS)!</p>
+<p>At BLS, we strive to bring out the greatness in every child. This means
+developing our students as learners and leaders – who are empathetic and
+confident communicators, resilient persons, self-directed lifelong learners
+and responsible global citizens. To help us in this mission, we have adopted
+a tri-fold approach, namely a <em>family-oriented</em> concept of schooling,
+a <em>values-centred</em> education, and an <em>aspiration-focused</em> programme.</p>
+<p></p>
+<p><strong><em>Family-oriented</em></strong>
+</p>
+<p>At BLS, our students experience our CCA-centric structure, a unique feature
+of our school. Students learn and grow with their fellow CCA mates and
+teachers throughout their time with us – during CCA time, morning programmes,
+common curriculum subjects, Values in Action projects and Character and
+Citizenship Education lessons. The time spent together with their CCA mates
+and teachers allow for strong junior-senior bonds and strong teacher-student
+relationships to be built. Teachers, serving as CCA Mentors (CCAMs), care
+for our students and inculcates values, skills and dispositions to help
+our students work towards their aspirations. Students, as seniors, would
+lead to plan and organise CCA, school and community activities, and guide
+their juniors. Students, as juniors, would receive guidance from their
+teachers and seniors, as they develop their leadership skills.</p>
+<p>We believe and have seen how our CCA-centric structure has fostered a <em>family-oriented</em> culture,
+which provides a safe, nurturing and enabling environment for every child
+to develop as learners and leaders.</p>
+<p>&nbsp;</p>
+<p><strong><em>Values-centred</em></strong>
+</p>
+<p>At BLS, our students experience a values-centred education, where they
+would be guided by their teachers and have opportunities to live out the
+school values of <em>Wisdom, Excellence, Respect </em>and <em>Honour</em>.
+These values provide the foundation for us to equip our students with social-emotional
+competencies (managing self, managing relationships and making responsible
+decisions) and 21<sup>st</sup> century competencies (such as critical and
+inventive thinking). In addition, we inculcate in our students a growth
+mindset and guide them in appreciating the importance of their mindset
+in helping them achieve their goals.</p>
+<p>We believe that our students, who are anchored by the school and their
+personal values, equipped with social-emotional competencies and 21<sup>st</sup> century
+competencies, and guided by a growth mindset, together with their knowledge
+and skills from subjects, would be able to thrive now and in the future.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><strong><em>Aspiration-focused</em></strong>
+</p>
+<p>At BLS, we design our programmes to be aspiration-focused – this means
+that we do our best to provide as many and as diverse learning opportunities
+for our students to discover their interests, strengths, and ultimately,
+purpose. We infuse Education and Career Guidance (ECG) in many of our programmes,
+such as level camps, which complements regular ECG programmes, such as
+industry practitioners’ sharing during morning assemblies. We work with
+our industry and community partners to provide authentic learning opportunities
+for our students, so that our students can learn first-hand about the world
+outside of school, in both industries and in the community around them.
+This would allow them to explore career and higher education opportunities
+in the care, digital and green economies. In addition, we hope that our
+students will aspire to serve the community around them.</p>
+<p>We believe that our aspiration-focused programme and approach would help
+all our students to discover their interests and strengths, articulate
+their purpose, and make an informed decision about their life after graduating
+from BLS.</p>
+<p>&nbsp;</p>
+<p>Together with my staff, we look forward to working with you – parents,
+alumni, community &amp; industry partners – as close partners, to grow
+BLS as a family of learners and leaders, where we bring out the greatness
+in every child.</p>
+<p>&nbsp;</p>
+<p>Mr Chan Zheng Ming
+<br>Principal
+<br>Boon Lay Secondary School</p>
