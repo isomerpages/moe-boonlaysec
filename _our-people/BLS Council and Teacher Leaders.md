@@ -17,7 +17,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Inderjit_SINGH@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Inderjit Singh</a>
+<p><a href="mailto:chan_zheng_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chan Zheng Ming</a>
 </p>
 </td>
 </tr>
@@ -27,15 +27,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_chon_kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Chon Kiat, Vincent</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_zheng_ming@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chan Zheng Ming</a>
 </p>
 </td>
 </tr>
