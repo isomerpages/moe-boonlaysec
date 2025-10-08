@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_3b.jpg">
 </div>
-<p>From left: Mr Vincent Koh (Vice Principal), Mr Chan Zheng Ming (Principal),
-Mr Tan Hwee Siang (Vice Principal)</p>
+<p><em>From left: Mr Vincent Koh (Vice Principal), Mr Chan Zheng Ming (Principal), Mr Tan Hwee Siang (Vice Principal)</em>
+</p>
 <h4><strong>Bringing Out the Greatness in Every Child</strong></h4>
 <p>Welcome to Boon Lay Secondary School (BLS)!</p>
 <p>At BLS, we strive to bring out the greatness in every child. This means
