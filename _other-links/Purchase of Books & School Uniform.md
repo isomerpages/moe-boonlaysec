@@ -27,10 +27,20 @@ on the next Friday)</p>
 <br><a href="/files/S1G3_2026.pdf" rel="noopener nofollow" target="_blank">S1G3 2026 Booklist</a>
 <br>
 </p>
-<h4><strong>Booklist and Stationery list (Sec 2)</strong></h4>
-<p></p>
+<h4><strong>Booklist and Stationery list (Sec 2)</strong><br></h4>
+<p><a href="/files/S2G1_2026.pdf" rel="noopener nofollow" target="_blank">S2G1 2026 Booklist</a>
+<br><a href="/files/S2G2_2026.pdf" rel="noopener nofollow" target="_blank">S2G2 2026 Booklist</a>
+<br><a href="/files/S2G3_2026.pdf" rel="noopener nofollow" target="_blank">S2G3 2026 Booklist</a>
+</p>
 <h4><strong>Booklist and Stationery list (Sec 3)</strong></h4>
-<p></p>
+<p><a href="/files/S3G1_2026.pdf" rel="noopener nofollow" target="_blank">S3G1 2026 Booklist</a>
+<br><a href="/files/S3G2_2026.pdf" rel="noopener nofollow" target="_blank">S3G2 2026 Booklist</a>
+<br><a href="/files/S3G3_2026.pdf" rel="noopener nofollow" target="_blank">S3G3 2026 Booklist</a>
+</p>
 <h4><strong>Booklist and Stationery list (Sec 4/5)</strong></h4>
-<p></p>
+<p><a href="/files/S4Ex_2026.pdf" rel="noopener nofollow" target="_blank">S4Express 2026 Booklist</a>
+<br><a href="/files/S4NA_2026.pdf" rel="noopener nofollow" target="_blank">S4NA 2026 Booklist</a>
+<br><a href="/files/S4NT_2026.pdf" rel="noopener nofollow" target="_blank">S4NT 2026 Booklist</a>
+<br><a href="/files/S5NA_2026.pdf" rel="noopener nofollow" target="_blank">S5NA 2026 Booklist</a>
+</p>
 <p></p>
