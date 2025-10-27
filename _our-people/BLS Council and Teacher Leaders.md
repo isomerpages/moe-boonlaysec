@@ -32,7 +32,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
+<p>Vice-Principal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nah_hong_leong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Nah Hong Leong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hwee_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Hwee Siang</a>
