@@ -4,11 +4,11 @@ permalink: /about-bls/principals-message/
 description: ""
 variant: tiptap
 ---
-<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Image_3b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_05_213445.png">
 </div>
-<p><em>From left: Mr Vincent Koh (Vice Principal), Mr Chan Zheng Ming (Principal), Mr Tan Hwee Siang (Vice Principal)</em>
+<p><em>From left: Mr Vincent Koh (Vice Principal), Mr Nah Hong Leong (Vice Principal), Mr Chan Zheng Ming (Principal), Mr Tan Hwee Siang (Vice Principal)</em>
 </p>
 <h4><strong>Bringing Out the Greatness in Every Child</strong></h4>
 <p>Welcome to Boon Lay Secondary School (BLS)!</p>
