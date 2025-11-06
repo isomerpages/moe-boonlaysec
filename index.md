@@ -32,13 +32,4 @@ sections:
       url: https://www.boonlaysec.moe.edu.sg/tel/
       image: /images/DSC00913.jpg
       alt: Image alt text
-  - infopic:
-      title: Greatness @ BLS
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Click here for Greatness
-      url: https://heyzine.com/flip-book/f18e548c71.html
-      image: /images/Screenshot_2025_07_08_234358.png
-      alt: Image alt text
 ---
