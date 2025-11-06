@@ -4,7 +4,6 @@ permalink: /about-bls/principals-message/
 description: ""
 variant: tiptap
 ---
-<h4></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_05_213445.png">
