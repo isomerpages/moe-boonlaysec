@@ -11,5 +11,4 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/low_res_SPH_250220_Y2_A3_Metal_on_Block_P2_1_76330116.jpg">
 </div>
-<p>Source:[state publication]&nbsp;©&nbsp;SPH Media Limited. Permission required
-for reproduction</p>
+<p>Source: ©&nbsp;SPH Media Limited. Permission required for reproduction</p>
