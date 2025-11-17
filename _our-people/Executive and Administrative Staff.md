@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Peng Kuey</p>
@@ -69,10 +69,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sulaiman Sarman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Mateen Bin Jumli</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kitchen Aide</p>
+<p>Food Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zaitoon Bee d/o Sayed Mohd</p>
