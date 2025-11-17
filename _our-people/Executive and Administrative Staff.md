@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Peng Kuey</p>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sulaiman Sarman</p>
@@ -77,10 +77,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Mateen Bin Jumli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nadia Binte Omar</p>
 </td>
 </tr>
 <tr>
