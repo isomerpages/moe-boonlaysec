@@ -165,6 +165,6 @@ have led us to be one.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/history.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLS4.jpg">
 </div>
 <p></p>
