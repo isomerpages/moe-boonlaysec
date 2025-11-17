@@ -97,7 +97,6 @@ variant: tiptap
 <p>Bhavaniswari D/O Batumalia (Miss) - Cluster Head</p>
 <p></p>
 <h4><strong>Allied Educators</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -162,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Well-Being (CAJ)</p>
+<p>Student Well-Being Teacher (CAJ)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheang Yook Yew</p>
