@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative &nbsp;Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sulaiha Bibi Bte Ali</p>
@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative &nbsp;Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wu He-ow Meng</p>
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suziana Mohd Dom</p>
@@ -97,14 +97,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Letchimi D/O Ayasamy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Low Sew Tee</p>
 </td>
 </tr>
 <tr>
