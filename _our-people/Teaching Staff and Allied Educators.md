@@ -117,7 +117,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sheryl Low Baoqi</p>
+<p>Ms Sheryl Low Baoqi</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Fazilah Binte Mohamed Fudin</p>
+<p>Ms Nur Fazilah Binte Mohamed Fudin</p>
 </td>
 </tr>
 <tr>
