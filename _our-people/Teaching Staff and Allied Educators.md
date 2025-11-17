@@ -84,7 +84,8 @@ variant: tiptap
 <p>Siti Nurhani Kamsani (Ms) - Sec 4 &amp; 5</p>
 <p>Hong-Chuah Mei Thien (Mrs) - Cluster Head</p>
 <h4><strong>NPCC</strong></h4>
-<p>Kok Yee Chin (Mr) - Sec 1 &amp; 2, 2IC</p>
+<p>Guan Qin Stacy (Miss) - Sec 1</p>
+<p>Kok Yee Chin (Mr) - Sec 2, 2IC</p>
 <p>Nurfazlin Junidi (Mr) - Sec 3, OIC</p>
 <p>Lek Kyah Hwee (Miss) - Sec 4 &amp; 5</p>
 <p>Ang Hui Bing (Miss) - Cluster Head</p>
