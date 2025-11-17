@@ -19,6 +19,6 @@ teachers also play a significant role in every child’s life as every one
 of them is committed to bringing out the greatness in every student.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Centric2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA_Centric2.jpg">
 </div>
 <p></p>
