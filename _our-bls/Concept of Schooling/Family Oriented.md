@@ -17,7 +17,7 @@ exercise values, form positive habits and cultivate good attitudes for
 good character. It prepares them to be future ready so that they can contribute
 to their family, community and nation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/family.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/family.jpg">
 </div>
 <p></p>
 <p>
