@@ -56,7 +56,7 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thamilarasi d/o Kurusamy</p>
+<p>Mdm Thamilarasi D/O Kurusamy</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jayamani d/o S Marimuthu</p>
+<p>Mdm Jayamani D/O S Marimuthu</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad bin Bawa</p>
+<p>Mr Mohammad Bin Bawa</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Silverani d/o Nalliah</p>
+<p>Mdm Silverani D/O Nalliah</p>
 </td>
 </tr>
 <tr>
@@ -137,6 +137,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Simon Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Auni</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +160,7 @@ variant: tiptap
 <p>Food Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaitoon Bee d/o Sayed Mohd</p>
+<p>Mdm Zaitoon Bee D/O Sayed Mohd</p>
 </td>
 </tr>
 </tbody>
