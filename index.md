@@ -18,6 +18,16 @@ sections:
           url: /tel
       variant: center
   - infopic:
+      title: BLS Open House 2025
+      id: infopic
+      description: Join us on 29 November (Saturday), 9am - 12.30pm! Dialogue with
+        School Leaders is happening at 10am and 11.30am. Click on the link below
+        to sign up!
+      image: /images/OH.jpg
+      alt: Image alt text
+      button: Sign up
+      url: https://forms.moe.edu.sg/forms/oZOPQK
+  - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
       button: View More
@@ -31,11 +41,5 @@ sections:
       button: CLICK HERE
       url: https://www.boonlaysec.moe.edu.sg/tel/
       image: /images/DSC00913.jpg
-      alt: Image alt text
-  - infopic:
-      title: Open House 2025
-      id: infopic
-      description: 29 November (Saturday), 9am - 12.30pm
-      image: /images/OH.jpg
       alt: Image alt text
 ---
