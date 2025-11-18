@@ -54,7 +54,8 @@ at BLS and participate in friendlies and the NSGs.&nbsp;</p>
 schools to train regularly at BLS, engage in friendly matches, and participate
 in the National School Games (NSGs). The initiative not only nurtures emerging
 female football talent but also fosters social integration by bringing
-together girls from diverse backgrounds.</p>
+together girls from diverse backgrounds. In 2025, the team was crowned
+National Champions in the C Division, National Schools’ Games.</p>
 <p>
 <br>
 </p>
