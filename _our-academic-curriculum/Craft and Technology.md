@@ -76,10 +76,10 @@ complex world.</p>
 </div>
 <hr>
 <h4>Food and Consumer Education (FCE)</h4>
-<p>Food and Consumer Education (FCE) equips students with essential life
-skills to navigate the complexities of modern living. At the lower secondary
-level, students develop practical skills in meal planning, food preparation,
-and wise consumer decision-making.</p>
+<p>Food and Consumer Education (FCE) equips lower secondary students with
+essential life skills to navigate the complexities of modern living. At
+the lower secondary level, students develop practical skills in meal planning,
+food preparation, and wise consumer decision-making.</p>
 <p>FCE emphasizes critical thinking and problem-solving, helping students
 to make informed choices in areas such as nutrition, budgeting, and sustainable
 living. Through engaging hands-on activities and projects, students learn
@@ -110,20 +110,21 @@ for future opportunities in related fields.</p>
 workshops and live demonstrations, enhancing their culinary skills and
 gaining industry insights to prepare for future opportunities in food and
 hospitality.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVpo2ItqVQuZuO8XssVqlRvLAVsddLYMuYWI8YSmzEO-zsN6TdWyYF-eyqmr5tJoRLKLdKXx77nTanWNQQsYCQYe-AN5GUiXo8Ybzae5iLRAqdDDSziDmULx6oJuo0n55xgM1caVcrpMd2TbYqdA?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="373" width="280" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_g6EBo4wF943lSvLN5vDZ41ENCvDQY9SqhnKwrJh39bF_62M7Kd1hWoDafn1nEBuCcQzWuoD3nuB1zK1LtoZdzVFW4WIdt18ndSDKuvq6sMXCDLv_t6EIXLD_1gAsR8tg83kQOL6hZwYs72DcVw?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS2.png">
 </div>
-<p><strong>Sustainable Consumption: Harvesting Local Greens with Vertical Hydroponics</strong>
-<br>Upper secondary students embrace sustainable consumption by harvesting
-fresh, locally grown greens from our vertical hydroponics system. This
-hands-on experience teaches them about sustainable farming methods, reduces
-food miles, and promotes environmental responsibility, while reinforcing
-the importance of incorporating nutritious, home-grown produce into their
-diets.</p>
+<p><strong>Sustainable Consumption: Exploring Local Greens with Vertical Hydroponics<br></strong>Upper
+secondary students learn about sustainable consumption by using freshly
+harvested local greens from our vertical hydroponics system. Although they
+did not grow the produce themselves, this hands-on experience allows them
+to explore sustainable farming methods, understand how local production
+reduces food miles, and appreciate the importance of incorporating nutritious,
+sustainably sourced ingredients into their diets.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="540.7388724035609" width="304" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMbZU6t3HQ2YMVytP9d-swlqRn1fdpqN3wzWWDe2hX2nv71DXSHV_KSuxTtMFgq0NJVJFIfCkVMJd7xNoztW--jmyDhAthu3qr07gi2_CRcDk3x3_RANudFEzvqPpfoVr5IhvKotMrdZKqqFz0bM0?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
@@ -142,35 +143,36 @@ practices, and develop creative solutions to meet diverse dietary needs,
 preparing them for real-world applications and further studies in food
 and nutrition.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="193" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXddb2mTwWWk-mH-qBlMD-0YxmM78yBsEsWdLxQIvqsr8hC6dHCTBA5c-l4J449JZqscwCSd1jSNRN5l0RmEeaBwLmjcTcvWEOvCi9f-rrquUKpmW-EueW-Lu4DP-jDLUUh8L9ePPh2U1aq1N_2l7Ww?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="margin-left:0px;margin-top:0px;" height="220" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9EP9VChJpJHccrrwz1uAKmnxgjwsFIZEC4K4Zj2RnSxoF0XMnQmwM1rnzq4iXmm3n7L1BEEyNA518HmCGWNx4pAh25g3CLEA9HllC4iypN-CsO3WOauQjnC9qA4s57QuPfrE9r-fL9Vu2KlKuoMQ?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="193" width="322" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOZFjZhJ5Fp-PRvBA4sOD-lM0Qj_tdQ-Sqz1lqilQGlTlEkyQIKWY1VQqE9gYTJZzuJzen7UJIhA4O6qmp4DBcUfhUZMULo5n5dlUAaPJoJ5rSoWyF2dQY5lzY49L8huKXZh6_-CRrWdr7EmKZSA?key=llnICU2OItVSjBUj-RInJaWx">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="188" width="328" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjlw2hdxEL7nVe_ts9-ZtOJ1ZtMR56JMfr2Eh7uksXNslHOxf2DgTtKUTw_Dh46aOQsIurO2zyJGYQs76dXjY9RJpxoy5IaT1rr8kSrb4m675VggWJmMY0vPzutCa5brN4eDWi6XUC0GWV-CJV3_k?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
+<p><strong>Applied Module Programme: Exploring Food Science at Nanyang Polytechnic and Republic Polytechnic</strong>
+<br>Upper secondary students broaden their understanding of food science through
+applied learning modules conducted at Nanyang Polytechnic and Republic
+Polytechnic. They participate in hands-on experiments, explore innovative
+food technologies, and discover the scientific principles behind food production
+and safety. These engaging experiences provide students with industry-relevant
+knowledge and practical skills, sparking their interest in potential careers
+in food science, nutrition, and technology.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="220" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9EP9VChJpJHccrrwz1uAKmnxgjwsFIZEC4K4Zj2RnSxoF0XMnQmwM1rnzq4iXmm3n7L1BEEyNA518HmCGWNx4pAh25g3CLEA9HllC4iypN-CsO3WOauQjnC9qA4s57QuPfrE9r-fL9Vu2KlKuoMQ?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS3.png">
 </div>
-<p><strong>Math, Science, and Nutrition &amp; Food Science Carnival: Overcooked Challenge</strong>
-<br>At the carnival, upper secondary students put their strategic thinking
-and teamwork skills to the test by playing Overcooked, a fast-paced culinary
-simulation game. This engaging activity integrates elements of math, science,
-and nutrition, promoting problem-solving and time management in a fun,
-interactive setting.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4bHeZbVBgYwmCTSlQeLdCLLuN5g65p6xAMIp9siKPuyT4aOSFUoXxLKwUAaG5AMJ4a3g_ZvsUE6o_Vpdp315FDMYR1Ojyw6sPD2OQZlcl6Ny5MINkbgFYplHuvhcRQRH61OJQJMaLgJCiaR06Qg?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS7.png">
 </div>
-<p><strong>Applied Module Programme: Exploring Food Science at Nanyang Polytechnic</strong>
-<br>Upper secondary students deepen their understanding of food science through
-an applied module programme at Nanyang Polytechnic. They engage in hands-on
-experiments, explore food innovations, and gain insights into the science
-behind food production and safety. This enriching experience equips students
-with industry-relevant knowledge and skills, inspiring potential future
-pursuits in food science and technology.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="373" width="644" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzrpIIkz1jrsILFA5d6eEG86_r3iRLftZRov8eKWZLsc952vbqZUQuTBeBEig6kiM542H1_swbxkG3kCt9pB1rlTX0gcQOC5sRiaHDlYGxukzxEgcfX5-DQDedqUyoKebvFqIFMVDA76-SrBZ_JdY?key=llnICU2OItVSjBUj-RInJaWx">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/NFS4.png">
 </div>
 <p></p>
