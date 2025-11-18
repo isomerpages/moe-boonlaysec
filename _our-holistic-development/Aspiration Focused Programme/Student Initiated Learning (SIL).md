@@ -99,10 +99,12 @@ peers—encouraging leadership, responsibility, and collaboration.</p>
 This celebration highlights creativity, personal growth, and peer inspiration
 while reinforcing reflection and communication skills. Through SIL, Boon
 Lay Secondary School develops well-rounded, self-directed learners who
-are ready to thrive in an ever-changing world.
-<br>
-<br><em>SIL is simple, safe, and joyful — a space for every student to pursue their passions.</em>
+are ready to thrive in an ever-changing world.</p>
+<p><em>SIL is simple, safe, and joyful — a space for every student to pursue their passions.</em>
 </p>
+<p>Click here to watch: <a href="https://drive.google.com/file/d/1N3arVY8PXJ-azWB3Ayzd0WkCGTy0qBlD/view?usp=sharing" rel="noopener nofollow" target="_blank">Digital Showcase</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL4.jpg">
 </div>
@@ -126,5 +128,4 @@ are ready to thrive in an ever-changing world.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL5.jpg">
 </div>
-<p>Click here to watch: <a href="https://drive.google.com/file/d/1N3arVY8PXJ-azWB3Ayzd0WkCGTy0qBlD/view?usp=sharing" rel="noopener nofollow" target="_blank">Digital Showcase</a>
-</p>
+<p></p>
