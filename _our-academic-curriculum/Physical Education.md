@@ -43,15 +43,16 @@ risks and safety of self and others.&nbsp;</p>
 <p>Shelter-building&nbsp;</p>
 </li>
 <li>
-<p>First Aid&nbsp;</p>
-</li>
-<li>
-<p>Expedition Preparation</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1.png">
-</div>
+<p>First Aid</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE5a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE3a.jpg">
+</div>
 <h4><strong>Physical Activities (PA)</strong></h4>
 <p>Under this learning area, students should be able to participate in physical
 activities competently so that they can enjoy participating and are motivated
@@ -70,20 +71,16 @@ school.&nbsp;</p>
 </li>
 <li>
 <p>Running</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE5.png">
-</div>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1a.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE6a.jpg">
+</div>
+<p></p>
 <h4><strong>Physical Health and Fitness (PHF)</strong></h4>
 <p>Under this learning area, students should augment their mature performance
 by using the skills and knowledge in the content areas of health and fitness
@@ -101,4 +98,15 @@ physical activities.&nbsp;</p>
 <p>Personal Safety in Physical Activities</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE7a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE8a.jpg">
+</div>
 <p></p>
