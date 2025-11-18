@@ -80,7 +80,6 @@ school.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE6a.jpg">
 </div>
-<p></p>
 <h4><strong>Physical Health and Fitness (PHF)</strong></h4>
 <p>Under this learning area, students should augment their mature performance
 by using the skills and knowledge in the content areas of health and fitness
