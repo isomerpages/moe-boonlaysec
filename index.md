@@ -32,4 +32,10 @@ sections:
       url: https://www.boonlaysec.moe.edu.sg/tel/
       image: /images/DSC00913.jpg
       alt: Image alt text
+  - infopic:
+      title: Open House 2025
+      id: infopic
+      description: 29 November (Saturday), 9am - 12.30pm
+      image: /images/OH.jpg
+      alt: Image alt text
 ---
