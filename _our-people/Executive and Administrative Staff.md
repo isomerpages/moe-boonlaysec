@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nadia Binte Omar</p>
@@ -144,7 +144,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Auni</p>
+<p>Ms Nur Hanis Auni Binte Mohd Azahar</p>
 </td>
 </tr>
 <tr>
