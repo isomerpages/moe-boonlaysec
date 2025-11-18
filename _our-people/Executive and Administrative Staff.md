@@ -32,7 +32,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ismail Bin Saat</p>
+<p>Mr Ismail Bin Sa'at</p>
 </td>
 </tr>
 <tr>
