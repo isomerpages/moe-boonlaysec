@@ -1,5 +1,5 @@
 ---
-title: Teaching Staff
+title: Teaching Staff and Allied Educators
 permalink: /about-bls/staff/
 description: ""
 variant: tiptap
@@ -84,7 +84,8 @@ variant: tiptap
 <p>Siti Nurhani Kamsani (Ms) - Sec 4 &amp; 5</p>
 <p>Hong-Chuah Mei Thien (Mrs) - Cluster Head</p>
 <h4><strong>NPCC</strong></h4>
-<p>Kok Yee Chin (Mr) - Sec 1 &amp; 2, 2IC</p>
+<p>Guan Qin Stacy (Miss) - Sec 1</p>
+<p>Kok Yee Chin (Mr) - Sec 2, 2IC</p>
 <p>Nurfazlin Junidi (Mr) - Sec 3, OIC</p>
 <p>Lek Kyah Hwee (Miss) - Sec 4 &amp; 5</p>
 <p>Ang Hui Bing (Miss) - Cluster Head</p>
@@ -94,3 +95,78 @@ variant: tiptap
 <p>Mohammad Khusni Jumadi (Mr) - Sec 3, 2IC</p>
 <p>Wang Xiaoxi (Ms) - Sec 4 &amp; 5</p>
 <p>Bhavaniswari D/O Batumalia (Miss) - Cluster Head</p>
+<p></p>
+<h4><strong>Allied Educators</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Chin Hin Wilson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sheryl Low Baoqi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor (FAJ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sally Tham Yuen Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor (FAJ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Siew Hong Eunice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rosetta Fung King Tsee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Fazilah Binte Mohamed Fudin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ridwan Bin Rajin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Well-Being Teacher (CAJ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cheang Yook Yew</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

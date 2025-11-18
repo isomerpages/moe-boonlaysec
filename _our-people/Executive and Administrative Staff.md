@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative &nbsp;Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sulaiha Bibi Bte Ali</p>
@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative &nbsp;Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wu He-ow Meng</p>
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suziana Mohd Dom</p>
@@ -56,12 +56,12 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thamilarasi d/o Kurusamy</p>
+<p>Mdm Thamilarasi D/O Kurusamy</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Peng Kuey</p>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sulaiman Sarman</p>
@@ -77,10 +77,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>STEM Instructor (Workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Mateen Bin Jumli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nadia Binte Omar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jayamani d/o S Marimuthu</p>
+<p>Mdm Jayamani D/O S Marimuthu</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +120,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Low Sew Tee</p>
+<p>Mr Mohammad Bin Bawa</p>
 </td>
 </tr>
 <tr>
@@ -112,15 +128,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad bin Bawa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Silverani d/o Nalliah</p>
+<p>Mdm Silverani D/O Nalliah</p>
 </td>
 </tr>
 <tr>
@@ -133,6 +141,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hanis Auni Binte Mohd Azahar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,10 +157,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kitchen Aide</p>
+<p>Food Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaitoon Bee d/o Sayed Mohd</p>
+<p>Mdm Zaitoon Bee D/O Sayed Mohd</p>
 </td>
 </tr>
 </tbody>

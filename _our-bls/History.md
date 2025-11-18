@@ -51,21 +51,120 @@ the best of both schools to create a new beginning, we want to remember
 our roots and the heritage gallery showcases our separate journeys that
 have led us to be one.</p>
 <h4><strong>Principals</strong></h4>
-<p>1977 – 1981&nbsp; Mr Ng Siok Yen
-<br>1981 – 1982&nbsp; Mr Tan Kiok Ngiap
-<br>1982 – 1988&nbsp; Mr Kiat Jun Ngin
-<br>1988 – 1992&nbsp; Mr Toh Chye Seng
-<br>1992 – 1995&nbsp; Mrs Yu Sing Tong
-<br>1995 – 1997&nbsp; Miss Ong Pheng Yen
-<br>1997 – 2000&nbsp; Miss Lui Yin Leng
-<br>2000 – 2001&nbsp; Miss Peck Soo Hiong
-<br>2001 – 2008&nbsp; Miss Doris Ho
-<br>2008 – 2014&nbsp; Mr Victor Giam Chong Guan
-<br>2014 – 2019&nbsp; Mr Tan Chor Pang
-<br>2020 – 2025 Mr Inderjit Singh
-<br>2025- present Mr Chan Zheng Ming</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1980 – 1981</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Siok Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1981 – 1982</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kiok Ngiap</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1982 – 1988</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kiat Jun Ngin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1988 – 1992</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Chye Seng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1992 – 1995</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yu Sing Tong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1995 – 1997</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ong Pheng Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1997 – 2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lui Yin Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2000 – 2001</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Peck Soo Hiong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2001 – 2008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Doris Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2008 – 2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Giam Chong Guan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014 – 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chor Pang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020 – 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Inderjit Singh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 – present</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Zheng Ming</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/history.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BLS4.jpg">
 </div>
 <p></p>

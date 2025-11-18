@@ -123,7 +123,7 @@ using generative AI tools for learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ICT Manager/DMA Administrator: </strong>Ms Faza</p>
-<p><strong>Desktop Engineers: </strong>Mr Simon Koh</p>
+<p><strong>Desktop Engineers: </strong>Mr Simon Koh, Ms Auni</p>
 </td>
 </tr>
 <tr>
