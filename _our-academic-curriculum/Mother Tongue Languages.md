@@ -37,7 +37,7 @@ and develop essential communication skills.</p>
 1 to Secondary 3, offering a dynamic and authentic platform for students
 to demonstrate their language proficiency, collaborative skills, and ability
 to engage with real-world issues using their Mother Tongue Languages.</p>
-<h3><br><strong>Catering to Students’ Strengths and Needs</strong></h3>
+<h3><strong>Catering to Students’ Strengths and Needs</strong></h3>
 <p>As a department, we have carried out Secondary 1 Bridging lessons to ensure
 a seamless transition for the students from P6 to Secondary One to close
 their learning gaps. This allows students to build a stronger foundation
@@ -45,14 +45,12 @@ in the subject, and nurture their strengths, so they are more engaged in
 learning.</p>
 <h3><strong>Appreciating our Cultural Heritage</strong></h3>
 <h4><strong>Mother Tongue Fortnight</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT02.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL2.jpg">
 </div>
@@ -64,7 +62,6 @@ exposure to Chinese visual arts and traditional games, Malay Language folktales
 and traditional music as well as learning different forms of Indian traditional
 art.</p>
 <h4><strong>Mother Tongue Languages and Cultural Fiesta</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL3.png">
 </div>
@@ -93,7 +90,6 @@ Languages.</p>
 authentic, so that the learning process becomes more relevant and engaging
 to the learner, increasing their preparation for the real world.</p>
 <h4><strong>Chinese Language Department</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL4.png">
 </div>
@@ -116,7 +112,6 @@ editing, and publishing.</p>
 helps students become confident, expressive, and socially aware communicators
 in a globalised world.</p>
 <h4><strong>Tamil Language Department: AI- infused<s> </s>&nbsp;Teaching &amp; Learning</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL5.jpg">
 </div>
@@ -144,7 +139,6 @@ as well as communication, collaboration, and information skills.</p>
 inspiring them to express their ideas confidently and creatively through
 innovative digital platforms.</p>
 <h4><strong>Malay Language Department: Gamification of ML Reading Programme</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL6.png">
 </div>
@@ -173,12 +167,10 @@ In the BLS MTL department, we actively seek out events,&nbsp;contests,
 and competitions held to give our students a platform to widen their horizons,
 test their limits, and realise their potential.</p>
 <h4><strong>Tamil Language Competitions</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL7.png">
 </div>
 <h4><strong>Chinese Language Competitions</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL8.png">
 </div>
@@ -186,7 +178,6 @@ test their limits, and realise their potential.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL9.png">
 </div>
 <h4><strong>Malay Language Competitions</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL10.png">
 </div>
