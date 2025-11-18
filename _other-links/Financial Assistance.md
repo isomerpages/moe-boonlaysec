@@ -4,7 +4,7 @@ permalink: /other-links/financialassistance/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Application for MOE Financial Assistance Scheme (FAS) </strong></h4>
+<h4><strong>Application for MOE Financial Assistance Scheme (FAS)</strong></h4>
 <p>MOE FAS: <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf</a>
 </p>
 <p>MOE Webpage on FAS: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
