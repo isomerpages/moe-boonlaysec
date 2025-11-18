@@ -8,7 +8,8 @@ variant: tiptap
 <p>We warmly invite you to join the BLS family at our Open House on 29 November!
 Come explore our exciting programmes and get a true taste of life as a
 BLS student. You’ll have the chance to hear from our inspiring school leaders
-and check out the variety of CCAs we offer. We can’t wait to meet you!</p>
+and check out the variety of school programmes and CCAs we offer. We can’t
+wait to meet you!</p>
 <p><strong>Date</strong>: 29 November 2025, Saturday
 <br><strong>Time</strong>: 9am - 12.30pm</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/34e244de62.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BLS_Pub_Brochure_p1half.jpg"></a>
 <p>Click on the image or the link for the <a href="https://heyzine.com/flip-book/34e244de62.html" rel="noopener nofollow" target="_blank">e-Brochure</a>!</p>
@@ -19,7 +20,7 @@ and check out the variety of CCAs we offer. We can’t wait to meet you!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Engagement_with_School_Leaders___BLS_Open_House_2025_QR__1_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Engagement_with_School_Leaders___BLS_Open_House_2025_QR__1_.png">
 </div>
 <p>We look forward to meeting you!&nbsp;
 <br>#ChooseGreatness #ChooseBoonLaySec</p>
