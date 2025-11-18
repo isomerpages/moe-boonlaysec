@@ -13,7 +13,7 @@ the course of BLS’s Mathematics Curriculum to take on the challenges of
 tomorrow.</p>
 <h4><strong>Classroom Experiences</strong></h4>
 <p>Learning takes place in the classroom and beyond it. In the preparation
-of lesson materials, our teachers catered to students’ diverse profile
+of lesson materials, our teachers catered to students’ diverse profiles
 through designing resources based on the Differentiated Instruction (DI)
 approach. Within the classroom, our teachers facilitate learning by getting
 students to understand the problems through inquiry and discussion. Our

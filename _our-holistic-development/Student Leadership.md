@@ -15,7 +15,7 @@ comprehensive leadership training, and meaningful developmental assignments,
 we aim to nurture confident, compassionate, and capable young leaders ready
 to make a positive impact in our school and community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Student1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLC.jpg">
 </div>
 <h4><strong>Leadership Framework</strong></h4>
 <p>The BLS Student Leadership Programme is anchored by The Leadership Challenge
@@ -27,7 +27,6 @@ to apply and demonstrate their newly acquired leadership skills in real-world
 scenarios. Through this comprehensive programme, we aspire to cultivate
 student leaders who can effectively lead, serve, and inspire their peers
 and the wider community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student2.png">
 </div>
@@ -46,10 +45,11 @@ roles and responsibilities as they grow and mature.</p>
 Each group oversees different aspects of school operations and holds distinct
 responsibilities. Together, they lead and serve the school population through
 their innovative initiatives and dedicated service.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/student4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLC2.jpg">
 </div>
-<h4>&nbsp;<strong>House Leadership</strong></h4>
+<h4><strong>House Leadership</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/student5.jpg">
 </div>
@@ -73,8 +73,7 @@ in their assigned wings. The four wings of house leadership are:</p>
 <p>These wings not only foster teamwork among student leaders but also empower
 them to initiate school programmes that celebrate student voice and drive
 positive change within our school community.</p>
-<p><strong>CCA Leadership</strong>
-</p>
+<h4><strong>CCA Leadership</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/student6.jpg">
 </div>

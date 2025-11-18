@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Staff photo 2024" src="/images/Screenshot_2024_10_31_220802.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Final__BLSS_Staff_Group_Photo_2025.png">
 </div>
 <h4><strong>AVA</strong></h4>
 <p>Ramesh Raja Sethu Raman (Mr) - Sec 1, 2IC</p>
