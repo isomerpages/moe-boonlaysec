@@ -61,6 +61,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Phoon Lai Yew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,6 +113,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chea Weng Chiew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liang Kuan Hoi</p>
 </td>
 </tr>
 <tr>
