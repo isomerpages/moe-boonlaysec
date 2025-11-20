@@ -112,22 +112,6 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chea Weng Chiew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liang Kuan Hoi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Letchimi D/O Ayasamy</p>
 </td>
 </tr>
@@ -145,6 +129,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Silverani D/O Nalliah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chea Weng Chiew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liang Kuan Hoi</p>
 </td>
 </tr>
 <tr>
