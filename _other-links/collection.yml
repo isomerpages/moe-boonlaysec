@@ -2,13 +2,12 @@ collections:
   other-links:
     output: true
     order:
+      - BLS Timetable.md
+      - Purchase of Books & School Uniform.md
       - Student Handbook  2025.md
       - Secondary One CCA Selection Exercise  2025.md
-      - "School Canteen Advertisement:  Mixed Rice Stall.md"
       - Direct School Admission (DSA).md
       - Scholarships and Bursary.md
       - Financial Assistance.md
-      - Purchase of Books & School Uniform.md
-      - BLS Timetable.md
       - Student Learning Space (SLS).md
       - Application for Letter of Absence (LOA).md
