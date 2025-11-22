@@ -60,7 +60,7 @@ prepare them for challenges that may come their way in the future.</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>J M Fraser Award for Company Excellence 2023-2025 (Distinction)</p>
+<p>J M Fraser Award for Company Excellence 2023-2024 (Distinction)</p>
 </li>
 <li>
 <p>J M Fraser Award for Company Excellence 2019-2022 (Silver)</p>
