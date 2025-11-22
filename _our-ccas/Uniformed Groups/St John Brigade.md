@@ -12,8 +12,9 @@ variant: tiptap
 <p>St John Brigade (SJB) is the uniformed branch of St John Singapore, which
 provides first aid and ambulance services, as well as youth development
 through its cadet programme.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SJB Day" src="/images/SJ1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_22_235752.png">
 </div>
 <p><em>SJB Day</em>
 </p>
@@ -21,20 +22,18 @@ through its cadet programme.</p>
 public good, by rendering first aid to the sick and wounded on public occasions,
 and to develop and promote every means of rendering aid to the sick and
 wounded.</p>
-<p>BLS SJB seeks to equip all cadets with life-saving skills of first aid,
-nursing, occupational safety, health care and emergency assistance, and
-at the same time, provides opportunities to help them develop holistically
+<p>In BLS, SJB seeks to equip all cadets with life-saving skills of first
+aid, home nursing, occupational safety, health care and emergency assistance,
+and at the same time, provide opportunities to help them develop holistically
 as a person. Life-saving courses such as CPR-AED and Basic Cardiac Life
-Support (BCLS) are organized for the cadets including certification in
+Support (BCLS) are organised for the cadets including certification in
 Basic First Aid and Basic Home Nursing. Through the Cadet Proficiency Badge
 Scheme (CPBS), the cadets achieve different badges upon completion of the
 various internal and external courses. The Chief Commissioner’s Badge,
 which is the highest award that a cadet can achieve under CPBS, is presented
 to cadets who have attained the required number of badges and successfully
 completed various assessments.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ2.png">
-</div>
+<p></p>
 <p><em>Boon Lay Secondary School SJB Corps</em>
 </p>
 <p>Our training also includes foot drills which helps to instill discipline
@@ -67,9 +66,6 @@ Food Village&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ9.png">
-</div>
 <p><em>Boon Lay CC – Safe Hearts Values in Action (VIA) Collaboration</em>
 </p>
 <p>These experiences reinforce the importance of learning these life-saving
@@ -88,7 +84,7 @@ public by educating them about CPR and AED.</p>
 <p>Overall Teacher-In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabitha Nasser (CCAM Sec 1)</p>
+<p>Mrs Sabitha Nasser (CCAM Sec 2)</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +92,7 @@ public by educating them about CPR and AED.</p>
 <p>2<sup>nd</sup> Teacher-In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Khusni B Jumadi (CCAM Sec 3)</p>
+<p>Mr Mohammad Khusni B Jumadi (CCAM Sec 4/5)</p>
 </td>
 </tr>
 <tr>
@@ -104,51 +100,51 @@ public by educating them about CPR and AED.</p>
 <p>CCA Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gayathiri d/o Nandakuma (CCAM Sec 2)
-<br>Ms Wang Xiaoxi (CCAM Sec 4 &amp; 5)
+<p>Ms Gayathiri d/o Nandakuma (CCAM Sec 3)
+<br>Ms Wang Xiaoxi (CCAM Sec 1)
 <br>Ms Bhavaniswari D/O Batumalia (Cluster Head)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson (2024/2025)</p>
+<p>Chairperson (2025/2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT Keerthana Jagan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson (2024/2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGT Edreena Binte Eaizad</p>
+<p>SGT Yong Yuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basic Drills Instructors (BDI) (2024/2025)</p>
+<p>Vice-Chairperson (2025/2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT Felicia Chen Xiao Yan D/O Segumy Deen
-<br>SGT Edreena Binte Eaizad</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corps First Aid Instructors (CFIC) (2024/2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGT Keerthana Jagan
-<br>CPL Nurul Qurratu Ain Bintw Hamzah</p>
+<p>SGT Dhanya Lakshmie d/o Yasukumar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corps Home Nursing Instructor (CHIC) (2024/2025)</p>
+<p>Basic Drills Instructors (BDI) (2025/2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPL Loh Jia Wai</p>
+<p>SGT Prince Isaac Raj</p>
+<p>CPL Nurul Jannah Alyssa Binte Mohd Norisman</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corps First Aid Instructors (CFIC) (2025/2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT Yong Yuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corps Home Nursing Instructor (CHIC) (2025/2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT Celeste Hau Yu Xuan</p>
 </td>
 </tr>
 <tr>
@@ -156,82 +152,41 @@ public by educating them about CPR and AED.</p>
 <p>Corps Achievement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corps Achievement Award (2017-2024) – Gold<em><br>(Award suspended for 2021 - 2022)</em>
+<p>Corps Achievement Award (2017-2025) – Gold<em><br>(Award suspended for 2021 - 2022)</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 Chief Commissioner’s Badge Awardees</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SSG Heng Ying Xuan</p>
-</li>
-<li>
-<p>SSG Matthew Diong Jia Yao</p>
-</li>
-<li>
-<p>SSG Yong Zheng</p>
-</li>
-<li>
-<p>SSG Tresa Wee (Huang Enting)</p>
-</li>
-<li>
-<p>SSG Madinah Maisarah Binte Mohamad Sha</p>
-</li>
-<li>
-<p>SGT Lee Yong Lok Wayne (Li Yongle)</p>
-</li>
-<li>
-<p>SGT Neoh Jun Ming</p>
-</li>
-<li>
-<p>SGT Teo Joe Wei</p>
-</li>
-<li>
-<p>SGT Bharanidharan Rajha Latchumi</p>
-</li>
-<li>
-<p>SGT Tan Shi Xuan</p>
-</li>
-<li>
-<p>SGT Tieng Sing Jing</p>
-</li>
-<li>
-<p>CPL Richard Loo Zhe Qi</p>
-</li>
-<li>
-<p>CPL Nur Akila Eliyana Binte Ridzuan</p>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_23_001859.png">
 </div>
-<p><strong>SJB Weekly Activities and Bonding</strong>
+<p><strong>SJB Activities and Bonding</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3a.jpg">
 </div>
 <p><em>Promotion Parade</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4a.jpg">
 </div>
 <p><em>First Aid, CPR and Home Nursing lessons led by our Corps Instructors</em>
 </p>
 <p><strong>School Events</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_23_001429.png">
 </div>
-<p><em>CCA Experience Day</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SJ8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2025.jpg">
 </div>
-<p><em>Math and Science Carnival</em>
-</p>
+<p></p>
 <p><strong>Frequently Asked Questions (FAQ)</strong>
 </p>
 <p><strong>1.</strong>&nbsp;<strong>What is the aim of St John Brigade (SJB)?</strong>
