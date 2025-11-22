@@ -31,6 +31,11 @@ and leading the team both on and off the court.</p>
 as well as Deloitte Pesta Sukan Tournament annually. During these competitions,
 the Netball team players are given the opportunity to showcase values such
 as perseverance and resilience.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_23_003227.png">
+</div>
 <p>The team organises friendly matches with other schools through active
 collaboration. Through these competitions and friendly games, our players
 are able to build strong camaraderie while at the same time pit their talents
@@ -39,42 +44,39 @@ against other teams.</p>
 for greater heights to ensure that each player achieves her best version
 and grows as a player, a leader, and a supportive teammate.</p>
 <h4>CCA Mentors</h4>
-<p>Mdm Nor Faatihah Haron (OIC, Sec 4 &amp; 5)
-<br>Ms Lee Chinn Yi (2IC, Sec 1)
-<br>Mdm Siti Nurhani Kamsani (Sec 2 &amp; 3)
-<br>Mrs Hong-Chuah Mei Thien (Cluster Head)
+<p>Mrs Athena Liew OIC - Sec 1</p>
+<p>Nor Faatihah Haron 2IC - Sec 2</p>
+<p>Siti Nurhani Kamsani – Sec 3, 4 &amp; 5</p>
+<p>Hong -Chuah Mei Thien (Mrs) Cluster Head</p>
+<p>
 <br>
 </p>
 <h4>CCA Leaders</h4>
-<p><strong>Captain (Upper Sec)</strong>: Gladys Tan Shi Ying
-<br><strong>Captain (Lower Sec)</strong>: May Pwint Thu Zaw
-<br><strong>Vice Captain (Upper Sec)</strong>: Ng Sin Yi
-<br><strong>Vice Captain (Lower Sec)</strong>: Chua Jia Xin
-<br>
-</p>
+<p><strong>Captain</strong>: May Pwint Thu Zaw
+<br><strong>Vice Captain</strong>: Nur Huzaifah Binte Abdullah
+<br><strong>House Leader</strong>: Meilsa Aulia Risandi</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
-<br>Friday (2.30pm to 5.30pm)
+<br>Friday (1.30pm to 4.30pm)
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/F.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE33.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE22.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_20240717_115105.jpg">
 </div>
 <p></p>
 <p></p>

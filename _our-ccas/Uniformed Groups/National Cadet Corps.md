@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCC__2_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/NCC__2_.jpg">
 </div>
 <p>NCC, supported by the Ministry of Defence (MINDEF) and Ministry of Education
 (MOE), is one of the largest youth uniformed groups in Singapore. The mission
@@ -30,16 +30,17 @@ Annual Camp, which serve to bring invaluable experiences to its cadets.</p>
 await you.</p>
 <p></p>
 <h4>CCA Mentors</h4>
-<p>Mr Ronald Wong Zhenrong (OIC, Sec 3)
-<br>Mr Ong Zhi Jie, (2IC, Sec 4 &amp; 5)
-<br>Mr Ng Chee Kin (Sec 1)
-<br>Ms Divyalakshmi D/O Muthu Saminathan (Sec 2)
-<br>Ms Mardiana Mansor (Cluster Head)
+<p>Mr Ronald Wong Zhenrong (OIC, Sec 4)</p>
+<p>Mr Ong Zhi Jie, (2IC, Sec 1)</p>
+<p>Mr Ng Chee Kin (Sec 2)</p>
+<p>Ms Divyalakshmi D/O Muthu Saminathan (Sec 3)</p>
+<p>Ms Mardiana Mansor (Cluster Head)</p>
+<p>
 <br>
 </p>
 <h4>CCA Leaders</h4>
-<p><strong>Unit Sergeant Major (USM)</strong>: Kee Feng Jun Isaac
-<br><strong>Assistant Sergeant Major (ASM)</strong>: Rayyan Irfan Bin Soffeyan</p>
+<p><strong>Unit Sergeant Major (USM)</strong>: Ilyas Bin Nobraham
+<br><strong>Assistant Sergeant Major (ASM)</strong>: Gabriel Ng</p>
 <p></p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
@@ -47,6 +48,10 @@ await you.</p>
 <br>
 </p>
 <h4>Achievements</h4>
+<h5>2025</h5>
+<p>Distinction for Unit Recognition Award</p>
+<p>Outstanding Cadet Award - Isaac Kee and Rayyan Irfan</p>
+<p>4th Placing in West District Freestyle Drill (FSD) Competition</p>
 <h5>2024</h5>
 <p>Distinction for Unit Recognition Award
 <br>3rd place in West District Freestyle Drill&nbsp;(FSD) competition
@@ -57,8 +62,9 @@ await you.</p>
 <br>Outstanding Cadet Award - Myat Thura Toe
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NC1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_23_at_8_48_04_AM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
