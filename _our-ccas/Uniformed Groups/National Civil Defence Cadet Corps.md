@@ -21,17 +21,21 @@ through outreach programmes.</p>
 <p>NCDCC’s motto of 'We Learn, We Lead, We Serve' encapsulates the fulfilling
 journey of the NCDCC cadets.</p>
 <h4>CCA Mentors</h4>
-<p>Mdm Chan Bee Bee (OIC, Sec 3)
-<br>Ms Lee Xiu Wen (2IC, Sec 2)
-<br>Ms Tan Ying Hwee (Sec 1)
-<br>Ms Claire Chung Su-Lin (Sec 4 &amp; 5)
-<br>Mr Ooi Chong Min (Cluster Head)</p>
+<p>Kwek Joon Hong (Mr) - Sec 1</p>
+<p>Tan Ying Hwee (Miss) – Sec 2</p>
+<p>Lee Xiu Wen (Mdm) 2IC – Sec 3</p>
+<p>Chan Bee Bee (Mdm) OIC - Sec 4</p>
+<p>Ooi Chong Min (Mr) Cluster Head</p>
+<p></p>
 <h4>CCA Leaders</h4>
-<p><strong>Unit Sergeant Major</strong>: Adriana Balqis Bte Lukman
-<br><strong>Assistant Unit Sergeant Major</strong>: Muhammad Syahmi Aqil Bin
-Mohammed Sahril
-<br><strong>Garnet House Head</strong>: Muhammad Umar Bin Abdul Ghaffor
-<br><strong>Garnet House Leader</strong>: Abdullah Mustafa Dhafir Makkiyah</p>
+<p><strong>Unit Sergeant Major: </strong>Tho Shao Xian</p>
+<p><strong>Assistant Unit Sergeant Major: </strong>Qalesya Binte Zulkarnain
+Shah</p>
+<p><strong>Regimental Unit Sergeant Major: </strong>Sai Thu Rein</p>
+<p><strong>Garnet House Head: </strong>Sai Som Htaung Kham</p>
+<p><strong>Garnet House Leader: </strong>Nur Adriana Daania Binte Muhammad
+Daniel</p>
+<p></p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30pm)</p>
@@ -84,7 +88,7 @@ and Rescue)</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 &amp; 2023 Unit Overall Proficiency Award (UOPA) - Distinction</p>
+<p>2022, 2023 &amp; 2024 Unit Overall Proficiency Award (UOPA) - Distinction</p>
 </li>
 <li>
 <p>2018, 2019 &amp; 2021 Unit Overall Performance Award (UOPA) - Gold</p>
@@ -96,10 +100,13 @@ and Rescue)</p>
 <p>2019-2024 Unit Best Cadet</p>
 </li>
 <li>
+<p>2022 NCDCC Urban Adventure Civil Defence Challenge - Commendation</p>
+</li>
+<li>
 <p>2023 NCDCC Urban Adventure Civil Defence Challenge - 6th Place</p>
 </li>
 <li>
-<p>2022 NCDCC Urban Adventure Civil Defence Challenge - Commendation
+<p>2025 NCDCC Urban Adventure Civil Defence Challenge - 3rd Place
 <br>
 </p>
 </li>
