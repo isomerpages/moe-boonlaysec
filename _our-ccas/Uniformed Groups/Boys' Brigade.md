@@ -6,6 +6,10 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB3.jpg">
+</div>
 <p>The vision of the Boys’ Brigade (BB) is to be the youth organisation of
 choice, with the aim to nurture youth, based on Christian values to serve
 and lead.</p>
@@ -68,9 +72,6 @@ prepare them for challenges that may come their way in the future.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB3.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB1.jpg">
