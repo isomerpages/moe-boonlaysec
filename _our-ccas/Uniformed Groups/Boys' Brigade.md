@@ -7,9 +7,11 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB__1_.jpg">
 </div>
+<p></p>
 <p>The vision of the Boys’ Brigade (BB) is to be the youth organisation of
 choice, with the aim to nurture youth, based on Christian values to serve
 and lead.</p>
@@ -79,5 +81,10 @@ prepare them for challenges that may come their way in the future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB3.jpg">
 </div>
 <p></p>
