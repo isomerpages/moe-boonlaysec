@@ -9,46 +9,39 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton__2_.jpg">
 </div>
-<p>Aligned with the motto of the National School Games (NSG), the Boon Lay
-Secondary School Badminton team embraces ‘Character in Sporting Excellence’,
-recognising the vital role sports play in shaping the character of students
-alongside their pursuit of excellence.</p>
-<p>The team’s own motto, ‘Smashing Limits’, reflects our commitment to building
-on past successes and striving for greater achievements. With this in mind,
-the team is determined to continue bringing pride and glory to the school,
-supported by the dedication, commitment, and teamwork of players, teachers-in-charge,
-and various stakeholders.</p>
-<p>Each year, the ‘B’ Division and ‘C’ Division boys' and girls' teams compete
-fiercely in the NSG, representing the school with pride and passion. Throughout
-the competitions, the teams demonstrate discipline, resilience, and a strong
-eagerness to learn, growing in confidence as they tackle challenges head-on.
-Beyond their sporting pursuits, they actively contribute to the community
-through meaningful Values in Action (VIA) projects, leveraging Design Thinking
-to address and solve real-world issues.</p>
-<p>If you’re ready to grow, compete, and contribute, come join our family
-of Smashing Limits!</p>
+<p>Inspired by the National School Games (NSG) motto, the Boon Lay Secondary
+School Badminton Team embodies the spirit of “Character in Sporting Excellence”,
+recognising how sports nurture character while driving the pursuit of excellence.</p>
+<p>Guided by their own motto, “Smashing Limits”, the team is committed to
+building upon past achievements and striving for even greater success.
+With unwavering dedication, teamwork, and the steadfast support of teachers-in-charge
+and stakeholders, the team continues to bring pride and honour to the school.</p>
+<p>Each year, the ‘B’ Division and ‘C’ Division boys’ and girls’ teams represent
+Boon Lay Secondary at the NSG, competing with pride, passion, and sportsmanship.
+Through every match, they display discipline, resilience, and a genuine
+eagerness to learn—growing in confidence as they take on new challenges.</p>
+<p>Beyond the court, our players also give back to the community through
+Values in Action (VIA) projects, applying Design Thinking to create meaningful
+solutions to real-world problems.</p>
+<p>If you’re ready to grow, compete, and make a difference, come be part
+of our family of Smashing Limits!</p>
+<h4><strong>CCA Mentors</strong></h4>
+<p>Mr Pang Chee Peng (OIC, Sec 4 &amp; 5)</p>
+<p>Mrs Tan-Young Tsui Hwa (Sec 3)</p>
+<p>Mdm Nur Aida Md Khalid (Sec 2)</p>
+<p>Ms Lek Kyah Hwee (Sec 1)</p>
+<p>Ms Serlin Tan (Cluster Head)</p>
+<h4><br><strong>CCA Leaders</strong></h4>
+<p><strong>SLC</strong>: SOFRONIA MAXMILLAN and YUVARAJ DHATCHINRAJ
+<br><strong>Captains</strong>: PANDIYAN SHANJAY (Upper Sec Boys)
+<br>ASHER ILHAN BIN MOHAMAD MARICAN (Lower Sec Boys)
+<br>AMBER LEE JIA EN&nbsp; (Upper Sec Girls)
+<br>CHEW PEI JUN KALISTA (Lower Sec Girls)
+<br><strong>Vice Captains</strong>: KESEAN CHUA (Upper Sec Boys)
+<br>KRISSATA ANG PENG KAI (Lower Sec Boys)
+<br>LOW ZI YIN (Upper Sec Girls)
+<br>KELINA YEO YEE SIM (Lower Sec Girls)</p>
 <p></p>
-<h4>CCA Mentors</h4>
-<p>Mr Pang Chee Peng (OIC, Sec 2)
-<br>Mrs Liew-Soh Mui Ling Athena (2IC, Sec 3)
-<br>Mrs Tan-Young Tsui Hwa (Sec 1)
-<br>Mdm Nur Aida Md Khalid (Sec 4 &amp; 5)
-<br>Ms Thia Mei Yin Rita (Cluster Head)
-<br>
-</p>
-<h4>CCA Leaders</h4>
-<p>
-<br><strong>Captain (Upper Sec Boys)</strong>: Loh Jayden
-<br><strong>Captain (Lower Sec Boys)</strong>: Nathan Raj Ryan Raj
-<br><strong>Captain (Upper Sec Girls)</strong>: Natalie Lim Xin Jie
-<br><strong>Captain (Lower Sec Girls)</strong>: Guo Lexuan
-<br><strong>Vice Captain (Upper Sec Boys)</strong>: Javion Tan Zhi Wei
-<br><strong>Vice Captain (Lower Sec Boys)</strong>:Tan Yi Yang
-<br><strong>Vice Captain (Upper Sec Girls)</strong>:<strong> </strong>Kerlin
-Ng Ke'xin
-<br><strong>Vice Captain (Lower Sec Girls)</strong>:<strong> </strong>Chandrasekaran
-Sathana
-<br><strong>SLC</strong>: Vallavaraj Haretha and Rengaiah Sharana Harish</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30pm)</p>
