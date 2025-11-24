@@ -66,6 +66,7 @@ and Siow Zuo Ming Kaden</p>
 <br>Friday (2.30pm – 5.30pm)
 <br>
 </p>
+<p></p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
