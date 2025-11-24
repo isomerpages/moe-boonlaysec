@@ -33,7 +33,6 @@ provides a platform for members to grow in confidence, creativity, and
 independence, while fostering teamwork, leadership, and unity. Above all,
 it offers opportunities for fun, friendship, and exploration in the exciting
 world of digital technology.</p>
-<p></p>
 <h4>CCA Mentors</h4>
 <p>Ms Azlina Muslimin (OIC, Sec 1 &amp; 2)</p>
 <p>Mr Salizam Jaafar (2OIC, Sec 4)</p>
@@ -52,8 +51,6 @@ Shahril</p>
 <p>Tan Jia Zhi, Kendric</p>
 <p>Chia Jea Hao</p>
 <p>Akash</p>
-<p></p>
-<p></p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30pm)</p>
