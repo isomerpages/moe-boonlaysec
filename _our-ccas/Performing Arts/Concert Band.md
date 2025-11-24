@@ -124,8 +124,9 @@ mates (for students who excel in musicianship).</p>
 we adopt a progression system where students will be trained to manage
 smaller duties before taking on larger responsibilities.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BA2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2025.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
