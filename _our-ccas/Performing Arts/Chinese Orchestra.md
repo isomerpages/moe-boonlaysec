@@ -8,47 +8,44 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CO__1_.jpg">
 </div>
-<p>The Boon Lay Secondary School Chinese Orchestra is a vibrant orchestra
-that comprises five different sectional categories. They are pluck string,
-string, cello bass, wood wind and percussion.</p>
-<p>The orchestra understands the importance of honing and highlighting individual
-talents. All members are given an opportunity to showcase their talent
-during performances in school or at external events like the Chinese New
+<p>The Boon Lay Secondary School Chinese Orchestra is a vibrant ensemble
+comprising five distinct sections: plucked strings, bowed strings, cello
+and bass, woodwind, and percussion.</p>
+<p>The orchestra recognises the importance of nurturing and showcasing individual
+talents. All members have opportunities to demonstrate their abilities
+during school performances and external events such as the Chinese New
 Year Concert, Aspire and Achieve Day, and Mother Tongue Fiesta.</p>
-<p>Each individual in the orchestra also has the opportunity to learn music
-theory knowledge from the conductor, instructors and our alumni apart from
-just the skills on how to play the various musical instruments. Through
-continuous hard work and determination the past few years, we managed to
-achieve commendable results in the Singapore Youth Festival Arts Presentations.</p>
-<p>As a family, the orchestra also inculcates a strong sense of responsibility,
-resilience, respect and honour in its members. Over the years, we have
-also evolved from the usual perception of performing only traditional Chinese
-music to a new refreshing approach of showcasing modern pop music, mash-ups,
-fusion of different genres of music and classic Chinese pop music.</p>
-<p>If you are interested in playing Chinese cultural instruments, come join
-us and be part of our family.</p>
+<p>Beyond instrumental skills, each member learns music theory from our conductor,
+instructors, and alumni. Through continuous dedication and hard work over
+the years, we have achieved commendable results in the Singapore Youth
+Festival Arts Presentations.</p>
+<p>As a musical family, the orchestra instils strong values of responsibility,
+resilience, respect, and honour in its members. We have evolved beyond
+the traditional perception of performing only classical Chinese music,
+embracing a refreshing approach that includes modern pop music, mash-ups,
+genre fusion, and classic Chinese pop songs.</p>
 <h4>CCA Mentors</h4>
-<p>Mdm Liang Soo Ling (OIC, Sec 2)
-<br>Mdm Nur Shafiah Md Azmi (2IC, Sec 1)
-<br>Ms Izzhaziqah Wong Bte Md Iskandar (Sec 3)
-<br>Mr Tan Teck Wan Johnny (Sec 4 &amp; 5)
-<br>Mr Ooi Chong Min (Cluster Head)
-<br>
+<p>Nur Shafiah Binte Mohamed Azmi (Mdm) - Sec 2, 2IC
+<br>Liang Soo Ling (Mdm) – Sec 3, OIC
+<br>Izzhaziqah Wong Bte Md Iskandar (Miss) - Sec 4 &amp; 5
+<br>Tan Teck Wan Johnny (Mr) – Sec 1
+<br>Ooi Chong Min (Mr) - Cluster Head</p>
+<p><strong>&nbsp;</strong>
 </p>
 <h4>CCA Leaders</h4>
-<p><strong>Chairperson</strong>: Tong Zixin
-<br><strong>Vice Chairperson</strong>: Kan Yan Hong
-<br><strong>Vice House Head</strong>: Tan Le Xuan
-<br><strong>House Leader</strong>: Tong Pao Yuan Felix
-<br>
-</p>
+<p><strong>Chairperson</strong>: Law Zi Feng Jesmund
+<br><strong>Vice Chairperson</strong>: Ng Zi Xin
+<br><strong>Vice House Head</strong>: – Kee Xuan Ning Valencia
+<br><strong>House Leader</strong>: Nurin Myra</p>
 <h4>Training Days</h4>
-<p>Tuesday (Combined Practice): 3.45pm – 5.30pm
-<br>Friday (Sectional Practice): 2.30pm – 5.30pm
-<br>
-</p>
+<p>Tuesdays (Combined Practice) 3.45 pm – 5.45 pm</p>
+<p>Fridays (Sectional Practice) 2.30 pm – 5.30 pm</p>
+<p></p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival Arts Presentation 2025 - Certificate of Accomplishment</p>
+</li>
 <li>
 <p>Singapore Youth Festival Arts Presentation 2023 - Certificate of Accomplishment</p>
 </li>
@@ -68,19 +65,18 @@ Distinction</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO2.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_2025_CO_SYF.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E_2025_CO_VIA.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_CO.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co4.jpg">
-</div>
+<p></p>
 <p></p>
