@@ -78,17 +78,17 @@ unique differences and developing individual competencies.</p>
 <p>Nazerah (Mdm) Cluster Head</p>
 <p></p>
 <h4><strong>CCA Leaders</strong></h4>
-<p><strong> President: </strong>Naurah Anis</p>
-<p><strong> Vice President: </strong>Shandee</p>
-<p><strong> Costume IC: </strong>Elfarihanna Syakira</p>
-<p><strong> Make-up IC: </strong>Nur Haslydia</p>
-<p><strong> Physical Fitness IC: </strong>Nurrun Nazrah &amp; Nur Haslydia</p>
-<p><strong> Sec 3 Level IC: </strong>Aqeela Batrisya</p>
-<p><strong> Sec 4 Level IC: </strong>Siti Elysha</p>
-<p><strong> Sec 2 Level IC: </strong>Muhammad Aqiff</p>
-<p><strong> Sec 1 Level IC: </strong>Nurhidayah</p>
-<p><strong> House Leader: </strong>Nur Eryssa Danella</p>
-<p><strong> House Leader: </strong>Muhammad Asraff Ilham</p>
+<p><strong>President: </strong>Naurah Anis</p>
+<p><strong>Vice President: </strong>Shandee</p>
+<p><strong>Costume IC: </strong>Elfarihanna Syakira</p>
+<p><strong>Make-up IC: </strong>Nur Haslydia</p>
+<p><strong>Physical Fitness IC: </strong>Nurrun Nazrah &amp; Nur Haslydia</p>
+<p><strong>Sec 3 Level IC: </strong>Aqeela Batrisya</p>
+<p><strong>Sec 4 Level IC: </strong>Siti Elysha</p>
+<p><strong>Sec 2 Level IC: </strong>Muhammad Aqiff</p>
+<p><strong>Sec 1 Level IC: </strong>Nurhidayah</p>
+<p><strong>House Leader: </strong>Nur Eryssa Danella</p>
+<p><strong>House Leader: </strong>Muhammad Asraff Ilham</p>
 <p></p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
