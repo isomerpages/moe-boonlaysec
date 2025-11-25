@@ -69,6 +69,9 @@ skillsets to the roles and tasks assigned to them.</p>
 <p><em>The AV crew at work behind the scenes</em>
 </p>
 <h4><strong>ELITe Fest</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EL.png">
+</div>
 <p>ELITe Fest is Boon Lay Secondary School's vibrant celebration of the English
 Language, where students immerse themselves in a week of engaging and creative
 activities. From solving Daily Crossword Puzzles to crafting compelling
@@ -99,7 +102,6 @@ as pronunciation, fluency and rhythm in their speeches.</p>
 </div>
 <p><em>Choral Reading</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/el11.jpg">
 </div>
@@ -107,14 +109,17 @@ as pronunciation, fluency and rhythm in their speeches.</p>
 </p>
 <h4><strong>Literature</strong></h4>
 <p>In Literature lessons, students get to develop a deeper love and appreciation
-of the written words through drama, journal writing and creative tasks
-to enhance their interaction with rich literary works.
+of the written words through creative tasks to enhance their interaction
+with rich literary works. They experience a curriculum undergirded by the
+literature pedagogical processes.
 <br>
-<br>At lower secondary, students are seen as makers of meanings. To achieve
-this, students are guided to write their own poems inspired by themes like
-self or food. Through role-playing, dramatisation and making of posters,
-students not only enhance their understanding of literature but also nurture
-their ability to communicate ideas in unique ways.</p>
+<br>At lower secondary, students are seen as makers of meanings. As they explore
+texts with familiar themes like growing up, students bring their prior
+knowledge to unpack texts at the initial stage. As they dive deeper, strategies
+like role-playing and dramatisation are used to enhance their understanding.
+To nurture their ability to communicate ideas, students are assigned alternative
+assessment tasks like creating an Instagram story to recommend the text
+and share their analysis.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Who_I_am.png">
@@ -126,6 +131,8 @@ their ability to communicate ideas in unique ways.</p>
 <p>At upper secondary, students focus on dialogic thinking where they have
 thoughtful discussions and debates about literature. A regular participant
 of the National Schools Literature Festival, Boon Lay Secondary took part
-in the Upper Secondary Unseen Poetry Debate, Upper Secondary Round Table
-and Poetry PitchIn' events in 2023. The team of debaters spoke analytically
-and confidently to clinch a win in the Unseen Debate.</p>
+in the Upper Secondary Unseen Poetry Debate. The upper secondary literature
+cohort also attended the Authors' Dialogue and Autograph Session for the
+set text, <em>How We Live Now: Stories of Daily Living</em>; students interacted
+with fellow literature students from various schools and had insightful
+conversations with the authors, enriching their experience of the text.</p>
