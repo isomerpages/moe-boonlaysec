@@ -33,8 +33,10 @@ various internal and external courses. The Chief Commissioner’s Badge,
 which is the highest award that a cadet can achieve under CPBS, is presented
 to cadets who have attained the required number of badges and successfully
 completed various assessments.</p>
-<p></p>
-<p><em>Boon Lay Secondary School SJB Corps</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2025.jpg">
+</div>
+<p><em>CCA Orientation by SJB Corps</em>
 </p>
 <p>Our training also includes foot drills which helps to instill discipline
 in the students. Aligned to the goals of SJB, our unit provides first aid
@@ -66,6 +68,9 @@ Food Village&nbsp;</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ.jpg">
+</div>
 <p><em>Boon Lay CC – Safe Hearts Values in Action (VIA) Collaboration</em>
 </p>
 <p>These experiences reinforce the importance of learning these life-saving
@@ -164,29 +169,29 @@ public by educating them about CPR and AED.</p>
 </div>
 <p><strong>SJB Activities and Bonding</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3a.jpg">
 </div>
 <p><em>Promotion Parade</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4a.jpg">
 </div>
-<p><em>First Aid, CPR and Home Nursing lessons led by our Corps Instructors</em>
+<p><em>First Aid, CPR and AED demonstrations led by our cadets</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ2.jpg">
+</div>
+<p>Secondary 1 Members Orientation</p>
 <p><strong>School Events</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_23_001429.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJ3.png">
 </div>
-<p></p>
 <p><strong>Frequently Asked Questions (FAQ)</strong>
 </p>
 <p><strong>1.</strong>&nbsp;<strong>What is the aim of St John Brigade (SJB)?</strong>
