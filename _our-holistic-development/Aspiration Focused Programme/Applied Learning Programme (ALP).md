@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aspiration Focused Programme
 variant: tiptap
 ---
-<h3><strong>Empowering empathetic changemakers through STEM</strong></h3>
+<h3><strong>Empowering Empathetic Changemakers through STEM</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.png">
