@@ -5,15 +5,13 @@ description: ""
 third_nav_title: Aspiration Focused Programme
 variant: tiptap
 ---
-<h3><strong>Inspiring Learners Through the Arts</strong><br></h3>
+<h3><strong>Inspiring Learners Through the Arts</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP1a.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2b.png">
 </div>
-<p></p>
 <h4><strong>Description of Programme and Key Activities</strong></h4>
 <p>The LLP in BLS is organized in two tiers. In the Tier 1 programme, all
 students will be exposed to the following areas of the Performing Arts:
