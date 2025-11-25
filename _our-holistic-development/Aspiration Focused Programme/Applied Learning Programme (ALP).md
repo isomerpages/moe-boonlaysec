@@ -14,13 +14,44 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP2.png">
 </div>
-<p></p>
+<h4><strong>ACQUIRE: Discover the Value of STEM Through our Curriculum</strong></h4>
+<p>The ALP in BLS is organised in two tiers. The Tier 1 programme is a 10-hour
+programme comprising a set of computational thinking workshops for all
+Secondary 1, and application of 1 10-hour programme of AI for Fun , and
+application of&nbsp; ALP skills and knowledge in VIA projects for all Secondary
+2 students. Through these modules, students acquire basic coding, AI knowledge
+and develop STEM-related skills, communication and collaborative skills,
+critical thinking and creativity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP6.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP19.png">
+</div>
+<h4><strong>APPLY: Put STEM Knowledge and 21st Century Competencies into Action</strong></h4>
+<p>Selected Secondary 2 and 3 students interested in pursuing their interest
+and developing their STE(A)M-related skills are identified for the Tier
+2 programme, where they have opportunities to deepen and broaden their
+knowledge in the field such as makers’ education in Singapore Polytechnic
+and are challenged to apply their knowledge in projects and competitions,
+such as VIA-ALP project, STEM playground Grand Finale. Students will also
+be invited for industry visits and have opportunities to interact with
+professionals in the field.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP9.png">
 </div>
 <p></p>
 <h4><strong>Programme and Key Activities</strong></h4>
