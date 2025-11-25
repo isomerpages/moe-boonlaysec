@@ -14,28 +14,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP2.png">
 </div>
-<p>The Applied Learning Programme (ALP) develops student interest in STEAM
-(science, technology, engineering, arts and mathematics) and helps students
-connect and apply academic knowledge and skills in authentic settings based
-on the theme Sustainability.</p>
-<h4><strong>Programme Outcomes</strong></h4>
-<p>Having a basic knowledge of STEAM will open up options for students to
-pursue courses and careers that are related to science, engineering, technology
-and design. Hence, the ALP is developed with the following objectives:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To imbue in students a scientific mind-set and to equip them with foundational
-experimental skills</p>
-</li>
-<li>
-<p>To expose students to different areas of science and technology through
-hands-on activities</p>
-</li>
-<li>
-<p>To allow students to gain an understanding and appreciation of the scientific
-advancement in the area of STEAM</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP6.png">
+</div>
+<p></p>
 <h4><strong>Programme and Key Activities</strong></h4>
 <p>The ALP in BLS is organised in two tiers. The Tier 1 programme is a 10-hour
 programme comprising a set of computational thinking workshop for all Secondary
