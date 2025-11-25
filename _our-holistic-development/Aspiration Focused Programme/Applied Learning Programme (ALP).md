@@ -5,6 +5,15 @@ description: ""
 third_nav_title: Aspiration Focused Programme
 variant: tiptap
 ---
+<h3><strong>Empowering empathetic changemakers through STEM</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP2.png">
+</div>
 <p>The Applied Learning Programme (ALP) develops student interest in STEAM
 (science, technology, engineering, arts and mathematics) and helps students
 connect and apply academic knowledge and skills in authentic settings based
