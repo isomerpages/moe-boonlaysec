@@ -8,11 +8,11 @@ variant: tiptap
 <h3><strong>Empowering Empathetic Changemakers through STEM</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1__1_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1__2_.png">
 </div>
 <h4><strong>ACQUIRE: Discover the Value of STEM through our Curriculum</strong></h4>
 <p>The ALP in BLS is organised in two tiers. The Tier 1 programme is a 10-hour
@@ -57,7 +57,7 @@ in the field.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP33.jpg">
 </div>
-<h4><strong>AUGMENT: Grow STEM Competencies through out Talent Management Programmes </strong></h4>
+<h4><strong>AUGMENT: Grow STEM Competencies through out Talent Management Programmes</strong></h4>
 <p>Interested Sec 2 and 3 students continued to deepen their knowledge and
 skills in maker’s education, focusing on advanced CAD, 3D printing in Singapore
 Polytechnic, and to apply their knowledge and skills in the MOE Innovation
