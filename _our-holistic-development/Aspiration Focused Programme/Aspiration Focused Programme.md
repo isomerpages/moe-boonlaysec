@@ -45,21 +45,27 @@ career exploration and pursuit of interests</p>
 </ul>
 <p>Students will have the opportunity to experience a series of aspiration-focused
 programmes which comprises:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Learning for Life Programme (LLP)</p>
+<p>Applied Learning Programme (ALP) - Empowering empathetic changemakers
+through STEM</p>
 </li>
 <li>
-<p>Applied Learning Porgramme (ALP)</p>
+<p>Learning for Life Programme (LLP) - Inspiring learners through the Arts</p>
 </li>
 <li>
-<p>Student Development Modules</p>
+<p>Student-Initiated Learning (SIL)</p>
 </li>
 <li>
-<p>Advanced Elective Modules (for Express and N(A) students only)</p>
+<p>Applied Learning Modules (ApLM)&nbsp;</p>
+<ul>
+<li>
+<p>ApLM@ITE</p>
 </li>
 <li>
-<p>Elective Modules (for N(A) and N(T) students only)</p>
+<p>ApLM@Poly</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
