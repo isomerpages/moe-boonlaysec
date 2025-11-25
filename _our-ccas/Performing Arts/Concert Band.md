@@ -66,6 +66,7 @@ and Siow Zuo Ming Kaden</p>
 <br>Friday (2.30pm – 5.30pm)
 <br>
 </p>
+<p></p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -123,8 +124,13 @@ mates (for students who excel in musicianship).</p>
 we adopt a progression system where students will be trained to manage
 smaller duties before taking on larger responsibilities.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BA2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_24_125423.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2025.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -146,4 +152,5 @@ smaller duties before taking on larger responsibilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BA5.jpg">
 </div>
+<p></p>
 <p></p>

@@ -30,35 +30,57 @@ their character as both individuals and team members.</p>
 <p>If you are interested in the dance movements and learn modern and contemporary
 dance forms, come join us.</p>
 <h4>CCA Mentors</h4>
-<p>Mdm Norfarhana Bte Sabtu (OIC, Sec 3)
-<br>Mdm Suziela Yassin (2IC, Sec 4 &amp; 5)
-<br>Ms Fong Siong Kuen (Sec 1 &amp; 2)
-<br>Mrs Hong-Chuah Mei Thien (Cluster Head)</p>
+<p>Mdm Norfarhana Bte Sabtu (OIC, Sec 3)</p>
+<p>Mdm Suziela Yassin (2IC, Sec 1 &amp; 2)</p>
+<p>Ms Alvina Wong (Sec 4)</p>
+<p>Mrs Hong-Chuah Mei Thien (Cluster head)</p>
+<p></p>
 <h4>CCA Leaders</h4>
-<p><strong>President</strong>: Angelina Khoo Ern Kee
-<br><strong>Vice President</strong>: Kliff Loh Zi Tao
-<br><strong>Upper Sec Dance Mistress</strong>: Dayana Fitrisha Binte Mohammad
-Farid Faisal
-<br><strong>Lower Sec Dance Mistress</strong>: Lee En Lok Rain</p>
+<p><strong>President</strong>: Lee En Lok Rain
+<br><strong>Vice President</strong>: Guk En Min, Shermie
+<br><strong>Upper Sec Dance Mistress</strong>: Nur Huzriyah Binte Aidil Hakim</p>
+<p><strong>Lower Sec Dance Mistress</strong>: : Shahana Fathima and Chong
+Zhi En, Arabell</p>
 <h4>Training Days</h4>
-<p>Tuesday (3.45pm – 5.30pm)
+<p>Tuesday (3.45pm – 5.45pm)
 <br>Friday (2.30pm – 5.30pm)</p>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation (2017-2023) – Certificate of
-Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation 2025 – Certificate of Accomplishment</p>
 </li>
 <li>
-<p>SYFgoesOnline! 2022 Showcase (Individual Category)
-<br>SYFgoesOnline! 2022 Showcase (Team Category)</p>
+<p>Singapore Youth Festival Arts Presentation 2023 – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>SYFgoesOnline! 2022 Showcase (Individual Category)</p>
+</li>
+<li>
+<p>SYFgoesOnline! 2022 Showcase (Team Category)</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2021 – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishment</p>
 </li>
 <li>
 <p>Teenage Dance Challenge Competition 2019 - Top 5 (Street Dance Category)</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture525.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture325.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -73,11 +95,10 @@ Accomplishment</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD2.jpeg">
 </div>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD3.jpeg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD5.jpg">
-</div>
 <p></p>

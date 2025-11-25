@@ -6,9 +6,12 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/BB__1_.jpg">
 </div>
+<p></p>
 <p>The vision of the Boys’ Brigade (BB) is to be the youth organisation of
 choice, with the aim to nurture youth, based on Christian values to serve
 and lead.</p>
@@ -29,9 +32,10 @@ and nurture new and current members into better boys by instilling the
 values of obedience, discipline and self-respect into them, so as to better
 prepare them for challenges that may come their way in the future.</p>
 <h4>CCA Mentors</h4>
-<p>Mr David Lim Boon Wee (OIC, Sec 1, 4 &amp; 5)
-<br>Mr Lin Minghao (2IC, Sec 2 &amp; 3)
-<br>Mr Hoon Yeng Wei (Cluster Head)
+<p>Mr Lin Minghao (OIC) - Sec 3, 4 and 5</p>
+<p>Mr David Lim (2IC) - Sec 1 and 2</p>
+<p>Mr Hoon Yeng Wei (Cluster Head)</p>
+<p>
 <br>
 </p>
 <h4>Officers</h4>
@@ -39,15 +43,12 @@ prepare them for challenges that may come their way in the future.</p>
 <br>Captain 2LT Desmond Loo
 <br>LTA Ling Ting Kai
 <br>2LT Clarice Ong
-<br>OCT Andy Sim
-<br>OCT David Poh
-<br>OCT Tan Chong Yan
 <br>OCT Christine Tey</p>
 <h4>CCA Leaders</h4>
-<p><strong>Company Sergeant Major</strong>: SGT Niroshaan Kumar
-<br><strong>Assistant Company Sergeant Major</strong>: SGT Aaqil S/O Shiraj
-<br><strong>Admin NCO</strong>:<strong> </strong>SGT Jack Chan
-<br><strong>Quartermaster NCO</strong>: SGT Aaqil S/O Shiraj
+<p><strong>Company Sergeant Major</strong>: SGT Relangi Nikhil Venkat Sai
+<br><strong>Assistant Company Sergeant Major</strong>: SGT Jayden Peng Junren
+<br><strong>Admin NCO</strong>:SGT Tan En Jie Marcus
+<br><strong>Quartermaster NCO</strong>: SGT Yong Zhuo
 <br>
 </p>
 <h4>Training Days</h4>
@@ -73,9 +74,6 @@ prepare them for challenges that may come their way in the future.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB3.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB1.jpg">
@@ -83,5 +81,10 @@ prepare them for challenges that may come their way in the future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB3.jpg">
 </div>
 <p></p>

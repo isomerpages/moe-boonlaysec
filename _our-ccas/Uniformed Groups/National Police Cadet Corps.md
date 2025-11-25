@@ -44,24 +44,26 @@ the needs of the community and seek proactive steps to ameliorate the issues
 identified <strong>to Honour their words and deeds</strong>.</p>
 <p></p>
 <h4>CCA Mentors</h4>
-<p>Mr Kok Yee Chin (OIC, Sec 1)
-<br>Mr Nurfazlin Junidi (2IC, Sec 2)
-<br>Mdm Zakiah Haron (Sec 3)
-<br>Ms Lek Kyah Hwee (Sec 4 &amp; 5)
-<br>Ms Ang Hui Bing (Cluster Head)
-<br>
-</p>
+<p>Insp (NPCC) Guan Qin Stacy (Ms) - Sec 1</p>
+<p>ASP (NPCC) Kok Yee Chin (Mr) 2IC – Sec 2</p>
+<p>ASP (NPCC) Nurfazlin Junidi (Mr) OIC – Sec 3</p>
+<p>Lek Kyah Hwee (Miss) 2IC - Sec 4&amp;5</p>
+<p>Ang Hui Bing (Miss) Cluster Head</p>
+<p></p>
 <h4>Honorary Officer</h4>
-<p>P/H/Insp (NPCC) Muhamad Diniy Fitri Bin Mohamad Zuraimi
+<p>H/Insp (NPCC) Muhamad Diniy Fitri Bin Mohamad Zuraimi
 <br>
 </p>
 <h4>Cadet Inspectors</h4>
-<p>CI (NPCC) Deon Leok Zhen Hui
-<br>CI (NPCC) Yu Jian Hui, Lucas
-<br>CI (NPCC) Ujwal Raj Singh S/O Ralthee Singh</p>
+<p>CI (NPCC) Yu Jian Hui, Lucas</p>
+<p>CI (NPCC) Ujwal Raj Singh S/O Ralthee Singh</p>
+<p>CI (NPCC) Awratha Soe</p>
+<p>CI (NPCC) Kaarthigai Idumban</p>
+<p></p>
 <h4>CCA Leaders</h4>
-<p><strong>Overall-in-Charge</strong>: SSGT Yap Jun You
-<br><strong>Assistant Overall-in-Charge</strong>: SSGT Tan Xuan En, Ashley</p>
+<p><strong>Overall-in-Charge</strong>: SSergeant (SGT) Haydenz Tay Win An
+<br><strong>Assistant Overall-in-Charge</strong>: Sergeant (SGT) Intan Nur
+Allaisyah Binte Zulkiflee</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30 pm)</p>
@@ -76,12 +78,22 @@ identified <strong>to Honour their words and deeds</strong>.</p>
 <li>
 <p>Inter Unit Drills Competition</p>
 </li>
+<li>
+<p>Inter Unit Campcraft Competition</p>
+</li>
+<li>
+<p>Adventure Training Camp</p>
+</li>
+<li>
+<p>Unarmed Tactics</p>
+<p></p>
+</li>
 </ul>
 <h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sustained Distinction Award for Inter-Unit Overall Proficiency Award Competition
-in 2016 to 2023</p>
+in 2016 to 2024</p>
 </li>
 <li>
 <p>Attained Champion in Jurong Division Anti-Scam NPCC Challenge Shield 2021</p>
@@ -99,8 +111,9 @@ Category (Male)</p>
 </li>
 </ul>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_22_235321.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -108,7 +121,7 @@ Category (Male)</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_22_235338.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -118,4 +131,5 @@ Category (Male)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP6.jpg">
 </div>
+<p></p>
 <p></p>

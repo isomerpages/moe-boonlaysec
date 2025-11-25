@@ -9,85 +9,118 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/CA__1_.jpg">
 </div>
-<p>CyberAce is an Infocomm and Technology (IT) club that focuses on equipping
-members with knowledge and skills in coding, media and photography. Club
-members not only hone these skills but also sharpen their logical and creative
-thinking abilities.</p>
-<p>Through the various contributions via the club activities and school events,
-members develop a great sense of responsibility and discipline in their
-respective teams. The Photography Team captures important moments during
-school events while the Design Team uses applications such as Inkscape
-to produce publicity materials for the school’s social media pages. Using
-the Lego Mindstorm EV3, the Robotics Team gets to stretch their ability
-in the area of coding. Also, the club actively seeks opportunities for
-its members to challenge themselves in external competitions such as the
-Lego Mindstorm, Digital Storytelling and many others. Participation in
-these competitions helps them in accumulating LEAPS 2.0 points through
-their involvement or achievements.</p>
-<p>Leadership is another area which we emphasise on. The executive committee
-members of the Cyberace Club are given platforms to hone their planning
-and leadership skills by running the club under the guidance of the teachers-in-charge.
-Events that the executive committee members have organised include Bonding
-Day and the Values In Action activities. They also assist in the planning
-and running of CCA sessions.</p>
-<p>CyberAce Club offers a platform for members to grow in confidence, creativity
-and independence, and provides opportunities for fun and relationship building
-at the same time. Do join us and explore the world of digital technology!</p>
+<p>Anchored in promoting digital literacy, CyberAce is an Infocomm and Technology
+(IT) club that equips students with practical skills in coding, design,
+and photography. Through hands-on learning and real-world applications,
+members explore these three disciplines while sharpening their logical
+and creative thinking abilities.</p>
+<p>In photography, students capture key moments during school events and
+learn to tell stories through visuals. In design, students use Canva and
+Sketchbook to create engaging publicity materials for the school’s social
+media pages. In programming, students take on coding challenges using Lego
+Spike Prime, strengthening their problem-solving and computational thinking
+skills. Seniors actively guide juniors, while leaders take the initiative
+to teach and share their knowledge during CCA sessions.</p>
+<p>Members are encouraged to participate in external competitions such as
+Lego Spike Prime, IgnITE Skills Challenge, Our Schools, Our Story gaining
+valuable experience and earning LEAPS 2.0 points through their involvement
+and achievements. Leadership is also emphasised. The Executive Committee
+members plan and lead activities such as Bonding Day and Values-in-Action
+projects, learning to manage the club under the guidance of teachers-in-charge.</p>
+<p>Through these experiences, students develop essential 21st Century Competencies
+(21CC) such as communication, collaboration and critical thinking. CyberAce
+provides a platform for members to grow in confidence, creativity, and
+independence, while fostering teamwork, leadership, and unity. Above all,
+it offers opportunities for fun, friendship, and exploration in the exciting
+world of digital technology.</p>
 <h4>CCA Mentors</h4>
-<p>Ms Azlina Muslimin (OIC, Sec 4 &amp; 5)
-<br>Mr Lek Yi Xian (2IC, Sec 1)
-<br>Ms Audrey Woo Jia Ying (Sec 2)
-<br>Mr Salizam Jaafar (Sec 3)
-<br>Ms Alexandria Tang (Cluster Head)</p>
-<h4>CCA Leaders</h4>
-<p><strong>Chairperson</strong>: Elfa Aqisya Binte Hairi
-<br><strong>Vice Chairperson</strong>: Klyven Chan Kai Xuan
-<br><strong>House Leaders</strong>: Marcus Khoo Ji Jun, Jayden Lee Kai Heng</p>
-<h4>Exco Members</h4>
-<p>Lee Jin Woo
-<br>Dannya Sufiah Binte Faizal
-<br>Muhammad Akid Bin Muhammad Zuhrie</p>
+<p>Ms Azlina Muslimin (OIC, Sec 1 &amp; 2)</p>
+<p>Mr Salizam Jaafar (2OIC, Sec 4)</p>
+<p>Ms Audrey Woo Jia Ying (Sec 3)</p>
+<p>Ms Alexandria Tang (Cluster Head)</p>
 <p></p>
+<h4>CCA Leaders</h4>
+<p><strong>Chairperson</strong>: Anandan Nithiyashri
+<br><strong>Vice Chairperson</strong>: Suresh Meghashree
+<br><strong>House Leaders</strong>: Sun Shulu and Ariel Danish Bin Mohammed
+Shahril</p>
+<h4>Exco Members</h4>
+<p>Voo Wei Jie</p>
+<p>Chen Hanying Heebe</p>
+<p>Syakira Binte Mohamed Fauzi</p>
+<p>Tan Jia Zhi, Kendric</p>
+<p>Chia Jea Hao</p>
+<p>Akash</p>
 <h4>Training Days</h4>
 <p>Tuesday (3.45pm to 5.30pm)
 <br>Friday (2.30pm to 5.30pm)</p>
 <h4>Competitions and Achievements</h4>
-<ul>
-<li>
-<p>Objectifs Student Visual Storytelling Awards 2024 - Photography Club of
-the Year</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>First Lego League Robotics Competition (Annual)</p>
 </li>
 <li>
-<p>ignITE Challenge (Annual)</p>
+<p>ignITE Challenge</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Getting Digital with Spectacles (Champion)</p>
+</li>
+<li>
+<p>Logistics Challenge (Final)</p>
+</li>
+<li>
+<p>Sustainable Shorts (Final)</p>
+</li>
+<li>
+<p>Try Hack Us (FInal)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Swift Explorers (App Development &amp; World Creations) (Showcase)</p>
 </li>
 <li>
 <p>Live On Festival Design Challenge (Annual)</p>
 </li>
 <li>
-<p>Our Schools, Our Stories (Annual)</p>
+<p>Objectifs Visual Storytelling</p>
+</li>
+<li>
+<p>Our Schools, Our Stories</p>
+</li>
+<li>
+<p>SONY SG60</p>
+</li>
+<li>
+<p>SOI Signatory Competition - Tech Saves The Day</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/f.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA3.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CA4.jpg">
-</div>
 </li>
 </ul>
 <p></p>
