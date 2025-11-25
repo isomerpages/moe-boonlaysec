@@ -5,35 +5,15 @@ description: ""
 third_nav_title: Aspiration Focused Programme
 variant: tiptap
 ---
-<h3><strong>Learning for Life Programme (LLP)</strong></h3>
-<p>The Learning for Life Programme (LLP) in the area of the Performing Arts
-inculcates in students a passion for lifelong learning through the Arts.</p>
-<h4><strong>Programme Outcomes</strong></h4>
-<p>The LLP in BLS helps to contribute to the holistic development of our
-students, inculcating values, socio-emotional competencies and life skills
-which will allow them to be active contributors of the nation. The broad
-objectives of the programme are to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>develop in students an appreciation of the arts</p>
-</li>
-<li>
-<p>enable students to develop skills in an art form of their interest</p>
-</li>
-<li>
-<p>inculcate values and build social-emotional competencies of students through
-their active participation in arts-related activities</p>
-</li>
-<li>
-<p>develop a passion towards lifelong learning</p>
-</li>
-<li>
-<p>foster creativity and imagination</p>
-</li>
-<li>
-<p>provide opportunities for students to express themselves through the arts</p>
-</li>
-</ul>
+<h3><strong>Inspiring Learners Through the Arts</strong><br></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2.png">
+</div>
+<p></p>
 <h4><strong>Description of Programme and Key Activities</strong></h4>
 <p>The LLP in BLS is organized in two tiers. In the Tier 1 programme, all
 students will be exposed to the following areas of the Performing Arts:
@@ -57,5 +37,9 @@ the field.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP3.jpg">
 </div>
 <p></p>
