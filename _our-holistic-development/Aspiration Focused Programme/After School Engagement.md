@@ -59,11 +59,11 @@ skills but also fostering teamwork and resilience through Football and
 Volleyball. In partnership with Unleash the Roar (UTR), BLS, MGS and WWSS
 have forged a centre-based School Football Academy for girls. Twice a week,
 girls from varying backgrounds train at BLS under the guidance of coaches
-from UTR to hone their skills and foster camaraderie. In 2023, the combined
-C Division girls' team secured a 3rd place at the C Division National School
-Games. This collaboration has given girls with an interest in football
-an opportunity to deepen their skills, fostered friendships and also strengthened
-bonds between schools.&nbsp;</p>
+from UTR to hone their skills and foster camaraderie. In 2025 , the team
+was crowned National Champions in the ‘C’ Division and Runners-Up&nbsp;
+in the&nbsp; ‘B’ Division National Schools’ Games . This collaboration
+has given girls with an interest in football an opportunity to deepen their
+skills, fostered friendships and also strengthened bonds between schools.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="381" width="507" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd65PzQMCDtChBVGSy7N25AbIgAVtAlzKpAQQg_tQcwLB6vvh1Ou6KygkiwEsDX1tNsZ38K_Zv3H7btVJ-HaFEXyhoxfYcyRqHM4N7o1vSyE1I5Ag4g2Q9cT2ntx72fCYtYMEL787VCcQEidpl0c2_RCANGOXA-vD7VaWAi?key=3TcxERxDMvAYHA7am8dB_Q">
 </div>
