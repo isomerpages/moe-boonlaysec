@@ -44,7 +44,7 @@ it is largely student-initiated rather than school-initiated. Students
 submit a proposal for an activity they would like to be part of, find like-minded
 peers to be part of the interest group and determine what they would like
 to learn from the programme. Teacher-mentors are then matched with students
-and provide administrative (e.g. sourcing of instructors/ coaches) support
+and provide administrative (e.g. sourcing of instructors/coaches) support
 and guidance.</p>
 <p>Beyond skill acquisition, these academies contribute significantly to
 socio-emotional development. Students navigating the challenges of sports
@@ -54,16 +54,21 @@ these student-driven academies transcend traditional learning, becoming
 crucibles for a well-rounded education that empowers students with not
 just knowledge, but a rich tapestry of skills and qualities essential for
 a successful and fulfilling future.</p>
-<p>Our Sports Academies nurture athleticism, imparting not only sports-based
-skills but also fostering teamwork and resilience through Football and
-Volleyball. In partnership with Unleash the Roar (UTR), BLS, MGS and WWSS
-have forged a centre-based School Football Academy for girls. Twice a week,
-girls from varying backgrounds train at BLS under the guidance of coaches
-from UTR to hone their skills and foster camaraderie. In 2025 , the team
-was crowned National Champions in the ‘C’ Division and Runners-Up&nbsp;
-in the&nbsp; ‘B’ Division National Schools’ Games . This collaboration
-has given girls with an interest in football an opportunity to deepen their
-skills, fostered friendships and also strengthened bonds between schools.&nbsp;</p>
+<h4>Sports Academies</h4>
+<p>Our <strong>Sports Academies</strong> nurture athleticism, imparting not
+only sports-based skills but also fostering teamwork and resilience through
+Football and Volleyball. In partnership with Unleash the Roar (UTR), BLS,
+MGS and WWSS have forged a centre-based School Football Academy for girls.
+Twice a week, girls from varying backgrounds train at BLS under the guidance
+of coaches from UTR to hone their skills and foster camaraderie. In 2023,
+the combined C Division girls' team secured a 3rd place at the C Division
+National School Games. Building on that foundation, the team achieved a
+historic milestone in 2025 by clinching their first National School Games
+(NSG) C Division League 1 title. This remarkable achievement reflects the
+team’s dedication, resilience, and strong camaraderie, and stands as an
+inspiring milestone for our school community. This collaboration also has
+given girls with an interest in football an opportunity to deepen their
+skills, fostered friendships and also strengthened bonds between schools.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="381" width="507" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd65PzQMCDtChBVGSy7N25AbIgAVtAlzKpAQQg_tQcwLB6vvh1Ou6KygkiwEsDX1tNsZ38K_Zv3H7btVJ-HaFEXyhoxfYcyRqHM4N7o1vSyE1I5Ag4g2Q9cT2ntx72fCYtYMEL787VCcQEidpl0c2_RCANGOXA-vD7VaWAi?key=3TcxERxDMvAYHA7am8dB_Q">
 </div>
@@ -71,21 +76,49 @@ skills, fostered friendships and also strengthened bonds between schools.&nbsp;<
 <div class="isomer-image-wrapper">
 <img style="margin-left:-2.273736754432321e-13px;margin-top:0px;" height="393.6750204800814" width="525.0000000000003" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfBi7y8NJWVFDE3xivKJVxrgjQTdPbLPjsgbEKAhLKQKlzJqwgybhK1U2nFVL2el_5PAXl5pDkArJD0fEYLjKU-QjQlVHa09EuarxLxxtPiiQ-_HsB1C6GOV8V9utvTSobIj8R3FaeoKWTs5EaXUzTaAw1BVp6Zs_w38xIQ7g?key=3TcxERxDMvAYHA7am8dB_Q">
 </div>
-<p>The arts academies are incubators for creativity, offering a canvas for
-self-expression and the acquisition of new artistic skills such as Street
-Dance. The rhythmic movements to the latest KPop hits enhance coordination,
-while the collaborative nature of group dances fosters teamwork. The fusion
-of diverse styles not only amplifies individual abilities but also forges
-a collective spirit, showcasing the transformative power of dance education.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UTR3.png">
+</div>
+<p><em>ST PHOTO</em>
+</p>
+<p>There is also a Football Academy for boys, with training held every Thursday
+from 4.00 pm to 5.30 pm at the school field. The teams have made a strong
+impression at the National School Games (NSG), with the C Division team
+achieving an impressive runner-up finish in League 5. All boys with a passion
+for football, regardless of skill level, are welcomed to join, where we
+can develop character, skills, and discipline together as a team in a supportive
+and engaging environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football4.jpg">
+</div>
+<h4>Arts Academies</h4>
+<p>The <strong>arts academies</strong> are incubators for creativity, offering
+a canvas for self-expression and the acquisition of new artistic skills
+such as Street Dance. The rhythmic movements to the latest KPop hits enhance
+coordination, while the collaborative nature of group dances fosters teamwork.
+The fusion of diverse styles not only amplifies individual abilities but
+also forges a collective spirit, showcasing the transformative power of
+dance education.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="544" width="410" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcR3lpOZtFD0dcvogoYpHk-RInEe62BV6Ljr7UmTPhQXQ9MQ-woC-JKVE2nrBferS8Nn_8TNnZW1PFLz1qE47Q3kNWeONzSobE04xrtyrRCe9cW9hNzjzxINo2OuXtq6AnZbUEcDTLR85RuZvi8wucDbmQRI_TAcrIFyY5sWg?key=3TcxERxDMvAYHA7am8dB_Q">
 </div>
-<p>Simultaneously, our tinkering academies provide a hands-on platform for
-innovation, honing problem-solving abilities. Students with an interest
-in growing their own food gain hands-on experience in growing unique produce
-such as Beefsteak Tomatotes, Edamame and Japanese Sweet Corn. Beyond growing
-produce, the programme instills patience as students witness the gradual
-journey from seed to plate.</p>
+<h4>Tinkering Academies</h4>
+<p>Simultaneously, our <strong>tinkering academies</strong> provide a hands-on
+platform for innovation, honing problem-solving abilities. Students with
+an interest in growing their own food gain hands-on experience in growing
+unique produce such as Beefsteak Tomatotes, Edamame and Japanese Sweet
+Corn. Beyond growing produce, the programme instills patience as students
+witness the gradual journey from seed to plate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ase1.png">
 </div>
