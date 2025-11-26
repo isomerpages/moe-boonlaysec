@@ -14,6 +14,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1__2_.png">
 </div>
+<p><em>Click to watch a video to find out more about the </em><a href="https://drive.google.com/file/d/1NM8nfxNhRKt3krL1VKFXwRdWTyhDKPwv/view?usp=drive_link" rel="noopener nofollow" target="_blank">SP-BLS Maker Education</a>
+</p>
 <h4><strong>ACQUIRE: Discover the Value of STEM through our Curriculum</strong></h4>
 <p>The ALP in BLS is organised in two tiers. The Tier 1 programme is a 10-hour
 programme comprising a set of computational thinking workshops for all
@@ -80,7 +82,6 @@ Programme.</p>
 <h4><strong>ASPIRE: Prepare for STEM-Related Careers through our Personalised Education and Career Guidance</strong></h4>
 <p>Students participated in work experience at HMGICS, learning about innovation
 and creativity in the green automobile industry.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_18.png">
 </div>
