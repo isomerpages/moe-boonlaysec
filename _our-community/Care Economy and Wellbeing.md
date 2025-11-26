@@ -50,6 +50,12 @@ hands-on sharing sessions on basic CPR/AED with the same constituencies
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UTR.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UTR3.png">
+</div>
+<p><em>ST PHOTO</em>
+</p>
 <p>Together with Westwood Secondary and Methodist Girls’ School, our school
 has worked closely with ActiveSg Unleash the Roar (UTR) to form a cluster-based
 football academy for girls. Girls across the three schools train regularly
