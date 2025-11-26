@@ -47,15 +47,8 @@ TRUST summarises our approach:</p>
 <p>Positive Parenting Programme (Triple P by Thy Hwa Kwan Moral Charities)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/partnership1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/partnership2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/partnership3.png">
-</div>
+<p>Write in to us at <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>blss@moe.edu.sg</u></a> for information
+on the Parent Support Group.</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/partnership4.png">
 </div>
@@ -87,39 +80,39 @@ TRUST summarises our approach:</p>
 <p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Beh Chai Yang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Hooi Ngor Corina</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Gideon Hari Omm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Sok Kiang Connie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Vincent Koh Chin Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tey Siang Wee, Nicholas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Tat Hoe, Zane</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Siew Moi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Mong Soon</p>
 </td>
 </tr>
 <tr>
