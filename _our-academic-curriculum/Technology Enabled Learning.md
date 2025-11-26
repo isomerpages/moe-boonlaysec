@@ -40,20 +40,21 @@ the necessary skills to navigate the increasingly digital VUCA world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_22_at_14_56_30.jpg">
 </div>
 <h4><strong>Personal Learning Device</strong></h4>
-<p>The school will be using the&nbsp;<strong>10th Gen iPad</strong>&nbsp;<strong>10.9”</strong>&nbsp;for
-teaching and learning from 2024. The device bundle consists of:</p>
+<p>The school will be using the Apple iPad (A16) Wi-Fi for teaching and learning
+from 2026. The device bundle consists of:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Apple iPad 10.9” 64GB Wi-Fi (10th Generation)</p>
+<p>Apple iPad (A16) Wi-Fi 128 GB</p>
 </li>
 <li>
 <p>Stylus: Apple Pencil (USB-C)</p>
 </li>
 <li>
-<p>Protective Casing and Keyboard: Logitech Ruggedized Combo 4</p>
+<p>Protective Casing and Keyboard: Logitech Combo Touch iPad 11” (A16) [1
+year Warranty]</p>
 </li>
 <li>
-<p>3-year Insurance and 3-year Warranty (covers 2 repairs or 1 replacement)</p>
+<p>4 years warranty (covers 2 repairs or 1 replacement)</p>
 </li>
 </ul>
 <h4><strong>Financial Assistance</strong></h4>
@@ -96,7 +97,6 @@ DMA in your email subject)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PLD Initiative" src="/images/PDLP.JPG">
 </div>
-<p></p>
 <h4><strong>AI Literacy - Parent's Guide</strong>&nbsp;</h4>
 <p>As AI becomes more prolific, parents are our important partners as they
 inculcate good habits in their child to safely navigate this AI-enabled
@@ -158,7 +158,7 @@ using generative AI tools for learning.</p>
 <p>All Other Matters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Learning Technologies:</strong> Ms Alexandria Tang</p>
+<p><strong>HOD Learning Technologies:</strong> Mr Kwek Joon Hong</p>
 </td>
 </tr>
 </tbody>
