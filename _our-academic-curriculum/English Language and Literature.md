@@ -30,11 +30,14 @@ illustrated stories, podcasts, and videologues or vodcasts. These tasks
 not only enhance their technological skills but also nurture their creativity,
 collaboration, and critical thinking skills, preparing them to thrive in
 a dynamic and interconnected world.</p>
-<p>Click to view an <a href="https://online.fliphtml5.com/cpcxb/cfnv/" rel="noopener nofollow" target="_blank">illustrated story</a> by
-a group of students
-<br>Click to listen to a student-produced <a href="https://drive.google.com/file/d/1DuKtHCqoGxMGy46BvYsnMs3yiIz_Q9X1/view?usp=sharing" rel="noopener nofollow" target="_blank">podcast</a>
+<p><em>Click to view an <a href="https://read.bookcreator.com/rkf4u1vDvBXQ77slHejBhskNTf63/wsHvAlRqSICtYRud7a4dXw" rel="noopener nofollow" target="_blank">illustrated story</a> written by a group of Sec 1 EL students</em> 
 </p>
-<h3><br><strong>Key Programmes</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover_Pg.png">
+</div>
+<p><em>Click to listen to a <a href="https://drive.google.com/file/d/1DuKtHCqoGxMGy46BvYsnMs3yiIz_Q9X1/view?usp=sharing" rel="noopener nofollow" target="_blank">podcast</a> produced by a Sec 2 EL student</em>
+</p>
+<h3><strong>Key Programmes</strong></h3>
 <h4><strong>BLSTV</strong></h4>
 <p>BLSTV was conceptualised as a language programme aimed to facilitate authentic
 learning experiences in language classrooms and beyond, and create opportunities
@@ -96,7 +99,6 @@ in activities like Choral Reading and Readers’ Theatre. The Upper Secondary
 students will be introduced to debating and public speaking to develop
 as persuasive speakers where they also hone their delivery skills such
 as pronunciation, fluency and rhythm in their speeches.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/el10.jpg">
 </div>
@@ -120,13 +122,10 @@ like role-playing and dramatisation are used to enhance their understanding.
 To nurture their ability to communicate ideas, students are assigned alternative
 assessment tasks like creating an Instagram story to recommend the text
 and share their analysis.</p>
-<p></p>
+<p><em>Click to view an <a href="https://drive.google.com/file/d/1Krpusk9tjeMQPgABld8smjLJehF3Fhpo/view?usp=drive_link" rel="noopener nofollow" target="_blank">Instagram story</a> designed by a Sec 2 student</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Who_I_am.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_21_170529.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IG3.png">
 </div>
 <p>At upper secondary, students focus on dialogic thinking where they have
 thoughtful discussions and debates about literature. A regular participant
@@ -136,7 +135,13 @@ cohort also attended the Authors' Dialogue and Autograph Session for the
 set text, <em>How We Live Now: Stories of Daily Living</em>; students interacted
 with fellow literature students from various schools and had insightful
 conversations with the authors, enriching their experience of the text.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Lit3.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Lit2.jpg">
 </div>
-<p></p>
+<p><em>Author's Dialogue with Yeoh Jo-Ann, author of The Thing</em>
+</p>
