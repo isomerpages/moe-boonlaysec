@@ -29,11 +29,11 @@ technology and creativity effectively, addressing real-world challenges
 through Design Thinking. The impact of our VIA and VIA-ALP programme has
 been well-recognised and appreciated by our partners.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="442" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHRlRLbYYNYRDH54Mg3N4dyHNqXhtZ2GQa3lxUyhzQhx4N5pqDTXzUMMgl65xqhYZkt9qMjTY0CxmQ8Ic7t18nRjtJyThzep4dsvmqF7X9hu_zb5XE_JuErhyBPr_F3PeNaqVg?key=9Kvl4wGGexhGKWC80sQNpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="412" width="608" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfemJ9sW788X4G7DlkWGHK5FauSpPuZHSA4rub9_UgRX-MW6SW_tEc8eeTcqgCcvPVb4kq-rGIp-RWXSWjtdRu0VfwYKGuXbahVCVZsGXNtQFH0p7TxK9olz4F_W3wLvap5GGyMAw?key=9Kvl4wGGexhGKWC80sQNpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA2.jpg">
 </div>
 <p>The structured learning experiences and hands-on opportunities to serve
 the community have enabled our students to be more aware of the varying
@@ -47,6 +47,11 @@ able to lead with empathy. We hope that the experience gained from the
 VIA projects will plant the seed of compassion in our students, so that
 they will continue to reach out and help the various communities beyond
 secondary school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA5.jpg">
+</div>
+<p></p>
 <p>Over the four to five years in school, students experience both school-wide
 and CCA-based VIA projects. Some organisations the BLS has worked with
 since 2017 are:</p>
