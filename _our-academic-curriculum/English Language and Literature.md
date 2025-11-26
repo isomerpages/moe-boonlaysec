@@ -30,7 +30,7 @@ illustrated stories, podcasts, and videologues or vodcasts. These tasks
 not only enhance their technological skills but also nurture their creativity,
 collaboration, and critical thinking skills, preparing them to thrive in
 a dynamic and interconnected world.</p>
-<p><em>Click to view an <a href="https://read.bookcreator.com/rkf4u1vDvBXQ77slHejBhskNTf63/wsHvAlRqSICtYRud7a4dXw" rel="noopener nofollow" target="_blank">illustrated story</a> written by a group of Sec 1 EL students</em> 
+<p><em>Click to view an <a href="https://read.bookcreator.com/rkf4u1vDvBXQ77slHejBhskNTf63/wsHvAlRqSICtYRud7a4dXw" rel="noopener nofollow" target="_blank">illustrated story</a> written by a group of Sec 1 EL students</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover_Pg.png">
@@ -137,11 +137,7 @@ with fellow literature students from various schools and had insightful
 conversations with the authors, enriching their experience of the text.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Lit3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lit2b.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Lit2.jpg">
-</div>
-<p><em>Author's Dialogue with Yeoh Jo-Ann, author of The Thing</em>
+<p><em>Authors' Dialogue with Yeoh Jo-Ann, author of The Thing</em>
 </p>
