@@ -32,4 +32,4 @@ we even had the chance to ride in one of Hyundai’s electric cars. The car
 we rode in could reach impressive speeds and handle steep inclines smoothly.
 It was exciting to see that you can also control many features of the car
 directly from your phone, which adds a level of which adds a level of convenience
-that enhances the driving experience." Feby Lim (Sec 3 Choir)</p>
+that enhances the driving experience." Feby Lim (Sec 4 Choir)</p>
