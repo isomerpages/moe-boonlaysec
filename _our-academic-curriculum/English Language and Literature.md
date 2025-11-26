@@ -135,7 +135,6 @@ cohort also attended the Authors' Dialogue and Autograph Session for the
 set text, <em>How We Live Now: Stories of Daily Living</em>; students interacted
 with fellow literature students from various schools and had insightful
 conversations with the authors, enriching their experience of the text.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lit2b.png">
 </div>
