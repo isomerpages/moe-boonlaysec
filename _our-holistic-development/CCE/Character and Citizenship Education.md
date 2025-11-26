@@ -19,16 +19,18 @@ and an Empathetic Leader.</p>
 is conducted by CCAMs in a CCA-Centric Model. With this approach, students
 get to hear more perspectives during cross-stream (CCA pairing by levels)
 or cross-stream, cross-level (by CCAs) discussions.</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="404" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdaQk64HTMACNWXHnjdPtvL8DJjgfnMyvTMIsu6JwkilJPTUqzbSB6VXCWoLSxW7XjxQlya1VBhNzNu3NghSExaAtCaRroEENBzRiWIINxWIw-EmUwujQUsFBDg7fTj6pd2mcl_QszYrSMl6or-TNCykAk?key=05AEnk_Wnhbd2aZYurMYIQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_26_135449.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <p>The components of CCE comprise of assembly programmes and CCE curriculum
 content areas (National Education (NE), Sexuality Education (SEd), Mental
 Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW) and
-family Education (FE)).</p>
+family Education (FE).</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="344" width="607" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpFFNYw4rWh4_iUwavacDDxvFv6owGYCN_ReYmk9yQPY2ggv0IHrs3sEDkiu3MCHvXYmskg77QE5wOwrHLUwVH_QAH0vLGqJMmO0usCqmETwnY1bx-FYucTrLwie9AakHdVzajvQ?key=05AEnk_Wnhbd2aZYurMYIQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_26_135531.png">
 </div>
 <p>In the CCE curriculum, students are developed through the formal and informal
 curriculum with the following outcomes in mind:</p>
@@ -58,8 +60,9 @@ and Respect;</p>
 <p>To inculcate a sense of rootedness to Singapore.</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/cce3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_26_135542.png">
 </div>
 <p>Below are the programmes that BLS offers to inculcate values and develop
 students’ character:</p>
