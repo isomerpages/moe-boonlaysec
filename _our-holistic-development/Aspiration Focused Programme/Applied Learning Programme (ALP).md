@@ -37,11 +37,11 @@ critical thinking and creativity.</p>
 <p>Selected Secondary 2 and 3 students interested in pursuing their passions
 and developing their STEM-related skills are identified for the Tier 2
 programme, where they have opportunities to deepen and broaden their knowledge
-in the field such as makers’ education in Singapore Polytechnic and are
-challenged to apply their knowledge in projects and competitions, such
-as VIA-ALP project, STEM playground Grand Finale. Students will also be
-invited for industry visits and have opportunities to interact with professionals
-in the field.</p>
+in the field such as maker education in Singapore Polytechnic and are challenged
+to apply their knowledge in projects and competitions, such as VIA-ALP
+project, STEM playground Grand Finale. Students will also be invited for
+industry visits and have opportunities to interact with professionals in
+the field.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP11.png">
 </div>
@@ -59,7 +59,7 @@ in the field.</p>
 </div>
 <h4><strong>AUGMENT: Grow STEM Competencies through out Talent Management Programmes</strong></h4>
 <p>Interested Sec 2 and 3 students continued to deepen their knowledge and
-skills in maker’s education, focusing on advanced CAD, 3D printing in Singapore
+skills in maker education, focusing on advanced CAD, 3D printing in Singapore
 Polytechnic, and to apply their knowledge and skills in the MOE Innovation
 Programme.</p>
 <div class="isomer-image-wrapper">
