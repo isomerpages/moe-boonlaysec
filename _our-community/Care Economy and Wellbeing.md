@@ -50,6 +50,12 @@ hands-on sharing sessions on basic CPR/AED with the same constituencies
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UTR.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UTR3.png">
+</div>
+<p><em>ST PHOTO</em>
+</p>
 <p>Together with Westwood Secondary and Methodist Girls’ School, our school
 has worked closely with ActiveSg Unleash the Roar (UTR) to form a cluster-based
 football academy for girls. Girls across the three schools train regularly
@@ -59,7 +65,6 @@ schools to train regularly at BLS, engage in friendly matches, and participate
 in the National School Games (NSGs). The initiative not only nurtures emerging
 female football talent but also fosters social integration by bringing
 together girls from diverse backgrounds. In 2025, the team was crowned
-National Champions in the C Division, National School Games.</p>
-<p>
+National Champions in the C Division, National School Games.
 <br>
 </p>

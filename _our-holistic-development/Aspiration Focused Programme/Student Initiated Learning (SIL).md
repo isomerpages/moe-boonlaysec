@@ -5,33 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Aspiration Focused Programme
 ---
-<h4><strong>Programme Outcomes</strong></h4>
+<h3><strong>Programme Outcomes</strong></h3>
 <p>Student-Initiated Learning (SIL) empowers Boon Lay Secondary School students
 to take ownership of their learning while exploring their passions across
 the <strong>DREAMS domains</strong>:</p>
-<ul>
-<li>
-<p><strong>D</strong>igital &amp; Infotech</p>
-</li>
-<li>
-<p><strong>R</strong>elations &amp; Business</p>
-</li>
-<li>
-<p><strong>E</strong>ngineering, Maths &amp; Science</p>
-</li>
-<li>
-<p><strong>A</strong>rts &amp; Humanities</p>
-</li>
-<li>
-<p><strong>M</strong>edia &amp; Design</p>
-</li>
-<li>
-<p><strong>S</strong>ports</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL.png">
+</div>
 <p>Through SIL, students build essential future-ready competencies such as <strong>self-management, collaboration, problem-solving, innovation</strong>,
 and <strong>lifelong learning habits</strong>.</p>
-<h4><strong>Description of Programme &amp; Key Activities</strong></h4>
+<h3><strong>Description of Programme &amp; Key Activities</strong></h3>
 <p>SIL offers <strong>three tiers of learning experiences</strong> to cater
 to students’ interests, learning preferences, and levels of independence.</p>
 <h4><strong>1. School-Curated Independent Learning&nbsp;</strong></h4>
@@ -54,7 +38,7 @@ the <strong>Student Learning Space (SLS)</strong>.</p>
 </li>
 </ul>
 <p>These activities nurture curiosity, creativity, and confidence in independent
-learning</p>
+learning.</p>
 <hr>
 <h4><strong>2. School-Facilitated Peer Activities&nbsp;</strong></h4>
 <p>Students may return to school during HBL to use school facilities and

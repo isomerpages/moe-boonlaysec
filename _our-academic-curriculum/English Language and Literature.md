@@ -30,11 +30,14 @@ illustrated stories, podcasts, and videologues or vodcasts. These tasks
 not only enhance their technological skills but also nurture their creativity,
 collaboration, and critical thinking skills, preparing them to thrive in
 a dynamic and interconnected world.</p>
-<p>Click to view an <a href="https://online.fliphtml5.com/cpcxb/cfnv/" rel="noopener nofollow" target="_blank">illustrated story</a> by
-a group of students
-<br>Click to listen to a student-produced <a href="https://drive.google.com/file/d/1DuKtHCqoGxMGy46BvYsnMs3yiIz_Q9X1/view?usp=sharing" rel="noopener nofollow" target="_blank">podcast</a>
+<p><em>Click to view an <a href="https://read.bookcreator.com/rkf4u1vDvBXQ77slHejBhskNTf63/wsHvAlRqSICtYRud7a4dXw" rel="noopener nofollow" target="_blank">illustrated story</a> written by a group of Sec 1 EL students</em>
 </p>
-<h3><br><strong>Key Programmes</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover_Pg.png">
+</div>
+<p><em>Click to listen to a <a href="https://drive.google.com/file/d/1DuKtHCqoGxMGy46BvYsnMs3yiIz_Q9X1/view?usp=sharing" rel="noopener nofollow" target="_blank">podcast</a> produced by a Sec 2 EL student</em>
+</p>
+<h3><strong>Key Programmes</strong></h3>
 <h4><strong>BLSTV</strong></h4>
 <p>BLSTV was conceptualised as a language programme aimed to facilitate authentic
 learning experiences in language classrooms and beyond, and create opportunities
@@ -69,6 +72,9 @@ skillsets to the roles and tasks assigned to them.</p>
 <p><em>The AV crew at work behind the scenes</em>
 </p>
 <h4><strong>ELITe Fest</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EL.png">
+</div>
 <p>ELITe Fest is Boon Lay Secondary School's vibrant celebration of the English
 Language, where students immerse themselves in a week of engaging and creative
 activities. From solving Daily Crossword Puzzles to crafting compelling
@@ -93,13 +99,11 @@ in activities like Choral Reading and Readers’ Theatre. The Upper Secondary
 students will be introduced to debating and public speaking to develop
 as persuasive speakers where they also hone their delivery skills such
 as pronunciation, fluency and rhythm in their speeches.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/el10.jpg">
 </div>
 <p><em>Choral Reading</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/el11.jpg">
 </div>
@@ -107,25 +111,32 @@ as pronunciation, fluency and rhythm in their speeches.</p>
 </p>
 <h4><strong>Literature</strong></h4>
 <p>In Literature lessons, students get to develop a deeper love and appreciation
-of the written words through drama, journal writing and creative tasks
-to enhance their interaction with rich literary works.
+of the written words through creative tasks to enhance their interaction
+with rich literary works. They experience a curriculum undergirded by the
+literature pedagogical processes.
 <br>
-<br>At lower secondary, students are seen as makers of meanings. To achieve
-this, students are guided to write their own poems inspired by themes like
-self or food. Through role-playing, dramatisation and making of posters,
-students not only enhance their understanding of literature but also nurture
-their ability to communicate ideas in unique ways.</p>
-<p></p>
+<br>At lower secondary, students are seen as makers of meanings. As they explore
+texts with familiar themes like growing up, students bring their prior
+knowledge to unpack texts at the initial stage. As they dive deeper, strategies
+like role-playing and dramatisation are used to enhance their understanding.
+To nurture their ability to communicate ideas, students are assigned alternative
+assessment tasks like creating an Instagram story to recommend the text
+and share their analysis.</p>
+<p><em>Click to view an <a href="https://drive.google.com/file/d/1Krpusk9tjeMQPgABld8smjLJehF3Fhpo/view?usp=drive_link" rel="noopener nofollow" target="_blank">Instagram story</a> designed by a Sec 2 student</em>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Who_I_am.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_21_170529.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IG3.png">
 </div>
 <p>At upper secondary, students focus on dialogic thinking where they have
 thoughtful discussions and debates about literature. A regular participant
 of the National Schools Literature Festival, Boon Lay Secondary took part
-in the Upper Secondary Unseen Poetry Debate, Upper Secondary Round Table
-and Poetry PitchIn' events in 2023. The team of debaters spoke analytically
-and confidently to clinch a win in the Unseen Debate.</p>
+in the Upper Secondary Unseen Poetry Debate. The upper secondary literature
+cohort also attended the Authors' Dialogue and Autograph Session for the
+set text, <em>How We Live Now: Stories of Daily Living</em>; students interacted
+with fellow literature students from various schools and had insightful
+conversations with the authors, enriching their experience of the text.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lit2b.png">
+</div>
+<p><em>Authors' Dialogue with Yeoh Jo-Ann, author of The Thing</em>
+</p>

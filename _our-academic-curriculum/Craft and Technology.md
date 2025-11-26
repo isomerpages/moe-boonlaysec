@@ -4,10 +4,10 @@ permalink: /departments/craft-and-tech/
 description: ""
 variant: tiptap
 ---
-<h4>Vision</h4>
+<h4><strong>Vision</strong></h4>
 <p>Every student a creative and critical thinker who possesses empathetic
 qualities.</p>
-<h4>Mission</h4>
+<h4><strong>Mission</strong></h4>
 <p>To design engaging learning experiences that equip all students with knowledge,
 skills and learning dispositions that provides the foundation for lifelong
 learning. With the provision of education technologies, our students experience
@@ -16,8 +16,7 @@ products.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="464" width="621" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCdrqV2QaVlLSMf9QlqGy57pCpEagat_h7D0HO7g6As-qwVG8tZ-xQPRgj-iwEBF4Fzew-w0LMIa1W7LH5EAq3B5foU41-TzUFf4izeVjNCXS7xIYClOhRuWEf8mm5KgSBv0OHT_Sw6UqXMNSwLZM?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<hr>
-<h4>Design Thinking in Design and Technology (D&amp;T)</h4>
+<h4><strong>Design Thinking in Design and Technology (D&amp;T)</strong></h4>
 <p>At Boon Lay Secondary School, our lower secondary students engage in a
 dynamic, learner-centred approach to Design and Technology (D&amp;T). They
 actively participate in the entire design process, from exploring diverse
@@ -54,8 +53,8 @@ a rapidly evolving world.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:6.35002619928712e-14px;" height="505.23399623882415" width="698.2054054054055" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4stw0EpyGhet9eePrBNZZ5GnZ5Q6TEfXKrdevIIpVFr4-59igVhjgiTAtWHPN8FOkuQcIOKO0OFhstZcM_dCvK70Lll-H8FkMO_K4JBY_rlzt1KNv8bSva00NROoz7tNB73_hQlNLYfy-zjF2u5U?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<p><strong>Young Innovators’ Fair 2024</strong>
-<br>The D&amp;T curriculum is designed to cultivate students' critical, adaptive,
+<h4><strong>Young Innovators’ Fair</strong></h4>
+<p>The D&amp;T curriculum is designed to cultivate students' critical, adaptive,
 and inventive thinking, along with enhancing their communication skills.
 A prime example of this was when Sec 3 D&amp;T students participated in
 the MOE Innovation Program and were selected to present their prototype
@@ -67,6 +66,11 @@ to refine their work. By engaging in this program, they not only showcased
 their technical and problem-solving abilities but also honed their presentation
 and interpersonal skills, preparing them for future challenges in an increasingly
 complex world.</p>
+<p>Our goal in D&amp;T is to equip students not only with critical thinking
+skills but to expose them to rapid prototyping tools such as laser cutting
+and 3D printing during their course of study with us. They will also have
+a chance to express their ideas in public platforms such as the MOE Innovation
+Programme.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="304" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeE_cRwQIYX_w0yAQX4I9urj5TVC3skwb3pkETiG0wIbwlpcpRxdPQOOEqVXqqBonQC5NG-gwIHXUO3sJb5pZZ03a3uCp5Kl3jTcxETKgXLtbfSXn_WJfCdZetkx50Jkst3BiBxHESQ4tn5zs1avg?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
@@ -75,7 +79,7 @@ complex world.</p>
 <img style="margin-left:0px;margin-top:0px;" height="308" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLMfDbBnDzb65RbkYnBnGzhSt29ZWyUP15gslT7BtrxmUQzje9Ol82xI9ndvyhnAPEjJQUuAo5Q72kS8b6dNkEpA4RL9WQZk2ck8bE_PgZxE9MaHJKZ8Ma5qp8nZCTYuJmyUtkxaeXD0iw-XaN9zE?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
 <hr>
-<h4>Food and Consumer Education (FCE)</h4>
+<h4><strong>Food and Consumer Education (FCE)</strong></h4>
 <p>Food and Consumer Education (FCE) equips lower secondary students with
 essential life skills to navigate the complexities of modern living. At
 the lower secondary level, students develop practical skills in meal planning,
@@ -90,8 +94,7 @@ world.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="467.9883" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJjV3s1taZe0M4xHEDHcwclo6P1wu4wwg0jWeiVuXntuNg6F54HXNMlJe5t0be2Rx3iuhNnGCy8CokILVIWD5ZN8VDAca5IwcHy82eURRziw0_yusUYQDEzSp8eMl1P9W4BmSmNjWOmGqxoRc9OQ?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<p></p>
-<h3>Nutrition and Food Science (NFS)</h3>
+<h4><strong>Nutrition and Food Science (NFS)</strong></h4>
 <p>Nutrition and Food Science (NFS) equips upper secondary students with
 a deeper understanding of the science behind food and its impact on health.
 Through hands-on practice and theory, students explore topics such as food
@@ -104,13 +107,11 @@ for future opportunities in related fields.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="468" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXexzulCPFBesCnE1JXccllXywgls2n_xVQmXEpemuv8SmrcuZ_5U_3llndxzF1zMgRwWr8uzO9DaAWxyBL1MWpwhUbhO25YolB4P1brk9xKC1CUKDdFQ5vo6xKUOUJ9ONkXZi99W9u6-mUhkTZ4JA?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<p></p>
-<p><strong>Culinary Masterclass with Professional Chefs for Upper Secondary</strong>
-<br>Upper secondary students learn from professional chefs through hands-on
+<h4><strong>Culinary Masterclass with Professional Chefs for Upper Secondary</strong></h4>
+<p>Upper secondary students learn from professional chefs through hands-on
 workshops and live demonstrations, enhancing their culinary skills and
 gaining industry insights to prepare for future opportunities in food and
 hospitality.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS.png">
 </div>
@@ -118,11 +119,11 @@ hospitality.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS2.png">
 </div>
-<p><strong>Sustainable Consumption: Exploring Local Greens with Vertical Hydroponics<br></strong>Upper
-secondary students learn about sustainable consumption by using freshly
-harvested local greens from our vertical hydroponics system. Although they
-did not grow the produce themselves, this hands-on experience allows them
-to explore sustainable farming methods, understand how local production
+<h4><strong>Sustainable Consumption: Exploring Local Greens with Vertical Hydroponics</strong></h4>
+<p>Upper secondary students learn about sustainable consumption by using
+freshly harvested local greens from our vertical hydroponics system. Although
+they did not grow the produce themselves, this hands-on experience allows
+them to explore sustainable farming methods, understand how local production
 reduces food miles, and appreciate the importance of incorporating nutritious,
 sustainably sourced ingredients into their diets.</p>
 <div class="isomer-image-wrapper">
@@ -132,8 +133,7 @@ sustainably sourced ingredients into their diets.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="414" width="312" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfffUDj-VqRKpmX7KeoclB2tJIQ0DhdQXkxbFWnmexJ6cVfqfPqzJcjXw6El5O9VWXjDTffEMtPY85B692Ek6HSX-a4XZk2GnYQWLw3pymp-cf-eOlGwJgCQSHxfbHfuyyRVSuWNbZZqofbCUVttzY?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<p><strong>Innovative Culinary and Nutrition Programme for Secondary 3</strong>
-</p>
+<h4><strong>Innovative Culinary and Nutrition Programme for Secondary 3</strong></h4>
 <p>The Secondary 3 Nutrition and Food Science programme empowers students
 with advanced culinary skills and a deeper understanding of food science.
 Students apply theoretical knowledge to practical challenges, such as participating
@@ -148,8 +148,8 @@ and nutrition.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="188" width="328" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjlw2hdxEL7nVe_ts9-ZtOJ1ZtMR56JMfr2Eh7uksXNslHOxf2DgTtKUTw_Dh46aOQsIurO2zyJGYQs76dXjY9RJpxoy5IaT1rr8kSrb4m675VggWJmMY0vPzutCa5brN4eDWi6XUC0GWV-CJV3_k?key=llnICU2OItVSjBUj-RInJaWx">
 </div>
-<p><strong>Applied Module Programme: Exploring Food Science at Nanyang Polytechnic and Republic Polytechnic</strong>
-<br>Upper secondary students broaden their understanding of food science through
+<h4><strong>Applied Module Programme: Exploring Food Science at Nanyang Polytechnic and Republic Polytechnic</strong></h4>
+<p>Upper secondary students broaden their understanding of food science through
 applied learning modules conducted at Nanyang Polytechnic and Republic
 Polytechnic. They participate in hands-on experiments, explore innovative
 food technologies, and discover the scientific principles behind food production
