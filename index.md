@@ -23,7 +23,7 @@ sections:
       description: Join us on 29 November (Saturday), 9am - 12.30pm! Dialogue with
         School Leaders is happening at 10am and 11.30am. Click on the link below
         to sign up!
-      image: /images/OH.jpg
+      image: /images/OH2.jpg
       alt: Image alt text
       button: Sign up
       url: https://forms.moe.edu.sg/forms/oZOPQK
