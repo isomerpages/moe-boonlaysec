@@ -35,6 +35,15 @@ sections:
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
   - infopic:
+      title: Bound for Greatness
+      id: infopic
+      description: Greatness isn’t just what we do; it’s who we are becoming. Find out
+        what makes us BLS and how we enable Greatness.
+      button: Choose Greatness
+      url: https://for.edu.sg/boundforgreatness
+      image: /images/heyzine_flipbook_cover.png
+      alt: Image alt text
+  - infopic:
       title: Technology Enabled Learning @ BLS
       id: infopic
       description: Find out more about our journey as an Apple Distinguished School.
