@@ -17,7 +17,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BLAFbL3aBCw?si=kdODFWhN4YDldrVM"></iframe>
 </div>
-<p><em>Watch a video to find out more about the </em><a href="https://drive.google.com/file/d/1NM8nfxNhRKt3krL1VKFXwRdWTyhDKPwv/view?usp=drive_link" rel="noopener nofollow" target="_blank">SP-BLS Maker Education</a>
+<p><em>Watch the video above to find out more about the </em><a href="https://drive.google.com/file/d/1NM8nfxNhRKt3krL1VKFXwRdWTyhDKPwv/view?usp=drive_link" rel="noopener nofollow" target="_blank">SP-BLS Maker Education</a>
 </p>
 <h4><strong>ACQUIRE: Discover the Value of STEM through our Curriculum</strong></h4>
 <p>The ALP in BLS is organised in two tiers. The Tier 1 programme is a 10-hour
