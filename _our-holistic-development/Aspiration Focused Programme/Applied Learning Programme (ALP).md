@@ -10,11 +10,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1__1_.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP1__2_.png">
 </div>
-<p><em>Click to watch a video to find out more about the </em><a href="https://drive.google.com/file/d/1NM8nfxNhRKt3krL1VKFXwRdWTyhDKPwv/view?usp=drive_link" rel="noopener nofollow" target="_blank">SP-BLS Maker Education</a>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BLAFbL3aBCw?si=kdODFWhN4YDldrVM"></iframe>
+</div>
+<p><em>Watch the video above to find out more about the </em><a href="https://drive.google.com/file/d/1NM8nfxNhRKt3krL1VKFXwRdWTyhDKPwv/view?usp=drive_link" rel="noopener nofollow" target="_blank">SP-BLS Maker Education</a>
 </p>
 <h4><strong>ACQUIRE: Discover the Value of STEM through our Curriculum</strong></h4>
 <p>The ALP in BLS is organised in two tiers. The Tier 1 programme is a 10-hour
@@ -89,6 +92,4 @@ and creativity in the green automobile industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP44.jpg">
 </div>
-<p></p>
-<p></p>
 <p></p>
