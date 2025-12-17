@@ -125,4 +125,3 @@ Late submission will not be allowed.</p>
 <p>Students should still report to the posted secondary school on 2 January
 2026. The application is deemed unsuccessful if you do not hear from the
 school by 2 January 2026.</p>
-<p></p>
