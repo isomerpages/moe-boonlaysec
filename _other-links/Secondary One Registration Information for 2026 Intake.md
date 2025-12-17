@@ -27,8 +27,8 @@ Gateway (PG) Mobile App. We strongly encourage all parents to download
 and use the Parents Gateway (PG) Mobile App, as the school will be using
 the PG app as its primary channel to disseminate information and updates.
 <br>
-<br>For parents who do not use PG, you may either email us at <a rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or
-call us at 67940161 for more information.</p>
+<br>For parents who do not use PG, you may either email us at <a rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or call us at 67940161
+for more information.</p>
 <hr>
 <p><strong>3. Sale of Uniform, Textbooks and Stationery</strong>
 </p>
