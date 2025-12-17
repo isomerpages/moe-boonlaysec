@@ -6,8 +6,9 @@ description: ""
 ---
 <h4>Welcome to Boon Lay Secondary School (BLS)!</h4>
 <p>Welcome to Boon Lay Secondary School (BLS)! The Secondary One Registration
-Exercise marks the beginning of your child’s journey at BLS. We look forward
-to building a strong partnership with you to support your child’s development.</p>
+Exercise marks the beginning of your child’s/ward's journey at BLS. We
+look forward to building a strong partnership with you to support your
+child’s/ward's development.</p>
 <hr>
 <p><strong>1. Forms for Submission:</strong>
 </p>
@@ -18,16 +19,17 @@ the Secondary One Registration Form by <strong>22 Dec, 12pm</strong>:&nbsp;
 <p><strong>2. eRegistration Briefing</strong>
 </p>
 <p>Transitioning from primary to secondary school can be a stressful time
-for both students and parents. We have prepared an online briefing to keep
-you informed of the key administrative matters so that your child’s integration
-into the BLS family will be smooth.</p>
-<p>The Zoom Meeting ID and password will be given to all parents via Parents
-Gateway (PG) Mobile App. We strongly encourage all parents to download
-and use the Parents Gateway (PG) Mobile App, as the school will be using
-the PG app as its primary channel to disseminate information and updates.
+for both students and parents/guardians. We have prepared an online briefing
+to keep you informed of the key administrative matters so that your child’s/ward's
+integration into the BLS family will be smooth.</p>
+<p>The Zoom Meeting ID and password will be given to all parents/guardians
+via Parents Gateway (PG) Mobile App. We strongly encourage all parents/guardians
+to download and use the Parents Gateway (PG) Mobile App, as the school
+will be using the PG app as its primary channel to disseminate information
+and updates.
 <br>
-<br>For parents who do not use PG, you may either email us at <a rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> or call us at 67940161
-for more information.</p>
+<br>For parents/guardians who do not use PG, you may either email us at
+<a rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a>or call us at 67940161 for more information.</p>
 <hr>
 <p><strong>3. Sale of Uniform, Textbooks and Stationery</strong>
 </p>
@@ -53,8 +55,8 @@ by 7.50 a.m. The reporting venue for first day of school is at the school
 hall.</p>
 </li>
 <li>
-<p>Students are to adhere to prescribed school uniform. Modification to the
-uniform is not allowed.</p>
+<p>Students are to adhere to the prescribed school uniform. Modification
+to the uniform is not allowed.</p>
 </li>
 <li>
 <p>Students are reminded not to bring prohibited items to school.</p>
@@ -96,8 +98,8 @@ or appeals to Boon Lay Secondary School.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ensure that you have acknowledged the message sent via PG to secure a
-place for your child at Boon Lay Secondary&nbsp;School and fill up the
-<a href="https://go.gov.sg/s1bls2026registration" rel="noopener nofollow" target="_blank">Secondary 1 Registration Form</a>.&nbsp;</p>
+place for your child/ward at Boon Lay Secondary&nbsp;School and fill up
+the <a href="https://go.gov.sg/s1bls2026registration" rel="noopener nofollow" target="_blank">Secondary 1 Registration Form</a>.&nbsp;</p>
 </li>
 <li>
 <p>You may contact us via email (<a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a>) or call us at 67940161
@@ -108,8 +110,8 @@ for advice on the next steps.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ensure that you have secured a place at the school your child has been
-posted to.</p>
+<p>Ensure that you have secured a place at the school your child/ward has
+been posted to.</p>
 </li>
 <li>
 <p>Ensure that you meet the cut-off for Boon Lay Secondary&nbsp;School.</p>
