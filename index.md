@@ -18,15 +18,15 @@ sections:
           url: /tel
       variant: center
   - infopic:
-      title: BLS Open House 2025
+      title: Secondary One Registration Information for 2026 Intake
       id: infopic
-      description: Join us on 29 November (Saturday), 9am - 12.30pm! Dialogue with
-        School Leaders is happening at 10am and 11.30am. Click on the link below
-        to sign up!
-      image: /images/OH2.jpg
+      description: Dear parents / guardians,  please click on the following link to
+        see the information relevant to the Secondary One Registration for 2026
+        Intake.
+      image: /images/sketch_of_bls.jpg
       alt: Image alt text
-      button: Sign up
-      url: https://forms.moe.edu.sg/forms/oZOPQK
+      button: Link
+      url: https://www.boonlaysec.moe.edu.sg/secondary-one-registration-information-for-2026-intake/
   - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
