@@ -20,9 +20,8 @@ sections:
   - infopic:
       title: Secondary One Registration Information for 2026 Intake
       id: infopic
-      description: Dear parents / guardians,  please click on the following link to
-        see the information relevant to the Secondary One Registration for 2026
-        Intake.
+      description: Dear parents / guardians, click the following link to see the
+        information relevant to the Secondary One Registration for 2026 Intake.
       image: /images/sketch_of_bls.jpg
       alt: Image alt text
       button: Link
