@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4>Welcome to Boon Lay Secondary School (BLS)!</h4>
-<p>Welcome to Boon Lay Secondary School (BLS)! The Secondary One Registration
-Exercise marks the beginning of your child’s/ward's journey at BLS. We
-look forward to building a strong partnership with you to support your
-child’s/ward's development.</p>
+<p>The Secondary One Registration Exercise marks the beginning of your child’s/ward's
+journey at BLS. We look forward to building a strong partnership with you
+to support your child’s/ward's development.</p>
 <hr>
 <p><strong>1. Forms for Submission:</strong>
 </p>
