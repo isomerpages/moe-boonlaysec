@@ -14,7 +14,7 @@ child’s/ward's development.</p>
 </p>
 <p>All students who are posted to Boon Lay Secondary School must complete
 the Secondary One Registration Form by <strong>22 Dec, 12pm</strong>:&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1bls2026registration</a>.</p>
+<a href="https://go.gov.sg/s1bls2026registration" rel="noopener nofollow" target="_blank">https://go.gov.sg/s1bls2026registration</a>.</p>
 <hr>
 <p><strong>2. eRegistration Briefing</strong>
 </p>
@@ -29,7 +29,7 @@ will be using the PG app as its primary channel to disseminate information
 and updates.
 <br>
 <br>For parents/guardians who do not use PG, you may either email us at
-<a rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a>or call us at 67940161 for more information.</p>
+<a href="blss@moe.edu.sg" rel="noopener nofollow" target="_blank">blss@moe.edu.sg</a>or call us at 67940161 for more information.</p>
 <hr>
 <p><strong>3. Sale of Uniform, Textbooks and Stationery</strong>
 </p>
