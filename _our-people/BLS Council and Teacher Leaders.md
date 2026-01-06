@@ -25,7 +25,7 @@ variant: tiptap
 <p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_chon_kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Chon Kiat, Vincent</a>
+<p><a href="mailto:koh_chon_kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Chon Kiat Vincent</a>
 </p>
 </td>
 </tr>
@@ -214,7 +214,7 @@ variant: tiptap
 <p>Subject Head (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nurhani_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nurhani Binte Kamsani</a>
+<p><a href="mailto:siti_nurhani_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nurhani Kamsani</a>
 </p>
 </td>
 </tr>
