@@ -18,7 +18,7 @@ variant: tiptap
 <p>Mdm Nur Aida Md Khalid - Sec 2, 2IC</p>
 <p>Ms Lek Kyah Hwee - Sec 1</p>
 <p>Mrs Tan-Young Tsui Hwa - Sec 3</p>
-<p>Ms Tan Zhi Ying, Serlin - Cluster Head</p>
+<p>Ms Tan Zhi Ying Serlin - Cluster Head</p>
 <h4><strong>Basketball</strong></h4>
 <p>Mr Loh Kah Liang, Alan - Sec 1 &amp; 2, OIC</p>
 <p>Mr Dineshkumar M Subramaniam - Sec 3, 2IC</p>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>Mr Wong Zhenrong Ronald - Sec 3, OIC</p>
 <p>Mr Ong Zhi Jie - Sec 2, 2IC</p>
 <p>Mr Mohammad Suhaimi Bin Mohd Salleh - Sec 1</p>
-<p>Divyalakshmi D/O Muthu Saminathan (Ms) - Sec 4 &amp; 5</p>
+<p>Ms Divyalakshmi D/O Muthu Saminathan - Sec 4 &amp; 5</p>
 <p>Mr Yu Pei-Yi - Cluster Head</p>
 <h4><strong>NCDCC</strong></h4>
 <p>Mdm Chan Bee Bee - Sec 1 &amp; 2, OIC</p>
@@ -92,7 +92,7 @@ variant: tiptap
 <h4><strong>SJB</strong></h4>
 <p>Mrs Sabitha Nasser - Sec 2, OIC</p>
 <p>Mr Mohammad Khusni Jumadi - Sec 4 &amp; 5, 2IC</p>
-<p>Ms Wang Xiaoxi (Ms) - Sec 1</p>
+<p>Ms Wang Xiaoxi - Sec 1</p>
 <p>Ms Gayathiri D/O Nandakuma - Sec 3</p>
 <p>Mr Ooi Chong Min - Cluster Head</p>
 <p></p>
