@@ -238,7 +238,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Shafiah Binte Mohamed Azmi</p>
+<p>Mdm Nur Shafiah Mohamed Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2IC, Sec 3 CCA Mentor</p>
@@ -246,7 +246,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Izzhaziqah Wong Bte Md Iskandar</p>
+<p>Ms Izzhaziqah Wong Muhammad Iskandar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 CCA Mentor</p>
@@ -295,7 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadia Bte Abdul Malik</p>
+<p>Mdm Nadia Abdul Malik</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 CCA Mentor</p>
@@ -336,7 +336,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suziela Binte Yassin</p>
+<p>Mdm Suziela Yassin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2IC, Sec 2 &amp; 3 CCA Mentor</p>
@@ -377,7 +377,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Salizam Bin Jaafar</p>
+<p>Mr Salizam Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2IC, Sec 1 CCA Mentor</p>
@@ -442,7 +442,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nazerah Binte Mohamed Latif</p>
+<p>Ms Nazerah Mohamed Latif</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cluster Head</p>
@@ -459,7 +459,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Faidah Hassa</p>
+<p>Mdm Nur Faidah Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OIC, Sec 1 CCA Mentor</p>
