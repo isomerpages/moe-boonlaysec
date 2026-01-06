@@ -247,7 +247,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_aida_md_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Aida Bte Md Khalid</a>
+<p><a href="mailto:nur_aida_md_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Aida Md Khalid</a>
 </p>
 </td>
 </tr>
