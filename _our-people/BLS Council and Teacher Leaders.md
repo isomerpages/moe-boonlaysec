@@ -207,7 +207,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayathiri_nandakuma@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathiri Nandakuma</a>
+<p><a href="mailto:gayathiri_nandakuma@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathiri D/O Nandakuma</a>
 </p>
 </td>
 </tr>
