@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Final__BLSS_Staff_Group_Photo_2025.png">
 </div>
-<h4><strong>AVA</strong></h4>
+<h4><strong>Audio Visual Aide (AVA)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,7 +139,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Boys Brigade</strong></h4>
+<h4><strong>Boys' Brigade</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -491,7 +491,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>NCC</strong></h4>
+<h4><strong>National Cadet Corps (NCC)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -540,7 +540,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>NCDCC</strong></h4>
+<h4><strong>National Civil Defence Cadet Corps (NCDCC)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -622,7 +622,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>NPCC</strong></h4>
+<h4><strong>National Police Cadet Corps (NPCC)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -671,7 +671,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>SJB</strong></h4>
+<h4><strong>St John Brigade (SJB)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -729,7 +729,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p><strong>School Counsellor</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loh Chin Hin Wilson</p>
@@ -737,7 +738,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p><strong>School Counsellor</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sheryl Low Baoqi</p>
@@ -745,7 +747,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor (FAJ)</p>
+<p><strong>School Counsellor (FAJ)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sally Tham Yuen Han</p>
@@ -753,7 +756,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor (FAJ)</p>
+<p><strong>School Counsellor (FAJ)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Siew Hong Eunice</p>
@@ -761,7 +765,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Education and Career Guidance Counsellor</p>
+<p><strong>Education and Career Guidance Counsellor</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rosetta Fung King Tsee</p>
@@ -769,7 +774,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p><strong>Special Educational Needs Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Fazilah Binte Mohamed Fudin</p>
@@ -777,7 +783,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p><strong>Student Welfare Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ridwan Bin Rajin</p>
@@ -785,7 +792,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Well-Being Teacher (CAJ)</p>
+<p><strong>Student Well-Being Teacher (CAJ)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheang Yook Yew</p>
