@@ -4,8 +4,7 @@ permalink: /about-bls/blscandtl/
 description: ""
 variant: tiptap
 ---
-<p><strong>BLS Council</strong>
-</p>
+<h4><strong>BLS Council</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -248,8 +247,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Teacher Leaders</strong>
-</p>
+<h4><strong>Teacher Leaders</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
