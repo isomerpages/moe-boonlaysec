@@ -50,6 +50,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Staff Developer and Well Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nazerah_mohamed_latif@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazerah Mohamed Latif</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
