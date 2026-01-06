@@ -68,15 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Curriculum Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thia_mei_yin_rita@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Thia Mei Yin Rita</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD English Language and Literature</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +80,7 @@ variant: tiptap
 <p>HOD Humanities and the Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mardiana_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mardiana Bte Mansor</a>
+<p><a href="mailto:Yu_Pei_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yu Pei-Yi</a>
 </p>
 </td>
 </tr>
@@ -98,7 +89,7 @@ variant: tiptap
 <p>HOD Learning Technologies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alexandria_tang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alexandria Tang</a>
+<p><a href="mailto: kwek_joon_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kwek Joon Hong</a>
 </p>
 </td>
 </tr>
@@ -116,7 +107,7 @@ variant: tiptap
 <p>HOD Partnership and Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Bhavaniswari_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Bhavaniswari d/o Batumalia</a>
+<p><a href="mailto:bhavaniswari_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Bhavaniswari d/o Batumalia</a>
 </p>
 </td>
 </tr>
@@ -125,7 +116,7 @@ variant: tiptap
 <p>HOD PE and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Syed_Faizal_Js_Tamizzuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Syed Faizal</a>
+<p><a href="mailto:syed_faizal_js_tamizzuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Syed Faizal Js Tamizzuddin</a>
 </p>
 </td>
 </tr>
@@ -152,7 +143,7 @@ variant: tiptap
 <p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yu_Pei_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yu Pei-Yi</a>
+<p><a href="mailto:wong_hui_yi_alvina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Hui Yi Alvina</a>
 </p>
 </td>
 </tr>
@@ -161,25 +152,25 @@ variant: tiptap
 <p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_zhi_ying_serlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Serlin Tan</a>
+<p><a href="mailto:tan_zhi_ying_serlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Zhi Ying Serlin</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2) (Internal)</p>
+<p>Assistant Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kok_yee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kok Yee Chin</a>
+<p><a href="mailto:zoe_chan_zhong_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zoe Chan Zhong Yi</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4)</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hui_yi_alvina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alvina Wong</a>
+<p><a href="mailto:dineshkumar_m_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dineshkumar M Subramaniam</a>
 </p>
 </td>
 </tr>
@@ -197,7 +188,7 @@ variant: tiptap
 <p>Subject Head (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20gayathiri_nandakuma@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathiri Nandakuma</a>
+<p><a href="mailto:gayathiri_nandakuma@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gayathiri Nandakuma</a>
 </p>
 </td>
 </tr>
@@ -221,28 +212,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Learning Technologies)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: kwek_joon_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kwek Joon Hong</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Lower Secondary&nbsp;Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dineshkumar_m_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dineshkumar M Subramaniam</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20siti_nurhani_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nurhani Binte Kamsani</a>
+<p><a href="mailto:siti_nurhani_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Nurhani Binte Kamsani</a>
 </p>
 </td>
 </tr>
@@ -251,7 +224,7 @@ variant: tiptap
 <p>Subject Head&nbsp;(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20nur_aida_md_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Aida Bte Md Khalid</a>
+<p><a href="mailto:nur_aida_md_khalid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Aida Bte Md Khalid</a>
 </p>
 </td>
 </tr>
@@ -297,7 +270,7 @@ variant: tiptap
 <p>Senior Teacher (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_siew_ly_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ester Lai</a>
+<p><a href="mailto:lai_sizhen_ester@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lai Sizhen Ester</a>
 </p>
 </td>
 </tr>
@@ -325,6 +298,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_xiaoxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wang Xiaoxi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Tamil Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ramesh_raja_sethu_raman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ramesh Raja Sethu Raman</a>
 </p>
 </td>
 </tr>
