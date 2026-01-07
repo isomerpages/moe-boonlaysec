@@ -32,7 +32,7 @@ sections:
       id: infopic
       description: Click the following link for more information.
       button: Link
-      url: https://www.boonlaysec.moe.edu.sg/secondary-one-cca-selection-exercise-2026
+      url: https://www.boonlaysec.moe.edu.sg/secondary-one-cca-2026/
       image: /images/Aspiration.jpg
       alt: Image alt text
   - infopic:
