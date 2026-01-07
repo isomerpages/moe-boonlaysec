@@ -27,6 +27,15 @@ sections:
       button: Link
       url: https://www.boonlaysec.moe.edu.sg/secondary-one-registration-information-for-2026-intake/
   - infopic:
+      title: Secondary One CCA Selection Exercise 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: Click the following link for more information.
+      button: Link
+      url: https://www.boonlaysec.moe.edu.sg/secondary-one-cca-2026/
+      image: /images/Picture13.jpg
+      alt: Image alt text
+  - infopic:
       title: Choose Your Own Adventure
       description: Embark on this adventure to find out more about our BLS Family!
       button: View More
