@@ -25,7 +25,7 @@ Ms Rosetta, through the appointment booking form <a href="https://go.gov.sg/chat
 </p>
 <p>For resources on social and emotional support as well as education and
 career guidance, please refer to the links listed below.</p>
-<p> <a href="https://go.gov.sg/olevel-ecgparentresources" rel="noopener nofollow" target="_blank">· Education and Career Guidance (ECG) Parent Resource</a>
+<p><a href="https://go.gov.sg/olevel-ecgparentresources" rel="noopener nofollow" target="_blank">· Education and Career Guidance (ECG) Parent Resource</a>
 </p>
 <p><a href="https://go.gov.sg/olevel-selparentresources" rel="noopener nofollow" target="_blank">· Social and emotional learning: Resources for Parents</a>
 </p>
