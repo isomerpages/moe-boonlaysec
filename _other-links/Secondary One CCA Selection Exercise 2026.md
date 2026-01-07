@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Secondary One CCA Selection Exercise for 2026</h4>
-<p><strong>CCA Selection form</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDWXjB</a>
+<p><strong>CCA Selection form</strong>: <a href="https://forms.moe.edu.sg/forms/eDWXjB" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDWXjB</a>
 </p>
 <p><strong>Details for CCA Selection Exercise</strong>
 </p>
