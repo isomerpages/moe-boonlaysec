@@ -292,6 +292,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Senior Teacher (Design &amp; Technology)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_zhenrong_ronald@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Wong Zhenrong Ronald</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior Teacher (Educational Support)</strong>
 </p>
 </td>
