@@ -83,7 +83,7 @@ while developing confidence and enthusiasm in using their Mother Tongue
 Languages.</p>
 <p>Click here for our MTL Fortnight &amp; Fiesta e-Booklets - <a href="https://heyzine.com/flip-book/b134f96692.html" rel="noopener noreferrer nofollow" target="_blank"><u>2023</u></a>,
 <a href="https://heyzine.com/flip-book/4b4914eb5c.html" rel="noopener noreferrer nofollow" target="_blank"><u>2024</u>
-</a>
+</a>, <a href="https://heyzine.com/flip-book/ca8da267e9.html#page/16" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 <h3><strong>Developing Real-World Skills through Authentic Learning Experiences</strong></h3>
 <p>In the BLS MTL department, we strive to make learning experiences more
@@ -96,8 +96,8 @@ to the learner, increasing their preparation for the real world.</p>
 <p>The Chinese Language (CL) Reading and Creative Writing Programme aims
 to nurture students’ love for language while developing 21st Century Competencies
 such as communication, collaboration, and critical and creative thinking.</p>
-<p>Through the&nbsp; Reading Programme, students read digital novels via
-the SLS platform and participate in guided discussions to explore characterisation,
+<p>Through the&nbsp;Reading Programme, students read digital novels via the
+SLS platform and participate in guided discussions to explore characterisation,
 themes, and literary techniques. These sessions encourage perspective-taking
 and empathy as students connect textual experiences to real-world contexts.</p>
 <p>Authentic engagement continues beyond the classroom, as local authors
