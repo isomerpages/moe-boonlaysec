@@ -111,7 +111,7 @@ editing, and publishing.</p>
 <p>By blending reading, creativity, and authentic application, the programme
 helps students become confident, expressive, and socially aware communicators
 in a globalised world.</p>
-<h4><strong>Tamil Language Department: AI- infused<s> </s>&nbsp;Teaching &amp; Learning</strong></h4>
+<h4><strong>Tamil Language Department: AI-infused Teaching &amp; Learning</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL5.jpg">
 </div>
