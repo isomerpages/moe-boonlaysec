@@ -4,6 +4,14 @@ permalink: /secondary-one-cca-2026/
 variant: tiptap
 description: ""
 ---
+<h4>Secondary One CCA Allocation 2026</h4>
+<p><strong>2026 S1 CCA allocation results can be accessed through this link from 15 Jan 2026, 3pm onwards.</strong>
+</p>
+<p><strong>All S1 students can access the form using your MIMS account to view your CCA allocation results.</strong>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/vWbQ2P" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vWbQ2P</a>
+</p>
+<p></p>
 <h4>Secondary One CCA Selection Exercise for 2026</h4>
 <p><strong>CCA Selection form</strong>: <a href="https://forms.moe.edu.sg/forms/eDWXjB" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDWXjB</a>
 </p>
