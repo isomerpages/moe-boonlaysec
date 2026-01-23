@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - CCA House System.md
       - CCA Families.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
