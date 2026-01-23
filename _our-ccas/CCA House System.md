@@ -34,7 +34,6 @@ the school year.</p>
 CCA involvement, values and participation. At the end of each term, the
 House with the highest points in a domain is awarded that domain’s <strong>stone</strong>.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HouseCup.jpg">
 </div>
