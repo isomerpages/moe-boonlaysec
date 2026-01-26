@@ -95,10 +95,6 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p><strong>At Boon Lay Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>At Boon Lay Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_26_144156.png">
@@ -110,13 +106,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u>. The completed form is to
-be submitted by 07/03/2026.</p>
+of the year and is also available <a href="https://go.gov.sg/eo9qc9" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
+by 07/03/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also available <u>here</u>. The completed form is to be
-submitted by 07/03/2026.</p>
+the year and is also available <a href="https://go.gov.sg/b8bib3" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
+by 07/03/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67940161
 or <a href="mailto:blss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">blss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
