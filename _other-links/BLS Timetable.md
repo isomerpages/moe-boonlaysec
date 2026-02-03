@@ -5,5 +5,5 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>BLS Timetable</strong></h3>
-<p><a href="https://go.gov.sg/2026semester1timetable" rel="noopener nofollow" target="_blank">2026 Semester 1 Timetable</a>
+<p><a href="/files/2026_TT__19_Jan____Classes__BW__ALL_CLASSES.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 timetable</a>
 </p>
