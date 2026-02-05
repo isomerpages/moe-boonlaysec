@@ -123,7 +123,7 @@ public by educating them about CPR and AED.</p>
 <p>Vice-Chairperson (2025/2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT Dhanya Lakshmie d/o Yasukumar</p>
+<p>SGT Dhanya Lakshmee D/O Vasukumar</p>
 </td>
 </tr>
 <tr>
