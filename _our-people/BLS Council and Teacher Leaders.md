@@ -97,7 +97,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yu_Pei_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yu Pei-Yi</a>
+<p><a href="mailto:pei-yi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yu Pei-Yi</a>
 </p>
 </td>
 </tr>
