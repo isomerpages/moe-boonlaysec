@@ -2,6 +2,7 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Assessment Matters.md
       - Academic Programme.md
       - Technology Enabled Learning.md
       - Craft and Technology.md
