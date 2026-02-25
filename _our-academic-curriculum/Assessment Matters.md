@@ -19,113 +19,26 @@ that helps address learning gaps and stretch potential.&nbsp;&nbsp;</p>
 <p></p>
 <h4><strong>2 Our Assessment Approach</strong>&nbsp;</h4>
 <p>&nbsp;Our approach is guided by four key beliefs:&nbsp;</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Assessment begins with clarity of purpose.&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>A variety of well-designed assessments are integral to the learning process.&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Assessment provides feedback to move learning forward and improve teaching
 practices.&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Assessment is valid, reliable and fair.&nbsp;</p>
 </li>
 </ul>
 <h4><strong>3 Assessment Schedule and Weightings&nbsp;</strong></h4>
-<p>&nbsp;Assessment Weightings for Secondary 1 to 3&nbsp;</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 1</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 4</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment 1&nbsp;</p>
-<p>(WA1)&nbsp;</p>
-<p>15%&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment 2&nbsp;</p>
-<p>(WA2)&nbsp;</p>
-<p>15%&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment 3&nbsp;</p>
-<p>(WA3)&nbsp;</p>
-<p>15%&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End-of-Year Examinations&nbsp;</p>
-<p>(EYE)&nbsp;</p>
-<p>55%&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;Assessment Weightings for Secondary 4 and 5&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 1</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment 1&nbsp;</p>
-<p>(WA1)&nbsp;</p>
-<p>15%&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment 2&nbsp;</p>
-<p>(WA2)&nbsp;</p>
-<p>15%&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary Examinations&nbsp;</p>
-<p>(Prelims)&nbsp;</p>
-<p>70%&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Assessment_Weighting.png">
+</div>
 <h4><strong>4</strong> <strong>Absence from Weighted Assessments (WA) and Examinations</strong>&nbsp;</h4>
 <p><strong>a. Absence from WA due to medical reasons</strong>&nbsp;</p>
 <p>Students must produce a Medical Certificate (MC) issued by a doctor registered
@@ -156,5 +69,57 @@ if a student is absent for part of an examination paper, or for one or
 more papers within each subject.</p>
 <p>f. If marks are pro-rated due to a valid reason, the student may not be
 eligible for school-based and/or Edusave academic awards.&nbsp;</p>
+<h4><strong>5 Alternative Assessments (AA)</strong>&nbsp;</h4>
+<p>a. The school conducts Alternative Assessments (AA), such as project work
+and performance tasks, to provide students with opportunities to demonstrate
+their learning in ways that cannot be directly or meaningfully assessed
+with just pen-and-paper tests.</p>
+<p>b. Through AA, students demonstrate their learning in different ways,
+such as presenting their point of view and applying knowledge in authentic
+contexts. It helps them develop emerging 21<sup>st</sup> century competencies
+and social-emotional competencies such as information skills, communication,
+relationship management, and grow students’ confidence and motivation for
+learning.</p>
+<p>c. Students should strictly adhere to the submission deadlines for AA
+tasks. Students may submit work after the deadline; however, late submission
+may be penalised. Work submitted beyond a given period will be considered
+as non-submission and be awarded a mark of zero.&nbsp;</p>
+<h4><strong>6</strong> <strong>Academic Integrity</strong>&nbsp;</h4>
+<p>a. For WAs/Examinations, students are not permitted to bring or use unauthorised
+materials, including handphones, smart watches, or any other electronic
+devices capable of storing, transmitting, or displaying visual or verbal
+information. The possession of such items during an assessment will be
+regarded as an attempt to cheat. Any such case will result in the award
+of zero marks for the assessment and disciplinary consequences.</p>
+<p>b. Work submitted as part of Assessments (e.g. Alternative Assessments
+or Coursework) must be the student’s own work. Students are expected to
+act with integrity by creating their own content, properly attributing
+ideas and information to the original sources, and acknowledging any assistance
+received. Submitting work that is not the student’s own, including AI-generated
+content unless permitted, will result in the award of <u>zero marks</u> for
+the assessment and disciplinary consequences.</p>
+<h4><strong>7 Home-School Partnership</strong>&nbsp;</h4>
+<p>a. We believe in a partnership where parents/guardians work with the school
+to develop our students. You can provide support by:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>helping your child/ward develop time management, research, study, and
+organisational skills as he/she prepares for the assessments.&nbsp;</p>
+</li>
+<li>
+<p>fostering a growth mindset that values learning over grades.&nbsp;</p>
+</li>
+<li>
+<p>nurturing integrity and celebrating effort.&nbsp;</p>
+</li>
+</ul>
+<p>b. Your child/ward will be notified by the respective subject teachers
+should there be any changes to the assessments as the year progresses.&nbsp;</p>
+<h4><strong>8 Schedule of Weighted Assessment / Examinations</strong>&nbsp;</h4>
+<p>You can download the schedules and details from the links below:&nbsp;</p>
+<p>Sec 1 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;</p>
+<p>Sec 2 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;</p>
+<p>Sec 3 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;</p>
+<p>Sec 4 &amp; 5 Schedule for Weighted Assessments / Preliminary Examinations&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
