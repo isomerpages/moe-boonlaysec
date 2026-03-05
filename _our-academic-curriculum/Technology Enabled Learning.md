@@ -28,7 +28,7 @@ through continuous innovation.</p>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E278E6mfw-U?si=ryy4HdAKOPEzLnQN"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E278E6mfw-U?si=ryy4HdAKOPEzLnQN"></iframe>
 </div>
 <h4><strong>Create, Connect and Contribute</strong></h4>
 <p>At Boon Lay Secondary School, our teachers design varied learning experiences
@@ -50,7 +50,7 @@ from 2026. The device bundle consists of:</p>
 <p>Stylus: Apple Pencil (USB-C)</p>
 </li>
 <li>
-<p>Protective Casing and Keyboard: Logitech Combo Touch iPad 11” (A16) [1
+<p>Protective Casing and Keyboard: Logitech Combo Touch iPad 11” (A16) [4
 year Warranty]</p>
 </li>
 <li>
@@ -102,6 +102,10 @@ DMA in your email subject)</p>
 inculcate good habits in their child to safely navigate this AI-enabled
 world. Please refer to the attached infographic for <a href="/files/A_Parent_s_Guide_to_Generative_AI_Tools_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE's parent's guide</a> to
 using generative AI tools for learning.</p>
+<h4><strong>Further Readings</strong></h4>
+<p><a href="/files/Acceptable_Use_Policy__AUP_.pdf" rel="noopener nofollow" target="_blank">Acceptable Use Policy (AUP)</a>
+<br><a href="/files/DR4___Student_Device_Information_Kit_For_PLDs_purchased_in_2026.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit for PLD</a>
+</p>
 <h4><strong>Useful Contacts</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
