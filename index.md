@@ -59,4 +59,14 @@ sections:
       url: https://www.boonlaysec.moe.edu.sg/tel/
       image: /images/DSC00913.jpg
       alt: Image alt text
+  - infopic:
+      title: Highlights @ BLS
+      subtitle: Add an image and text
+      id: infopic
+      description: Head to our Instagram for the latest school moments, highlights,
+        and behind-the-scenes updates. See greatness in action!
+      button: Follow us at iG
+      url: https://www.instagram.com/boonlaysec/
+      image: /images/IG2.png
+      alt: Image alt text
 ---
