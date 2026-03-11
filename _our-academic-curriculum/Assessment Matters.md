@@ -4,7 +4,6 @@ permalink: /assessment-matters/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Assessment Matters&nbsp;</strong>&nbsp;</h4>
 <p>The <a href="https://www.moe.gov.sg/education-in-sg/our-teachers/singapore-curriculum-philosophy" class="Hyperlink SCXW63820108 BCX0" rel="noreferrer noopener" target="_blank"><u>Singapore Curriculum Philosophy</u></a> describes
 our beliefs about assessment.&nbsp;&nbsp;</p>
 <p>&nbsp;We believe that assessment is integral to the teaching and learning
