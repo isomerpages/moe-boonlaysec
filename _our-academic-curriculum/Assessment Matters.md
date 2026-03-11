@@ -4,7 +4,6 @@ permalink: /assessment-matters/
 variant: tiptap
 description: ""
 ---
-<h4><strong>1 Assessment Matters&nbsp;</strong>&nbsp;</h4>
 <p>The <a href="https://www.moe.gov.sg/education-in-sg/our-teachers/singapore-curriculum-philosophy" class="Hyperlink SCXW63820108 BCX0" rel="noreferrer noopener" target="_blank"><u>Singapore Curriculum Philosophy</u></a> describes
 our beliefs about assessment.&nbsp;&nbsp;</p>
 <p>&nbsp;We believe that assessment is integral to the teaching and learning
@@ -17,7 +16,7 @@ improve our teaching practices, harnessing technology where useful.&nbsp;</p>
 intentions to check our students' understanding and provide timely feedback
 that helps address learning gaps and stretch potential.&nbsp;&nbsp;</p>
 <p></p>
-<h4><strong>2 Our Assessment Approach</strong>&nbsp;</h4>
+<h4><strong>Our Assessment Approach</strong>&nbsp;</h4>
 <p>&nbsp;Our approach is guided by four key beliefs:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,12 +33,12 @@ practices.&nbsp;</p>
 <p>Assessment is valid, reliable and fair.&nbsp;</p>
 </li>
 </ul>
-<h4><strong>3 Assessment Schedule and Weightings&nbsp;</strong></h4>
+<h4><strong>Assessment Schedule and Weightings&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Assessment_Weighting.png">
 </div>
-<h4><strong>4</strong> <strong>Absence from Weighted Assessments (WA) and Examinations</strong>&nbsp;</h4>
+<h4><strong>Absence from Weighted Assessments (WA) and Examinations</strong>&nbsp;</h4>
 <p><strong>a. Absence from WA due to medical reasons</strong>&nbsp;</p>
 <p>Students must produce a Medical Certificate (MC) issued by a doctor registered
 with the Singapore Medical Council for the assessment to be reflected as
@@ -69,7 +68,7 @@ if a student is absent for part of an examination paper, or for one or
 more papers within each subject.</p>
 <p>f. If marks are pro-rated due to a valid reason, the student may not be
 eligible for school-based and/or Edusave academic awards.&nbsp;</p>
-<h4><strong>5 Alternative Assessments (AA)</strong>&nbsp;</h4>
+<h4><strong>Alternative Assessments (AA)</strong>&nbsp;</h4>
 <p>a. The school conducts Alternative Assessments (AA), such as project work
 and performance tasks, to provide students with opportunities to demonstrate
 their learning in ways that cannot be directly or meaningfully assessed
@@ -84,7 +83,7 @@ learning.</p>
 tasks. Students may submit work after the deadline; however, late submission
 may be penalised. Work submitted beyond a given period will be considered
 as non-submission and be awarded a mark of zero.&nbsp;</p>
-<h4><strong>6</strong> <strong>Academic Integrity</strong>&nbsp;</h4>
+<h4><strong>Academic Integrity</strong>&nbsp;</h4>
 <p>a. For WAs/Examinations, students are not permitted to bring or use unauthorised
 materials, including handphones, smart watches, or any other electronic
 devices capable of storing, transmitting, or displaying visual or verbal
@@ -98,7 +97,7 @@ ideas and information to the original sources, and acknowledging any assistance
 received. Submitting work that is not the student’s own, including AI-generated
 content unless permitted, will result in the award of <u>zero marks</u> for
 the assessment and disciplinary consequences.</p>
-<h4><strong>7 Home-School Partnership</strong>&nbsp;</h4>
+<h4><strong>Home-School Partnership</strong>&nbsp;</h4>
 <p>a. We believe in a partnership where parents/guardians work with the school
 to develop our students. You can provide support by:&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -115,11 +114,10 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 </ul>
 <p>b. Your child/ward will be notified by the respective subject teachers
 should there be any changes to the assessments as the year progresses.&nbsp;</p>
-<h4><strong>8 Schedule of Weighted Assessment / Examinations</strong>&nbsp;</h4>
+<h4><strong>Schedule of Weighted Assessment / Examinations</strong>&nbsp;</h4>
 <p>You can download the schedules and details from the links below:&nbsp;</p>
 <p>Sec 1 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;
 <br>Sec 2 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;
 <br>Sec 3 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;
 <br>Sec 4 &amp; 5 Schedule for Weighted Assessments / Preliminary Examinations&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
