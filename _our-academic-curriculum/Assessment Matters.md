@@ -113,4 +113,4 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 </li>
 </ul>
 <p>b. Your child/ward will be notified by the respective subject teachers
-should there be any changes to the assessments as the year progresses.&nbsp;</p>
+should there be any changes to the assessments as the year progresses.</p>
