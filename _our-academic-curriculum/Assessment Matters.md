@@ -113,11 +113,4 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 </li>
 </ul>
 <p>b. Your child/ward will be notified by the respective subject teachers
-should there be any changes to the assessments as the year progresses.&nbsp;</p>
-<h4><strong>Schedule of Weighted Assessment / Examinations</strong>&nbsp;</h4>
-<p>You can download the schedules and details from the links below:&nbsp;</p>
-<p>Sec 1 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;
-<br>Sec 2 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;
-<br>Sec 3 Schedule for Weighted Assessments / End-of-Year Examinations&nbsp;
-<br>Sec 4 &amp; 5 Schedule for Weighted Assessments / Preliminary Examinations&nbsp;</p>
-<p></p>
+should there be any changes to the assessments as the year progresses.</p>

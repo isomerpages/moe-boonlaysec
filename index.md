@@ -18,6 +18,40 @@ sections:
           url: /tel
       variant: center
   - infopic:
+      title: Bound for Greatness
+      id: infopic
+      description: Greatness isn’t just what we do; it’s who we are becoming. Find out
+        what makes us BLS and how we enable Greatness.
+      button: Choose Greatness
+      url: https://for.edu.sg/boundforgreatness
+      image: /images/heyzine_flipbook_cover.png
+      alt: Image alt text
+  - infopic:
+      title: Highlights @ BLS
+      subtitle: Add an image and text
+      id: infopic
+      description: Head to our Instagram for the latest school moments, highlights,
+        and behind-the-scenes updates. See greatness in action!
+      button: Follow us at iG
+      url: https://www.instagram.com/boonlaysec/
+      image: /images/IG2.png
+      alt: Image alt text
+  - infopic:
+      title: Technology Enabled Learning @ BLS
+      id: infopic
+      description: Find out more about our journey as an Apple Distinguished School.
+      button: CLICK HERE
+      url: https://www.boonlaysec.moe.edu.sg/tel/
+      image: /images/DSC00913.jpg
+      alt: Image alt text
+  - infopic:
+      title: Choose Your Own Adventure
+      description: Embark on this adventure to find out more about our BLS Family!
+      button: View More
+      alt: Image alt text
+      url: https://go.gov.sg/blsadventure
+      image: /images/CYOA Adventure.jpg
+  - infopic:
       title: Secondary One Registration Information for 2026 Intake
       id: infopic
       description: Dear parents / guardians, click the following link to see the
@@ -34,29 +68,5 @@ sections:
       button: Link
       url: https://www.boonlaysec.moe.edu.sg/secondary-one-cca-2026/
       image: /images/Picture13.jpg
-      alt: Image alt text
-  - infopic:
-      title: Choose Your Own Adventure
-      description: Embark on this adventure to find out more about our BLS Family!
-      button: View More
-      alt: Image alt text
-      url: https://go.gov.sg/blsadventure
-      image: /images/CYOA Adventure.jpg
-  - infopic:
-      title: Bound for Greatness
-      id: infopic
-      description: Greatness isn’t just what we do; it’s who we are becoming. Find out
-        what makes us BLS and how we enable Greatness.
-      button: Choose Greatness
-      url: https://for.edu.sg/boundforgreatness
-      image: /images/heyzine_flipbook_cover.png
-      alt: Image alt text
-  - infopic:
-      title: Technology Enabled Learning @ BLS
-      id: infopic
-      description: Find out more about our journey as an Apple Distinguished School.
-      button: CLICK HERE
-      url: https://www.boonlaysec.moe.edu.sg/tel/
-      image: /images/DSC00913.jpg
       alt: Image alt text
 ---
