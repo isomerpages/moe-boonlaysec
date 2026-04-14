@@ -113,4 +113,9 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 </li>
 </ul>
 <p>b. Your child/ward will be notified by the respective subject teachers
-should there be any changes to the assessments as the year progresses.</p>
+should there be any changes to the assessments</p>
+<p><strong>Upcoming WA2 schedule and scheme of assessment:</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
