@@ -114,8 +114,27 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 </ul>
 <p>b. Your child/ward will be notified by the respective subject teachers
 should there be any changes to the assessments</p>
-<p><strong>Upcoming WA2 schedule and scheme of assessment:</strong>
+<p><strong>Please click on the links below to access WA2 schedules and Schemes of Assessment:</strong>
+</p>
+<p><a href="https://go.gov.sg/ob0ilk" rel="noopener nofollow" target="_blank">Secondary One WA2 Schedule</a>
+</p>
+<p><a href="https://go.gov.sg/ixa1jv" rel="noopener nofollow" target="_blank">Secondary One WA2 Scheme of Assessment</a>
 </p>
 <p></p>
+<p><a href="https://go.gov.sg/kmr2wr" rel="noopener nofollow" target="_blank">Secondary Two WA2 Schedule</a>
+<br><a href="https://go.gov.sg/l9968u" rel="noopener nofollow" target="_blank">Secondary Two WA2 Scheme of Assessment</a>
+</p>
+<p></p>
+<p><a href="https://go.gov.sg/1l1by1" rel="noopener nofollow" target="_blank">Secondary Three WA2 Schedule</a>
+</p>
+<p><a href="https://go.gov.sg/19048i" rel="noopener nofollow" target="_blank">Secondary Three WA2 Scheme of Assessment</a>
+</p>
+<p></p>
+<p><a href="https://go.gov.sg/8xf5i9" rel="noopener nofollow" target="_blank">Secondary Four and Five WA2 Schedule</a>
+</p>
+<p><a href="https://go.gov.sg/gh4gkb" rel="noopener nofollow" target="_blank">Secondary Four WA2 Scheme of Assessment</a>
+</p>
+<p><a href="https://go.gov.sg/u414my" rel="noopener nofollow" target="_blank">Secondary Five WA2 Scheme of Assessment</a>
+</p>
 <p></p>
 <p></p>
