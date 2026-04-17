@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Direct School Admission for Secondary Schools (DSA-Sec)</strong></h4>
-<p>Click on link for the slide deck on <a href="/files/Boon_Lay_Sec_Sch_DSA_Sec_Information_2026___update_15_April_2026__.pdf" rel="noopener noreferrer nofollow" target="_blank">Boon Lay Secondary DSA 2026 information</a>
+<p>Click on link for the slide deck on <a href="/files/Boon_Lay_Sec_Sch_DSA_Sec_Information_2026___update_15_April_2026__.pdf" rel="noopener nofollow" target="_blank">Boon Lay Secondary DSA 2026 Information</a>
 </p>
 <p><strong>DSA Talent Areas (for 2026)</strong>
 </p>
