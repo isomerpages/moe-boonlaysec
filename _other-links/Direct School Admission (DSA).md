@@ -50,5 +50,5 @@ variant: tiptap
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
 to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website –
-<a href="http://www.moe.gov.sg/dsa-sec." rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec.</a>
+<a href="http://www.moe.gov.sg/dsa-sec." rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
