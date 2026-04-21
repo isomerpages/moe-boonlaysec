@@ -118,7 +118,7 @@ should there be any changes to the assessments</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/ob0ilk" rel="noopener nofollow" target="_blank">Secondary One WA2 Schedule</a>
+<p><a href="https://go.gov.sg/wgvwgz" rel="noopener nofollow" target="_blank">Secondary One WA2 Schedule</a>
 </p>
 </li>
 <li>
