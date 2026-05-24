@@ -26,6 +26,14 @@ sections:
       url: https://for.edu.sg/boundforgreatness
       image: /images/heyzine_flipbook_cover.png
       alt: Image alt text
+  - infobar:
+      title: Aspriration Week 2026
+      id: infobar
+      description: Students will be participating in various programmes on 25 May
+        Monday, 26 May Tuesday and 28 Thursday. Please refer to the link below
+        for the schedule.
+      button: Aspiration Week Schedule
+      url: https://go.gov.sg/xip6cw
   - infopic:
       title: Highlights @ BLS
       subtitle: Add an image and text
@@ -51,12 +59,4 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
-  - infobar:
-      title: Aspriration Week 2026
-      id: infobar
-      description: Students will be participating in various programmes on 25 May
-        Monday, 26 May Tuesday and 28 Thursday. Please refer to the link below
-        for the schedule.
-      button: Aspiration Week Schedule
-      url: https://go.gov.sg/xip6cw
 ---
