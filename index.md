@@ -51,22 +51,12 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
-  - infopic:
-      title: Secondary One Registration Information for 2026 Intake
-      id: infopic
-      description: Dear parents / guardians, click the following link to see the
-        information relevant to the Secondary One Registration for 2026 Intake.
-      image: /images/sketch_of_bls.jpg
-      alt: Image alt text
-      button: Link
-      url: https://www.boonlaysec.moe.edu.sg/secondary-one-registration-information-for-2026-intake/
-  - infopic:
-      title: Secondary One CCA Selection Exercise 2026
-      subtitle: Add an image and text
-      id: infopic
-      description: Click the following link for more information.
-      button: Link
-      url: https://www.boonlaysec.moe.edu.sg/secondary-one-cca-2026/
-      image: /images/Picture13.jpg
-      alt: Image alt text
+  - infobar:
+      title: Aspriration Week 2026
+      id: infobar
+      description: Students will be participating in various programmes on 25 May
+        Monday, 26 May Tuesday and 28 Thursday. Please refer to the link below
+        for the schedule.
+      button: Aspiration Week Schedule
+      url: https://go.gov.sg/xip6cw
 ---
