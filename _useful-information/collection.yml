@@ -2,8 +2,8 @@ collections:
   useful-information:
     output: true
     order:
-      - BLS Incident Report form.md
       - BLS Timetable.md
+      - BLS Incident Report form.md
       - Student Handbook  2026.md
       - Purchase of Books & School Uniform.md
       - Direct School Admission (DSA).md
