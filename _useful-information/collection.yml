@@ -1,5 +1,5 @@
 collections:
-  other-links:
+  useful-information:
     output: true
     order:
       - BLS Timetable.md
