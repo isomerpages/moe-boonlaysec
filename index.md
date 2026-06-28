@@ -26,14 +26,6 @@ sections:
       url: https://for.edu.sg/boundforgreatness
       image: /images/heyzine_flipbook_cover.png
       alt: Image alt text
-  - infobar:
-      title: Aspriration Week 2026
-      id: infobar
-      description: Students will be participating in various programmes on 25 May
-        Monday, 26 May Tuesday and 28 Thursday. Please refer to the link below
-        for the schedule.
-      button: Aspiration Week Schedule
-      url: https://go.gov.sg/xip6cw
   - infopic:
       title: Highlights @ BLS
       subtitle: Add an image and text
@@ -59,4 +51,14 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
+  - infopic:
+      title: BLS Odyssey
+      id: infopic
+      description: Every journey begins with a first step. Plan your goals, explore
+        and chart opportunities, reflect on your learning, and document your
+        growth!
+      button: Journey together
+      url: https://sites.google.com/moe.edu.sg/blsodyssey
+      image: /images/Screenshot_2026_06_28_193504.png
+      alt: Image alt text
 ---
