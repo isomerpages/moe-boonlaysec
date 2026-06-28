@@ -18,6 +18,16 @@ sections:
           url: /tel
       variant: center
   - infopic:
+      title: BLS Odyssey
+      id: infopic
+      description: Every journey begins with a first step. Plan your goals, explore
+        and chart opportunities, reflect on your learning, and document your
+        growth!
+      button: Journey together
+      url: https://sites.google.com/moe.edu.sg/blsodyssey
+      image: /images/bls_odyssey.png
+      alt: Image alt text
+  - infopic:
       title: Bound for Greatness
       id: infopic
       description: Greatness isn’t just what we do; it’s who we are becoming. Find out
@@ -51,14 +61,4 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/blsadventure
       image: /images/CYOA Adventure.jpg
-  - infopic:
-      title: BLS Odyssey
-      id: infopic
-      description: Every journey begins with a first step. Plan your goals, explore
-        and chart opportunities, reflect on your learning, and document your
-        growth!
-      button: Journey together
-      url: https://sites.google.com/moe.edu.sg/blsodyssey
-      image: /images/Screenshot_2026_06_28_193504.png
-      alt: Image alt text
 ---
