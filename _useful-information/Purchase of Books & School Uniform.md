@@ -7,8 +7,40 @@ variant: tiptap
 <h4><strong>Operating Hours and Contacts of Bookshop and Uniform vendors</strong></h4>
 <p><strong>Bookshop (DY Education)</strong>
 </p>
-<p>Mon – Fri: 9 a.m. – 3 p.m. (Closed on Sat, Sun, PH eve and PH)
-<br>Venue: School Bookshop, beside Canteen @ Level 1</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Days</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays, Tuesdays and Thursdays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m. – 3.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(Closed on Wednesdays, Fridays, PH eve and PH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;Venue:</strong> School Bookshop, beside Canteen at Level
+1</p>
 <p></p>
 <p><strong>School Uniform (Finest Fashion Centre)</strong>
 </p>
