@@ -72,15 +72,15 @@ on the next Friday)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Located in Boon Lay Secondary School</p>
-<p>&nbsp;</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Operating days (during school term):</p>
 <p>Mon, Tue &amp; Thur: 9.00am – 3.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Located at level 1, outside CDR
 F1-02</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opening hours (during school term):</p>
+<p>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opening hours (during school term):</p>
 <p>Every 1<sup>st</sup> and 3<sup>rd</sup> Fridays: 12pm – 3.00pm</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If these Fridays fall on SH, PH
 and PH eve, the sale will take place on the next Friday</p>
@@ -105,22 +105,21 @@ and PH eve, the sale will take place on the next Friday</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 144 Upper Bukit Timah Road,
 beauty world centre, #b1-03, Singapore 588177</p>
-<p>&nbsp;</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opening hours: Mon to sat 12-7pm</p>
-<p>&nbsp;</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 64665697 / 9424 4184
 (call or whatsapp)</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>(2)&nbsp;&nbsp;&nbsp; Tai Seng</strong>  <strong>warehouse</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 80 playfair road #01-14,
 Singapore 367998</p>
-<p>&nbsp;</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opening hours: Mon to Fri 10am -4pm</p>
-<p>&nbsp;</p>
+<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 8284 8586 (call or whatsapp)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>(3)&nbsp;&nbsp;&nbsp; </strong>You may also <u>whatsapp</u> the
 Main person-in-charge, Mr Ethan, at 9029 5135 for your uniform matters.</p>
 </td>
