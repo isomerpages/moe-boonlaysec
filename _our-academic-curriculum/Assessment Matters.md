@@ -6,17 +6,16 @@ description: ""
 ---
 <p>The&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-teachers/singapore-curriculum-philosophy" rel="noopener noreferrer nofollow" target="_blank">Singapore Curriculum Philosophy</a>&nbsp;describes
 our beliefs about assessment.&nbsp;&nbsp;</p>
-<p>&nbsp;We believe that assessment is integral to the teaching and learning
-process and helps our children become self-directed, lifelong learners,
-as they monitor, assess, and improve their own learning. We design assessments
+<p>We believe that assessment is integral to the teaching and learning process
+and helps our children become self-directed, lifelong learners, as they
+monitor, assess, and improve their own learning. We design assessments
 with clarity of purpose to gather evidence of our learners’ progress, provide
 timely and targeted feedback to them to move their learning forward, and
 improve our teaching practices, harnessing technology where useful.&nbsp;</p>
 <p>At Boon Lay Secondary School, we design assessments with clear learning
 intentions to check our students' understanding and provide timely feedback
 that helps address learning gaps and stretch potential.&nbsp;&nbsp;</p>
-<p><strong>Our Assessment Approach&nbsp;</strong>
-</p>
+<h4><strong>Our Assessment Approach&nbsp;</strong></h4>
 <p>&nbsp;Our approach is guided by four key beliefs:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -33,11 +32,12 @@ practices.&nbsp;</p>
 <p>Assessment is valid, reliable and fair.&nbsp;</p>
 </li>
 </ul>
-<p><strong>Assessment Schedule and Weightings&nbsp;</strong>
-</p>
+<h4><strong>Assessment Schedule and Weightings&nbsp;</strong></h4>
 <p></p>
-<p><strong>Absence from Weighted Assessments (WA) and Examinations&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Assessment_Weighting.png">
+</div>
+<h4><strong>Absence from Weighted Assessments (WA) and Examinations&nbsp;</strong></h4>
 <p><strong>a. Absence from WA due to medical reasons</strong>&nbsp;</p>
 <p>Students must produce a Medical Certificate (MC) issued by a doctor registered
 with the Singapore Medical Council for the assessment to be reflected as
@@ -68,8 +68,7 @@ if a student is absent for part of an examination paper, or for one or
 more papers within each subject.</p>
 <p>f. If marks are pro-rated due to a valid reason, the student may not be
 eligible for school-based and/or Edusave academic awards.&nbsp;</p>
-<p><strong>Alternative Assessments (AA)&nbsp;</strong>
-</p>
+<h4><strong>Alternative Assessments (AA)&nbsp;</strong></h4>
 <p>a. The school conducts Alternative Assessments (AA), such as project work
 and performance tasks, to provide students with opportunities to demonstrate
 their learning in ways that cannot be directly or meaningfully assessed
@@ -84,8 +83,7 @@ learning.</p>
 tasks. Students may submit work after the deadline; however, late submission
 may be penalised. Work submitted beyond a given period will be considered
 as non-submission and be awarded a mark of zero.&nbsp;</p>
-<p><strong>Academic Integrity&nbsp;</strong>
-</p>
+<h4><strong>Academic Integrity&nbsp;</strong></h4>
 <p>a. For WAs/Examinations, students are not permitted to bring or use unauthorised
 materials, including handphones, smart watches, or any other electronic
 devices capable of storing, transmitting, or displaying visual or verbal
@@ -99,8 +97,7 @@ ideas and information to the original sources, and acknowledging any assistance
 received. Submitting work that is not the student’s own, including AI-generated
 content unless permitted, will result in the award of&nbsp;<u>zero marks</u>&nbsp;for
 the assessment and disciplinary consequences.</p>
-<p><strong>Home-School Partnership&nbsp;</strong>
-</p>
+<h4><strong>Home-School Partnership&nbsp;</strong></h4>
 <p>a. We believe in a partnership where parents/guardians work with the school
 to develop our students. You can provide support by:&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -117,7 +114,10 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 </ul>
 <p>b. Your child/ward will be notified by the respective subject teachers
 should there be any changes to the assessments</p>
-<p><strong>Please click on the links below to access the Preliminary Examinations:</strong>
+<p><strong>Please click the links below to access the schedules for the 2026 Preliminary Examinations:</strong>
 </p>
-<p><a href="/files/2026_N_T__Level_Prelim_Schedule_caa_1_July.pdf" rel="noopener nofollow" target="_blank">2026 N(T) Level Preliminary Examinations Schedule</a>
+<p><a href="https://go.gov.sg/2026ntlevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 N(T) Level Preliminary Examinations Schedule</a>
+<br><a href="https://go.gov.sg/2026nalevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 N(A) Level Preliminary Examinations Schedule</a>
+<br><a href="https://go.gov.sg/2026olevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 O Level Preliminary Examinations Schedule</a>
+<br>
 </p>
