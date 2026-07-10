@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academic Programme.md
+      - Assessment Matters.md
       - Technology Enabled Learning.md
       - Craft and Technology.md
       - English Language and Literature.md
