@@ -119,4 +119,5 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 should there be any changes to the assessments</p>
 <p><strong>Please click on the links below to access the Preliminary Examinations:</strong>
 </p>
-<p></p>
+<p><a href="/files/2026_N_T__Level_Prelim_Schedule_caa_1_July.pdf" rel="noopener nofollow" target="_blank">2026 N(T) Level Preliminary Examinations Schedule</a>
+</p>
