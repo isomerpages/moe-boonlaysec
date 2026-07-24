@@ -120,7 +120,7 @@ should there be any changes to the assessments</p>
 <br><a href="https://go.gov.sg/2026nalevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 N(A) Level Preliminary Examinations Schedule</a>
 <br><a href="https://go.gov.sg/2026olevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 O Level Preliminary Examinations Schedule</a>
 </p>
-<p><strong>2026 Weighted Assessments:</strong>
+<p><strong>2026 Weighted Assessment 3:</strong>
 <br><a href="https://go.gov.sg/wa3schedulesec1" rel="noopener nofollow" target="_blank">2026 Sec 1 WA3 Schedule</a>
 <br><a href="https://go.gov.sg/wa3soasec1" rel="noopener nofollow" target="_blank">2026 Sec 1 WA3 Scheme of Assessment</a>
 <br><a href="https://go.gov.sg/wa3schedulesec2" rel="noopener nofollow" target="_blank">2026 Sec 2 WA3 Schedule</a>
