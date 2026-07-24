@@ -23,17 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Academic)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_chon_kiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Chon Kiat Vincent</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Academic)</strong>
+<p><strong>Vice-Principal, Academic</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Administration)</strong>
+<p><strong>Vice-Principal, Administration</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Lower Secondary)</strong>
+<p><strong>Year Head, Lower Secondary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,7 +153,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Upper Secondary)</strong>
+<p><strong>Year Head, Upper Secondary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Lower Secondary)</strong>
+<p><strong>Assistant Year Head, Lower Secondary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Upper Secondary)</strong>
+<p><strong>Assistant Year Head, Upper Secondary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (CCA and Student Leadership)</strong>
+<p><strong>Subject Head, CCA and Student Leadership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Character and Citizenship Education)</strong>
+<p><strong>Subject Head, Character and Citizenship Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Craft and Technology)</strong>
+<p><strong>Subject Head, Craft and Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (English Language)</strong>
+<p><strong>Subject Head, English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,7 +223,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Malay Language)</strong>
+<p><strong>Subject Head (Covering), Learning Technologies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_faidah_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Nur Faidah Hassan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head, Malay Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,7 +243,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head&nbsp;(Mathematics)</strong>
+<p><strong>Subject Head, Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Mother Tongue Languages)</strong>
+<p><strong>Subject Head, Mother Tongue Languages</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,7 +272,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead Teacher (Chinese Language)</strong>
+<p><strong>Lead Teacher, Chinese Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,7 +282,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Computer Applications)</strong>
+<p><strong>Senior Teacher, Computing</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,7 +292,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Design &amp; Technology)</strong>
+<p><strong>Senior Teacher, Design &amp; Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,7 +302,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Educational Support)</strong>
+<p><strong>Senior Teacher, Educational Support</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,7 +312,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (English Language)</strong>
+<p><strong>Senior Teacher, English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,7 +322,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Mathematics)</strong>
+<p><strong>Senior Teacher, Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,7 +332,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Science)</strong>
+<p><strong>Senior Teacher, Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,7 +342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Tamil Language)</strong>
+<p><strong>Senior Teacher, Tamil Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
