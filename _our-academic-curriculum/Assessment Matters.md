@@ -114,10 +114,20 @@ organisational skills as he/she prepares for the assessments.&nbsp;</p>
 </ul>
 <p>b. Your child/ward will be notified by the respective subject teachers
 should there be any changes to the assessments</p>
-<p><strong>Please click the links below to access the schedules for the 2026 Preliminary Examinations:</strong>
-</p>
-<p><a href="https://go.gov.sg/2026ntlevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 N(T) Level Preliminary Examinations Schedule</a>
+<h4><strong>Assessment Schedules</strong></h4>
+<p><strong>2026 Preliminary Examinations:</strong>
+<br><a href="https://go.gov.sg/2026ntlevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 N(T) Level Preliminary Examinations Schedule</a>
 <br><a href="https://go.gov.sg/2026nalevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 N(A) Level Preliminary Examinations Schedule</a>
 <br><a href="https://go.gov.sg/2026olevelprelimexamschedule" rel="noopener nofollow" target="_blank">2026 O Level Preliminary Examinations Schedule</a>
+</p>
+<p><strong>2026 Weighted Assessment 3:</strong>
+<br><a href="https://go.gov.sg/wa3schedulesec1" rel="noopener nofollow" target="_blank">2026 Sec 1 WA3 Schedule</a>
+<br><a href="https://go.gov.sg/wa3soasec1" rel="noopener nofollow" target="_blank">2026 Sec 1 WA3 Scheme of Assessment</a>
+<br><a href="https://go.gov.sg/wa3schedulesec2" rel="noopener nofollow" target="_blank">2026 Sec 2 WA3 Schedule</a>
+<br><a href="https://go.gov.sg/wa3soasec2" rel="noopener nofollow" target="_blank">2026 Sec 2 WA3 Scheme of Assessment</a>
+<br><a href="https://go.gov.sg/wa3schedulesec3" rel="noopener nofollow" target="_blank">2026 Sec 3 WA3 Schedule</a>
+<br><a href="https://go.gov.sg/wa3soasec3" rel="noopener nofollow" target="_blank">2026 Sec 3 WA3 Scheme of Assessment</a>
+</p>
+<p>
 <br>
 </p>
